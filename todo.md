@@ -33,7 +33,9 @@ A running list of features, improvements, and checkpoints for the project.
 - [x] Create league URL mapping (Serie A, Premier League, La Liga, etc.)
 - [x] Implement download and update logic for current season data
 - [x] Add error handling and retry logic
-- [ ] Test weekly update workflow (automated scheduling)
+- [x] Create automated update script (`run_update.sh`)
+- [x] Set up cron job for twice-weekly execution (Mon & Thu 9 AM)
+- [x] Implement logging system for monitoring
 - [x] Install web scraping dependencies (requests, beautifulsoup4, selenium)
 
 ---
@@ -59,10 +61,12 @@ A running list of features, improvements, and checkpoints for the project.
 ---
 
 ## 🧠 Phase 5 — Automation & Deployment
-- [ ] Automate weekly data updates (via GitHub Actions or cron job)
-- [ ] Automatically pull new results and recompute metrics
+- [x] Automate weekly data updates (via cron job - Mon & Thu 9 AM)
+- [x] Automatically pull new results and recompute metrics
+- [x] Logging system for monitoring execution
 - [ ] Publish updated charts weekly (e.g., `/plots/week_X.png`)
 - [ ] Optional: post summary chart to X/Twitter
+- [ ] Optional: Deploy via GitHub Actions for cloud automation
 
 ---
 
@@ -94,8 +98,10 @@ A running list of features, improvements, and checkpoints for the project.
 | 2025-10-10 | Web scraper development | ✅ Complete |
 | 2025-10-10 | Top 5 leagues integration | ✅ Complete |
 | 2025-10-10 | CSV export system | ✅ Complete |
+| 2025-10-10 | Cron automation setup | ✅ Complete |
+| 2025-10-10 | Logging system | ✅ Complete |
 | 2025-11 | Visualization & plotting | ☐ Pending |
-| 2025-12 | Automation & dashboard | ☐ Pending |
+| 2025-12 | Dashboard development | ☐ Pending |
 
 ---
 

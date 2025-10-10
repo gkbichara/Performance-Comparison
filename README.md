@@ -55,6 +55,7 @@ Fixtures involving newly promoted or relegated teams are **excluded** to avoid b
 Performance-Comparison/
 ├── analysis.py              # Main analysis script
 ├── scraper.py              # Data fetching from football-data.co.uk
+├── run_update.sh           # Automated update script (cron job)
 ├── requirements.txt        # Python dependencies
 ├── data/
 │   ├── SerieA/
@@ -65,6 +66,7 @@ Performance-Comparison/
 │   ├── LaLiga/
 │   ├── Bundesliga/
 │   └── Ligue1/
+├── logs/                   # Execution logs from automated runs
 └── README.md
 ```
 
@@ -169,6 +171,39 @@ roma = df[df['Team'] == 'Roma']
 print(roma[['Match_Number', 'Opponent', 'Differential', 'Cumulative']])
 ```
 
+### 5. Automation (Optional)
+
+The project includes automated updates via cron job:
+
+```bash
+# View current schedule
+crontab -l
+
+# Edit schedule
+crontab -e
+```
+
+**Default Schedule:** Twice weekly (Monday & Thursday at 9 AM)
+```
+0 9 * * 1,4 /Users/gkb/Desktop/Performance-Comparison/run_update.sh
+```
+
+**Check Logs:**
+```bash
+# View latest execution log
+ls -t logs/ | head -1 | xargs -I {} cat logs/{}
+
+# Monitor logs directory
+tail -f logs/update_*.log
+```
+
+The `run_update.sh` script:
+- ✅ Activates virtual environment
+- ✅ Runs scraper to fetch latest data
+- ✅ Runs analysis on all leagues
+- ✅ Logs all output with timestamps
+- ✅ Keeps last 10 log files automatically
+
 ---
 
 ## 📊 Current Results (2025/26 vs 2024/25)
@@ -193,6 +228,8 @@ print(roma[['Match_Number', 'Opponent', 'Differential', 'Cumulative']])
 ✅ **Match-by-Match Tracking** - See progression through the season  
 ✅ **Fair Comparisons** - Same opponent, same venue only  
 ✅ **Automated Data Fetching** - Built-in scraper for football-data.co.uk  
+✅ **Scheduled Updates** - Cron job runs twice weekly (Mon & Thu 9 AM)  
+✅ **Comprehensive Logging** - All executions tracked with timestamps  
 ✅ **CSV Exports** - Easy to analyze in Excel, pandas, or other tools  
 ✅ **Promoted Team Handling** - Automatically excludes teams without comparison data
 
@@ -201,9 +238,11 @@ print(roma[['Match_Number', 'Opponent', 'Differential', 'Cumulative']])
 ## 🔮 Coming Soon
 
 - 📊 Visualization dashboard with line plots and bar charts
-- 🤖 Automated weekly updates via GitHub Actions
 - 🌐 Interactive web interface with team/league filters
 - 📈 Additional metrics (goal differential, xG comparison)
+- ☁️ Cloud deployment via GitHub Actions
+- 📱 Mobile-friendly dashboard
+- 🐦 Automated Twitter/X posts with weekly summaries
 
 ---
 
