@@ -94,6 +94,9 @@ def compare_seasons(cur_season_df, prev_season_df, team_name):
     # Remove promoted/relegated teams (NaN in previous season)
     all_comparisons = all_comparisons.dropna(subset=['Points_prev'])
     
+    # Add match number for this team (1, 2, 3...)
+    all_comparisons['Match_Number'] = range(1, len(all_comparisons) + 1)
+    
     # Calculate differential
     all_comparisons['Differential'] = all_comparisons['Points_cur'] - all_comparisons['Points_prev']
     
@@ -155,30 +158,64 @@ def get_latest_standings(league_comparison_df):
     return latest[['Rank', 'Team', 'Cumulative']]
 
 
+def save_league_results(league_comparison_df, league_folder):
+    """
+    Save league comparison results to CSV.
+    
+    Args:
+        league_comparison_df: DataFrame from analyze_league()
+        league_folder: Path to league folder (e.g., 'data/SerieA')
+    """
+    import os
+    
+    output_path = os.path.join(league_folder, 'results.csv')
+    
+    # Select and order columns nicely
+    columns = ['Team', 'Match_Number', 'Date', 'Opponent', 'Venue', 'FTHG', 'FTAG', 
+               'Points_cur', 'Points_prev', 'Differential', 'Cumulative']
+    
+    # Save to CSV
+    league_comparison_df[columns].to_csv(output_path, index=False)
+    print(f"✓ Saved results to {output_path}")
+
+
 # Main execution
 if __name__ == "__main__":
-    # Load data
-    prev = pd.read_csv('data/serieA/2425.csv')
-    cur = pd.read_csv('data/serieA/2526.csv')
+    print("=" * 60)
+    print("FOOTBALL PERFORMANCE COMPARISON - SEASON DIFFERENTIALS")
+    print("=" * 60)
     
-    print("Analyzing all Serie A teams...\n")
+    # Define leagues to analyze
+    leagues = [
+        ('Serie A', 'data/SerieA'),
+        ('Premier League', 'data/PremierLeague'),
+        ('La Liga', 'data/LaLiga'),
+        ('Bundesliga', 'data/Bundesliga'),
+        ('Ligue 1', 'data/Ligue1')
+    ]
     
-    # Analyze entire league
-    league_results = analyze_league(cur, prev)
+    for idx, (league_name, league_path) in enumerate(leagues, 1):
+        print(f"\n[{idx}/{len(leagues)}] Analyzing {league_name}...")
+        
+        try:
+            # Load data
+            prev = pd.read_csv(f'{league_path}/2425.csv')
+            cur = pd.read_csv(f'{league_path}/2526.csv')
+            
+            # Analyze and save
+            results = analyze_league(cur, prev)
+            save_league_results(results, league_path)
+            
+            # Show summary
+            standings = get_latest_standings(results)
+            print(f"   Top: {standings.iloc[0]['Team']} ({standings.iloc[0]['Cumulative']:+.0f})")
+            print(f"   Bottom: {standings.iloc[-1]['Team']} ({standings.iloc[-1]['Cumulative']:+.0f})")
+            
+        except FileNotFoundError as e:
+            print(f"   ⚠ Skipped: Data files not found")
+        except Exception as e:
+            print(f"   ✗ Error: {e}")
     
-    # Get current standings
-    standings = get_latest_standings(league_results)
-    
-    print("=" * 50)
-    print("SERIE A 2025/26 - PERFORMANCE vs 2024/25")
-    print("=" * 50)
-    print(standings.to_string(index=False))
-    print("=" * 50)
-    
-    # Show Roma's detailed breakdown
-    print("\n" + "=" * 50)
-    print("ROMA - DETAILED MATCH-BY-MATCH")
-    print("=" * 50)
-    roma_matches = league_results[league_results['Team'] == 'Roma']
-    print(roma_matches[['Date', 'Opponent', 'Venue', 'Points_cur', 
-                        'Points_prev', 'Differential', 'Cumulative']].to_string(index=False))
+    print("\n" + "=" * 60)
+    print("Analysis complete! Results saved to data/[League]/results.csv")
+    print("=" * 60)
