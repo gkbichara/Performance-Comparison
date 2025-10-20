@@ -8,7 +8,7 @@ Instead of just showing current league tables, this tool measures *how much bett
 
 **Leagues Covered:**
 - 🇮🇹 Serie A
-- 🏴 Premier League  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League  
 - 🇪🇸 La Liga
 - 🇩🇪 Bundesliga
 - 🇫🇷 Ligue 1
