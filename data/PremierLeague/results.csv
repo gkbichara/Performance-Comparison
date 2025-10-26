@@ -5,23 +5,31 @@ Arsenal,3,2025-09-13,Nott'm Forest,H,3,0,3,3.0,0.0,1.0
 Arsenal,4,2025-09-21,Man City,H,1,1,1,3.0,-2.0,-1.0
 Arsenal,5,2025-09-28,Newcastle,A,1,2,3,0.0,3.0,2.0
 Arsenal,6,2025-10-04,West Ham,H,2,0,3,0.0,3.0,5.0
+Arsenal,7,2025-10-18,Fulham,A,0,1,3,1.0,2.0,7.0
+Arsenal,8,2025-10-26,Crystal Palace,H,1,0,3,1.0,2.0,9.0
 Aston Villa,1,2025-08-16,Newcastle,H,0,0,1,3.0,-2.0,-2.0
 Aston Villa,2,2025-08-23,Brentford,A,1,0,0,3.0,-3.0,-5.0
 Aston Villa,3,2025-08-31,Crystal Palace,H,0,3,0,1.0,-1.0,-6.0
 Aston Villa,4,2025-09-13,Everton,A,0,0,1,3.0,-2.0,-8.0
 Aston Villa,5,2025-09-28,Fulham,H,3,1,3,3.0,0.0,-8.0
+Aston Villa,6,2025-10-19,Tottenham,A,1,2,3,0.0,3.0,-5.0
+Aston Villa,7,2025-10-26,Man City,H,1,0,3,3.0,0.0,-5.0
 Bournemouth,1,2025-08-15,Liverpool,A,4,2,0,0.0,0.0,0.0
 Bournemouth,2,2025-08-23,Wolves,H,1,0,3,0.0,3.0,3.0
 Bournemouth,3,2025-08-30,Tottenham,A,0,1,3,1.0,2.0,5.0
 Bournemouth,4,2025-09-13,Brighton,H,2,1,3,0.0,3.0,8.0
 Bournemouth,5,2025-09-21,Newcastle,H,0,0,1,1.0,0.0,8.0
 Bournemouth,6,2025-10-03,Fulham,H,3,1,3,3.0,0.0,8.0
+Bournemouth,7,2025-10-18,Crystal Palace,A,3,3,1,1.0,0.0,8.0
+Bournemouth,8,2025-10-26,Nott'm Forest,H,2,0,3,3.0,0.0,8.0
 Brentford,1,2025-08-17,Nott'm Forest,A,3,1,0,3.0,-3.0,-3.0
 Brentford,2,2025-08-23,Aston Villa,H,1,0,3,0.0,3.0,0.0
 Brentford,3,2025-09-13,Chelsea,H,2,2,1,1.0,0.0,0.0
 Brentford,4,2025-09-20,Fulham,A,3,1,0,0.0,0.0,0.0
 Brentford,5,2025-09-27,Man United,H,3,1,3,3.0,0.0,0.0
 Brentford,6,2025-10-05,Man City,H,0,1,0,1.0,-1.0,-1.0
+Brentford,7,2025-10-20,West Ham,A,0,2,3,3.0,0.0,-1.0
+Brentford,8,2025-10-25,Liverpool,H,3,2,3,0.0,3.0,2.0
 Brighton,1,2025-08-16,Fulham,H,1,1,1,3.0,-2.0,-2.0
 Brighton,2,2025-08-24,Everton,A,2,0,0,3.0,-3.0,-5.0
 Brighton,3,2025-08-31,Man City,H,2,1,3,3.0,0.0,-5.0
@@ -29,6 +37,8 @@ Brighton,4,2025-09-13,Bournemouth,A,2,1,0,3.0,-3.0,-8.0
 Brighton,5,2025-09-20,Tottenham,H,2,2,1,3.0,-2.0,-10.0
 Brighton,6,2025-09-27,Chelsea,A,1,3,3,0.0,3.0,-7.0
 Brighton,7,2025-10-05,Wolves,A,1,1,1,3.0,-2.0,-9.0
+Brighton,8,2025-10-18,Newcastle,H,2,1,3,1.0,2.0,-7.0
+Brighton,9,2025-10-25,Man United,A,4,2,0,3.0,-3.0,-10.0
 Chelsea,1,2025-08-17,Crystal Palace,H,0,0,1,1.0,0.0,0.0
 Chelsea,2,2025-08-22,West Ham,A,1,5,3,3.0,0.0,0.0
 Chelsea,3,2025-08-30,Fulham,H,2,0,3,0.0,3.0,3.0
@@ -36,63 +46,83 @@ Chelsea,4,2025-09-13,Brentford,A,2,2,1,1.0,0.0,3.0
 Chelsea,5,2025-09-20,Man United,A,2,1,0,1.0,-1.0,2.0
 Chelsea,6,2025-09-27,Brighton,H,1,3,0,3.0,-3.0,-1.0
 Chelsea,7,2025-10-04,Liverpool,H,2,1,3,3.0,0.0,-1.0
+Chelsea,8,2025-10-18,Nott'm Forest,A,0,3,3,3.0,0.0,-1.0
 Crystal Palace,1,2025-08-17,Chelsea,A,0,0,1,1.0,0.0,0.0
 Crystal Palace,2,2025-08-24,Nott'm Forest,H,1,1,1,1.0,0.0,0.0
 Crystal Palace,3,2025-08-31,Aston Villa,A,0,3,3,1.0,2.0,2.0
 Crystal Palace,4,2025-09-20,West Ham,A,1,2,3,3.0,0.0,2.0
 Crystal Palace,5,2025-09-27,Liverpool,H,2,1,3,0.0,3.0,5.0
 Crystal Palace,6,2025-10-05,Everton,A,2,1,0,0.0,0.0,5.0
+Crystal Palace,7,2025-10-18,Bournemouth,H,3,3,1,1.0,0.0,5.0
+Crystal Palace,8,2025-10-26,Arsenal,A,1,0,0,1.0,-1.0,4.0
 Everton,1,2025-08-24,Brighton,H,2,0,3,0.0,3.0,3.0
 Everton,2,2025-08-30,Wolves,A,2,3,3,1.0,2.0,5.0
 Everton,3,2025-09-13,Aston Villa,H,0,0,1,0.0,1.0,6.0
 Everton,4,2025-09-20,Liverpool,A,2,1,0,0.0,0.0,6.0
 Everton,5,2025-09-29,West Ham,H,1,1,1,1.0,0.0,6.0
 Everton,6,2025-10-05,Crystal Palace,H,2,1,3,3.0,0.0,6.0
+Everton,7,2025-10-18,Man City,A,2,0,0,1.0,-1.0,5.0
+Everton,8,2025-10-26,Tottenham,H,0,3,0,3.0,-3.0,2.0
 Fulham,1,2025-08-16,Brighton,A,1,1,1,0.0,1.0,1.0
 Fulham,2,2025-08-24,Man United,H,1,1,1,0.0,1.0,2.0
 Fulham,3,2025-08-30,Chelsea,A,2,0,0,3.0,-3.0,-1.0
 Fulham,4,2025-09-20,Brentford,H,3,1,3,3.0,0.0,-1.0
 Fulham,5,2025-09-28,Aston Villa,A,3,1,0,0.0,0.0,-1.0
 Fulham,6,2025-10-03,Bournemouth,A,3,1,0,0.0,0.0,-1.0
+Fulham,7,2025-10-18,Arsenal,H,0,1,0,1.0,-1.0,-2.0
+Fulham,8,2025-10-25,Newcastle,A,2,1,0,3.0,-3.0,-5.0
 Liverpool,1,2025-08-15,Bournemouth,H,4,2,3,3.0,0.0,0.0
 Liverpool,2,2025-08-25,Newcastle,A,2,3,3,1.0,2.0,2.0
 Liverpool,3,2025-08-31,Arsenal,H,1,0,3,1.0,2.0,4.0
 Liverpool,4,2025-09-20,Everton,H,2,1,3,3.0,0.0,4.0
 Liverpool,5,2025-09-27,Crystal Palace,A,2,1,0,3.0,-3.0,1.0
 Liverpool,6,2025-10-04,Chelsea,A,2,1,0,0.0,0.0,1.0
+Liverpool,7,2025-10-19,Man United,H,1,2,0,1.0,-1.0,0.0
+Liverpool,8,2025-10-25,Brentford,A,3,2,0,3.0,-3.0,-3.0
 Man City,1,2025-08-16,Wolves,A,0,4,3,3.0,0.0,0.0
 Man City,2,2025-08-23,Tottenham,H,0,2,0,0.0,0.0,0.0
 Man City,3,2025-08-31,Brighton,A,2,1,0,0.0,0.0,0.0
 Man City,4,2025-09-14,Man United,H,3,0,3,0.0,3.0,3.0
 Man City,5,2025-09-21,Arsenal,A,1,1,1,0.0,1.0,4.0
 Man City,6,2025-10-05,Brentford,A,0,1,3,1.0,2.0,6.0
+Man City,7,2025-10-18,Everton,H,2,0,3,1.0,2.0,8.0
+Man City,8,2025-10-26,Aston Villa,A,1,0,0,0.0,0.0,8.0
 Man United,1,2025-08-17,Arsenal,H,0,1,0,1.0,-1.0,-1.0
 Man United,2,2025-08-24,Fulham,A,1,1,1,3.0,-2.0,-3.0
 Man United,3,2025-09-14,Man City,A,3,0,0,3.0,-3.0,-6.0
 Man United,4,2025-09-20,Chelsea,H,2,1,3,1.0,2.0,-4.0
 Man United,5,2025-09-27,Brentford,A,3,1,0,0.0,0.0,-4.0
+Man United,6,2025-10-19,Liverpool,A,1,2,3,1.0,2.0,-2.0
+Man United,7,2025-10-25,Brighton,H,4,2,3,0.0,3.0,1.0
 Newcastle,1,2025-08-16,Aston Villa,A,0,0,1,0.0,1.0,1.0
 Newcastle,2,2025-08-25,Liverpool,H,2,3,0,1.0,-1.0,0.0
 Newcastle,3,2025-09-13,Wolves,H,1,0,3,3.0,0.0,0.0
 Newcastle,4,2025-09-21,Bournemouth,A,0,0,1,1.0,0.0,0.0
 Newcastle,5,2025-09-28,Arsenal,H,1,2,0,3.0,-3.0,-3.0
 Newcastle,6,2025-10-05,Nott'm Forest,H,2,0,3,3.0,0.0,-3.0
+Newcastle,7,2025-10-18,Brighton,A,2,1,0,1.0,-1.0,-4.0
+Newcastle,8,2025-10-25,Fulham,H,2,1,3,0.0,3.0,-1.0
 Nott'm Forest,1,2025-08-17,Brentford,H,3,1,3,0.0,3.0,3.0
 Nott'm Forest,2,2025-08-24,Crystal Palace,A,1,1,1,1.0,0.0,3.0
 Nott'm Forest,3,2025-08-31,West Ham,H,0,3,0,3.0,-3.0,0.0
 Nott'm Forest,4,2025-09-13,Arsenal,A,3,0,0,0.0,0.0,0.0
 Nott'm Forest,5,2025-10-05,Newcastle,A,2,0,0,0.0,0.0,0.0
+Nott'm Forest,6,2025-10-18,Chelsea,H,0,3,0,0.0,0.0,0.0
+Nott'm Forest,7,2025-10-26,Bournemouth,A,2,0,0,0.0,0.0,0.0
 Tottenham,1,2025-08-23,Man City,A,0,2,3,3.0,0.0,0.0
 Tottenham,2,2025-08-30,Bournemouth,H,0,1,0,1.0,-1.0,-1.0
 Tottenham,3,2025-09-13,West Ham,A,0,3,3,1.0,2.0,1.0
 Tottenham,4,2025-09-20,Brighton,A,2,2,1,0.0,1.0,2.0
 Tottenham,5,2025-09-27,Wolves,H,1,1,1,1.0,0.0,2.0
+Tottenham,6,2025-10-19,Aston Villa,H,1,2,0,3.0,-3.0,-1.0
+Tottenham,7,2025-10-26,Everton,A,0,3,3,0.0,3.0,2.0
 West Ham,1,2025-08-22,Chelsea,H,1,5,0,0.0,0.0,0.0
 West Ham,2,2025-08-31,Nott'm Forest,A,0,3,3,0.0,3.0,3.0
 West Ham,3,2025-09-13,Tottenham,H,0,3,0,1.0,-1.0,2.0
 West Ham,4,2025-09-20,Crystal Palace,H,1,2,0,0.0,0.0,2.0
 West Ham,5,2025-09-29,Everton,A,1,1,1,1.0,0.0,2.0
 West Ham,6,2025-10-04,Arsenal,A,2,0,0,3.0,-3.0,-1.0
+West Ham,7,2025-10-20,Brentford,H,0,2,0,0.0,0.0,-1.0
 Wolves,1,2025-08-16,Man City,H,0,4,0,0.0,0.0,0.0
 Wolves,2,2025-08-23,Bournemouth,A,1,0,0,3.0,-3.0,-3.0
 Wolves,3,2025-08-30,Everton,H,2,3,0,1.0,-1.0,-4.0

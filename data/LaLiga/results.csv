@@ -5,6 +5,8 @@ Alaves,3,2025-09-13,Ath Bilbao,A,0,1,3,0.0,3.0,0.0
 Alaves,4,2025-09-20,Sevilla,H,1,2,0,3.0,-3.0,-3.0
 Alaves,5,2025-09-24,Getafe,A,1,1,1,0.0,1.0,-2.0
 Alaves,6,2025-09-27,Mallorca,A,1,0,0,1.0,-1.0,-3.0
+Alaves,7,2025-10-20,Valencia,H,0,0,1,3.0,-2.0,-5.0
+Alaves,8,2025-10-26,Vallecano,A,1,0,0,0.0,0.0,-5.0
 Ath Bilbao,1,2025-08-17,Sevilla,H,3,2,3,1.0,2.0,2.0
 Ath Bilbao,2,2025-08-25,Vallecano,H,1,0,3,3.0,0.0,2.0
 Ath Bilbao,3,2025-08-31,Betis,A,1,2,3,1.0,2.0,4.0
@@ -13,6 +15,7 @@ Ath Bilbao,5,2025-09-20,Valencia,A,2,0,0,3.0,-3.0,-2.0
 Ath Bilbao,6,2025-09-23,Girona,H,1,1,1,3.0,-2.0,-4.0
 Ath Bilbao,7,2025-09-27,Villarreal,A,1,0,0,1.0,-1.0,-5.0
 Ath Bilbao,8,2025-10-04,Mallorca,H,2,1,3,1.0,2.0,-3.0
+Ath Bilbao,9,2025-10-25,Getafe,H,0,1,0,1.0,-1.0,-4.0
 Ath Madrid,1,2025-08-17,Espanol,A,2,1,0,1.0,-1.0,-1.0
 Ath Madrid,2,2025-08-30,Alaves,A,1,1,1,1.0,0.0,-1.0
 Ath Madrid,3,2025-09-13,Villarreal,H,2,0,3,1.0,2.0,1.0
@@ -20,18 +23,22 @@ Ath Madrid,4,2025-09-21,Mallorca,A,1,1,1,3.0,-2.0,-1.0
 Ath Madrid,5,2025-09-24,Vallecano,H,3,2,3,3.0,0.0,-1.0
 Ath Madrid,6,2025-09-27,Real Madrid,H,5,2,3,1.0,2.0,1.0
 Ath Madrid,7,2025-10-05,Celta,A,1,1,1,3.0,-2.0,-1.0
+Ath Madrid,8,2025-10-18,Osasuna,H,1,0,3,3.0,0.0,-1.0
 Barcelona,1,2025-08-16,Mallorca,A,0,3,3,3.0,0.0,0.0
 Barcelona,2,2025-08-31,Vallecano,A,1,1,1,3.0,-2.0,-2.0
 Barcelona,3,2025-09-14,Valencia,H,6,0,3,3.0,0.0,-2.0
 Barcelona,4,2025-09-21,Getafe,H,3,0,3,3.0,0.0,-2.0
 Barcelona,5,2025-09-28,Sociedad,H,2,1,3,3.0,0.0,-2.0
 Barcelona,6,2025-10-05,Sevilla,A,4,1,0,3.0,-3.0,-5.0
+Barcelona,7,2025-10-18,Girona,H,2,1,3,3.0,0.0,-5.0
+Barcelona,8,2025-10-26,Real Madrid,A,2,1,0,3.0,-3.0,-8.0
 Betis,1,2025-08-22,Alaves,H,1,0,3,0.0,3.0,3.0
 Betis,2,2025-08-27,Celta,A,1,1,1,0.0,1.0,4.0
 Betis,3,2025-08-31,Ath Bilbao,H,1,2,0,1.0,-1.0,3.0
 Betis,4,2025-09-19,Sociedad,H,3,1,3,3.0,0.0,3.0
 Betis,5,2025-09-28,Osasuna,H,2,0,3,1.0,2.0,5.0
 Betis,6,2025-10-05,Espanol,A,1,2,3,3.0,0.0,5.0
+Betis,7,2025-10-18,Villarreal,A,2,2,1,3.0,-2.0,3.0
 Celta,1,2025-08-17,Getafe,H,0,2,0,3.0,-3.0,-3.0
 Celta,2,2025-08-23,Mallorca,A,1,1,1,3.0,-2.0,-5.0
 Celta,3,2025-08-27,Betis,H,1,1,1,3.0,-2.0,-7.0
@@ -39,6 +46,8 @@ Celta,4,2025-08-31,Villarreal,H,1,1,1,3.0,-2.0,-9.0
 Celta,5,2025-09-14,Girona,H,1,1,1,1.0,0.0,-9.0
 Celta,6,2025-09-21,Vallecano,A,1,1,1,0.0,1.0,-8.0
 Celta,7,2025-10-05,Ath Madrid,H,1,1,1,0.0,1.0,-7.0
+Celta,8,2025-10-19,Sociedad,H,1,1,1,3.0,-2.0,-9.0
+Celta,9,2025-10-26,Osasuna,A,2,3,3,0.0,3.0,-6.0
 Espanol,1,2025-08-17,Ath Madrid,H,2,1,3,1.0,2.0,2.0
 Espanol,2,2025-08-24,Sociedad,A,2,2,1,0.0,1.0,3.0
 Espanol,3,2025-08-31,Osasuna,H,1,0,3,1.0,2.0,5.0
@@ -53,6 +62,8 @@ Getafe,3,2025-08-29,Valencia,A,3,0,0,0.0,0.0,6.0
 Getafe,4,2025-09-21,Barcelona,A,3,0,0,0.0,0.0,6.0
 Getafe,5,2025-09-24,Alaves,H,1,1,1,3.0,-2.0,4.0
 Getafe,6,2025-10-03,Osasuna,A,2,1,0,3.0,-3.0,1.0
+Getafe,7,2025-10-19,Real Madrid,H,0,1,0,0.0,0.0,1.0
+Getafe,8,2025-10-25,Ath Bilbao,A,0,1,3,1.0,2.0,3.0
 Girona,1,2025-08-15,Vallecano,H,1,3,0,1.0,-1.0,-1.0
 Girona,2,2025-08-24,Villarreal,A,5,0,0,1.0,-1.0,-2.0
 Girona,3,2025-08-30,Sevilla,H,0,2,0,0.0,0.0,-2.0
@@ -60,6 +71,7 @@ Girona,4,2025-09-14,Celta,A,1,1,1,1.0,0.0,-2.0
 Girona,5,2025-09-23,Ath Bilbao,A,1,1,1,0.0,1.0,-1.0
 Girona,6,2025-09-26,Espanol,H,0,0,1,3.0,-2.0,-3.0
 Girona,7,2025-10-04,Valencia,H,2,1,3,1.0,2.0,-1.0
+Girona,8,2025-10-18,Barcelona,A,2,1,0,0.0,0.0,-1.0
 Mallorca,1,2025-08-16,Barcelona,H,0,3,0,0.0,0.0,0.0
 Mallorca,2,2025-08-23,Celta,H,1,1,1,0.0,1.0,1.0
 Mallorca,3,2025-08-30,Real Madrid,A,2,1,0,0.0,0.0,1.0
@@ -68,6 +80,7 @@ Mallorca,5,2025-09-21,Ath Madrid,H,1,1,1,0.0,1.0,2.0
 Mallorca,6,2025-09-24,Sociedad,A,1,0,0,3.0,-3.0,-1.0
 Mallorca,7,2025-09-27,Alaves,H,1,0,3,1.0,2.0,1.0
 Mallorca,8,2025-10-04,Ath Bilbao,A,2,1,0,1.0,-1.0,0.0
+Mallorca,9,2025-10-18,Sevilla,A,1,3,3,1.0,2.0,2.0
 Osasuna,1,2025-08-19,Real Madrid,A,1,0,0,0.0,0.0,0.0
 Osasuna,2,2025-08-24,Valencia,H,1,0,3,1.0,2.0,2.0
 Osasuna,3,2025-08-31,Espanol,A,1,0,0,1.0,-1.0,1.0
@@ -75,12 +88,16 @@ Osasuna,4,2025-09-14,Vallecano,H,2,0,3,1.0,2.0,3.0
 Osasuna,5,2025-09-20,Villarreal,A,2,1,0,0.0,0.0,3.0
 Osasuna,6,2025-09-28,Betis,A,2,0,0,1.0,-1.0,2.0
 Osasuna,7,2025-10-03,Getafe,H,2,1,3,0.0,3.0,5.0
+Osasuna,8,2025-10-18,Ath Madrid,A,1,0,0,0.0,0.0,5.0
+Osasuna,9,2025-10-26,Celta,H,2,3,0,3.0,-3.0,2.0
 Real Madrid,1,2025-08-19,Osasuna,H,1,0,3,3.0,0.0,0.0
 Real Madrid,2,2025-08-30,Mallorca,H,2,1,3,3.0,0.0,0.0
 Real Madrid,3,2025-09-13,Sociedad,A,1,2,3,3.0,0.0,0.0
 Real Madrid,4,2025-09-20,Espanol,H,2,0,3,3.0,0.0,0.0
 Real Madrid,5,2025-09-27,Ath Madrid,A,5,2,0,1.0,-1.0,-1.0
 Real Madrid,6,2025-10-04,Villarreal,H,3,1,3,3.0,0.0,-1.0
+Real Madrid,7,2025-10-19,Getafe,A,0,1,3,3.0,0.0,-1.0
+Real Madrid,8,2025-10-26,Barcelona,H,2,1,3,0.0,3.0,2.0
 Sevilla,1,2025-08-17,Ath Bilbao,A,3,2,0,1.0,-1.0,-1.0
 Sevilla,2,2025-08-25,Getafe,H,1,2,0,3.0,-3.0,-4.0
 Sevilla,3,2025-08-30,Girona,A,0,2,3,3.0,0.0,-4.0
@@ -88,6 +105,8 @@ Sevilla,4,2025-09-20,Alaves,A,1,2,3,0.0,3.0,-1.0
 Sevilla,5,2025-09-23,Villarreal,H,1,2,0,0.0,0.0,-1.0
 Sevilla,6,2025-09-28,Vallecano,A,0,1,3,1.0,2.0,1.0
 Sevilla,7,2025-10-05,Barcelona,H,4,1,3,0.0,3.0,4.0
+Sevilla,8,2025-10-18,Mallorca,H,1,3,0,1.0,-1.0,3.0
+Sevilla,9,2025-10-24,Sociedad,A,2,1,0,3.0,-3.0,0.0
 Sociedad,1,2025-08-16,Valencia,A,1,1,1,0.0,1.0,1.0
 Sociedad,2,2025-08-24,Espanol,H,2,2,1,3.0,-2.0,-1.0
 Sociedad,3,2025-09-13,Real Madrid,H,1,2,0,0.0,0.0,-1.0
@@ -95,6 +114,8 @@ Sociedad,4,2025-09-19,Betis,A,3,1,0,0.0,0.0,-1.0
 Sociedad,5,2025-09-24,Mallorca,H,1,0,3,0.0,3.0,2.0
 Sociedad,6,2025-09-28,Barcelona,A,2,1,0,0.0,0.0,2.0
 Sociedad,7,2025-10-05,Vallecano,H,0,1,0,0.0,0.0,2.0
+Sociedad,8,2025-10-19,Celta,A,1,1,1,0.0,1.0,3.0
+Sociedad,9,2025-10-24,Sevilla,H,2,1,3,0.0,3.0,6.0
 Valencia,1,2025-08-16,Sociedad,H,1,1,1,3.0,-2.0,-2.0
 Valencia,2,2025-08-24,Osasuna,A,1,0,0,1.0,-1.0,-3.0
 Valencia,3,2025-08-29,Getafe,H,3,0,3,3.0,0.0,-3.0
@@ -102,6 +123,8 @@ Valencia,4,2025-09-14,Barcelona,A,6,0,0,0.0,0.0,-3.0
 Valencia,5,2025-09-20,Ath Bilbao,H,2,0,3,0.0,3.0,0.0
 Valencia,6,2025-09-23,Espanol,A,2,2,1,1.0,0.0,0.0
 Valencia,7,2025-10-04,Girona,A,2,1,0,1.0,-1.0,-1.0
+Valencia,8,2025-10-20,Alaves,A,0,0,1,0.0,1.0,0.0
+Valencia,9,2025-10-25,Villarreal,H,0,2,0,1.0,-1.0,-1.0
 Vallecano,1,2025-08-15,Girona,A,1,3,3,1.0,2.0,2.0
 Vallecano,2,2025-08-25,Ath Bilbao,A,1,0,0,0.0,0.0,2.0
 Vallecano,3,2025-08-31,Barcelona,H,1,1,1,0.0,1.0,3.0
@@ -110,6 +133,7 @@ Vallecano,5,2025-09-21,Celta,H,1,1,1,3.0,-2.0,0.0
 Vallecano,6,2025-09-24,Ath Madrid,A,3,2,0,0.0,0.0,0.0
 Vallecano,7,2025-09-28,Sevilla,H,0,1,0,1.0,-1.0,-1.0
 Vallecano,8,2025-10-05,Sociedad,A,0,1,3,3.0,0.0,-1.0
+Vallecano,9,2025-10-26,Alaves,H,1,0,3,3.0,0.0,-1.0
 Villarreal,1,2025-08-24,Girona,H,5,0,3,1.0,2.0,2.0
 Villarreal,2,2025-08-31,Celta,A,1,1,1,0.0,1.0,3.0
 Villarreal,3,2025-09-13,Ath Madrid,A,2,0,0,1.0,-1.0,2.0
@@ -117,3 +141,5 @@ Villarreal,4,2025-09-20,Osasuna,H,2,1,3,3.0,0.0,2.0
 Villarreal,5,2025-09-23,Sevilla,A,1,2,3,3.0,0.0,2.0
 Villarreal,6,2025-09-27,Ath Bilbao,H,1,0,3,1.0,2.0,4.0
 Villarreal,7,2025-10-04,Real Madrid,A,3,1,0,0.0,0.0,4.0
+Villarreal,8,2025-10-18,Betis,H,2,2,1,0.0,1.0,5.0
+Villarreal,9,2025-10-25,Valencia,A,0,2,3,1.0,2.0,7.0
