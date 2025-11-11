@@ -25,6 +25,7 @@ A running list of features, improvements, and checkpoints for the project.
 - [ ] Export CSV summaries (`per_fixture_differentials.csv`, `cumulative_differentials.csv`)
 - [ ] Add league-level summary bar chart for latest GW
 - [x] Refactor into reusable functions (modular architecture)
+- [ ] Create team-specific heatmaps (per-match performance visualization)
 
 ---
 
@@ -37,6 +38,7 @@ A running list of features, improvements, and checkpoints for the project.
 - [x] Set up cron job for twice-weekly execution (Mon & Thu 9 AM)
 - [x] Implement logging system for monitoring
 - [x] Install web scraping dependencies (requests, beautifulsoup4, selenium)
+- [x] Fix cron job compatibility issues (absolute paths, environment variables)
 
 ---
 
@@ -64,9 +66,22 @@ A running list of features, improvements, and checkpoints for the project.
 - [x] Automate weekly data updates (via cron job - Mon & Thu 9 AM)
 - [x] Automatically pull new results and recompute metrics
 - [x] Logging system for monitoring execution
+- [x] Deploy via GitHub Actions for cloud automation
 - [ ] Publish updated charts weekly (e.g., `/plots/week_X.png`)
 - [ ] Optional: post summary chart to X/Twitter
-- [ ] Optional: Deploy via GitHub Actions for cloud automation
+
+---
+
+## 👥 Phase 5.5 — Player Contribution Analysis
+- [x] Create Understat scraper for player data
+- [x] Calculate player contribution percentages (goals + assists / team total)
+- [x] Export player results to CSV for all leagues
+- [x] Add formatted table output for top contributors
+- [x] Integrate into main pipeline (main.py orchestrator)
+- [x] Handle multi-team players (mid-season transfers)
+- [ ] Add player-level visualizations (top scorers, assist leaders)
+- [ ] Compare player contributions YoY (season over season)
+- [ ] Add player heatmaps by position or role
 
 ---
 
@@ -100,8 +115,10 @@ A running list of features, improvements, and checkpoints for the project.
 | 2025-10-10 | CSV export system | ✅ Complete |
 | 2025-10-10 | Cron automation setup | ✅ Complete |
 | 2025-10-10 | Logging system | ✅ Complete |
-| 2025-11 | Visualization & plotting | ☐ Pending |
-| 2025-12 | Dashboard development | ☐ Pending |
+| 2025-10-26 | Fixed cron job execution issues | ✅ Complete |
+| 2025-10-26 | Visualization & plotting | 🔄 In Progress |
+| 2025-11-11 | GitHub Actions + Player Analysis | ✅ Complete |
+| 2025-11 | Dashboard development | ☐ Pending |
 
 ---
 

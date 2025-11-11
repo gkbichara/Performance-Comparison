@@ -53,23 +53,25 @@ Fixtures involving newly promoted or relegated teams are **excluded** to avoid b
 
 ```
 Performance-Comparison/
-├── analysis.py              # Main analysis script
+├── main.py                 # Pipeline orchestrator (runs all scripts)
+├── analysis.py             # YoY team performance analysis
 ├── scraper.py              # Data fetching from football-data.co.uk
-├── understat_scraper.py    # Alternative scraper for Understat data
+├── understat_scraper.py    # Player contribution analysis (Understat)
 ├── run_update.sh           # Automated update script (local cron)
 ├── requirements.txt        # Python dependencies
 ├── .github/
 │   └── workflows/
 │       └── update-data.yml # GitHub Actions automation
 ├── data/
-│   ├── SerieA/
-│   │   ├── 2425.csv       # Historical season data
-│   │   ├── 2526.csv       # Current season data
-│   │   └── results.csv    # Analysis output
+│   ├── serieA/
+│   │   ├── 2425.csv           # Historical season data
+│   │   ├── 2526.csv           # Current season data
+│   │   ├── results.csv        # Team YoY comparison
+│   │   └── player_results.csv # Player contributions ⭐ NEW
 │   ├── PremierLeague/
 │   ├── LaLiga/
 │   ├── Bundesliga/
-│   └── Ligue1/
+│   └── ligue1/
 ├── logs/                   # Execution logs from automated runs
 └── README.md
 ```
@@ -114,6 +116,33 @@ Roma  5             Fiorentina  +3.0          +5.0
 
 ---
 
+## 👥 Player Contribution Analysis
+
+In addition to team performance, the project analyzes individual player contributions using data from [Understat.com](https://understat.com/).
+
+Each league produces a `player_results.csv` file containing:
+
+| Column | Description |
+|--------|-------------|
+| `player` | Player name |
+| `team` | Current team |
+| `goals` | Goals scored this season |
+| `assists` | Assists provided this season |
+| `contributions` | Total goal contributions (goals + assists) |
+| `contribution_pct` | % of team's goals the player contributed to |
+| `goals_pct` | Player's goals as % of team total |
+| `assists_pct` | Player's assists as % of team total |
+| `games` | Matches played |
+
+**Example:** A player with 10 goals and 5 assists in a team that scored 50 goals would have:
+- Goals%: 20.0%
+- Assists%: 10.0%
+- Contribution%: 30.0%
+
+**Note:** Players who transferred mid-season are excluded from calculations to maintain accuracy.
+
+---
+
 ## 🚀 How to Use
 
 ### 1. Setup
@@ -131,18 +160,29 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 2. Download Latest Data
+### 2. Run Full Pipeline (Recommended)
 
 ```bash
-python scraper.py
+python main.py
 ```
 
-This fetches the latest match data for all 5 leagues from football-data.co.uk.
+This runs the complete pipeline:
+1. Scrapes latest team data from football-data.co.uk
+2. Performs YoY analysis for all leagues
+3. Fetches player contribution data from Understat
+4. Exports all results to CSV files
 
-### 3. Run Analysis
+### 3. Run Components Individually (Optional)
 
 ```bash
+# Just scrape team data
+python scraper.py
+
+# Just run YoY team analysis
 python analysis.py
+
+# Just analyze player contributions
+python understat_scraper.py
 ```
 
 Output:
@@ -162,17 +202,24 @@ FOOTBALL PERFORMANCE COMPARISON - SEASON DIFFERENTIALS
 
 ### 4. View Results
 
-Results are saved in `data/[League]/results.csv` files. Open with any spreadsheet application or pandas:
+Results are saved in `data/[League]/` folders. Open with any spreadsheet application or pandas:
 
 ```python
 import pandas as pd
 
-# Load Serie A results
-df = pd.read_csv('data/SerieA/results.csv')
+# Load Serie A team YoY results
+team_df = pd.read_csv('data/serieA/results.csv')
 
 # View Roma's performance
-roma = df[df['Team'] == 'Roma']
+roma = team_df[team_df['Team'] == 'Roma']
 print(roma[['Match_Number', 'Opponent', 'Differential', 'Cumulative']])
+
+# Load player contribution data
+player_df = pd.read_csv('data/serieA/player_results.csv')
+
+# View top contributors
+top_players = player_df.nlargest(20, 'contribution_pct')
+print(top_players[['player', 'team', 'goals', 'assists', 'contribution_pct']])
 ```
 
 ### 5. Automation
@@ -262,9 +309,11 @@ The `run_update.sh` script:
 ✅ **Multi-League Coverage** - Analyzes all Top 5 European leagues  
 ✅ **Match-by-Match Tracking** - See progression through the season  
 ✅ **Fair Comparisons** - Same opponent, same venue only  
-✅ **Automated Data Fetching** - Built-in scraper for football-data.co.uk  
+✅ **Player Contribution Analysis** - Track individual player impact across all leagues  
+✅ **Automated Data Fetching** - Built-in scrapers for football-data.co.uk and Understat  
 ✅ **GitHub Actions Automation** - Daily updates run automatically on GitHub servers  
 ✅ **Manual & Scheduled Updates** - Run on-demand or via automated schedule  
+✅ **Main Pipeline Orchestrator** - Single command runs entire analysis workflow  
 ✅ **Comprehensive Logging** - All executions tracked with timestamps  
 ✅ **CSV Exports** - Easy to analyze in Excel, pandas, or other tools  
 ✅ **Promoted Team Handling** - Automatically excludes teams without comparison data
@@ -275,17 +324,21 @@ The `run_update.sh` script:
 
 - 📊 Visualization dashboard with line plots and bar charts
 - 🌐 Interactive web interface with team/league filters
-- 📈 Additional metrics (goal differential, xG comparison)
+- 📈 Additional metrics (xG comparison, goal differential trends)
+- 👥 Player YoY comparison (season-over-season contributions)
 - 📱 Mobile-friendly dashboard
 - 🐦 Automated Twitter/X posts with weekly summaries
 - 📧 Email notifications for significant changes
+- 🎨 Player heatmaps and position-based analytics
 
 ---
 
 ## 🙏 Credits
 
 **Author:** Galal Bichara  
-**Data Source:** [football-data.co.uk](https://www.football-data.co.uk/)  
+**Data Sources:**  
+- Team match data: [football-data.co.uk](https://www.football-data.co.uk/)  
+- Player statistics: [Understat.com](https://understat.com/)  
 **Inspiration:** [@DrRitzyy](https://x.com/DrRitzyy/status/1972362982484271109) — "same fixtures, new season" analytics
 
 ---
