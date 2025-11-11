@@ -54,6 +54,7 @@ Fixtures involving newly promoted or relegated teams are **excluded** to avoid b
 ```
 Performance-Comparison/
 ├── main.py                 # Pipeline orchestrator (runs all scripts)
+├── config.py               # Centralized configuration (leagues, paths, constants)
 ├── analysis.py             # YoY team performance analysis
 ├── scraper.py              # Data fetching from football-data.co.uk
 ├── understat_scraper.py    # Player contribution analysis (Understat)
@@ -63,27 +64,52 @@ Performance-Comparison/
 │   └── workflows/
 │       └── update-data.yml # GitHub Actions automation
 ├── data/
-│   ├── serieA/
+│   ├── serie_a/
 │   │   ├── 2425.csv           # Historical season data
 │   │   ├── 2526.csv           # Current season data
 │   │   ├── results.csv        # Team YoY comparison
-│   │   └── player_results.csv # Player contributions ⭐ NEW
-│   ├── PremierLeague/
-│   ├── LaLiga/
-│   ├── Bundesliga/
-│   └── ligue1/
+│   │   └── player_results.csv # Player contributions
+│   ├── premier_league/
+│   ├── la_liga/
+│   ├── bundesliga/
+│   └── ligue_1/
 ├── logs/                   # Execution logs from automated runs
 └── README.md
 ```
 
-### Data Source
-All match data is sourced from [football-data.co.uk](https://www.football-data.co.uk/), which provides comprehensive historical results and statistics for major European leagues.
+### Configuration
 
-The script automatically:
+The project uses a centralized `config.py` file for all league definitions and constants:
+
+```python
+LEAGUES = {
+    'serie_a': {
+        'display_name': 'Serie A',
+        'folder': 'serie_a',
+        'fbdata_code': 'I1',
+        'understat_key': 'Serie_A'
+    },
+    # ... other leagues
+}
+```
+
+This ensures:
+- Single source of truth for all league configurations
+- Easy to add new leagues or modify existing ones
+- Consistent naming across all scripts (snake_case)
+- Proper mapping between different data sources
+
+### Data Sources
+
+**Team Match Data:** [football-data.co.uk](https://www.football-data.co.uk/)  
+**Player Statistics:** [Understat.com](https://understat.com/)
+
+The pipeline automatically:
 - Fetches latest data via `scraper.py`
 - Computes points for both home and away sides (W=3, D=1, L=0)
 - Matches equivalent fixtures (same opponent + venue)
 - Excludes promoted/relegated teams to ensure fair comparisons
+- Analyzes player contributions from Understat data
 
 ---
 
@@ -208,14 +234,14 @@ Results are saved in `data/[League]/` folders. Open with any spreadsheet applica
 import pandas as pd
 
 # Load Serie A team YoY results
-team_df = pd.read_csv('data/serieA/results.csv')
+team_df = pd.read_csv('data/serie_a/results.csv')
 
 # View Roma's performance
 roma = team_df[team_df['Team'] == 'Roma']
 print(roma[['Match_Number', 'Opponent', 'Differential', 'Cumulative']])
 
 # Load player contribution data
-player_df = pd.read_csv('data/serieA/player_results.csv')
+player_df = pd.read_csv('data/serie_a/player_results.csv')
 
 # View top contributors
 top_players = player_df.nlargest(20, 'contribution_pct')
@@ -314,6 +340,8 @@ The `run_update.sh` script:
 ✅ **GitHub Actions Automation** - Daily updates run automatically on GitHub servers  
 ✅ **Manual & Scheduled Updates** - Run on-demand or via automated schedule  
 ✅ **Main Pipeline Orchestrator** - Single command runs entire analysis workflow  
+✅ **Centralized Configuration** - Easy league management via config.py  
+✅ **Clean Codebase** - Pythonic naming conventions, modular architecture  
 ✅ **Comprehensive Logging** - All executions tracked with timestamps  
 ✅ **CSV Exports** - Easy to analyze in Excel, pandas, or other tools  
 ✅ **Promoted Team Handling** - Automatically excludes teams without comparison data

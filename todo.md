@@ -88,9 +88,24 @@ A running list of features, improvements, and checkpoints for the project.
 ## 💄 Phase 6 — Documentation & Polish
 - [x] Write detailed docstrings for each function
 - [x] Add setup instructions in `requirements.txt` 
-- [ ] Refine README with latest plots and results
-- [ ] Add references section (data sources, credits)
+- [x] Refine README with latest plots and results
+- [x] Add references section (data sources, credits)
 - [ ] Final QA pass before sharing or publishing results
+
+---
+
+## 🧹 Phase 6.5 — Code Refactoring & Cleanup
+- [x] Create centralized `config.py` for all constants and configuration
+- [x] Standardize folder naming to snake_case (serie_a, premier_league, etc.)
+- [x] Remove hardcoded league lists from all scripts
+- [x] Fix critical indentation bug in analysis.py
+- [x] Remove debug comments and unused imports
+- [x] Optimize imports and move to module level
+- [x] Update all scripts to use config.py
+- [x] Fix print_table() to display correct league names dynamically
+- [x] Update GitHub Actions to use main.py orchestrator
+- [x] Add proper docstrings with Args and Returns
+- [x] Standardize function parameter names across codebase
 
 ---
 
@@ -118,6 +133,7 @@ A running list of features, improvements, and checkpoints for the project.
 | 2025-10-26 | Fixed cron job execution issues | ✅ Complete |
 | 2025-10-26 | Visualization & plotting | 🔄 In Progress |
 | 2025-11-11 | GitHub Actions + Player Analysis | ✅ Complete |
+| 2025-11-11 | Code refactoring & cleanup | ✅ Complete |
 | 2025-11 | Dashboard development | ☐ Pending |
 
 ---
