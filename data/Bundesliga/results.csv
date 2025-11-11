@@ -6,6 +6,8 @@ Augsburg,4,2025-09-20,Mainz,H,1,4,0,0.0,0.0,2.0
 Augsburg,5,2025-09-27,Heidenheim,A,2,1,0,0.0,0.0,2.0
 Augsburg,6,2025-10-04,Wolfsburg,H,3,1,3,3.0,0.0,2.0
 Augsburg,7,2025-10-25,RB Leipzig,H,0,6,0,1.0,-1.0,1.0
+Augsburg,8,2025-10-31,Dortmund,H,0,1,0,3.0,-3.0,-2.0
+Augsburg,9,2025-11-09,Stuttgart,A,3,2,0,0.0,0.0,-2.0
 Bayern Munich,1,2025-08-22,RB Leipzig,H,6,0,3,3.0,0.0,0.0
 Bayern Munich,2,2025-08-30,Augsburg,A,2,3,3,3.0,0.0,0.0
 Bayern Munich,3,2025-09-20,Hoffenheim,A,1,4,3,3.0,0.0,0.0
@@ -13,6 +15,8 @@ Bayern Munich,4,2025-09-26,Werder Bremen,H,4,0,3,3.0,0.0,0.0
 Bayern Munich,5,2025-10-04,Ein Frankfurt,A,0,3,3,1.0,2.0,2.0
 Bayern Munich,6,2025-10-18,Dortmund,H,2,1,3,1.0,2.0,4.0
 Bayern Munich,7,2025-10-25,M'gladbach,A,0,3,3,3.0,0.0,4.0
+Bayern Munich,8,2025-11-01,Leverkusen,H,3,0,3,1.0,2.0,6.0
+Bayern Munich,9,2025-11-08,Union Berlin,A,2,2,1,1.0,0.0,6.0
 Dortmund,1,2025-08-23,St Pauli,A,3,3,1,3.0,-2.0,-2.0
 Dortmund,2,2025-08-31,Union Berlin,H,3,0,3,3.0,0.0,-2.0
 Dortmund,3,2025-09-13,Heidenheim,A,0,2,3,3.0,0.0,-2.0
@@ -20,6 +24,7 @@ Dortmund,4,2025-09-21,Wolfsburg,H,1,0,3,3.0,0.0,-2.0
 Dortmund,5,2025-09-27,Mainz,A,0,2,3,0.0,3.0,1.0
 Dortmund,6,2025-10-04,RB Leipzig,H,1,1,1,3.0,-2.0,-1.0
 Dortmund,7,2025-10-18,Bayern Munich,A,2,1,0,1.0,-1.0,-2.0
+Dortmund,8,2025-10-31,Augsburg,A,0,1,3,0.0,3.0,1.0
 Ein Frankfurt,1,2025-08-23,Werder Bremen,H,4,1,3,3.0,0.0,0.0
 Ein Frankfurt,2,2025-08-30,Hoffenheim,A,1,3,3,1.0,2.0,2.0
 Ein Frankfurt,3,2025-09-12,Leverkusen,A,3,1,0,0.0,0.0,2.0
@@ -28,6 +33,8 @@ Ein Frankfurt,5,2025-09-27,M'gladbach,A,4,6,3,1.0,2.0,4.0
 Ein Frankfurt,6,2025-10-04,Bayern Munich,H,0,3,0,1.0,-1.0,3.0
 Ein Frankfurt,7,2025-10-19,Freiburg,A,2,2,1,3.0,-2.0,1.0
 Ein Frankfurt,8,2025-10-25,St Pauli,H,2,0,3,1.0,2.0,3.0
+Ein Frankfurt,9,2025-11-01,Heidenheim,A,1,1,1,3.0,-2.0,1.0
+Ein Frankfurt,10,2025-11-09,Mainz,H,1,0,3,0.0,3.0,4.0
 Freiburg,1,2025-08-23,Augsburg,H,1,3,0,3.0,-3.0,-3.0
 Freiburg,2,2025-09-13,Stuttgart,H,3,1,3,3.0,0.0,-3.0
 Freiburg,3,2025-09-20,Werder Bremen,A,0,3,3,3.0,0.0,-3.0
@@ -35,6 +42,8 @@ Freiburg,4,2025-09-28,Hoffenheim,H,1,1,1,3.0,-2.0,-5.0
 Freiburg,5,2025-10-05,M'gladbach,A,0,0,1,3.0,-2.0,-7.0
 Freiburg,6,2025-10-19,Ein Frankfurt,H,2,2,1,0.0,1.0,-6.0
 Freiburg,7,2025-10-26,Leverkusen,A,2,0,0,0.0,0.0,-6.0
+Freiburg,8,2025-11-01,Union Berlin,A,0,0,1,1.0,0.0,-6.0
+Freiburg,9,2025-11-09,St Pauli,H,2,1,3,0.0,3.0,-3.0
 Heidenheim,1,2025-08-23,Wolfsburg,H,1,3,0,0.0,0.0,0.0
 Heidenheim,2,2025-08-30,RB Leipzig,A,2,0,0,1.0,-1.0,-1.0
 Heidenheim,3,2025-09-13,Dortmund,H,0,2,0,0.0,0.0,-1.0
@@ -42,6 +51,8 @@ Heidenheim,4,2025-09-27,Augsburg,H,2,1,3,3.0,0.0,-1.0
 Heidenheim,5,2025-10-05,Stuttgart,A,1,0,0,3.0,-3.0,-4.0
 Heidenheim,6,2025-10-18,Werder Bremen,H,2,2,1,0.0,1.0,-3.0
 Heidenheim,7,2025-10-25,Hoffenheim,A,3,1,0,1.0,-1.0,-4.0
+Heidenheim,8,2025-11-01,Ein Frankfurt,H,1,1,1,0.0,1.0,-3.0
+Heidenheim,9,2025-11-08,Leverkusen,A,6,0,0,0.0,0.0,-3.0
 Hoffenheim,1,2025-08-23,Leverkusen,A,1,2,3,0.0,3.0,3.0
 Hoffenheim,2,2025-08-30,Ein Frankfurt,H,1,3,0,1.0,-1.0,2.0
 Hoffenheim,3,2025-09-13,Union Berlin,A,2,4,3,0.0,3.0,5.0
@@ -49,6 +60,8 @@ Hoffenheim,4,2025-09-20,Bayern Munich,H,1,4,0,0.0,0.0,5.0
 Hoffenheim,5,2025-09-28,Freiburg,A,1,1,1,0.0,1.0,6.0
 Hoffenheim,6,2025-10-19,St Pauli,A,0,3,3,0.0,3.0,9.0
 Hoffenheim,7,2025-10-25,Heidenheim,H,3,1,3,1.0,2.0,11.0
+Hoffenheim,8,2025-11-02,Wolfsburg,A,2,3,3,1.0,2.0,13.0
+Hoffenheim,9,2025-11-08,RB Leipzig,H,3,1,3,3.0,0.0,13.0
 Leverkusen,1,2025-08-23,Hoffenheim,H,1,2,0,3.0,-3.0,-3.0
 Leverkusen,2,2025-08-30,Werder Bremen,A,3,3,1,1.0,0.0,-3.0
 Leverkusen,3,2025-09-12,Ein Frankfurt,H,3,1,3,3.0,0.0,-3.0
@@ -57,6 +70,8 @@ Leverkusen,5,2025-09-27,St Pauli,A,1,2,3,1.0,2.0,-3.0
 Leverkusen,6,2025-10-04,Union Berlin,H,2,0,3,1.0,2.0,-1.0
 Leverkusen,7,2025-10-18,Mainz,A,3,4,3,1.0,2.0,1.0
 Leverkusen,8,2025-10-26,Freiburg,H,2,0,3,3.0,0.0,1.0
+Leverkusen,9,2025-11-01,Bayern Munich,A,3,0,0,1.0,-1.0,0.0
+Leverkusen,10,2025-11-08,Heidenheim,H,6,0,3,3.0,0.0,0.0
 M'gladbach,1,2025-08-30,Stuttgart,A,1,0,0,3.0,-3.0,-3.0
 M'gladbach,2,2025-09-14,Werder Bremen,H,0,4,0,3.0,-3.0,-6.0
 M'gladbach,3,2025-09-21,Leverkusen,A,1,1,1,0.0,1.0,-5.0
@@ -64,18 +79,23 @@ M'gladbach,4,2025-09-27,Ein Frankfurt,H,4,6,0,1.0,-1.0,-6.0
 M'gladbach,5,2025-10-05,Freiburg,H,0,0,1,0.0,1.0,-5.0
 M'gladbach,6,2025-10-17,Union Berlin,A,3,1,0,3.0,-3.0,-8.0
 M'gladbach,7,2025-10-25,Bayern Munich,H,0,3,0,0.0,0.0,-8.0
+M'gladbach,8,2025-11-01,St Pauli,A,0,4,3,1.0,2.0,-6.0
 Mainz,1,2025-08-31,Wolfsburg,A,1,1,1,0.0,1.0,1.0
 Mainz,2,2025-09-13,RB Leipzig,H,0,1,0,0.0,0.0,1.0
 Mainz,3,2025-09-20,Augsburg,A,1,4,3,3.0,0.0,1.0
 Mainz,4,2025-09-27,Dortmund,H,0,2,0,3.0,-3.0,-2.0
 Mainz,5,2025-10-18,Leverkusen,H,3,4,0,1.0,-1.0,-3.0
 Mainz,6,2025-10-26,Stuttgart,A,2,1,0,1.0,-1.0,-4.0
+Mainz,7,2025-11-01,Werder Bremen,H,1,1,1,0.0,1.0,-3.0
+Mainz,8,2025-11-09,Ein Frankfurt,A,1,0,0,3.0,-3.0,-6.0
 RB Leipzig,1,2025-08-22,Bayern Munich,A,6,0,0,0.0,0.0,0.0
 RB Leipzig,2,2025-08-30,Heidenheim,H,2,0,3,1.0,2.0,2.0
 RB Leipzig,3,2025-09-13,Mainz,A,0,1,3,3.0,0.0,2.0
 RB Leipzig,4,2025-09-27,Wolfsburg,A,0,1,3,3.0,0.0,2.0
 RB Leipzig,5,2025-10-04,Dortmund,A,1,1,1,0.0,1.0,3.0
 RB Leipzig,6,2025-10-25,Augsburg,A,0,6,3,1.0,2.0,5.0
+RB Leipzig,7,2025-11-01,Stuttgart,H,3,1,3,0.0,3.0,8.0
+RB Leipzig,8,2025-11-08,Hoffenheim,A,3,1,0,0.0,0.0,8.0
 St Pauli,1,2025-08-23,Dortmund,H,3,3,1,0.0,1.0,1.0
 St Pauli,2,2025-09-14,Augsburg,H,2,1,3,1.0,2.0,3.0
 St Pauli,3,2025-09-19,Stuttgart,A,2,0,0,3.0,-3.0,0.0
@@ -83,6 +103,8 @@ St Pauli,4,2025-09-27,Leverkusen,H,1,2,0,1.0,-1.0,-1.0
 St Pauli,5,2025-10-04,Werder Bremen,A,1,0,0,1.0,-1.0,-2.0
 St Pauli,6,2025-10-19,Hoffenheim,H,0,3,0,3.0,-3.0,-5.0
 St Pauli,7,2025-10-25,Ein Frankfurt,A,2,0,0,1.0,-1.0,-6.0
+St Pauli,8,2025-11-01,M'gladbach,H,0,4,0,1.0,-1.0,-7.0
+St Pauli,9,2025-11-09,Freiburg,A,2,1,0,3.0,-3.0,-10.0
 Stuttgart,1,2025-08-23,Union Berlin,A,2,1,0,1.0,-1.0,-1.0
 Stuttgart,2,2025-08-30,M'gladbach,H,1,0,3,0.0,3.0,2.0
 Stuttgart,3,2025-09-13,Freiburg,A,3,1,0,0.0,0.0,2.0
@@ -90,6 +112,8 @@ Stuttgart,4,2025-09-19,St Pauli,H,2,0,3,0.0,3.0,5.0
 Stuttgart,5,2025-10-05,Heidenheim,H,1,0,3,0.0,3.0,8.0
 Stuttgart,6,2025-10-18,Wolfsburg,A,0,3,3,1.0,2.0,10.0
 Stuttgart,7,2025-10-26,Mainz,H,2,1,3,1.0,2.0,12.0
+Stuttgart,8,2025-11-01,RB Leipzig,A,3,1,0,3.0,-3.0,9.0
+Stuttgart,9,2025-11-09,Augsburg,H,3,2,3,3.0,0.0,9.0
 Union Berlin,1,2025-08-23,Stuttgart,H,2,1,3,1.0,2.0,2.0
 Union Berlin,2,2025-08-31,Dortmund,A,3,0,0,0.0,0.0,2.0
 Union Berlin,3,2025-09-13,Hoffenheim,H,2,4,0,3.0,-3.0,-1.0
@@ -97,6 +121,8 @@ Union Berlin,4,2025-09-21,Ein Frankfurt,A,3,4,3,3.0,0.0,-1.0
 Union Berlin,5,2025-10-04,Leverkusen,A,2,0,0,1.0,-1.0,-2.0
 Union Berlin,6,2025-10-17,M'gladbach,H,3,1,3,0.0,3.0,1.0
 Union Berlin,7,2025-10-24,Werder Bremen,A,1,0,0,0.0,0.0,1.0
+Union Berlin,8,2025-11-01,Freiburg,H,0,0,1,1.0,0.0,1.0
+Union Berlin,9,2025-11-08,Bayern Munich,H,2,2,1,1.0,0.0,1.0
 Werder Bremen,1,2025-08-23,Ein Frankfurt,A,4,1,0,0.0,0.0,0.0
 Werder Bremen,2,2025-08-30,Leverkusen,H,3,3,1,1.0,0.0,0.0
 Werder Bremen,3,2025-09-14,M'gladbach,A,0,4,3,0.0,3.0,3.0
@@ -105,9 +131,13 @@ Werder Bremen,5,2025-09-26,Bayern Munich,A,4,0,0,0.0,0.0,3.0
 Werder Bremen,6,2025-10-04,St Pauli,H,1,0,3,1.0,2.0,5.0
 Werder Bremen,7,2025-10-18,Heidenheim,A,2,2,1,3.0,-2.0,3.0
 Werder Bremen,8,2025-10-24,Union Berlin,H,1,0,3,3.0,0.0,3.0
+Werder Bremen,9,2025-11-01,Mainz,A,1,1,1,3.0,-2.0,1.0
+Werder Bremen,10,2025-11-07,Wolfsburg,H,2,1,3,0.0,3.0,4.0
 Wolfsburg,1,2025-08-23,Heidenheim,A,1,3,3,3.0,0.0,0.0
 Wolfsburg,2,2025-08-31,Mainz,H,1,1,1,3.0,-2.0,-2.0
 Wolfsburg,3,2025-09-21,Dortmund,A,1,0,0,0.0,0.0,-2.0
 Wolfsburg,4,2025-09-27,RB Leipzig,H,0,1,0,0.0,0.0,-2.0
 Wolfsburg,5,2025-10-04,Augsburg,A,3,1,0,0.0,0.0,-2.0
 Wolfsburg,6,2025-10-18,Stuttgart,H,0,3,0,1.0,-1.0,-3.0
+Wolfsburg,7,2025-11-02,Hoffenheim,H,2,3,0,1.0,-1.0,-4.0
+Wolfsburg,8,2025-11-07,Werder Bremen,A,2,1,0,3.0,-3.0,-7.0

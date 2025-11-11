@@ -1,0 +1,482 @@
+player,team,goals,assists,contributions,contribution_pct,goals_pct,assists_pct,games
+Kylian Mbappe-Lottin,Real Madrid,13,2,15,57.7,50.0,7.7,12
+Vedat Muriqi,Mallorca,6,0,6,50.0,50.0,0.0,11
+Mikel Oyarzabal,Real Sociedad,5,2,7,50.0,35.7,14.3,12
+Luis Milla,Getafe,0,6,6,50.0,0.0,50.0,12
+Borja Iglesias,Celta Vigo,5,2,7,46.7,33.3,13.3,12
+Ante Budimir,Osasuna,4,0,4,44.4,44.4,0.0,11
+Borja Mayoral,Getafe,4,1,5,41.7,33.3,8.3,9
+Jorge De Frutos,Rayo Vallecano,4,1,5,41.7,33.3,8.3,11
+Ruben Vargas,Sevilla,3,4,7,38.9,16.7,22.2,11
+Julián Álvarez,Atletico Madrid,7,2,9,37.5,29.2,8.3,12
+Juan Camilo Hernández,Real Betis,5,2,7,36.8,26.3,10.5,12
+Arnaut Danjuma Groeneveld,Valencia,3,1,4,36.4,27.3,9.1,12
+Luis Rioja,Valencia,1,3,4,36.4,9.1,27.3,12
+Vinícius Júnior,Real Madrid,5,4,9,34.6,19.2,15.4,12
+Álvaro García,Rayo Vallecano,3,1,4,33.3,25.0,8.3,12
+Pablo Fornals,Real Betis,2,4,6,31.6,10.5,21.1,12
+Rafa Mir,Elche,4,0,4,30.8,30.8,0.0,12
+André Silva,Elche,4,0,4,30.8,30.8,0.0,11
+Arda Güler,Real Madrid,3,5,8,30.8,11.5,19.2,12
+Salomón Rondón,Real Oviedo,2,0,2,28.6,28.6,0.0,11
+Brais Méndez,Real Sociedad,2,2,4,28.6,14.3,14.3,11
+Ander Barrenetxea,Real Sociedad,1,3,4,28.6,7.1,21.4,11
+Cristhian Stuani,Girona,3,0,3,27.3,27.3,0.0,8
+Hugo Duro,Valencia,3,0,3,27.3,27.3,0.0,12
+Carlos Vicente,Alaves,3,0,3,27.3,27.3,0.0,12
+Antonio Martínez,Alaves,2,1,3,27.3,18.2,9.1,12
+Carles Aleñá,Alaves,0,3,3,27.3,0.0,27.3,12
+Pere Milla,Espanyol,4,0,4,26.7,26.7,0.0,10
+Carlos Romero,Espanyol,2,2,4,26.7,13.3,13.3,11
+Roberto Fernández,Espanyol,2,2,4,26.7,13.3,13.3,12
+Antony,Real Betis,4,1,5,26.3,21.1,5.3,8
+Abdessamad Ezzalzouli,Real Betis,3,2,5,26.3,15.8,10.5,8
+Iván Romero,Levante,4,0,4,25.0,25.0,0.0,9
+Lamine Yamal,Barcelona,4,4,8,25.0,12.5,12.5,8
+Alberto Moleiro,Villarreal,4,2,6,25.0,16.7,8.3,12
+Adrián Liso,Getafe,3,0,3,25.0,25.0,0.0,9
+Marcus Rashford,Barcelona,2,6,8,25.0,6.2,18.8,12
+Nico Williams,Athletic Club,2,1,3,25.0,16.7,8.3,8
+Giuliano Simeone,Atletico Madrid,2,4,6,25.0,8.3,16.7,12
+Mateo Joseph,Mallorca,2,1,3,25.0,16.7,8.3,11
+Isi Palazón,Rayo Vallecano,1,2,3,25.0,8.3,16.7,12
+Pep Chavarría,Rayo Vallecano,1,2,3,25.0,8.3,16.7,12
+Johan Mojica,Mallorca,0,3,3,25.0,0.0,25.0,12
+Alvaro Rodríguez,Elche,1,2,3,23.1,7.7,15.4,10
+Alejandro Catena,Osasuna,1,1,2,22.2,11.1,11.1,12
+José Ángel Carmona,Sevilla,1,3,4,22.2,5.6,16.7,11
+Víctor Muñoz,Osasuna,1,1,2,22.2,11.1,11.1,12
+Rubén García,Osasuna,0,2,2,22.2,0.0,22.2,10
+Robert Lewandowski,Barcelona,7,0,7,21.9,21.9,0.0,9
+Ferrán Jutglà,Celta Vigo,2,1,3,20.0,13.3,6.7,10
+Óscar Mingueza,Celta Vigo,1,2,3,20.0,6.7,13.3,11
+Javier Rueda,Celta Vigo,1,2,3,20.0,6.7,13.3,7
+Edu Expósito,Espanyol,0,3,3,20.0,0.0,20.0,11
+Ferrán Torres,Barcelona,5,1,6,18.8,15.6,3.1,11
+Carlos Álvarez,Levante,2,1,3,18.8,12.5,6.2,12
+Jeremy Toljan,Levante,1,2,3,18.8,6.2,12.5,12
+Lucas Boyé,Alaves,2,0,2,18.2,18.2,0.0,8
+Azz-Eddine Ounahi,Girona,2,0,2,18.2,18.2,0.0,7
+Diego López,Valencia,2,0,2,18.2,18.2,0.0,12
+Vladyslav Vanat,Girona,2,0,2,18.2,18.2,0.0,9
+Baptiste Santamaria,Valencia,1,1,2,18.2,9.1,9.1,12
+Arnau Martinez,Girona,1,1,2,18.2,9.1,9.1,11
+Viktor Tsygankov,Girona,1,1,2,18.2,9.1,9.1,6
+Bryan Gil Salvatierra,Girona,0,2,2,18.2,0.0,18.2,9
+Javier Guerra,Valencia,0,2,2,18.2,0.0,18.2,12
+Antoine Griezmann,Atletico Madrid,4,0,4,16.7,16.7,0.0,12
+Tajon Buchanan,Villarreal,4,0,4,16.7,16.7,0.0,12
+Isaac Romero,Sevilla,3,0,3,16.7,16.7,0.0,10
+Alexis Sánchez,Sevilla,2,1,3,16.7,11.1,5.6,7
+Santiago Comesaña,Villarreal,2,2,4,16.7,8.3,8.3,11
+Georges Mikautadze,Villarreal,2,2,4,16.7,8.3,8.3,7
+Roberto Navarro,Athletic Club,2,0,2,16.7,16.7,0.0,11
+Mario Martín,Getafe,2,0,2,16.7,16.7,0.0,12
+Akor Adams,Sevilla,2,1,3,16.7,11.1,5.6,10
+Christantus Uche,Getafe,1,1,2,16.7,8.3,8.3,3
+Unai López,Rayo Vallecano,0,2,2,16.7,0.0,16.7,11
+Jan Virgili,Mallorca,0,2,2,16.7,0.0,16.7,7
+Giovani Lo Celso,Real Betis,1,2,3,15.8,5.3,10.5,11
+Raphinha,Barcelona,3,2,5,15.6,9.4,6.2,6
+Fermín López,Barcelona,3,2,5,15.6,9.4,6.2,8
+German Valera,Elche,1,1,2,15.4,7.7,7.7,11
+Federico Valverde,Real Madrid,0,4,4,15.4,0.0,15.4,12
+Álvaro Núñez,Elche,0,2,2,15.4,0.0,15.4,12
+Martim Neto,Elche,0,2,2,15.4,0.0,15.4,9
+Gonçalo Guedes,Real Sociedad,1,1,2,14.3,7.1,7.1,12
+Leander Dendoncker,Real Oviedo,1,0,1,14.3,14.3,0.0,11
+Luka Ilic,Real Oviedo,1,0,1,14.3,14.3,0.0,11
+Alberto Reina,Real Oviedo,1,0,1,14.3,14.3,0.0,11
+Federico Viñas,Real Oviedo,1,0,1,14.3,14.3,0.0,10
+David Carmo,Real Oviedo,1,0,1,14.3,14.3,0.0,9
+Haissem Hassan,Real Oviedo,0,1,1,14.3,0.0,14.3,11
+Santiago Colombatto,Real Oviedo,0,1,1,14.3,0.0,14.3,8
+Lucas Ahijado,Real Oviedo,0,1,1,14.3,0.0,14.3,5
+Kike García,Espanyol,2,0,2,13.3,13.3,0.0,11
+Javi Puado,Espanyol,2,0,2,13.3,13.3,0.0,8
+Pablo Durán,Celta Vigo,2,0,2,13.3,13.3,0.0,10
+Iago Aspas,Celta Vigo,1,1,2,13.3,6.7,6.7,10
+Sergio Carreira,Celta Vigo,1,1,2,13.3,6.7,6.7,9
+Omar El Hilali,Espanyol,0,2,2,13.3,0.0,13.3,12
+Gerard Moreno,Villarreal,3,0,3,12.5,12.5,0.0,5
+Nicolas Pepe,Villarreal,2,1,3,12.5,8.3,4.2,12
+Pape Alassane Gueye,Villarreal,2,1,3,12.5,8.3,4.2,11
+Thiago Almada,Atletico Madrid,2,1,3,12.5,8.3,4.2,7
+Manuel Sánchez,Levante,1,1,2,12.5,6.2,6.2,11
+Marcos Llorente,Atletico Madrid,0,3,3,12.5,0.0,12.5,12
+Jude Bellingham,Real Madrid,2,1,3,11.5,7.7,3.8,8
+Raul García,Osasuna,1,0,1,11.1,11.1,0.0,12
+Lucien Agoume,Sevilla,1,1,2,11.1,5.6,5.6,9
+Iker Benito,Osasuna,1,0,1,11.1,11.1,0.0,5
+Abel Bretones,Osasuna,1,0,1,11.1,11.1,0.0,10
+Valentin Rosier,Osasuna,0,1,1,11.1,0.0,11.1,8
+Jon Moncayola,Osasuna,0,1,1,11.1,0.0,11.1,12
+Héctor Bellerín,Real Betis,0,2,2,10.5,0.0,10.5,12
+Pedri,Barcelona,2,1,3,9.4,6.2,3.1,10
+Dani Olmo,Barcelona,1,2,3,9.4,3.1,6.2,10
+Denis Suárez,Alaves,1,0,1,9.1,9.1,0.0,10
+Axel Witsel,Girona,1,0,1,9.1,9.1,0.0,9
+Mouctar Diakhaby,Valencia,1,0,1,9.1,9.1,0.0,7
+Ander Guevara,Alaves,1,0,1,9.1,9.1,0.0,7
+Nahuel Tenaglia,Alaves,1,0,1,9.1,9.1,0.0,11
+Joel Roca,Girona,1,0,1,9.1,9.1,0.0,9
+Thomas Lemar,Girona,0,1,1,9.1,0.0,9.1,5
+Raba,Valencia,0,1,1,9.1,0.0,9.1,9
+Iván Martín,Girona,0,1,1,9.1,0.0,9.1,10
+Largie Ramazani,Valencia,0,1,1,9.1,0.0,9.1,5
+Filip Ugrinic,Valencia,0,1,1,9.1,0.0,9.1,4
+Alexander Sørloth,Atletico Madrid,2,0,2,8.3,8.3,0.0,11
+Pablo Maffeo,Mallorca,1,0,1,8.3,8.3,0.0,8
+Iñaki Williams,Athletic Club,1,0,1,8.3,8.3,0.0,9
+Mauro Arambarri,Getafe,1,0,1,8.3,8.3,0.0,12
+Takuma Asano,Mallorca,1,0,1,8.3,8.3,0.0,7
+Gorka Guruzeta,Athletic Club,1,0,1,8.3,8.3,0.0,10
+Oihan Sancet,Athletic Club,1,0,1,8.3,8.3,0.0,9
+Mateu Morey,Mallorca,1,0,1,8.3,8.3,0.0,9
+Álex Baena,Atletico Madrid,1,1,2,8.3,4.2,4.2,7
+Alfonso Espino,Rayo Vallecano,1,0,1,8.3,8.3,0.0,8
+Aitor Paredes,Athletic Club,1,0,1,8.3,8.3,0.0,7
+Juan Iglesias,Getafe,1,0,1,8.3,8.3,0.0,11
+Manor Solomon,Villarreal,1,1,2,8.3,4.2,4.2,4
+Fran Pérez,Rayo Vallecano,1,0,1,8.3,8.3,0.0,9
+Samú Costa,Mallorca,1,0,1,8.3,8.3,0.0,10
+Mikel Jauregizar,Athletic Club,1,0,1,8.3,8.3,0.0,12
+Maroan Sannadi,Athletic Club,1,0,1,8.3,8.3,0.0,8
+Alejandro Rego,Athletic Club,1,0,1,8.3,8.3,0.0,7
+Tani Oluwaseyi,Villarreal,1,1,2,8.3,4.2,4.2,9
+Alemão,Rayo Vallecano,1,0,1,8.3,8.3,0.0,9
+Koke,Atletico Madrid,0,2,2,8.3,0.0,8.3,11
+Aymeric Laporte,Athletic Club,0,1,1,8.3,0.0,8.3,8
+Sergi Darder,Mallorca,0,1,1,8.3,0.0,8.3,12
+Andoni Gorosabel,Athletic Club,0,1,1,8.3,0.0,8.3,5
+Andrei Ratiu,Rayo Vallecano,0,1,1,8.3,0.0,8.3,12
+Abdelkabir Abqar,Getafe,0,1,1,8.3,0.0,8.3,7
+Jesús Areso,Athletic Club,0,1,1,8.3,0.0,8.3,11
+Pablo Torre,Mallorca,0,1,1,8.3,0.0,8.3,11
+Sergi Cardona,Villarreal,0,2,2,8.3,0.0,8.3,10
+Marc Domenech,Mallorca,0,1,1,8.3,0.0,8.3,7
+Ismael Bekhoucha,Getafe,0,1,1,8.3,0.0,8.3,3
+Alex Sancris,Getafe,0,1,1,8.3,0.0,8.3,7
+Eder Militão,Real Madrid,1,1,2,7.7,3.8,3.8,10
+John Donald,Elche,1,0,1,7.7,7.7,0.0,8
+Rodrigo Mendoza,Elche,1,0,1,7.7,7.7,0.0,9
+Pedro Bigas,Elche,0,1,1,7.7,0.0,7.7,10
+Brahim Diaz,Real Madrid,0,2,2,7.7,0.0,7.7,9
+Josan,Elche,0,1,1,7.7,0.0,7.7,6
+Álvaro Odriozola,Real Sociedad,1,0,1,7.1,7.1,0.0,1
+Carlos Soler,Real Sociedad,1,0,1,7.1,7.1,0.0,9
+Takefusa Kubo,Real Sociedad,1,0,1,7.1,7.1,0.0,10
+Orri Óskarsson,Real Sociedad,1,0,1,7.1,7.1,0.0,3
+Jon Gorrotxategi,Real Sociedad,1,0,1,7.1,7.1,0.0,11
+Leandro Cabrera,Espanyol,1,0,1,6.7,6.7,0.0,11
+Miguel Ángel Rubio,Espanyol,1,0,1,6.7,6.7,0.0,5
+Pol Lozano,Espanyol,1,0,1,6.7,6.7,0.0,12
+Hugo Álvarez,Celta Vigo,1,0,1,6.7,6.7,0.0,7
+Miguel Román,Celta Vigo,1,0,1,6.7,6.7,0.0,4
+Ilaix Moriba,Celta Vigo,0,1,1,6.7,0.0,6.7,12
+Hugo Sotelo,Celta Vigo,0,1,1,6.7,0.0,6.7,11
+Clemens Riedel,Espanyol,0,1,1,6.7,0.0,6.7,6
+Tyrhys Dolan,Espanyol,0,1,1,6.7,0.0,6.7,12
+Ronald Araújo,Barcelona,2,0,2,6.2,6.2,0.0,10
+Morales,Levante,1,0,1,6.2,6.2,0.0,12
+Goduine Koyalipou,Levante,1,0,1,6.2,6.2,0.0,8
+Kervin Arriaga,Levante,1,0,1,6.2,6.2,0.0,9
+Frenkie de Jong,Barcelona,0,2,2,6.2,0.0,6.2,10
+Pablo Martínez,Levante,0,1,1,6.2,0.0,6.2,9
+Jon Ander Olasagasti,Levante,0,1,1,6.2,0.0,6.2,9
+Roger Brugué,Levante,0,1,1,6.2,0.0,6.2,12
+Djibril Sow,Sevilla,1,0,1,5.6,5.6,0.0,8
+Dodi Lukebakio,Sevilla,1,0,1,5.6,5.6,0.0,2
+Nemanja Gudelj,Sevilla,1,0,1,5.6,5.6,0.0,10
+Alfon,Sevilla,1,0,1,5.6,5.6,0.0,6
+Peque,Sevilla,1,0,1,5.6,5.6,0.0,9
+Juanlu Sanchez,Sevilla,0,1,1,5.6,0.0,5.6,10
+Chidera Ejuke,Sevilla,0,1,1,5.6,0.0,5.6,9
+Gabriel Suazo,Sevilla,0,1,1,5.6,0.0,5.6,10
+Cédric Bakambu,Real Betis,1,0,1,5.3,5.3,0.0,7
+Marc Bartra,Real Betis,1,0,1,5.3,5.3,0.0,8
+Aitor Ruibal,Real Betis,1,0,1,5.3,5.3,0.0,8
+Ricardo Rodríguez,Real Betis,0,1,1,5.3,0.0,5.3,7
+Júnior Firpo,Real Betis,0,1,1,5.3,0.0,5.3,6
+Rodrigo Riquelme,Real Betis,0,1,1,5.3,0.0,5.3,9
+Sergi Altimira,Real Betis,0,1,1,5.3,0.0,5.3,7
+Ayoze Pérez,Villarreal,1,0,1,4.2,4.2,0.0,5
+Nicolás González,Atletico Madrid,1,0,1,4.2,4.2,0.0,9
+Robin Le Normand,Atletico Madrid,1,0,1,4.2,4.2,0.0,10
+Conor Gallagher,Atletico Madrid,1,0,1,4.2,4.2,0.0,12
+Rafa Marín,Villarreal,1,0,1,4.2,4.2,0.0,9
+Pablo Barrios Rivas,Atletico Madrid,1,0,1,4.2,4.2,0.0,11
+Alfonso,Villarreal,0,1,1,4.2,0.0,4.2,9
+David Hancko,Atletico Madrid,0,1,1,4.2,0.0,4.2,12
+Yeremi Pino,Villarreal,0,1,1,4.2,0.0,4.2,2
+Santiago Mouriño,Villarreal,0,1,1,4.2,0.0,4.2,9
+Álvaro Fernández,Real Madrid,1,0,1,3.8,3.8,0.0,12
+Franco Mastantuono,Real Madrid,1,0,1,3.8,3.8,0.0,9
+Dean Huijsen,Real Madrid,0,1,1,3.8,0.0,3.8,10
+Jules Koundé,Barcelona,1,0,1,3.1,3.1,0.0,11
+Eric Garcia,Barcelona,1,0,1,3.1,3.1,0.0,12
+Gavi,Barcelona,0,1,1,3.1,0.0,3.1,2
+Álex Balde,Barcelona,0,1,1,3.1,0.0,3.1,8
+Marc Casadó,Barcelona,0,1,1,3.1,0.0,3.1,8
+Marc Bernal,Barcelona,0,1,1,3.1,0.0,3.1,3
+Andreas Christensen,Barcelona,0,0,0,0.0,0.0,0.0,8
+Ørjan Nyland,Sevilla,0,0,0,0.0,0.0,0.0,4
+Adnan Januzaj,Sevilla,0,0,0,0.0,0.0,0.0,6
+Odisseas Vlachodimos,Sevilla,0,0,0,0.0,0.0,0.0,8
+David Alaba,Real Madrid,0,0,0,0.0,0.0,0.0,3
+Daley Blind,Girona,0,0,0,0.0,0.0,0.0,12
+Nyom,Getafe,0,0,0,0.0,0.0,0.0,3
+Thibaut Courtois,Real Madrid,0,0,0,0.0,0.0,0.0,12
+César Azpilicueta,Sevilla,0,0,0,0.0,0.0,0.0,7
+Juanmi,Getafe,0,0,0,0.0,0.0,0.0,2
+Santiago Cazorla,Real Oviedo,0,0,0,0.0,0.0,0.0,7
+Paulo Gazzaniga,Girona,0,0,0,0.0,0.0,0.0,11
+Wojciech Szczesny,Barcelona,0,0,0,0.0,0.0,0.0,6
+Umar Sadiq,Real Sociedad,0,0,0,0.0,0.0,0.0,3
+Marcos Alonso,Celta Vigo,0,0,0,0.0,0.0,0.0,9
+Eric Bailly,Real Oviedo,0,0,0,0.0,0.0,0.0,3
+Ovie Ejaria,Real Oviedo,0,0,0,0.0,0.0,0.0,5
+Trent Alexander-Arnold,Real Madrid,0,0,0,0.0,0.0,0.0,5
+Antonio Rüdiger,Real Madrid,0,0,0,0.0,0.0,0.0,1
+Ionut Radu,Celta Vigo,0,0,0,0.0,0.0,0.0,12
+David López,Girona,0,0,0,0.0,0.0,0.0,3
+Pau López,Real Betis,0,0,0,0.0,0.0,0.0,7
+Diego Llorente,Real Betis,0,0,0,0.0,0.0,0.0,1
+Moi Gómez,Osasuna,0,0,0,0.0,0.0,0.0,10
+Aritz Elustondo,Real Sociedad,0,0,0,0.0,0.0,0.0,4
+Yuri,Athletic Club,0,0,0,0.0,0.0,0.0,12
+Daniel Carvajal,Real Madrid,0,0,0,0.0,0.0,0.0,7
+Jan Oblak,Atletico Madrid,0,0,0,0.0,0.0,0.0,12
+Giménez,Atletico Madrid,0,0,0,0.0,0.0,0.0,4
+Jonny,Alaves,0,0,0,0.0,0.0,0.0,12
+Thomas Partey,Villarreal,0,0,0,0.0,0.0,0.0,11
+Aarón,Real Oviedo,0,0,0,0.0,0.0,0.0,12
+Daniel Parejo,Villarreal,0,0,0,0.0,0.0,0.0,10
+Mat Ryan,Levante,0,0,0,0.0,0.0,0.0,10
+Íñigo Lekue,Athletic Club,0,0,0,0.0,0.0,0.0,3
+David Soria,Getafe,0,0,0,0.0,0.0,0.0,12
+Igor Zubeldia,Real Sociedad,0,0,0,0.0,0.0,0.0,12
+Dani Ceballos,Real Madrid,0,0,0,0.0,0.0,0.0,9
+Omar Mascarell,Mallorca,0,0,0,0.0,0.0,0.0,6
+Toni Lato,Mallorca,0,0,0,0.0,0.0,0.0,4
+José Gayá,Valencia,0,0,0,0.0,0.0,0.0,10
+Dimitri Foulquier,Valencia,0,0,0,0.0,0.0,0.0,7
+Pepelu,Valencia,0,0,0,0.0,0.0,0.0,10
+Remiro,Real Sociedad,0,0,0,0.0,0.0,0.0,12
+Raíllo,Mallorca,0,0,0,0.0,0.0,0.0,12
+Dani Calvo,Real Oviedo,0,0,0,0.0,0.0,0.0,6
+Gerard Gumbau,Rayo Vallecano,0,0,0,0.0,0.0,0.0,6
+Óscar Trejo,Rayo Vallecano,0,0,0,0.0,0.0,0.0,4
+Álex Moreno,Girona,0,0,0,0.0,0.0,0.0,11
+David Costas,Real Oviedo,0,0,0,0.0,0.0,0.0,7
+Javi Muñoz,Getafe,0,0,0,0.0,0.0,0.0,4
+Kiko Femenía,Getafe,0,0,0,0.0,0.0,0.0,8
+Clement Lenglet,Atletico Madrid,0,0,0,0.0,0.0,0.0,5
+Diego Rico,Getafe,0,0,0,0.0,0.0,0.0,11
+Florian Lejeune,Rayo Vallecano,0,0,0,0.0,0.0,0.0,12
+Mikel Vesga,Athletic Club,0,0,0,0.0,0.0,0.0,9
+Marc Roca,Real Betis,0,0,0,0.0,0.0,0.0,7
+Alex Berenguer,Athletic Club,0,0,0,0.0,0.0,0.0,10
+Mariano,Alaves,0,0,0,0.0,0.0,0.0,8
+Kike Barja,Osasuna,0,0,0,0.0,0.0,0.0,9
+Nacho Vidal,Real Oviedo,0,0,0,0.0,0.0,0.0,9
+Jon Guridi,Alaves,0,0,0,0.0,0.0,0.0,8
+Unai Simón,Athletic Club,0,0,0,0.0,0.0,0.0,12
+Josip Brekalo,Real Oviedo,0,0,0,0.0,0.0,0.0,9
+Iván Balliu,Rayo Vallecano,0,0,0,0.0,0.0,0.0,4
+Mihailo Ristic,Celta Vigo,0,0,0,0.0,0.0,0.0,4
+Antonio Sivera,Alaves,0,0,0,0.0,0.0,0.0,12
+Portu,Girona,0,0,0,0.0,0.0,0.0,10
+Djené Dakonam,Getafe,0,0,0,0.0,0.0,0.0,12
+Luiz Felipe,Rayo Vallecano,0,0,0,0.0,0.0,0.0,4
+Marko Dmitrovic,Espanyol,0,0,0,0.0,0.0,0.0,12
+Diego Pampín,Levante,0,0,0,0.0,0.0,0.0,3
+Juan Foyth,Villarreal,0,0,0,0.0,0.0,0.0,7
+Marash Kumbulla,Mallorca,0,0,0,0.0,0.0,0.0,4
+Aurelien Tchouameni,Real Madrid,0,0,0,0.0,0.0,0.0,11
+Manuel Morlanes,Mallorca,0,0,0,0.0,0.0,0.0,10
+Grady Diangana,Elche,0,0,0,0.0,0.0,0.0,4
+Sergio Gómez,Real Sociedad,0,0,0,0.0,0.0,0.0,12
+Dani Vivian,Athletic Club,0,0,0,0.0,0.0,0.0,11
+Fernando Calero,Espanyol,0,0,0,0.0,0.0,0.0,8
+Fran Beltrán,Celta Vigo,0,0,0,0.0,0.0,0.0,6
+Ezequiel Ávila,Real Betis,0,0,0,0.0,0.0,0.0,4
+Duje Caleta-Car,Real Sociedad,0,0,0,0.0,0.0,0.0,8
+Lucas Torró,Osasuna,0,0,0,0.0,0.0,0.0,11
+Iñaki Peña,Elche,0,0,0,0.0,0.0,0.0,6
+Aihen Muñoz,Real Sociedad,0,0,0,0.0,0.0,0.0,9
+Eduardo Camavinga,Real Madrid,0,0,0,0.0,0.0,0.0,8
+Javi Galán,Atletico Madrid,0,0,0,0.0,0.0,0.0,5
+Alex Sola,Getafe,0,0,0,0.0,0.0,0.0,1
+Giacomo Raspadori,Atletico Madrid,0,0,0,0.0,0.0,0.0,7
+Sergio Camello,Rayo Vallecano,0,0,0,0.0,0.0,0.0,6
+Abel Ruiz,Girona,0,0,0,0.0,0.0,0.0,1
+Leo Petrot,Elche,0,0,0,0.0,0.0,0.0,11
+Moussa Diarra,Alaves,0,0,0,0.0,0.0,0.0,3
+Carl Starfelt,Celta Vigo,0,0,0,0.0,0.0,0.0,6
+Iker Losada,Levante,0,0,0,0.0,0.0,0.0,3
+Joseph Aidoo,Celta Vigo,0,0,0,0.0,0.0,0.0,1
+Martin Valjent,Mallorca,0,0,0,0.0,0.0,0.0,12
+Dani Rodríguez,Mallorca,0,0,0,0.0,0.0,0.0,2
+Aleix Febas,Elche,0,0,0,0.0,0.0,0.0,12
+Sergio Herrera,Osasuna,0,0,0,0.0,0.0,0.0,12
+Domingos Duarte,Getafe,0,0,0,0.0,0.0,0.0,10
+Sheraldo Becker,Osasuna,0,0,0,0.0,0.0,0.0,6
+Sofyan Amrabat,Real Betis,0,0,0,0.0,0.0,0.0,7
+Nianzou Kouassi,Sevilla,0,0,0,0.0,0.0,0.0,5
+Abdón Prats,Mallorca,0,0,0,0.0,0.0,0.0,6
+Rodrygo,Real Madrid,0,0,0,0.0,0.0,0.0,10
+Thierry Correia,Valencia,0,0,0,0.0,0.0,0.0,7
+Batista Mendy,Sevilla,0,0,0,0.0,0.0,0.0,8
+Unai Vencedor,Levante,0,0,0,0.0,0.0,0.0,7
+Javier López,Real Oviedo,0,0,0,0.0,0.0,0.0,4
+Sergio Lozano,Levante,0,0,0,0.0,0.0,0.0,1
+Jon Pacheco Dozagarat,Alaves,0,0,0,0.0,0.0,0.0,6
+Aimar Oroz,Osasuna,0,0,0,0.0,0.0,0.0,6
+Víctor García,Levante,0,0,0,0.0,0.0,0.0,7
+Arnau Tenas,Villarreal,0,0,0,0.0,0.0,0.0,3
+Yvan Neyou,Getafe,0,0,0,0.0,0.0,0.0,4
+Juan Cruz,Osasuna,0,0,0,0.0,0.0,0.0,8
+Arsen Zakharyan,Real Sociedad,0,0,0,0.0,0.0,0.0,6
+Oriol Rey,Levante,0,0,0,0.0,0.0,0.0,9
+Donny van de Beek,Girona,0,0,0,0.0,0.0,0.0,2
+Matteo Ruggeri,Atletico Madrid,0,0,0,0.0,0.0,0.0,8
+José Salinas,Espanyol,0,0,0,0.0,0.0,0.0,6
+Mourad El Ghezouani,Elche,0,0,0,0.0,0.0,0.0,2
+Nahuel Molina,Atletico Madrid,0,0,0,0.0,0.0,0.0,8
+Victor Chust,Elche,0,0,0,0.0,0.0,0.0,9
+Jairo Izquierdo,Elche,0,0,0,0.0,0.0,0.0,1
+Jesús Vázquez,Valencia,0,0,0,0.0,0.0,0.0,9
+Antonio Blanco,Alaves,0,0,0,0.0,0.0,0.0,11
+Pablo Cuñat,Levante,0,0,0,0.0,0.0,0.0,2
+Beñat Turrientes,Real Sociedad,0,0,0,0.0,0.0,0.0,6
+Beñat Prados,Athletic Club,0,0,0,0.0,0.0,0.0,2
+Carlos Domínguez,Celta Vigo,0,0,0,0.0,0.0,0.0,6
+Inigo Ruiz de Galarreta,Athletic Club,0,0,0,0.0,0.0,0.0,11
+Joan García,Barcelona,0,0,0,0.0,0.0,0.0,6
+Matías Dituro,Elche,0,0,0,0.0,0.0,0.0,6
+Fran García,Real Madrid,0,0,0,0.0,0.0,0.0,2
+Óscar Valentín,Rayo Vallecano,0,0,0,0.0,0.0,0.0,10
+Randy Nteka,Rayo Vallecano,0,0,0,0.0,0.0,0.0,3
+Pathé Ciss,Rayo Vallecano,0,0,0,0.0,0.0,0.0,12
+Julen Agirrezabala,Valencia,0,0,0,0.0,0.0,0.0,12
+Nicolás Serrano,Athletic Club,0,0,0,0.0,0.0,0.0,4
+Leo Román,Mallorca,0,0,0,0.0,0.0,0.0,10
+Jon Karrikaburu,Real Sociedad,0,0,0,0.0,0.0,0.0,4
+Antonio Sánchez,Mallorca,0,0,0,0.0,0.0,0.0,9
+Rubén Sánchez,Espanyol,0,0,0,0.0,0.0,0.0,7
+César Tárrega,Valencia,0,0,0,0.0,0.0,0.0,12
+Ilias Akhomach,Villarreal,0,0,0,0.0,0.0,0.0,7
+Javi Llabrés,Mallorca,0,0,0,0.0,0.0,0.0,5
+Bryan Zaragoza,Celta Vigo,0,0,0,0.0,0.0,0.0,11
+Marc Pubill,Atletico Madrid,0,0,0,0.0,0.0,0.0,2
+Jofre Carreras,Espanyol,0,0,0,0.0,0.0,0.0,6
+Adrián De la Fuente,Levante,0,0,0,0.0,0.0,0.0,11
+Kike Salas,Sevilla,0,0,0,0.0,0.0,0.0,4
+Eray Cömert,Valencia,0,0,0,0.0,0.0,0.0,2
+Abu Kamara,Getafe,0,0,0,0.0,0.0,0.0,6
+Damián Rodríguez,Celta Vigo,0,0,0,0.0,0.0,0.0,2
+Luca Koleosho,Espanyol,0,0,0,0.0,0.0,0.0,3
+Pablo Ibáñez,Alaves,0,0,0,0.0,0.0,0.0,12
+Jorge Herrando,Osasuna,0,0,0,0.0,0.0,0.0,8
+Williot Swedberg,Celta Vigo,0,0,0,0.0,0.0,0.0,6
+Charles Pickel,Espanyol,0,0,0,0.0,0.0,0.0,7
+Ramón Terrats,Espanyol,0,0,0,0.0,0.0,0.0,7
+Copete,Valencia,0,0,0,0.0,0.0,0.0,9
+Marcão,Sevilla,0,0,0,0.0,0.0,0.0,10
+André Almeida,Valencia,0,0,0,0.0,0.0,0.0,6
+Pablo Marín,Real Sociedad,0,0,0,0.0,0.0,0.0,12
+Manu Bueno,Sevilla,0,0,0,0.0,0.0,0.0,2
+Dawda Camara,Girona,0,0,0,0.0,0.0,0.0,2
+Renato Veiga,Villarreal,0,0,0,0.0,0.0,0.0,11
+Iker Muñoz,Osasuna,0,0,0,0.0,0.0,0.0,4
+Unai Gómez,Athletic Club,0,0,0,0.0,0.0,0.0,6
+Yago Alonso,Elche,0,0,0,0.0,0.0,0.0,1
+Álvaro Vallés,Real Betis,0,0,0,0.0,0.0,0.0,5
+Lucas Bergström,Mallorca,0,0,0,0.0,0.0,0.0,2
+Abderrahmane Rebbach,Alaves,0,0,0,0.0,0.0,0.0,9
+Carlos Benavídez,Alaves,0,0,0,0.0,0.0,0.0,3
+Adrià Alti,Villarreal,0,0,0,0.0,0.0,0.0,1
+Natan,Real Betis,0,0,0,0.0,0.0,0.0,12
+Lucas Beltrán,Valencia,0,0,0,0.0,0.0,0.0,9
+Pau Cubarsí,Barcelona,0,0,0,0.0,0.0,0.0,8
+Gonzalo García,Real Madrid,0,0,0,0.0,0.0,0.0,7
+Dani Pérez,Real Betis,0,0,0,0.0,0.0,0.0,1
+Jhon Solis,Girona,0,0,0,0.0,0.0,0.0,9
+David López,Mallorca,0,0,0,0.0,0.0,0.0,1
+Alan Matturro,Levante,0,0,0,0.0,0.0,0.0,2
+Hector Fort,Elche,0,0,0,0.0,0.0,0.0,5
+Javier Rodríguez,Celta Vigo,0,0,0,0.0,0.0,0.0,10
+Jon Aramburu,Real Sociedad,0,0,0,0.0,0.0,0.0,11
+Hugo Rincón,Girona,0,0,0,0.0,0.0,0.0,11
+Victor Parada,Alaves,0,0,0,0.0,0.0,0.0,10
+Nobel Mendy,Rayo Vallecano,0,0,0,0.0,0.0,0.0,4
+Augusto Batalla,Rayo Vallecano,0,0,0,0.0,0.0,0.0,12
+Johnny Cardoso,Atletico Madrid,0,0,0,0.0,0.0,0.0,3
+Jon Martín,Real Sociedad,0,0,0,0.0,0.0,0.0,4
+Stanis Idumbo Muzambo,Sevilla,0,0,0,0.0,0.0,0.0,1
+Asier Osambela,Osasuna,0,0,0,0.0,0.0,0.0,4
+Yoel Lago,Celta Vigo,0,0,0,0.0,0.0,0.0,4
+Ladislav Krejcí,Girona,0,0,0,0.0,0.0,0.0,2
+Alejandro Francés,Girona,0,0,0,0.0,0.0,0.0,5
+Adama Boiro,Athletic Club,0,0,0,0.0,0.0,0.0,1
+Gerard Martín,Barcelona,0,0,0,0.0,0.0,0.0,10
+Luka Sucic,Real Sociedad,0,0,0,0.0,0.0,0.0,5
+Pedro Díaz,Rayo Vallecano,0,0,0,0.0,0.0,0.0,12
+Pelayo Fernández,Rayo Vallecano,0,0,0,0.0,0.0,0.0,1
+Endrick,Real Madrid,0,0,0,0.0,0.0,0.0,1
+Enzo Boyomo,Osasuna,0,0,0,0.0,0.0,0.0,12
+Antoniu Roca,Espanyol,0,0,0,0.0,0.0,0.0,5
+Pau Navarro,Villarreal,0,0,0,0.0,0.0,0.0,3
+Luiz Júnior,Villarreal,0,0,0,0.0,0.0,0.0,9
+Jan Salas,Mallorca,0,0,0,0.0,0.0,0.0,2
+Bojan Miovski,Girona,0,0,0,0.0,0.0,0.0,1
+Yáser Asprilla,Girona,0,0,0,0.0,0.0,0.0,9
+Coba da Costa,Getafe,0,0,0,0.0,0.0,0.0,10
+Matías Moreno,Levante,0,0,0,0.0,0.0,0.0,9
+Toni Fernández,Barcelona,0,0,0,0.0,0.0,0.0,1
+Ramón Martínez,Sevilla,0,0,0,0.0,0.0,0.0,2
+Raúl,Real Madrid,0,0,0,0.0,0.0,0.0,7
+Youssef Lekhedim,Alaves,0,0,0,0.0,0.0,0.0,9
+Facundo Garcés,Alaves,0,0,0,0.0,0.0,0.0,6
+Jones El Abdellaoui,Celta Vigo,0,0,0,0.0,0.0,0.0,5
+Ángel Ortiz,Real Betis,0,0,0,0.0,0.0,0.0,2
+Pablo García,Real Betis,0,0,0,0.0,0.0,0.0,7
+Vitor Reis,Girona,0,0,0,0.0,0.0,0.0,11
+Vladyslav Krapyvtsov,Girona,0,0,0,0.0,0.0,0.0,2
+Mikel Goti,Real Sociedad,0,0,0,0.0,0.0,0.0,2
+Andrés Castrín,Sevilla,0,0,0,0.0,0.0,0.0,5
+Lander Pinillos,Alaves,0,0,0,0.0,0.0,0.0,1
+Jozhua Vertrouwd,Rayo Vallecano,0,0,0,0.0,0.0,0.0,3
+Samu Becerra,Rayo Vallecano,0,0,0,0.0,0.0,0.0,3
+Oier Luengo,Real Oviedo,0,0,0,0.0,0.0,0.0,2
+Rahim Alhassane,Real Oviedo,0,0,0,0.0,0.0,0.0,11
+Kwasi Sibo,Real Oviedo,0,0,0,0.0,0.0,0.0,7
+Ilyas Chaira,Real Oviedo,0,0,0,0.0,0.0,0.0,11
+Borja Sánchez,Real Oviedo,0,0,0,0.0,0.0,0.0,1
+Marco Esteban,Real Oviedo,0,0,0,0.0,0.0,0.0,1
+Omar Falah,Real Oviedo,0,0,0,0.0,0.0,0.0,1
+Jofre Torrents,Barcelona,0,0,0,0.0,0.0,0.0,2
+Dro Fernández,Barcelona,0,0,0,0.0,0.0,0.0,2
+Calebe,Alaves,0,0,0,0.0,0.0,0.0,8
+Unai Elgezabal,Levante,0,0,0,0.0,0.0,0.0,9
+Jorge Cabello,Levante,0,0,0,0.0,0.0,0.0,3
+Carlos Espí,Levante,0,0,0,0.0,0.0,0.0,4
+Manuel Fernández,Celta Vigo,0,0,0,0.0,0.0,0.0,7
+Davinchi,Getafe,0,0,0,0.0,0.0,0.0,7
+Urko Izeta,Athletic Club,0,0,0,0.0,0.0,0.0,3
+David Affengruber,Elche,0,0,0,0.0,0.0,0.0,11
+Ali Houary,Elche,0,0,0,0.0,0.0,0.0,2
+Marc Aguado,Elche,0,0,0,0.0,0.0,0.0,11
+Federico Redondo,Elche,0,0,0,0.0,0.0,0.0,3
+Bambo Diaby,Elche,0,0,0,0.0,0.0,0.0,2
+Valentín Gómez,Real Betis,0,0,0,0.0,0.0,0.0,9
+Álex Forés,Real Oviedo,0,0,0,0.0,0.0,0.0,6
+Nelson Deossa,Real Betis,0,0,0,0.0,0.0,0.0,4
+Fábio Cardoso,Sevilla,0,0,0,0.0,0.0,0.0,2
+Adam El Mokhtari,Elche,0,0,0,0.0,0.0,0.0,1
+Roony Bardghji,Barcelona,0,0,0,0.0,0.0,0.0,7
+Lancinet Kourouma,Girona,0,0,0,0.0,0.0,0.0,3
+Diego Morcillo,Alaves,0,0,0,0.0,0.0,0.0,1
+Selton Sánchez,Athletic Club,0,0,0,0.0,0.0,0.0,1
+Pablo Agudín,Real Oviedo,0,0,0,0.0,0.0,0.0,2
