@@ -38,12 +38,19 @@ jobs:
           echo "Running full data pipeline at $(date)"
           python main.py 2>&1 | tee logs/pipeline_run.log
           echo "exit_code=$?" >> $GITHUB_OUTPUT
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
       
       - name: Check for changes
         id: check_changes
+        shell: bash
         run: |
-          git diff --quiet data/ || echo "has_changes=true" >> $GITHUB_OUTPUT
-          git diff --quiet data/ && echo "has_changes=false" >> $GITHUB_OUTPUT
+          if git diff --quiet data/; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
       
       - name: Commit and push changes
         if: steps.check_changes.outputs.has_changes == 'true'
