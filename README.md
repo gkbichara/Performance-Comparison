@@ -1,10 +1,10 @@
-# ⚽ Season Differentials — Real-Time Team Over/Underperformance Tracker
+# The Gaffer's Notebook — European Football Intelligence Platform
 
 ## Overview
 
-**Season Differentials** is a data project that compares how every football (soccer) team across **Europe's Top 5 Leagues** is performing this season versus the same stage last season.
+**The Gaffer's Notebook** is a data pipeline that tracks how every club across **Europe's Top 5 Leagues** is trending year-over-year, both at the team level and the player level. It combines results from [football-data.co.uk](https://www.football-data.co.uk/) with player metrics from [Understat.com](https://understat.com/), pushes everything into Supabase each night, and exposes clean CSVs plus a database you can query or build dashboards on top of.
 
-Instead of just showing current league tables, this tool measures *how much better or worse* each team is doing **against the same opponents and venues** they faced last year.
+Instead of just showing league tables, the project measures *how much better or worse* each team is doing **against the same opponents and venues** they faced last year, and how much each player contributes to their club's goal-scoring and (soon) xG output.
 
 **Leagues Covered:**
 - 🇮🇹 Serie A
@@ -52,28 +52,30 @@ Fixtures involving newly promoted or relegated teams are **excluded** to avoid b
 ## 🛠️ Project Structure
 
 ```
-Performance-Comparison/
-├── main.py                 # Pipeline orchestrator (runs all scripts)
-├── config.py               # Centralized configuration (leagues, paths, constants)
-├── analysis.py             # YoY team performance analysis
-├── scraper.py              # Data fetching from football-data.co.uk
-├── understat_scraper.py    # Player contribution analysis (Understat)
-├── run_update.sh           # Automated update script (local cron)
-├── requirements.txt        # Python dependencies
-├── .github/
-│   └── workflows/
-│       └── update-data.yml # GitHub Actions automation
+gaffers-notebook/
+├── src/
+│   ├── __init__.py
+│   ├── main.py              # Pipeline orchestrator
+│   ├── config.py            # Centralized configuration (leagues, paths, constants)
+│   ├── analysis.py          # YoY team performance analysis
+│   ├── scraper.py           # Data fetching from football-data.co.uk
+│   ├── understat_scraper.py # Player contribution analysis (Understat)
+│   └── database.py          # Supabase upload helpers
 ├── data/
 │   ├── serie_a/
 │   │   ├── 2425.csv           # Historical season data
 │   │   ├── 2526.csv           # Current season data
 │   │   ├── results.csv        # Team YoY comparison
-│   │   └── player_results.csv # Player contributions
+│   │   ├── player_results_2425.csv # Player contributions (season tagged)
+│   │   └── player_results_2526.csv
 │   ├── premier_league/
 │   ├── la_liga/
 │   ├── bundesliga/
 │   └── ligue_1/
 ├── logs/                   # Execution logs from automated runs
+├── run_update.sh           # Automated update script (local cron)
+├── requirements.txt        # Python dependencies
+├── .github/workflows/update-data.yml
 └── README.md
 ```
 
@@ -124,6 +126,7 @@ Each league produces a `results.csv` file in `data/[League]/` containing:
 | `Date` | Match date |
 | `Opponent` | Opposition team |
 | `Venue` | Home (H) or Away (A) |
+| `Result` | Win / Draw / Loss for the current season |
 | `FTHG` / `FTAG` | Full-time goals (home/away) |
 | `Points_cur` | Points earned this season |
 | `Points_prev` | Points earned last season (same fixture) |
@@ -146,7 +149,7 @@ Roma  5             Fiorentina  +3.0          +5.0
 
 In addition to team performance, the project analyzes individual player contributions using data from [Understat.com](https://understat.com/).
 
-Each league produces a `player_results.csv` file containing:
+Each league produces per-season `player_results_<season>.csv` files containing:
 
 | Column | Description |
 |--------|-------------|
@@ -175,8 +178,8 @@ Each league produces a `player_results.csv` file containing:
 
 ```bash
 # Clone the repo
-git clone https://github.com/galalbichara/season-differentials.git
-cd Performance-Comparison
+git clone https://github.com/gkbichara/gaffers-notebook.git
+cd gaffers-notebook
 
 # Create and activate virtual environment
 python3 -m venv venv
@@ -186,10 +189,21 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+### 1.5 Configure Environment Variables
+
+Create a `.env` file (not tracked by git) with your Supabase credentials:
+
+```
+SUPABASE_URL=your_project_url
+SUPABASE_KEY=your_service_role_key
+```
+
+GitHub Actions also needs these values. Add `SUPABASE_URL` and `SUPABASE_KEY` as repository secrets under **Settings → Secrets and variables → Actions**.
+
 ### 2. Run Full Pipeline (Recommended)
 
 ```bash
-python main.py
+python -m src.main
 ```
 
 This runs the complete pipeline:
@@ -202,13 +216,13 @@ This runs the complete pipeline:
 
 ```bash
 # Just scrape team data
-python scraper.py
+python -m src.scraper
 
 # Just run YoY team analysis
-python analysis.py
+python -m src.analysis
 
 # Just analyze player contributions
-python understat_scraper.py
+python -m src.understat_scraper
 ```
 
 Output:
@@ -240,8 +254,8 @@ team_df = pd.read_csv('data/serie_a/results.csv')
 roma = team_df[team_df['Team'] == 'Roma']
 print(roma[['Match_Number', 'Opponent', 'Differential', 'Cumulative']])
 
-# Load player contribution data
-player_df = pd.read_csv('data/serie_a/player_results.csv')
+# Load season-specific player contribution data
+player_df = pd.read_csv('data/serie_a/player_results_2526.csv')
 
 # View top contributors
 top_players = player_df.nlargest(20, 'contribution_pct')
@@ -306,11 +320,10 @@ tail -f logs/update_*.log
 ```
 
 The `run_update.sh` script:
-- ✅ Activates virtual environment
-- ✅ Runs scraper to fetch latest data
-- ✅ Runs analysis on all leagues
+- ✅ Activates the virtual environment
+- ✅ Executes `python -m src.main` so imports behave exactly like CI
 - ✅ Logs all output with timestamps
-- ✅ Keeps last 10 log files automatically
+- ✅ Retains only the 10 most recent log files
 
 ---
 
