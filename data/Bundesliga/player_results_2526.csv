@@ -1,0 +1,407 @@
+player,team,goals,assists,contributions,contribution_pct,goals_pct,assists_pct,games,season
+Haris Tabakovic,Borussia M.Gladbach,6,2,8,61.5,46.2,15.4,9,2526
+Harry Kane,Bayern Munich,13,3,16,45.7,37.1,8.6,10,2526
+Mohammed Amoura,Wolfsburg,4,1,5,41.7,33.3,8.3,10,2526
+Nadiem Amiri,Mainz 05,3,1,4,40.0,30.0,10.0,10,2526
+Serhou Guirassy,Borussia Dortmund,5,1,6,37.5,31.2,6.2,9,2526
+Fabian Rieder,Augsburg,3,2,5,35.7,21.4,14.3,8,2526
+Christoph Baumgartner,RasenBallsport Leipzig,5,2,7,35.0,25.0,10.0,10,2526
+Rômulo,RasenBallsport Leipzig,4,3,7,35.0,20.0,15.0,10,2526
+Can Uzun,Eintracht Frankfurt,5,3,8,34.8,21.7,13.0,9,2526
+Fisnik Asllani,Hoffenheim,5,2,7,33.3,23.8,9.5,10,2526
+Rayan Philippe,Hamburger SV,3,0,3,33.3,33.3,0.0,10,2526
+Andréas Hountondji,St. Pauli,3,0,3,33.3,33.3,0.0,9,2526
+Danel Sinani,St. Pauli,2,1,3,33.3,22.2,11.1,10,2526
+Danilho Doekhi,Union Berlin,4,0,4,30.8,30.8,0.0,10,2526
+Ilyas Ansah,Union Berlin,4,0,4,30.8,30.8,0.0,10,2526
+Vincenzo Grifo,Freiburg,3,1,4,30.8,23.1,7.7,10,2526
+Andrej Ilic,Union Berlin,0,4,4,30.8,0.0,30.8,9,2526
+Jakub Kaminski,FC Cologne,4,1,5,29.4,23.5,5.9,10,2526
+Said El Mala,FC Cologne,4,1,5,29.4,23.5,5.9,10,2526
+Marius Bülter,FC Cologne,2,3,5,29.4,11.8,17.6,8,2526
+Álex Grimaldo,Bayer Leverkusen,4,3,7,29.2,16.7,12.5,9,2526
+Luis Díaz,Bayern Munich,6,4,10,28.6,17.1,11.4,10,2526
+Andrej Kramaric,Hoffenheim,3,3,6,28.6,14.3,14.3,10,2526
+Mert Kömür,Augsburg,2,2,4,28.6,14.3,14.3,9,2526
+Jens Stage,Werder Bremen,4,0,4,26.7,26.7,0.0,8,2526
+Samuel Mbangula,Werder Bremen,3,1,4,26.7,20.0,6.7,9,2526
+Romano Schmid,Werder Bremen,2,2,4,26.7,13.3,13.3,10,2526
+Jonathan Burkardt,Eintracht Frankfurt,6,0,6,26.1,26.1,0.0,9,2526
+Ritsu Doan,Eintracht Frankfurt,3,3,6,26.1,13.0,13.0,10,2526
+Farès Chaïbi,Eintracht Frankfurt,1,5,6,26.1,4.3,21.7,9,2526
+Patrik Schick,Bayer Leverkusen,5,1,6,25.0,20.8,4.2,8,2526
+Ernest Poku,Bayer Leverkusen,4,2,6,25.0,16.7,8.3,9,2526
+Yan Diomande,RasenBallsport Leipzig,3,2,5,25.0,15.0,10.0,10,2526
+Julian Brandt,Borussia Dortmund,2,2,4,25.0,12.5,12.5,8,2526
+Mattias Svanberg,Wolfsburg,2,1,3,25.0,16.7,8.3,9,2526
+Stefan Schimmer,FC Heidenheim,2,0,2,25.0,25.0,0.0,5,2526
+Assan Ouédraogo,RasenBallsport Leipzig,2,3,5,25.0,10.0,15.0,10,2526
+Maximilian Arnold,Wolfsburg,1,2,3,25.0,8.3,16.7,9,2526
+Jonas Föhrenbach,FC Heidenheim,1,1,2,25.0,12.5,12.5,10,2526
+Mikkel Kaufmann,FC Heidenheim,1,1,2,25.0,12.5,12.5,7,2526
+Sirlord Conteh,FC Heidenheim,1,1,2,25.0,12.5,12.5,4,2526
+Grischa Prömel,Hoffenheim,4,1,5,23.8,19.0,4.8,10,2526
+Tim Lemperle,Hoffenheim,4,1,5,23.8,19.0,4.8,9,2526
+Vladimir Coufal,Hoffenheim,1,4,5,23.8,4.8,19.0,10,2526
+Ermedin Demirovic,VfB Stuttgart,3,1,4,23.5,17.6,5.9,6,2526
+Bilal El Khannouss,VfB Stuttgart,2,2,4,23.5,11.8,11.8,8,2526
+Angelo Stiller,VfB Stuttgart,1,3,4,23.5,5.9,17.6,10,2526
+Oliver Burke,Union Berlin,3,0,3,23.1,23.1,0.0,9,2526
+Jean-Luc Dompe,Hamburger SV,2,0,2,22.2,22.2,0.0,9,2526
+Albert Sambi Lokonga,Hamburger SV,2,0,2,22.2,22.2,0.0,7,2526
+Miro Muheim,Hamburger SV,0,2,2,22.2,0.0,22.2,10,2526
+Serge Gnabry,Bayern Munich,4,3,7,20.0,11.4,8.6,9,2526
+Michael Olise,Bayern Munich,4,3,7,20.0,11.4,8.6,10,2526
+Armindo Sieb,Mainz 05,2,0,2,20.0,20.0,0.0,10,2526
+Marco Grüll,Werder Bremen,2,1,3,20.0,13.3,6.7,10,2526
+Kaishu Sano,Mainz 05,1,1,2,20.0,10.0,10.0,10,2526
+Yukinari Sugawara,Werder Bremen,0,3,3,20.0,0.0,20.0,9,2526
+Wouter Burger,Hoffenheim,2,2,4,19.0,9.5,9.5,9,2526
+Bazoumana Touré,Hoffenheim,1,3,4,19.0,4.8,14.3,10,2526
+Maximilian Beier,Borussia Dortmund,2,1,3,18.8,12.5,6.2,9,2526
+Karim Adeyemi,Borussia Dortmund,2,1,3,18.8,12.5,6.2,10,2526
+Julian Ryerson,Borussia Dortmund,0,3,3,18.8,0.0,18.8,9,2526
+Tiago Tomás,VfB Stuttgart,3,0,3,17.6,17.6,0.0,10,2526
+Deniz Undav,VfB Stuttgart,3,0,3,17.6,17.6,0.0,6,2526
+Gian-Luca Waldschmidt,FC Cologne,2,1,3,17.6,11.8,5.9,6,2526
+Maximilian Mittelstädt,VfB Stuttgart,2,1,3,17.6,11.8,5.9,9,2526
+Jan Thielmann,FC Cologne,2,1,3,17.6,11.8,5.9,7,2526
+Ragnar Ache,FC Cologne,1,2,3,17.6,5.9,11.8,10,2526
+Jamie Leweling,VfB Stuttgart,0,3,3,17.6,0.0,17.6,9,2526
+Edmond Tapsoba,Bayer Leverkusen,2,2,4,16.7,8.3,8.3,10,2526
+Adam Daghim,Wolfsburg,2,0,2,16.7,16.7,0.0,8,2526
+Lovro Majer,Wolfsburg,1,1,2,16.7,8.3,8.3,8,2526
+Sael Kumbedi,Wolfsburg,0,2,2,16.7,0.0,16.7,4,2526
+Maximilian Eggestein,Freiburg,2,0,2,15.4,15.4,0.0,10,2526
+Derry Scherhant,Freiburg,2,0,2,15.4,15.4,0.0,9,2526
+Igor Matanovic,Freiburg,2,0,2,15.4,15.4,0.0,8,2526
+Lukas Kübler,Freiburg,1,1,2,15.4,7.7,7.7,8,2526
+Yannick Engelhardt,Borussia M.Gladbach,1,1,2,15.4,7.7,7.7,8,2526
+Junior Adamu,Freiburg,1,1,2,15.4,7.7,7.7,8,2526
+Franck Honorat,Borussia M.Gladbach,0,2,2,15.4,0.0,15.4,7,2526
+Joe Scally,Borussia M.Gladbach,0,2,2,15.4,0.0,15.4,9,2526
+Han-Noah Massengo,Augsburg,1,1,2,14.3,7.1,7.1,10,2526
+Chrislain Matsima,Augsburg,1,1,2,14.3,7.1,7.1,10,2526
+Kristijan Jakic,Augsburg,1,1,2,14.3,7.1,7.1,8,2526
+Robin Fellhauer,Augsburg,1,1,2,14.3,7.1,7.1,10,2526
+Justin Njinmah,Werder Bremen,2,0,2,13.3,13.3,0.0,10,2526
+Victor Boniface,Werder Bremen,0,2,2,13.3,0.0,13.3,8,2526
+Jean Négoce,Eintracht Frankfurt,2,1,3,13.0,8.7,4.3,9,2526
+Nathaniel Brown,Eintracht Frankfurt,1,2,3,13.0,4.3,8.7,10,2526
+Felix Nmecha,Borussia Dortmund,1,1,2,12.5,6.2,6.2,10,2526
+Yan Couto,Borussia Dortmund,1,1,2,12.5,6.2,6.2,6,2526
+Léo Scienza,FC Heidenheim,1,0,1,12.5,12.5,0.0,2,2526
+Budu Zivzivadze,FC Heidenheim,1,0,1,12.5,12.5,0.0,7,2526
+Adam Kölle,FC Heidenheim,1,0,1,12.5,12.5,0.0,5,2526
+Marnon Busch,FC Heidenheim,0,1,1,12.5,0.0,12.5,10,2526
+Arijon Ibrahimovic,FC Heidenheim,0,1,1,12.5,0.0,12.5,10,2526
+Patrick Mainka,FC Heidenheim,0,1,1,12.5,0.0,12.5,10,2526
+Omar Traoré,FC Heidenheim,0,1,1,12.5,0.0,12.5,10,2526
+Chris Führich,VfB Stuttgart,1,1,2,11.8,5.9,5.9,9,2526
+Joshua Vagnoman,VfB Stuttgart,1,1,2,11.8,5.9,5.9,8,2526
+Eric Martel,FC Cologne,0,2,2,11.8,0.0,11.8,10,2526
+Konrad Laimer,Bayern Munich,1,3,4,11.4,2.9,8.6,10,2526
+Hauke Wahl,St. Pauli,1,0,1,11.1,11.1,0.0,9,2526
+Eric Smith,St. Pauli,1,0,1,11.1,11.1,0.0,10,2526
+Adam Dzwigala,St. Pauli,1,0,1,11.1,11.1,0.0,6,2526
+Luka Vuskovic,Hamburger SV,1,0,1,11.1,11.1,0.0,8,2526
+Louis Oppie,St. Pauli,1,0,1,11.1,11.1,0.0,10,2526
+Ransford Königsdörffer,Hamburger SV,1,0,1,11.1,11.1,0.0,10,2526
+Pereira Lage,St. Pauli,0,1,1,11.1,0.0,11.1,10,2526
+Fábio Vieira,Hamburger SV,0,1,1,11.1,0.0,11.1,5,2526
+Nicolai Remberg,Hamburger SV,0,1,1,11.1,0.0,11.1,10,2526
+Connor Metcalfe,St. Pauli,0,1,1,11.1,0.0,11.1,10,2526
+Manolis Saliakas,St. Pauli,0,1,1,11.1,0.0,11.1,8,2526
+Joel Chima Fujita,St. Pauli,0,1,1,11.1,0.0,11.1,10,2526
+Nicolás Capaldo,Hamburger SV,0,1,1,11.1,0.0,11.1,8,2526
+Johan Bakayoko,RasenBallsport Leipzig,2,0,2,10.0,10.0,0.0,9,2526
+Dominik Kohr,Mainz 05,1,0,1,10.0,10.0,0.0,9,2526
+Silvan Widmer,Mainz 05,1,0,1,10.0,10.0,0.0,7,2526
+Paul Nebel,Mainz 05,1,0,1,10.0,10.0,0.0,8,2526
+David Raum,RasenBallsport Leipzig,1,1,2,10.0,5.0,5.0,10,2526
+Jae-Sung Lee,Mainz 05,1,0,1,10.0,10.0,0.0,8,2526
+Antonio Nusa,RasenBallsport Leipzig,1,1,2,10.0,5.0,5.0,9,2526
+Andreas Hanche-Olsen,Mainz 05,0,1,1,10.0,0.0,10.0,9,2526
+Benedict Hollerbach,Mainz 05,0,1,1,10.0,0.0,10.0,6,2526
+Robin Koch,Eintracht Frankfurt,2,0,2,8.7,8.7,0.0,10,2526
+Ansgar Knauff,Eintracht Frankfurt,2,0,2,8.7,8.7,0.0,10,2526
+Hugo Larsson,Eintracht Frankfurt,0,2,2,8.7,0.0,8.7,8,2526
+Joshua Kimmich,Bayern Munich,1,2,3,8.6,2.9,5.7,10,2526
+Raphael Guerreiro,Bayern Munich,1,2,3,8.6,2.9,5.7,6,2526
+Tom Bischof,Bayern Munich,0,3,3,8.6,0.0,8.6,8,2526
+Malik Tillman,Bayer Leverkusen,2,0,2,8.3,8.3,0.0,6,2526
+Ibrahim Maza,Bayer Leverkusen,2,0,2,8.3,8.3,0.0,8,2526
+Christian Kofane,Bayer Leverkusen,2,0,2,8.3,8.3,0.0,9,2526
+Jonas Hofmann,Bayer Leverkusen,1,1,2,8.3,4.2,4.2,7,2526
+Andreas Skov Olsen,Wolfsburg,1,0,1,8.3,8.3,0.0,8,2526
+Aaron Zehnter,Wolfsburg,1,0,1,8.3,8.3,0.0,7,2526
+Christian Eriksen,Wolfsburg,0,1,1,8.3,0.0,8.3,7,2526
+Aleix García,Bayer Leverkusen,0,2,2,8.3,0.0,8.3,10,2526
+Joakim Maehle,Wolfsburg,0,1,1,8.3,0.0,8.3,7,2526
+Patrick Wimmer,Wolfsburg,0,1,1,8.3,0.0,8.3,7,2526
+Kevin Diks,Borussia M.Gladbach,1,0,1,7.7,7.7,0.0,10,2526
+Rani Khedira,Union Berlin,1,0,1,7.7,7.7,0.0,10,2526
+Tom Rothe,Union Berlin,1,0,1,7.7,7.7,0.0,9,2526
+Oscar Fraulo,Borussia M.Gladbach,1,0,1,7.7,7.7,0.0,4,2526
+Yuito Suzuki,Freiburg,1,0,1,7.7,7.7,0.0,5,2526
+Grant-Leon Ranos,Borussia M.Gladbach,1,0,1,7.7,7.7,0.0,5,2526
+Philipp Sander,Borussia M.Gladbach,1,0,1,7.7,7.7,0.0,9,2526
+Shuto Machino,Borussia M.Gladbach,1,0,1,7.7,7.7,0.0,9,2526
+Jens Castrop,Borussia M.Gladbach,1,0,1,7.7,7.7,0.0,7,2526
+Christian Günter,Freiburg,0,1,1,7.7,0.0,7.7,6,2526
+Janik Haberer,Union Berlin,0,1,1,7.7,0.0,7.7,10,2526
+Florian Neuhaus,Borussia M.Gladbach,0,1,1,7.7,0.0,7.7,8,2526
+Christopher Trimmel,Union Berlin,0,1,1,7.7,0.0,7.7,9,2526
+Luca Netz,Borussia M.Gladbach,0,1,1,7.7,0.0,7.7,6,2526
+Johan Manzambi,Freiburg,0,1,1,7.7,0.0,7.7,8,2526
+Charles Herrmann,Borussia M.Gladbach,0,1,1,7.7,0.0,7.7,1,2526
+Marius Wolf,Augsburg,1,0,1,7.1,7.1,0.0,8,2526
+Dimitris Giannoulis,Augsburg,1,0,1,7.1,7.1,0.0,8,2526
+Phillip Tietz,Augsburg,1,0,1,7.1,7.1,0.0,8,2526
+Samuel Essende,Augsburg,1,0,1,7.1,7.1,0.0,6,2526
+Noahkai Banks,Augsburg,1,0,1,7.1,7.1,0.0,7,2526
+Karim Coulibaly,Werder Bremen,1,0,1,6.7,6.7,0.0,10,2526
+Isaac Schmidt,Werder Bremen,1,0,1,6.7,6.7,0.0,6,2526
+Keke Maximilian Topp,Werder Bremen,0,1,1,6.7,0.0,6.7,6,2526
+Waldemar Anton,Borussia Dortmund,1,0,1,6.2,6.2,0.0,10,2526
+Carney Chukwuemeka,Borussia Dortmund,1,0,1,6.2,6.2,0.0,7,2526
+Daniel Svensson,Borussia Dortmund,1,0,1,6.2,6.2,0.0,10,2526
+Pascal Groß,Borussia Dortmund,0,1,1,6.2,0.0,6.2,9,2526
+Marcel Sabitzer,Borussia Dortmund,0,1,1,6.2,0.0,6.2,9,2526
+Nico Schlotterbeck,Borussia Dortmund,0,1,1,6.2,0.0,6.2,6,2526
+Fabio Silva,Borussia Dortmund,0,1,1,6.2,0.0,6.2,4,2526
+Florian Kainz,FC Cologne,1,0,1,5.9,5.9,0.0,7,2526
+Chema Andres,VfB Stuttgart,1,0,1,5.9,5.9,0.0,7,2526
+Ísak Bergmann Jóhannesson,FC Cologne,1,0,1,5.9,5.9,0.0,10,2526
+Alexander Nübel,VfB Stuttgart,0,1,1,5.9,0.0,5.9,10,2526
+Luca Jaquez,VfB Stuttgart,0,1,1,5.9,0.0,5.9,5,2526
+Lennart Karl,Bayern Munich,1,1,2,5.7,2.9,2.9,8,2526
+Castello Lukeba,RasenBallsport Leipzig,1,0,1,5.0,5.0,0.0,9,2526
+Bote Baku,RasenBallsport Leipzig,0,1,1,5.0,0.0,5.0,10,2526
+Ezechiel Banzuzi,RasenBallsport Leipzig,0,1,1,5.0,0.0,5.0,9,2526
+Albian Hajdari,Hoffenheim,1,0,1,4.8,4.8,0.0,8,2526
+Leon Avdullahu,Hoffenheim,0,1,1,4.8,0.0,4.8,10,2526
+Rasmus Kristensen,Eintracht Frankfurt,1,0,1,4.3,4.3,0.0,7,2526
+Sepe Elye Wahi,Eintracht Frankfurt,0,1,1,4.3,0.0,4.3,9,2526
+Nnamdi Collins,Eintracht Frankfurt,0,1,1,4.3,0.0,4.3,8,2526
+Martin Terrier,Bayer Leverkusen,1,0,1,4.2,4.2,0.0,3,2526
+Jarell Quansah,Bayer Leverkusen,1,0,1,4.2,4.2,0.0,8,2526
+Lucas Vázquez,Bayer Leverkusen,0,1,1,4.2,0.0,4.2,4,2526
+Nathan Tella,Bayer Leverkusen,0,1,1,4.2,0.0,4.2,3,2526
+Arthur,Bayer Leverkusen,0,1,1,4.2,0.0,4.2,6,2526
+Jonathan Tah,Bayern Munich,1,0,1,2.9,2.9,0.0,9,2526
+Nicolas Jackson,Bayern Munich,1,0,1,2.9,2.9,0.0,8,2526
+Aleksandar Pavlovic,Bayern Munich,1,0,1,2.9,2.9,0.0,8,2526
+Josip Stanisic,Bayern Munich,0,1,1,2.9,0.0,2.9,5,2526
+Kim Min-Jae,Bayern Munich,0,1,1,2.9,0.0,2.9,5,2526
+Stefan Bell,Mainz 05,0,0,0,0.0,0.0,0.0,8,2526
+Timo Werner,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,1,2526
+Oliver Baumann,Hoffenheim,0,0,0,0.0,0.0,0.0,10,2526
+Niklas Süle,Borussia Dortmund,0,0,0,0.0,0.0,0.0,1,2526
+Michael Zetterer,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,6,2526
+Dominique Heintz,FC Cologne,0,0,0,0.0,0.0,0.0,4,2526
+Yannick Gerhardt,Wolfsburg,0,0,0,0.0,0.0,0.0,1,2526
+Kevin Kampl,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,3,2526
+Mahmoud Dahoud,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,2,2526
+Nico Elvedi,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,10,2526
+Manuel Neuer,Bayern Munich,0,0,0,0.0,0.0,0.0,9,2526
+Danny da Costa,Mainz 05,0,0,0,0.0,0.0,0.0,10,2526
+Leonardo Bittencourt,Werder Bremen,0,0,0,0.0,0.0,0.0,7,2526
+Matthias Ginter,Freiburg,0,0,0,0.0,0.0,0.0,10,2526
+Pascal Stenzel,VfB Stuttgart,0,0,0,0.0,0.0,0.0,1,2526
+Leon Goretzka,Bayern Munich,0,0,0,0.0,0.0,0.0,9,2526
+Marvin Friedrich,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,2,2526
+Niklas Stark,Werder Bremen,0,0,0,0.0,0.0,0.0,4,2526
+Mario Götze,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,7,2526
+Robin Zentner,Mainz 05,0,0,0,0.0,0.0,0.0,8,2526
+Emre Can,Borussia Dortmund,0,0,0,0.0,0.0,0.0,1,2526
+Michy Batshuayi,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,4,2526
+Philipp Lienhart,Freiburg,0,0,0,0.0,0.0,0.0,8,2526
+Jeffrey Gouweleeuw,Augsburg,0,0,0,0.0,0.0,0.0,5,2526
+Ellyes Skhiri,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,6,2526
+Ramy Bensebaini,Borussia Dortmund,0,0,0,0.0,0.0,0.0,9,2526
+Nicolas Höfler,Freiburg,0,0,0,0.0,0.0,0.0,3,2526
+Marvin Schwäbe,FC Cologne,0,0,0,0.0,0.0,0.0,10,2526
+Anthony Jung,Freiburg,0,0,0,0.0,0.0,0.0,3,2526
+Jordan Torunarigha,Hamburger SV,0,0,0,0.0,0.0,0.0,3,2526
+Péter Gulácsi,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,10,2526
+Dayotchanculle Upamecano,Bayern Munich,0,0,0,0.0,0.0,0.0,9,2526
+Bernardo,Hoffenheim,0,0,0,0.0,0.0,0.0,10,2526
+Yussuf Poulsen,Hamburger SV,0,0,0,0.0,0.0,0.0,6,2526
+Willi Orban,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,10,2526
+Daniel Heuer Fernandes,Hamburger SV,0,0,0,0.0,0.0,0.0,10,2526
+Gregor Kobel,Borussia Dortmund,0,0,0,0.0,0.0,0.0,10,2526
+Salih Özcan,Borussia Dortmund,0,0,0,0.0,0.0,0.0,3,2526
+Arne Maier,Augsburg,0,0,0,0.0,0.0,0.0,1,2526
+Marco Friedl,Werder Bremen,0,0,0,0.0,0.0,0.0,9,2526
+Jonas Meffert,Hamburger SV,0,0,0,0.0,0.0,0.0,3,2526
+Lukas Klostermann,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,3,2526
+Arnaud Nordin,Mainz 05,0,0,0,0.0,0.0,0.0,8,2526
+Alexis Claude Maurice,Augsburg,0,0,0,0.0,0.0,0.0,7,2526
+Dan-Axel Zagadou,VfB Stuttgart,0,0,0,0.0,0.0,0.0,2,2526
+Ihlas Bebou,Hoffenheim,0,0,0,0.0,0.0,0.0,6,2526
+Moritz Nicolas,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,10,2526
+Kevin Akpoguma,Hoffenheim,0,0,0,0.0,0.0,0.0,2,2526
+Robin Hack,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,3,2526
+Anthony Caci,Mainz 05,0,0,0,0.0,0.0,0.0,4,2526
+Timo Hübers,FC Cologne,0,0,0,0.0,0.0,0.0,8,2526
+Niklas Dorsch,FC Heidenheim,0,0,0,0.0,0.0,0.0,9,2526
+Nikolas Nartey,VfB Stuttgart,0,0,0,0.0,0.0,0.0,8,2526
+Elvis Rexhbecaj,Augsburg,0,0,0,0.0,0.0,0.0,9,2526
+Lucas Höler,Freiburg,0,0,0,0.0,0.0,0.0,9,2526
+Finn Dahmen,Augsburg,0,0,0,0.0,0.0,0.0,10,2526
+Linton Maina,FC Cologne,0,0,0,0.0,0.0,0.0,6,2526
+Mark Flekken,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,10,2526
+Frederik Rönnow,Union Berlin,0,0,0,0.0,0.0,0.0,10,2526
+Kevin Stöger,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,8,2526
+Philipp Mwene,Mainz 05,0,0,0,0.0,0.0,0.0,10,2526
+Woo-Yeong Jeong,Union Berlin,0,0,0,0.0,0.0,0.0,8,2526
+Amos Pieper,Werder Bremen,0,0,0,0.0,0.0,0.0,4,2526
+Ozan Kabak,Hoffenheim,0,0,0,0.0,0.0,0.0,4,2526
+Keven Schlotterbeck,Augsburg,0,0,0,0.0,0.0,0.0,6,2526
+Andras Schafer,Union Berlin,0,0,0,0.0,0.0,0.0,7,2526
+Sacha Boey,Bayern Munich,0,0,0,0.0,0.0,0.0,9,2526
+Xaver Schlager,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,6,2526
+Robert Skov,Union Berlin,0,0,0,0.0,0.0,0.0,3,2526
+Robert Andrich,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,9,2526
+Julian Chabot,VfB Stuttgart,0,0,0,0.0,0.0,0.0,8,2526
+Alex Kral,Union Berlin,0,0,0,0.0,0.0,0.0,6,2526
+Tom Krauß,FC Cologne,0,0,0,0.0,0.0,0.0,7,2526
+Nick Woltemade,VfB Stuttgart,0,0,0,0.0,0.0,0.0,1,2526
+Giovanni Reyna,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,6,2526
+Exequiel Palacios,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,2,2526
+Immanuel Pherai,Hamburger SV,0,0,0,0.0,0.0,0.0,3,2526
+Loic Bade,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,9,2526
+Xavi Simons,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,1,2526
+Felix Agu,Werder Bremen,0,0,0,0.0,0.0,0.0,6,2526
+Rocco Reitz,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,10,2526
+Tim Siersleben,FC Heidenheim,0,0,0,0.0,0.0,0.0,8,2526
+Atakan Karazor,VfB Stuttgart,0,0,0,0.0,0.0,0.0,9,2526
+Lorenz Assignon,VfB Stuttgart,0,0,0,0.0,0.0,0.0,7,2526
+Cenk Özkacar,FC Cologne,0,0,0,0.0,0.0,0.0,5,2526
+Eren Sami Dinkci,Freiburg,0,0,0,0.0,0.0,0.0,7,2526
+Robert Glatzel,Hamburger SV,0,0,0,0.0,0.0,0.0,7,2526
+Warmed Omari,Hamburger SV,0,0,0,0.0,0.0,0.0,5,2526
+William Mikelbrencis,Hamburger SV,0,0,0,0.0,0.0,0.0,10,2526
+El Chadaille Bitshiabu,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,2,2526
+Karl Hein,Werder Bremen,0,0,0,0.0,0.0,0.0,2,2526
+Maxim Leitsch,Mainz 05,0,0,0,0.0,0.0,0.0,2,2526
+Patrick Osterhage,Freiburg,0,0,0,0.0,0.0,0.0,5,2526
+Guilherme Ramos,Hamburger SV,0,0,0,0.0,0.0,0.0,4,2526
+Jesper Lindstrom,Wolfsburg,0,0,0,0.0,0.0,0.0,1,2526
+Diant Ramaj,FC Heidenheim,0,0,0,0.0,0.0,0.0,10,2526
+Ismaël Gharbi,Augsburg,0,0,0,0.0,0.0,0.0,3,2526
+Ben Bobzien,Mainz 05,0,0,0,0.0,0.0,0.0,1,2526
+Jonas Urbig,Bayern Munich,0,0,0,0.0,0.0,0.0,1,2526
+Piero Hincapié,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,1,2526
+Moritz Jenz,Wolfsburg,0,0,0,0.0,0.0,0.0,8,2526
+Arthur Theate,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,10,2526
+Lennard Maloney,Mainz 05,0,0,0,0.0,0.0,0.0,5,2526
+Noah Atubolu,Freiburg,0,0,0,0.0,0.0,0.0,10,2526
+Anton Kade,Augsburg,0,0,0,0.0,0.0,0.0,6,2526
+Jeanuël Belocian,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,4,2526
+Jonas Wind,Wolfsburg,0,0,0,0.0,0.0,0.0,7,2526
+Lasse Rieß,Mainz 05,0,0,0,0.0,0.0,0.0,3,2526
+Umut Tohumcu,Hoffenheim,0,0,0,0.0,0.0,0.0,4,2526
+Diogo Leite,Union Berlin,0,0,0,0.0,0.0,0.0,7,2526
+Muhammed Damar,Hoffenheim,0,0,0,0.0,0.0,0.0,7,2526
+Ben Seghir,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,6,2526
+Loïs Openda,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,2,2526
+Vinicius Souza,Wolfsburg,0,0,0,0.0,0.0,0.0,10,2526
+Tim Skarke,Union Berlin,0,0,0,0.0,0.0,0.0,9,2526
+Kilian Fischer,Wolfsburg,0,0,0,0.0,0.0,0.0,7,2526
+Badredine Bouanani,VfB Stuttgart,0,0,0,0.0,0.0,0.0,7,2526
+Fabio Chiarodia,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,5,2526
+Denis Huseinbasic,FC Cologne,0,0,0,0.0,0.0,0.0,8,2526
+Nelson Weiper,Mainz 05,0,0,0,0.0,0.0,0.0,9,2526
+Dzenan Pejcinovic,Wolfsburg,0,0,0,0.0,0.0,0.0,8,2526
+Aljoscha Kemlein,Union Berlin,0,0,0,0.0,0.0,0.0,8,2526
+Aurélio Buta,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,3,2526
+Merlin Röhl,Freiburg,0,0,0,0.0,0.0,0.0,2,2526
+Josip Juranovic,Union Berlin,0,0,0,0.0,0.0,0.0,2,2526
+Ameen Al Dakhil,VfB Stuttgart,0,0,0,0.0,0.0,0.0,3,2526
+Senne Lynen,Werder Bremen,0,0,0,0.0,0.0,0.0,9,2526
+Cédric Zesiger,Augsburg,0,0,0,0.0,0.0,0.0,6,2526
+Václav Cerny,Wolfsburg,0,0,0,0.0,0.0,0.0,2,2526
+Adrian Beck,FC Heidenheim,0,0,0,0.0,0.0,0.0,9,2526
+Marvin Pieringer,FC Heidenheim,0,0,0,0.0,0.0,0.0,4,2526
+Benedikt Gimber,FC Heidenheim,0,0,0,0.0,0.0,0.0,7,2526
+Jan Schöppner,FC Heidenheim,0,0,0,0.0,0.0,0.0,9,2526
+Nicolas Seiwald,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,10,2526
+Leart Paqarada,FC Heidenheim,0,0,0,0.0,0.0,0.0,1,2526
+Mathias Honsak,FC Heidenheim,0,0,0,0.0,0.0,0.0,7,2526
+Jan-Niklas Beste,Freiburg,0,0,0,0.0,0.0,0.0,7,2526
+Lukas Ullrich,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,10,2526
+Skelly Alvero,Werder Bremen,0,0,0,0.0,0.0,0.0,2,2526
+Jordy Makengo,Freiburg,0,0,0,0.0,0.0,0.0,8,2526
+Kauã Santos,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,4,2526
+Julián Malatini,Werder Bremen,0,0,0,0.0,0.0,0.0,2,2526
+Isak Hansen-Aaröen,Werder Bremen,0,0,0,0.0,0.0,0.0,1,2526
+Max Moerstedt,Hoffenheim,0,0,0,0.0,0.0,0.0,6,2526
+Max Rosenfelder,Freiburg,0,0,0,0.0,0.0,0.0,4,2526
+Kosta Nedeljkovic,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,2,2526
+Nikolas Veratschnig,Mainz 05,0,0,0,0.0,0.0,0.0,8,2526
+Leopold Querfeld,Union Berlin,0,0,0,0.0,0.0,0.0,10,2526
+Mio Backhaus,Werder Bremen,0,0,0,0.0,0.0,0.0,8,2526
+Ramon Hendriks,VfB Stuttgart,0,0,0,0.0,0.0,0.0,8,2526
+Alexander Prass,Hoffenheim,0,0,0,0.0,0.0,0.0,10,2526
+Oscar Højlund,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,7,2526
+Aurèle Amenda,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,3,2526
+Kamil Grabara,Wolfsburg,0,0,0,0.0,0.0,0.0,10,2526
+Bence Dárdai,Wolfsburg,0,0,0,0.0,0.0,0.0,1,2526
+Nikola Vasilj,St. Pauli,0,0,0,0.0,0.0,0.0,10,2526
+Karol Mets,St. Pauli,0,0,0,0.0,0.0,0.0,4,2526
+Philipp Treu,Freiburg,0,0,0,0.0,0.0,0.0,7,2526
+Lars Ritzka,St. Pauli,0,0,0,0.0,0.0,0.0,6,2526
+Jackson Irvine,St. Pauli,0,0,0,0.0,0.0,0.0,3,2526
+Elias Saad,Augsburg,0,0,0,0.0,0.0,0.0,9,2526
+Oladapo Afolayan,St. Pauli,0,0,0,0.0,0.0,0.0,7,2526
+Luca Kerber,FC Heidenheim,0,0,0,0.0,0.0,0.0,6,2526
+Robin Hranác,Hoffenheim,0,0,0,0.0,0.0,0.0,10,2526
+Filippo Mané,Borussia Dortmund,0,0,0,0.0,0.0,0.0,2,2526
+Konstantinos Koulierakis,Wolfsburg,0,0,0,0.0,0.0,0.0,9,2526
+Derrick Köhn,Union Berlin,0,0,0,0.0,0.0,0.0,10,2526
+Arthur Chaves,Hoffenheim,0,0,0,0.0,0.0,0.0,4,2526
+Cole Campbell,Borussia Dortmund,0,0,0,0.0,0.0,0.0,1,2526
+Axel Tape,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,4,2526
+Jonah Kusi-Asare,Bayern Munich,0,0,0,0.0,0.0,0.0,1,2526
+Patrice Covic,Werder Bremen,0,0,0,0.0,0.0,0.0,7,2526
+James Sands,St. Pauli,0,0,0,0.0,0.0,0.0,9,2526
+Abdoulie Ceesay,St. Pauli,0,0,0,0.0,0.0,0.0,7,2526
+Wisdom Mike,Bayern Munich,0,0,0,0.0,0.0,0.0,1,2526
+Finn Jeltsch,VfB Stuttgart,0,0,0,0.0,0.0,0.0,5,2526
+Julian Niehues,FC Heidenheim,0,0,0,0.0,0.0,0.0,7,2526
+Tidiam Gomis,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,2,2526
+Aaron Anselmino,Borussia Dortmund,0,0,0,0.0,0.0,0.0,3,2526
+Alejo Sarco,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,1,2526
+Claudio Echeverri,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,4,2526
+Jenson Seelt,Wolfsburg,0,0,0,0.0,0.0,0.0,4,2526
+Koki Machida,Hoffenheim,0,0,0,0.0,0.0,0.0,1,2526
+Yannik Wagner,FC Heidenheim,0,0,0,0.0,0.0,0.0,2,2526
+Cyriaque Irié,Freiburg,0,0,0,0.0,0.0,0.0,1,2526
+Lazar Jovanovic,VfB Stuttgart,0,0,0,0.0,0.0,0.0,2,2526
+Arkadiusz Pyrka,St. Pauli,0,0,0,0.0,0.0,0.0,7,2526
+Jobe Bellingham,Borussia Dortmund,0,0,0,0.0,0.0,0.0,10,2526
+Joël Schmied,FC Cologne,0,0,0,0.0,0.0,0.0,10,2526
+Sebastian Sebulonsen,FC Cologne,0,0,0,0.0,0.0,0.0,10,2526
+Kristoffer Lund,FC Cologne,0,0,0,0.0,0.0,0.0,9,2526
+Jusuf Gazibegovic,FC Cologne,0,0,0,0.0,0.0,0.0,1,2526
+Rav van den Berg,FC Cologne,0,0,0,0.0,0.0,0.0,2,2526
+Daniel Elfadli,Hamburger SV,0,0,0,0.0,0.0,0.0,9,2526
+Giorgi Gocholeishvili,Hamburger SV,0,0,0,0.0,0.0,0.0,7,2526
+Emir Sahiti,Hamburger SV,0,0,0,0.0,0.0,0.0,2,2526
+Alexander Røssing-Lelesiit,Hamburger SV,0,0,0,0.0,0.0,0.0,6,2526
+Aboubaka Soumahoro,Hamburger SV,0,0,0,0.0,0.0,0.0,1,2526
+Otto Stange,Hamburger SV,0,0,0,0.0,0.0,0.0,1,2526
+Martijn Kaars,St. Pauli,0,0,0,0.0,0.0,0.0,9,2526
+Andrija Maksimovic,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,3,2526
+Aiman Dardari,Augsburg,0,0,0,0.0,0.0,0.0,2,2526
+Sota Kawasaki,Mainz 05,0,0,0,0.0,0.0,0.0,2,2526
+Ezequiél Fernández,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,5,2526
+William Bøving,Mainz 05,0,0,0,0.0,0.0,0.0,2,2526
+Conrad Harder,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,8,2526
+Alessio Castro-Montes,FC Cologne,0,0,0,0.0,0.0,0.0,2,2526
+Fabio Baldé,Hamburger SV,0,0,0,0.0,0.0,0.0,6,2526
+Cameron Puertas,Werder Bremen,0,0,0,0.0,0.0,0.0,8,2526
+Tobias Weigel,FC Heidenheim,0,0,0,0.0,0.0,0.0,1,2526
+Jan Urbich,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,3,2526

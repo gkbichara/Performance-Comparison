@@ -1,0 +1,565 @@
+player,team,goals,assists,contributions,contribution_pct,goals_pct,assists_pct,games,season
+Nikola Krstovic,Lecce,11,5,16,59.3,40.7,18.5,37,2425
+Mateo Retegui,Atalanta,25,8,33,42.3,32.1,10.3,36,2425
+Romelu Lukaku,Napoli,14,10,24,40.7,23.7,16.9,36,2425
+Moise Kean,Fiorentina,19,3,22,36.7,31.7,5.0,32,2425
+Riccardo Orsolini,Bologna,15,4,19,33.3,26.3,7.0,30,2425
+Christian Pulisic,AC Milan,11,9,20,32.8,18.0,14.8,34,2425
+Lorenzo Lucca,Udinese,12,1,13,31.7,29.3,2.4,33,2425
+Che Adams,Torino,9,3,12,30.8,23.1,7.7,36,2425
+Andrea Pinamonti,Genoa,10,1,11,29.7,27.0,2.7,36,2425
+Nico Paz,Como,6,8,14,28.6,12.2,16.3,35,2425
+Roberto Piccoli,Cagliari,10,1,11,27.5,25.0,2.5,37,2425
+Scott McTominay,Napoli,12,4,16,27.1,20.3,6.8,34,2425
+Florian Thauvin,Udinese,8,3,11,26.8,19.5,7.3,25,2425
+Rafael Leão,AC Milan,8,8,16,26.2,13.1,13.1,34,2425
+Ademola Lookman,Atalanta,15,5,20,25.6,19.2,6.4,31,2425
+Artem Dovbyk,Roma,12,2,14,25.0,21.4,3.6,32,2425
+Dany Mota,Monza,5,2,7,25.0,17.9,7.1,31,2425
+Sebastiano Esposito,Empoli,8,0,8,24.2,24.2,0.0,33,2425
+Lorenzo Colombo,Empoli,6,2,8,24.2,18.2,6.1,37,2425
+Dusan Vlahovic,Juventus,10,4,14,24.1,17.2,6.9,29,2425
+Nikola Vlasic,Torino,5,4,9,23.1,12.8,10.3,30,2425
+Tijjani Reijnders,AC Milan,10,4,14,23.0,16.4,6.6,37,2425
+Mattia Zaccagni,Lazio,8,6,14,23.0,13.1,9.8,34,2425
+Marcus Thuram,Inter,14,4,18,22.8,17.7,5.1,32,2425
+Ange-Yoan Bonny,Parma Calcio 1913,6,4,10,22.7,13.6,9.1,37,2425
+Patrick Cutrone,Como,7,4,11,22.4,14.3,8.2,33,2425
+Santiago Pierotti,Lecce,4,2,6,22.2,14.8,7.4,36,2425
+Aarón Martín,Genoa,0,8,8,21.6,0.0,21.6,36,2425
+Georgios Kyriakopoulos,Monza,2,4,6,21.4,7.1,14.3,34,2425
+Valentín Castellanos,Lazio,10,3,13,21.3,16.4,4.9,29,2425
+Dan Ndoye,Bologna,8,4,12,21.1,14.0,7.0,30,2425
+Santiago Castro,Bologna,8,4,12,21.1,14.0,7.0,36,2425
+Casper Tengstedt,Verona,6,1,7,20.6,17.6,2.9,25,2425
+Gabriel Strefezza,Como,6,4,10,20.4,12.2,8.2,37,2425
+Nadir Zortea,Cagliari,6,2,8,20.0,15.0,5.0,35,2425
+Boulaye Dia,Lazio,9,3,12,19.7,14.8,4.9,35,2425
+Lautaro Martínez,Inter,12,3,15,19.0,15.2,3.8,31,2425
+Kenan Yildiz,Juventus,7,4,11,19.0,12.1,6.9,35,2425
+Joel Pohjanpalo,Venezia,6,0,6,18.8,18.8,0.0,20,2425
+Hans Nicolussi Caviglia,Venezia,4,2,6,18.8,12.5,6.2,35,2425
+Gaetano Oristanio,Venezia,3,3,6,18.8,9.4,9.4,37,2425
+Tete Morente,Lecce,3,2,5,18.5,11.1,7.4,31,2425
+Assane Diao,Como,8,1,9,18.4,16.3,2.0,15,2425
+Dennis Man,Parma Calcio 1913,4,4,8,18.2,9.1,9.1,33,2425
+Liberato Cacace,Empoli,2,4,6,18.2,6.1,12.1,33,2425
+Emanuele Valeri,Parma Calcio 1913,2,6,8,18.2,4.5,13.6,35,2425
+Pedro,Lazio,10,1,11,18.0,16.4,1.6,30,2425
+Charles De Ketelaere,Atalanta,7,7,14,17.9,9.0,9.0,36,2425
+Matìas Soulè Malvano,Roma,5,5,10,17.9,8.9,8.9,27,2425
+Gianluca Caprari,Monza,3,2,5,17.9,10.7,7.1,34,2425
+Daniel Mosquera,Verona,5,1,6,17.6,14.7,2.9,35,2425
+Tommaso Augello,Cagliari,0,7,7,17.5,0.0,17.5,38,2425
+Franck Zambo,Napoli,6,4,10,16.9,10.2,6.8,35,2425
+Robin Gosens,Fiorentina,5,5,10,16.7,8.3,8.3,32,2425
+Yacine Adli,Fiorentina,4,6,10,16.7,6.7,10.0,26,2425
+Fabio Miretti,Genoa,3,3,6,16.2,8.1,8.1,25,2425
+Paulo Dybala,Roma,6,3,9,16.1,10.7,5.4,24,2425
+Randal Kolo Muani,Juventus,8,1,9,15.5,13.8,1.7,16,2425
+Kephren Thuram,Juventus,4,5,9,15.5,6.9,8.6,35,2425
+Valentino Lazaro,Torino,0,6,6,15.4,0.0,15.4,33,2425
+Jacopo Fazzini,Empoli,4,1,5,15.2,12.1,3.0,20,2425
+Faustino Anjorin,Empoli,2,3,5,15.2,6.1,9.1,22,2425
+Lucas Beltrán,Fiorentina,5,4,9,15.0,8.3,6.7,33,2425
+Gianluca Gaetano,Cagliari,2,4,6,15.0,5.0,10.0,28,2425
+Patrick Dorgu,Lecce,3,1,4,14.8,11.1,3.7,21,2425
+Thórir Helgason,Lecce,0,4,4,14.8,0.0,14.8,21,2425
+Amin Sarr,Verona,4,1,5,14.7,11.8,2.9,32,2425
+Darko Lazovic,Verona,2,3,5,14.7,5.9,8.8,27,2425
+Jackson Tchatchoua,Verona,2,3,5,14.7,5.9,8.8,36,2425
+Eldor Shomurodov,Roma,4,4,8,14.3,7.1,7.1,27,2425
+Pedro Pereira,Monza,1,3,4,14.3,3.6,10.7,35,2425
+Hakan Calhanoglu,Inter,5,6,11,13.9,6.3,7.6,29,2425
+Federico Dimarco,Inter,4,7,11,13.9,5.1,8.9,33,2425
+Khvicha Kvaratskhelia,Napoli,5,3,8,13.6,8.5,5.1,17,2425
+Hernani,Parma Calcio 1913,3,3,6,13.6,6.8,6.8,25,2425
+Vitinha,Genoa,2,3,5,13.5,5.4,8.1,25,2425
+Nuno Tavares,Lazio,0,8,8,13.1,0.0,13.1,23,2425
+Stephan El Shaarawy,Roma,3,4,7,12.5,5.4,7.1,31,2425
+Razvan Marin,Cagliari,3,2,5,12.5,7.5,5.0,33,2425
+Mikael Ellertsson,Venezia,2,2,4,12.5,6.2,6.2,36,2425
+Jens Odgaard,Bologna,6,1,7,12.3,10.5,1.8,29,2425
+Jurgen Ekkelenkamp,Udinese,3,2,5,12.2,7.3,4.9,34,2425
+Sandi Lovric,Udinese,2,3,5,12.2,4.9,7.3,36,2425
+Hassane Kamara,Udinese,1,4,5,12.2,2.4,9.8,30,2425
+Timothy Weah,Juventus,5,2,7,12.1,8.6,3.4,30,2425
+Liam Henderson,Empoli,0,4,4,12.1,0.0,12.1,36,2425
+Giacomo Raspadori,Napoli,6,1,7,11.9,10.2,1.7,26,2425
+Matteo Politano,Napoli,3,4,7,11.9,5.1,6.8,37,2425
+Ondrej Duda,Verona,1,3,4,11.8,2.9,8.8,28,2425
+Albert Gudmundsson,Fiorentina,6,1,7,11.7,10.0,1.7,24,2425
+Rolando Mandragora,Fiorentina,4,3,7,11.7,6.7,5.0,29,2425
+Santiago Giménez,AC Milan,5,2,7,11.5,8.2,3.3,14,2425
+Theo Hernández,AC Milan,4,3,7,11.5,6.6,4.9,33,2425
+Youssouf Fofana,AC Milan,1,6,7,11.5,1.6,9.8,35,2425
+Denzel Dumfries,Inter,7,2,9,11.4,8.9,2.5,29,2425
+Jacob Ondrejka,Parma Calcio 1913,5,0,5,11.4,11.4,0.0,12,2425
+Nicolò Barella,Inter,3,6,9,11.4,3.8,7.6,33,2425
+Caleb Ekuban,Genoa,1,3,4,10.8,2.7,8.1,18,2425
+Bryan Cristante,Roma,4,2,6,10.7,7.1,3.6,30,2425
+Samuele Birindelli,Monza,3,0,3,10.7,10.7,0.0,21,2425
+Juan Miranda,Bologna,0,6,6,10.5,0.0,10.5,31,2425
+Marten de Roon,Atalanta,4,4,8,10.3,5.1,5.1,36,2425
+Eljif Elmas,Torino,4,0,4,10.3,10.3,0.0,13,2425
+Teun Koopmeiners,Juventus,3,3,6,10.3,5.2,5.2,28,2425
+Gvidas Gineitis,Torino,3,1,4,10.3,7.7,2.6,30,2425
+Samuel Mbangula,Juventus,3,3,6,10.3,5.2,5.2,23,2425
+Francisco Conceição,Juventus,3,3,6,10.3,5.2,5.2,26,2425
+Weston McKennie,Juventus,2,4,6,10.3,3.4,6.9,32,2425
+Lucas Da Cunha,Como,3,2,5,10.2,6.1,4.1,36,2425
+Maxence Caqueret,Como,2,3,5,10.2,4.1,6.1,18,2425
+David Neres,Napoli,2,4,6,10.2,3.4,6.8,28,2425
+Nicolas Viola,Cagliari,3,1,4,10.0,7.5,2.5,27,2425
+Zito,Cagliari,2,2,4,10.0,5.0,5.0,26,2425
+Sebastiano Luperto,Cagliari,1,3,4,10.0,2.5,7.5,36,2425
+Gustav Isaksen,Lazio,4,2,6,9.8,6.6,3.3,37,2425
+Christian Gytkjær,Venezia,2,1,3,9.4,6.2,3.1,29,2425
+Francesco Zampano,Venezia,1,2,3,9.4,3.1,6.2,24,2425
+Enrico Del Prato,Parma Calcio 1913,4,0,4,9.1,9.1,0.0,34,2425
+Simon Sohm,Parma Calcio 1913,4,0,4,9.1,9.1,0.0,37,2425
+Pietro Pellegri,Empoli,3,0,3,9.1,9.1,0.0,11,2425
+Mateo Pellegrino,Parma Calcio 1913,3,1,4,9.1,6.8,2.3,13,2425
+Emmanuel Gyasi,Empoli,2,1,3,9.1,6.1,3.0,37,2425
+Giuseppe Pezzella,Empoli,0,3,3,9.1,0.0,9.1,35,2425
+Mario Pasalic,Atalanta,3,4,7,9.0,3.8,5.1,34,2425
+Thijs Dallinga,Bologna,3,2,5,8.8,5.3,3.5,31,2425
+Benjamín Domínguez,Bologna,3,2,5,8.8,5.3,3.5,24,2425
+Suat Serdar,Verona,2,1,3,8.8,5.9,2.9,22,2425
+Abdou Harroui,Verona,1,2,3,8.8,2.9,5.9,10,2425
+Nicolás González,Juventus,3,2,5,8.6,5.2,3.4,26,2425
+Andrea Cambiaso,Juventus,2,3,5,8.6,3.4,5.2,33,2425
+Giovanni Di Lorenzo,Napoli,3,2,5,8.5,5.1,3.4,37,2425
+Dodô,Fiorentina,0,5,5,8.3,0.0,8.3,35,2425
+Álvaro Morata,AC Milan,5,0,5,8.2,8.2,0.0,16,2425
+Samuel Chukwueze,AC Milan,3,2,5,8.2,4.9,3.3,26,2425
+Matías Vecino,Lazio,2,3,5,8.2,3.3,4.9,20,2425
+Tasos Douvikas,Como,2,2,4,8.2,4.1,4.1,13,2425
+Alieu Fadera,Como,1,3,4,8.2,2.0,6.1,28,2425
+Koni de Winter,Genoa,3,0,3,8.1,8.1,0.0,25,2425
+Johan Vásquez,Genoa,3,0,3,8.1,8.1,0.0,36,2425
+Maxwel Cornet,Genoa,2,1,3,8.1,5.4,2.7,7,2425
+Davide Zappacosta,Atalanta,4,2,6,7.7,5.1,2.6,30,2425
+Marco Brescianini,Atalanta,4,2,6,7.7,5.1,2.6,29,2425
+Duván Zapata,Torino,3,0,3,7.7,7.7,0.0,7,2425
+Antonio Sanabria,Torino,2,1,3,7.7,5.1,2.6,26,2425
+Adam Masina,Torino,1,2,3,7.7,2.6,5.1,28,2425
+Davide Frattesi,Inter,5,1,6,7.6,6.3,1.3,28,2425
+Marko Arnautovic,Inter,4,2,6,7.6,5.1,2.5,18,2425
+Alessandro Bastoni,Inter,1,5,6,7.6,1.3,6.3,33,2425
+Alessandro Deiola,Cagliari,2,1,3,7.5,5.0,2.5,29,2425
+Antoine Makoumbou,Cagliari,0,3,3,7.5,0.0,7.5,33,2425
+Mattia Felici,Cagliari,0,3,3,7.5,0.0,7.5,20,2425
+Federico Baschirotto,Lecce,2,0,2,7.4,7.4,0.0,38,2425
+Ylber Ramadani,Lecce,1,1,2,7.4,3.7,3.7,29,2425
+Antonino Gallo,Lecce,0,2,2,7.4,0.0,7.4,31,2425
+Keinan Davis,Udinese,2,1,3,7.3,4.9,2.4,23,2425
+Iker Bravo,Udinese,2,1,3,7.3,4.9,2.4,29,2425
+Oumar Solet,Udinese,1,2,3,7.3,2.4,4.9,19,2425
+Jordan Zemura,Udinese,1,2,3,7.3,2.4,4.9,23,2425
+Brenner,Udinese,1,2,3,7.3,2.4,4.9,9,2425
+Jesper Karlström,Udinese,0,3,3,7.3,0.0,7.3,37,2425
+Leandro Paredes,Roma,3,1,4,7.1,5.4,1.8,22,2425
+Keita,Monza,2,0,2,7.1,7.1,0.0,11,2425
+Armando Izzo,Monza,1,1,2,7.1,3.6,3.6,30,2425
+Patrick Ciurria,Monza,1,1,2,7.1,3.6,3.6,21,2425
+Giovanni Fabbian,Bologna,3,1,4,7.0,5.3,1.8,30,2425
+Tommaso Pobega,Bologna,2,2,4,7.0,3.5,3.5,21,2425
+Nicolò Cambiaghi,Bologna,1,3,4,7.0,1.8,5.3,18,2425
+Charalampos Lykogiannis,Bologna,0,4,4,7.0,0.0,7.0,17,2425
+Manuel Locatelli,Juventus,2,2,4,6.9,3.4,3.4,36,2425
+Matteo Cancellieri,Parma Calcio 1913,3,0,3,6.8,6.8,0.0,27,2425
+Amir Rrahmani,Napoli,1,3,4,6.8,1.7,5.1,38,2425
+Anas Haj Mohamed,Parma Calcio 1913,1,2,3,6.8,2.3,4.5,15,2425
+Gabriel Charpentier,Parma Calcio 1913,1,2,3,6.8,2.3,4.5,10,2425
+Mihai Valentin Mihaila,Parma Calcio 1913,0,3,3,6.8,0.0,6.8,21,2425
+Luca Ranieri,Fiorentina,1,3,4,6.7,1.7,5.0,36,2425
+Adam Marusic,Lazio,4,0,4,6.6,6.6,0.0,35,2425
+Fisayo Dele-Bashiru,Lazio,3,1,4,6.6,4.9,1.6,20,2425
+Tijjani Noslin,Lazio,2,2,4,6.6,3.3,3.3,30,2425
+Matteo Guendouzi,Lazio,1,3,4,6.6,1.6,4.9,37,2425
+Luca Pellegrini,Lazio,0,4,4,6.6,0.0,6.6,22,2425
+Éderson,Atalanta,4,1,5,6.4,5.1,1.3,37,2425
+Matteo Darmian,Inter,3,2,5,6.3,3.8,2.5,29,2425
+Yann Bisseck,Inter,3,2,5,6.3,3.8,2.5,27,2425
+Carlos Augusto,Inter,3,2,5,6.3,3.8,2.5,29,2425
+Henrikh Mkhitaryan,Inter,1,4,5,6.3,1.3,5.1,32,2425
+Gianluca Busio,Venezia,2,0,2,6.2,6.2,0.0,33,2425
+Daniel Fila,Venezia,2,0,2,6.2,6.2,0.0,10,2425
+John Yeboah,Venezia,1,1,2,6.2,3.1,3.1,33,2425
+Ridgeciano Haps,Venezia,1,1,2,6.2,3.1,3.1,25,2425
+Fali Candé,Venezia,1,1,2,6.2,3.1,3.1,17,2425
+Magnus Kofod Andersen,Venezia,1,1,2,6.2,3.1,3.1,14,2425
+Máximo Perrone,Como,0,3,3,6.1,0.0,6.1,26,2425
+Diego Coppola,Verona,2,0,2,5.9,5.9,0.0,34,2425
+Grigoris Kastanos,Verona,1,1,2,5.9,2.9,2.9,27,2425
+Dailon Livramento,Verona,1,1,2,5.9,2.9,2.9,29,2425
+Angelino,Roma,2,1,3,5.4,3.6,1.8,38,2425
+Lorenzo Pellegrini,Roma,2,1,3,5.4,3.6,1.8,25,2425
+Kouadio Kone,Roma,2,1,3,5.4,3.6,1.8,34,2425
+Morten Frendrup,Genoa,2,0,2,5.4,5.4,0.0,35,2425
+Niccolò Pisilli,Roma,2,1,3,5.4,3.6,1.8,28,2425
+Lorenzo Venturino,Genoa,2,0,2,5.4,5.4,0.0,6,2425
+Junior Messias,Genoa,1,1,2,5.4,2.7,2.7,17,2425
+Jeff Ekhator,Genoa,1,1,2,5.4,2.7,2.7,24,2425
+Stefano Sabelli,Genoa,0,2,2,5.4,0.0,5.4,34,2425
+Ruslan Malinovskiy,Genoa,0,2,2,5.4,0.0,5.4,9,2425
+Remo Freuler,Bologna,1,2,3,5.3,1.8,3.5,37,2425
+Nicolò Savona,Juventus,2,1,3,5.2,3.4,1.7,28,2425
+Piotr Zielinski,Inter,2,2,4,5.1,2.5,2.5,26,2425
+Joaquín Correa,Inter,2,2,4,5.1,2.5,2.5,19,2425
+Kristjan Asllani,Inter,2,2,4,5.1,2.5,2.5,22,2425
+Saúl Coco,Torino,2,0,2,5.1,5.1,0.0,32,2425
+Guillermo Maripán,Torino,1,1,2,5.1,2.6,2.6,28,2425
+Samuele Ricci,Torino,1,1,2,5.1,2.6,2.6,34,2425
+Cesare Casadei,Torino,1,1,2,5.1,2.6,2.6,15,2425
+Danilo Cataldi,Fiorentina,3,0,3,5.0,5.0,0.0,25,2425
+Leonardo Pavoletti,Cagliari,2,0,2,5.0,5.0,0.0,26,2425
+Andrea Colpani,Fiorentina,2,1,3,5.0,3.3,1.7,25,2425
+Gabriele Zappa,Cagliari,2,0,2,5.0,5.0,0.0,37,2425
+Ndary Adopo,Cagliari,1,1,2,5.0,2.5,2.5,35,2425
+Edoardo Bove,Fiorentina,1,2,3,5.0,1.7,3.3,12,2425
+Adam Obert,Cagliari,1,1,2,5.0,2.5,2.5,21,2425
+Christian Kabasele,Udinese,2,0,2,4.9,4.9,0.0,16,2425
+Strahinja Pavlovic,AC Milan,2,1,3,4.9,3.3,1.6,24,2425
+Martín Payero,Udinese,1,1,2,4.9,2.4,2.4,25,2425
+Elseid Hysaj,Lazio,0,3,3,4.9,0.0,4.9,11,2425
+Nicolo Rovella,Lazio,0,3,3,4.9,0.0,4.9,33,2425
+Antoine Hainaut,Parma Calcio 1913,2,0,2,4.5,4.5,0.0,25,2425
+Adrián Bernabé,Parma Calcio 1913,1,1,2,4.5,2.3,2.3,21,2425
+Pontus Almqvist,Parma Calcio 1913,1,1,2,4.5,2.3,2.3,29,2425
+Mandela Keita,Parma Calcio 1913,0,2,2,4.5,0.0,4.5,30,2425
+Andrea Belotti,Como,2,0,2,4.1,4.1,0.0,18,2425
+Luca Mazzitelli,Como,1,1,2,4.1,2.0,2.0,11,2425
+Yannick Engelhardt,Como,1,1,2,4.1,2.0,2.0,26,2425
+Alessandro Gabrielloni,Como,1,1,2,4.1,2.0,2.0,15,2425
+Alberto Dossena,Como,0,2,2,4.1,0.0,4.1,23,2425
+Stefan de Vrij,Inter,3,0,3,3.8,3.8,0.0,26,2425
+Lazar Samardzic,Atalanta,2,1,3,3.8,2.6,1.3,31,2425
+Berat Gjimshiti,Atalanta,1,2,3,3.8,1.3,2.6,34,2425
+Mehdi Taremi,Inter,1,2,3,3.8,1.3,2.5,26,2425
+Matteo Ruggeri,Atalanta,0,3,3,3.8,0.0,3.8,30,2425
+Ante Rebic,Lecce,1,0,1,3.7,3.7,0.0,27,2425
+Lassana Coulibaly,Lecce,1,0,1,3.7,3.7,0.0,38,2425
+Frederic Guilbert,Lecce,0,1,1,3.7,0.0,3.7,31,2425
+Lameck Banda,Lecce,0,1,1,3.7,0.0,3.7,15,2425
+Medon Berisha,Lecce,0,1,1,3.7,0.0,3.7,17,2425
+Kialonda Gaspar,Lecce,0,1,1,3.7,0.0,3.7,24,2425
+Gianluca Mancini,Roma,2,0,2,3.6,3.6,0.0,37,2425
+Stefano Sensi,Monza,1,0,1,3.6,3.6,0.0,12,2425
+Tommaso Baldanzi,Roma,1,1,2,3.6,1.8,1.8,31,2425
+Danilo D'Ambrosio,Monza,0,1,1,3.6,0.0,3.6,20,2425
+Mehmet Zeki Çelik,Roma,0,2,2,3.6,0.0,3.6,31,2425
+Andrea Carboni,Monza,0,1,1,3.6,0.0,3.6,26,2425
+Kevin Martins,Monza,0,1,1,3.6,0.0,3.6,9,2425
+Emil Holm,Bologna,1,1,2,3.5,1.8,1.8,21,2425
+Lewis Ferguson,Bologna,1,1,2,3.5,1.8,1.8,16,2425
+Nikola Moro,Bologna,0,2,2,3.5,0.0,3.5,22,2425
+Giovanni Simeone,Napoli,1,1,2,3.4,1.7,1.7,30,2425
+Leonardo Spinazzola,Napoli,1,1,2,3.4,1.7,1.7,27,2425
+Mathías Olivera,Napoli,0,2,2,3.4,0.0,3.4,32,2425
+Alessio Romagnoli,Lazio,2,0,2,3.3,3.3,0.0,32,2425
+Matteo Gabbia,AC Milan,2,0,2,3.3,3.3,0.0,26,2425
+Luka Jovic,AC Milan,2,0,2,3.3,3.3,0.0,15,2425
+Samuel Gigot,Lazio,2,0,2,3.3,3.3,0.0,15,2425
+João Félix,AC Milan,2,0,2,3.3,3.3,0.0,15,2425
+Fabiano Parisi,Fiorentina,2,0,2,3.3,3.3,0.0,26,2425
+Amir Richardson,Fiorentina,1,1,2,3.3,1.7,1.7,27,2425
+Yunus Musah,AC Milan,0,2,2,3.3,0.0,3.3,29,2425
+Kike Pérez,Venezia,1,0,1,3.1,3.1,0.0,16,2425
+Michael Svoboda,Venezia,1,0,1,3.1,3.1,0.0,16,2425
+Marin Sverko,Venezia,1,0,1,3.1,3.1,0.0,16,2425
+Jay Idzes,Venezia,1,0,1,3.1,3.1,0.0,35,2425
+Antonio Candela,Venezia,0,1,1,3.1,0.0,3.1,14,2425
+Mattia De Sciglio,Empoli,1,0,1,3.0,3.0,0.0,16,2425
+Alberto Grassi,Empoli,1,0,1,3.0,3.0,0.0,28,2425
+Mattia Viti,Empoli,1,0,1,3.0,3.0,0.0,30,2425
+Youssef Maleh,Empoli,0,1,1,3.0,0.0,3.0,22,2425
+Saba Goglichidze,Empoli,0,1,1,3.0,0.0,3.0,33,2425
+Ismael Konaté,Empoli,0,1,1,3.0,0.0,3.0,12,2425
+Antoine Bernede,Verona,1,0,1,2.9,2.9,0.0,14,2425
+Giangiacomo Magnani,Verona,1,0,1,2.9,2.9,0.0,17,2425
+Domagoj Bradaric,Verona,1,0,1,2.9,2.9,0.0,28,2425
+Mathis Lambourde,Verona,1,0,1,2.9,2.9,0.0,7,2425
+Tomás Suslov,Verona,0,1,1,2.9,0.0,2.9,31,2425
+Milan Badelj,Genoa,1,0,1,2.7,2.7,0.0,23,2425
+Alessandro Zanoli,Genoa,1,0,1,2.7,2.7,0.0,31,2425
+Patrizio Masini,Genoa,1,0,1,2.7,2.7,0.0,26,2425
+Filippo Melegoni,Genoa,0,1,1,2.7,0.0,2.7,3,2425
+Morten Thorsby,Genoa,0,1,1,2.7,0.0,2.7,30,2425
+Sulemana,Atalanta,2,0,2,2.6,2.6,0.0,9,2425
+Karol Linetty,Torino,1,0,1,2.6,2.6,0.0,28,2425
+Ivan Ilic,Torino,1,0,1,2.6,2.6,0.0,19,2425
+Ali Dembélé,Torino,1,0,1,2.6,2.6,0.0,15,2425
+Alieu Njie,Torino,1,0,1,2.6,2.6,0.0,16,2425
+Sead Kolasinac,Atalanta,0,2,2,2.6,0.0,2.6,23,2425
+Juan Cuadrado,Atalanta,0,2,2,2.6,0.0,2.6,23,2425
+Yann Karamoh,Torino,0,1,1,2.6,0.0,2.6,29,2425
+José Luis Palomino,Cagliari,1,0,1,2.5,2.5,0.0,18,2425
+Yerry Mina,Cagliari,1,0,1,2.5,2.5,0.0,31,2425
+Florinel Coman,Cagliari,1,0,1,2.5,2.5,0.0,9,2425
+Jaka Bijol,Udinese,1,0,1,2.4,2.4,0.0,34,2425
+Oier Zarraga,Udinese,1,0,1,2.4,2.4,0.0,22,2425
+Souleymane Isaak Touré,Udinese,1,0,1,2.4,2.4,0.0,12,2425
+Thomas Thiesson Kristensen,Udinese,1,0,1,2.4,2.4,0.0,24,2425
+Lautaro Giannetti,Udinese,1,0,1,2.4,2.4,0.0,15,2425
+Kingsley Ehizibue,Udinese,0,1,1,2.4,0.0,2.4,33,2425
+Arthur Atta,Udinese,0,1,1,2.4,0.0,2.4,27,2425
+Rui Modesto,Udinese,0,1,1,2.4,0.0,2.4,20,2425
+Lautaro Valenti,Parma Calcio 1913,1,0,1,2.3,2.3,0.0,20,2425
+Giovanni Leoni,Parma Calcio 1913,1,0,1,2.3,2.3,0.0,17,2425
+Botond Balogh,Parma Calcio 1913,0,1,1,2.3,0.0,2.3,29,2425
+Woyo Coulibaly,Parma Calcio 1913,0,1,1,2.3,0.0,2.3,14,2425
+Edoardo Goldaniga,Como,1,0,1,2.0,2.0,0.0,32,2425
+Sergi Roberto,Como,0,1,1,2.0,0.0,2.0,13,2425
+Ignace Van der Brempt,Como,0,1,1,2.0,0.0,2.0,20,2425
+Lorenzo De Silvestri,Bologna,1,0,1,1.8,1.8,0.0,18,2425
+Samuel Iling-Junior,Bologna,1,0,1,1.8,1.8,0.0,7,2425
+Evan Ndicka,Roma,0,1,1,1.8,0.0,1.8,38,2425
+Jhon Lucumí,Bologna,0,1,1,1.8,0.0,1.8,32,2425
+Sam Beukema,Bologna,0,1,1,1.8,0.0,1.8,35,2425
+Saud Abdulhamid,Roma,0,1,1,1.8,0.0,1.8,4,2425
+Devyne Rensch,Roma,0,1,1,1.8,0.0,1.8,14,2425
+Anass Salah-Eddine,Roma,0,1,1,1.8,0.0,1.8,3,2425
+Alessandro Buongiorno,Napoli,1,0,1,1.7,1.7,0.0,22,2425
+Philip Billing,Napoli,1,0,1,1.7,1.7,0.0,10,2425
+Pierre Kalulu Kyatengwa,Juventus,1,0,1,1.7,1.7,0.0,29,2425
+Lucas Martínez Quarta,Fiorentina,1,0,1,1.7,1.7,0.0,8,2425
+Federico Gatti,Juventus,1,0,1,1.7,1.7,0.0,30,2425
+Pietro Comuzzo,Fiorentina,1,0,1,1.7,1.7,0.0,33,2425
+David de Gea,Fiorentina,0,1,1,1.7,0.0,1.7,35,2425
+Juan Jesus,Napoli,0,1,1,1.7,0.0,1.7,15,2425
+Danilo,Juventus,0,1,1,1.7,0.0,1.7,12,2425
+Stanislav Lobotka,Napoli,0,1,1,1.7,0.0,1.7,32,2425
+Billy Gilmour,Napoli,0,1,1,1.7,0.0,1.7,26,2425
+Renato Veiga,Juventus,0,1,1,1.7,0.0,1.7,13,2425
+Alberto Costa,Juventus,0,1,1,1.7,0.0,1.7,9,2425
+Patric,Lazio,1,0,1,1.6,1.6,0.0,10,2425
+Loum Tchaouna,Lazio,1,0,1,1.6,1.6,0.0,24,2425
+Mario Gila,Lazio,1,0,1,1.6,1.6,0.0,32,2425
+Fikayo Tomori,AC Milan,0,1,1,1.6,0.0,1.6,22,2425
+Manuel Lazzari,Lazio,0,1,1,1.6,0.0,1.6,25,2425
+Alejandro Jiménez,AC Milan,0,1,1,1.6,0.0,1.6,22,2425
+Francesco Acerbi,Inter,0,1,1,1.3,0.0,1.3,23,2425
+Benjamin Pavard,Inter,0,1,1,1.3,0.0,1.3,23,2425
+Luca Caldirola,Monza,0,0,0,0.0,0.0,0.0,14,2425
+Yann Sommer,Inter,0,0,0,0.0,0.0,0.0,33,2425
+Mats Hummels,Roma,0,0,0,0.0,0.0,0.0,14,2425
+Alexis Sánchez,Udinese,0,0,0,0.0,0.0,0.0,13,2425
+Alberto Moreno,Como,0,0,0,0.0,0.0,0.0,24,2425
+Kyle Walker,AC Milan,0,0,0,0.0,0.0,0.0,11,2425
+Dele Alli,Como,0,0,0,0.0,0.0,0.0,1,2425
+Ruben Loftus-Cheek,AC Milan,0,0,0,0.0,0.0,0.0,19,2425
+Mattia Perin,Juventus,0,0,0,0.0,0.0,0.0,5,2425
+Gianluca Lapadula,Cagliari,0,0,0,0.0,0.0,0.0,12,2425
+Daniele Baselli,Como,0,0,0,0.0,0.0,0.0,2,2425
+Daniele Padelli,Udinese,0,0,0,0.0,0.0,0.0,1,2425
+Alessandro Florenzi,AC Milan,0,0,0,0.0,0.0,0.0,1,2425
+Emil Audero,Como,0,0,0,0.0,0.0,0.0,8,2425
+Lukasz Skorupski,Bologna,0,0,0,0.0,0.0,0.0,27,2425
+Federico Barba,Como,0,0,0,0.0,0.0,0.0,7,2425
+José Reina,Como,0,0,0,0.0,0.0,0.0,12,2425
+Simone Verdi,Como,0,0,0,0.0,0.0,0.0,9,2425
+Alfred Duncan,Venezia,0,0,0,0.0,0.0,0.0,16,2425
+Rafael Toloi,Atalanta,0,0,0,0.0,0.0,0.0,11,2425
+Andrea Petagna,Monza,0,0,0,0.0,0.0,0.0,13,2425
+Roberto Gagliardini,Monza,0,0,0,0.0,0.0,0.0,8,2425
+Marco Sportiello,AC Milan,0,0,0,0.0,0.0,0.0,2,2425
+Federico Ravaglia,Bologna,0,0,0,0.0,0.0,0.0,12,2425
+Mario Balotelli,Genoa,0,0,0,0.0,0.0,0.0,6,2425
+Nicola Sansone,Lecce,0,0,0,0.0,0.0,0.0,5,2425
+Ionut Radu,Venezia,0,0,0,0.0,0.0,0.0,15,2425
+Pierluigi Gollini,Genoa,0,0,0,0.0,0.0,0.0,7,2425
+Nicola Leali,Genoa,0,0,0,0.0,0.0,0.0,29,2425
+Alex Meret,Napoli,0,0,0,0.0,0.0,0.0,34,2425
+Daniele Sommariva,Genoa,0,0,0,0.0,0.0,0.0,1,2425
+Nicholas Pierini,Venezia,0,0,0,0.0,0.0,0.0,2,2425
+Martin Erlic,Bologna,0,0,0,0.0,0.0,0.0,8,2425
+Jean-Daniel Akpa-Akpro,Monza,0,0,0,0.0,0.0,0.0,14,2425
+Mike Maignan,AC Milan,0,0,0,0.0,0.0,0.0,37,2425
+Mattia Valoti,Monza,0,0,0,0.0,0.0,0.0,5,2425
+Kevin Bonifazi,Lecce,0,0,0,0.0,0.0,0.0,3,2425
+Marco Faraoni,Verona,0,0,0,0.0,0.0,0.0,8,2425
+Marc-Oliver Kempf,Como,0,0,0,0.0,0.0,0.0,31,2425
+Wylan Cyprien,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,2,2425
+Alberto Cerri,Como,0,0,0,0.0,0.0,0.0,5,2425
+Giorgio Altare,Venezia,0,0,0,0.0,0.0,0.0,12,2425
+Wladimiro Falcone,Lecce,0,0,0,0.0,0.0,0.0,38,2425
+Jean Butez,Como,0,0,0,0.0,0.0,0.0,19,2425
+Adrien Tameze,Torino,0,0,0,0.0,0.0,0.0,20,2425
+Leandro Chichizola,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,1,2425
+Douglas Luiz,Juventus,0,0,0,0.0,0.0,0.0,19,2425
+Marco Silvestri,Empoli,0,0,0,0.0,0.0,0.0,5,2425
+Mario Hermoso,Roma,0,0,0,0.0,0.0,0.0,8,2425
+Nicolas Haas,Empoli,0,0,0,0.0,0.0,0.0,10,2425
+Vanja Milinkovic-Savic,Torino,0,0,0,0.0,0.0,0.0,37,2425
+Antonin Barak,Fiorentina,0,0,0,0.0,0.0,0.0,1,2425
+Mattia Bani,Genoa,0,0,0,0.0,0.0,0.0,20,2425
+Junior Sambia,Empoli,0,0,0,0.0,0.0,0.0,17,2425
+Gianluca Scamacca,Atalanta,0,0,0,0.0,0.0,0.0,1,2425
+Ben Kone,Como,0,0,0,0.0,0.0,0.0,4,2425
+Andy Pelmard,Lecce,0,0,0,0.0,0.0,0.0,3,2425
+Semuel Pizzignacco,Monza,0,0,0,0.0,0.0,0.0,9,2425
+Rui Patrício,Atalanta,0,0,0,0.0,0.0,0.0,3,2425
+Remi Oudin,Lecce,0,0,0,0.0,0.0,0.0,11,2425
+Bremer,Juventus,0,0,0,0.0,0.0,0.0,6,2425
+Pietro Terracciano,Fiorentina,0,0,0,0.0,0.0,0.0,3,2425
+Francesco Caputo,Empoli,0,0,0,0.0,0.0,0.0,1,2425
+Ismael Bennacer,AC Milan,0,0,0,0.0,0.0,0.0,6,2425
+Ivan Provedel,Lazio,0,0,0,0.0,0.0,0.0,29,2425
+Matteo Pessina,Monza,0,0,0,0.0,0.0,0.0,11,2425
+Borna Sosa,Torino,0,0,0,0.0,0.0,0.0,19,2425
+Juan Musso,Atalanta,0,0,0,0.0,0.0,0.0,1,2425
+Drissa Camara,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,21,2425
+Nunzio Lella,Venezia,0,0,0,0.0,0.0,0.0,1,2425
+Emerson,AC Milan,0,0,0,0.0,0.0,0.0,17,2425
+Nehuén Pérez,Udinese,0,0,0,0.0,0.0,0.0,2,2425
+Ben Godfrey,Atalanta,0,0,0,0.0,0.0,0.0,1,2425
+Valentin Gendrey,Lecce,0,0,0,0.0,0.0,0.0,2,2425
+Cheikh Niasse,Verona,0,0,0,0.0,0.0,0.0,11,2425
+Szymon Zurkowski,Empoli,0,0,0,0.0,0.0,0.0,5,2425
+Pawel Dawidowicz,Verona,0,0,0,0.0,0.0,0.0,26,2425
+Sofyan Amrabat,Fiorentina,0,0,0,0.0,0.0,0.0,2,2425
+Jesse Joronen,Venezia,0,0,0,0.0,0.0,0.0,8,2425
+Yordan Osorio,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,3,2425
+Lloyd Kelly,Juventus,0,0,0,0.0,0.0,0.0,12,2425
+Stefano Turati,Monza,0,0,0,0.0,0.0,0.0,30,2425
+Giuseppe Ciocci,Cagliari,0,0,0,0.0,0.0,0.0,1,2425
+Balthazar Pierret,Lecce,0,0,0,0.0,0.0,0.0,30,2425
+Gastón Pereiro,Genoa,0,0,0,0.0,0.0,0.0,2,2425
+Marin Pongracic,Fiorentina,0,0,0,0.0,0.0,0.0,20,2425
+Filip Stankovic,Venezia,0,0,0,0.0,0.0,0.0,16,2425
+Mitchel Bakker,Atalanta,0,0,0,0.0,0.0,0.0,1,2425
+Razvan Sava,Udinese,0,0,0,0.0,0.0,0.0,12,2425
+Maduka Okoye,Udinese,0,0,0,0.0,0.0,0.0,25,2425
+Jean Onana,Genoa,0,0,0,0.0,0.0,0.0,9,2425
+Oliver Abildgaard,Como,0,0,0,0.0,0.0,0.0,1,2425
+Lucas Gourna Douath,Roma,0,0,0,0.0,0.0,0.0,6,2425
+Malick Thiaw,AC Milan,0,0,0,0.0,0.0,0.0,22,2425
+Filippo Terracciano,AC Milan,0,0,0,0.0,0.0,0.0,13,2425
+Enzo Ebosse,Udinese,0,0,0,0.0,0.0,0.0,2,2425
+Enzo Le Fée,Roma,0,0,0,0.0,0.0,0.0,6,2425
+Flavius Daniliuc,Verona,0,0,0,0.0,0.0,0.0,18,2425
+Marco Carnesecchi,Atalanta,0,0,0,0.0,0.0,0.0,34,2425
+Lorenzo Montipò,Verona,0,0,0,0.0,0.0,0.0,36,2425
+Hamza Rafia,Lecce,0,0,0,0.0,0.0,0.0,18,2425
+Alberto Paleari,Torino,0,0,0,0.0,0.0,0.0,1,2425
+Josep Martínez,Inter,0,0,0,0.0,0.0,0.0,5,2425
+Franco Ezequiel Carboni,Venezia,0,0,0,0.0,0.0,0.0,8,2425
+Nahuel Estévez,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,14,2425
+Ardian Ismajli,Empoli,0,0,0,0.0,0.0,0.0,29,2425
+Giorgio Scalvini,Atalanta,0,0,0,0.0,0.0,0.0,6,2425
+Viktor Kovalenko,Empoli,0,0,0,0.0,0.0,0.0,6,2425
+Saba Sazonov,Torino,0,0,0,0.0,0.0,0.0,1,2425
+Emil Bohinen,Genoa,0,0,0,0.0,0.0,0.0,3,2425
+Antonio Raimondo,Venezia,0,0,0,0.0,0.0,0.0,9,2425
+Silvère Ganvoula,Monza,0,0,0,0.0,0.0,0.0,7,2425
+Odilon Kossounou,Atalanta,0,0,0,0.0,0.0,0.0,18,2425
+Petar Stojanovic,Empoli,0,0,0,0.0,0.0,0.0,1,2425
+Emmanuel Ekong,Empoli,0,0,0,0.0,0.0,0.0,15,2425
+Tyronne Ebuehi,Empoli,0,0,0,0.0,0.0,0.0,4,2425
+Bjarki Steinn Bjarkason,Venezia,0,0,0,0.0,0.0,0.0,9,2425
+Pasquale Mazzocchi,Napoli,0,0,0,0.0,0.0,0.0,20,2425
+Domen Crnigoj,Venezia,0,0,0,0.0,0.0,0.0,8,2425
+Rafa Marín,Napoli,0,0,0,0.0,0.0,0.0,4,2425
+Estanis Pedrola,Bologna,0,0,0,0.0,0.0,0.0,1,2425
+Arijon Ibrahimovic,Lazio,0,0,0,0.0,0.0,0.0,1,2425
+Michel Aebischer,Bologna,0,0,0,0.0,0.0,0.0,14,2425
+Yllan Okou,Verona,0,0,0,0.0,0.0,0.0,1,2425
+Simone Pafundi,Udinese,0,0,0,0.0,0.0,0.0,9,2425
+Faride Alidou,Verona,0,0,0,0.0,0.0,0.0,3,2425
+Mateusz Wieteska,Cagliari,0,0,0,0.0,0.0,0.0,5,2425
+James Abankwah,Udinese,0,0,0,0.0,0.0,0.0,6,2425
+Michele Di Gregorio,Juventus,0,0,0,0.0,0.0,0.0,33,2425
+Samuele Vignato,Monza,0,0,0,0.0,0.0,0.0,17,2425
+Mile Svilar,Roma,0,0,0,0.0,0.0,0.0,38,2425
+Simone Perilli,Verona,0,0,0,0.0,0.0,0.0,2,2425
+Isak Hien,Atalanta,0,0,0,0.0,0.0,0.0,30,2425
+Juan Cabal,Juventus,0,0,0,0.0,0.0,0.0,7,2425
+Jacopo Seghetti,Empoli,0,0,0,0.0,0.0,0.0,1,2425
+Michael Kayode,Fiorentina,0,0,0,0.0,0.0,0.0,5,2425
+Ola Solbakken,Empoli,0,0,0,0.0,0.0,0.0,21,2425
+Devis Vásquez,Empoli,0,0,0,0.0,0.0,0.0,32,2425
+Cyril Ngonge,Napoli,0,0,0,0.0,0.0,0.0,18,2425
+Alphadjo Cissè,Verona,0,0,0,0.0,0.0,0.0,2,2425
+Aaron Ciammaglichella,Torino,0,0,0,0.0,0.0,0.0,1,2425
+Marco Palestra,Atalanta,0,0,0,0.0,0.0,0.0,9,2425
+Cher Ndour,Fiorentina,0,0,0,0.0,0.0,0.0,9,2425
+Luca Marianucci,Empoli,0,0,0,0.0,0.0,0.0,18,2425
+Mohamed Kaba,Lecce,0,0,0,0.0,0.0,0.0,15,2425
+Rares Burnete,Lecce,0,0,0,0.0,0.0,0.0,4,2425
+Paulo Azzi,Cagliari,0,0,0,0.0,0.0,0.0,6,2425
+Matteo Prati,Cagliari,0,0,0,0.0,0.0,0.0,12,2425
+Oussama El Azzouzi,Bologna,0,0,0,0.0,0.0,0.0,2,2425
+Davide Bartesaghi,AC Milan,0,0,0,0.0,0.0,0.0,4,2425
+Walid Cheddira,Napoli,0,0,0,0.0,0.0,0.0,1,2425
+Marcus Pedersen,Torino,0,0,0,0.0,0.0,0.0,29,2425
+Christos Mandas,Lazio,0,0,0,0.0,0.0,0.0,9,2425
+Alan Matturro,Genoa,0,0,0,0.0,0.0,0.0,13,2425
+Francesco Camarda,AC Milan,0,0,0,0.0,0.0,0.0,10,2425
+Alberto Manzoni,Atalanta,0,0,0,0.0,0.0,0.0,1,2425
+Stefan Lekovic,Monza,0,0,0,0.0,0.0,0.0,7,2425
+Tajon Buchanan,Inter,0,0,0,0.0,0.0,0.0,6,2425
+Kingstone Mutandwa,Cagliari,0,0,0,0.0,0.0,0.0,6,2425
+Omari Forson,Monza,0,0,0,0.0,0.0,0.0,9,2425
+Andrea Mazza,Monza,0,0,0,0.0,0.0,0.0,1,2425
+Dani Silva,Verona,0,0,0,0.0,0.0,0.0,11,2425
+David Ankeye,Genoa,0,0,0,0.0,0.0,0.0,4,2425
+Maat Caprini,Fiorentina,0,0,0,0.0,0.0,0.0,2,2425
+Matteo Palma,Udinese,0,0,0,0.0,0.0,0.0,1,2425
+Junior Ajayi,Verona,0,0,0,0.0,0.0,0.0,2,2425
+Federico Accornero,Genoa,0,0,0,0.0,0.0,0.0,1,2425
+Honest Ahanor,Genoa,0,0,0,0.0,0.0,0.0,6,2425
+Zion Suzuki,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,37,2425
+Alessandro Circati,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,6,2425
+Mateusz Kowalski,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,1,2425
+Lorenzo Tosto,Empoli,0,0,0,0.0,0.0,0.0,1,2425
+Álex Valle,Como,0,0,0,0.0,0.0,0.0,15,2425
+Martin Frese,Verona,0,0,0,0.0,0.0,0.0,11,2425
+Daniele Ghilardi,Verona,0,0,0,0.0,0.0,0.0,24,2425
+Alen Sherri,Cagliari,0,0,0,0.0,0.0,0.0,7,2425
+Samuel Dahl,Roma,0,0,0,0.0,0.0,0.0,2,2425
+Richie Sagrado,Venezia,0,0,0,0.0,0.0,0.0,3,2425
+Issa Doumbia,Venezia,0,0,0,0.0,0.0,0.0,24,2425
+Filip Marchwinski,Lecce,0,0,0,0.0,0.0,0.0,1,2425
+Federico Cassa,Atalanta,0,0,0,0.0,0.0,0.0,2,2425
+Jonas Rouhi,Juventus,0,0,0,0.0,0.0,0.0,5,2425
+Matthias Braunöder,Como,0,0,0,0.0,0.0,0.0,8,2425
+Saad El Haddad,Venezia,0,0,0,0.0,0.0,0.0,3,2425
+Alessio Iovine,Como,0,0,0,0.0,0.0,0.0,10,2425
+Ali Jasim,Como,0,0,0,0.0,0.0,0.0,2,2425
+Lorenzo Anghelè,Juventus,0,0,0,0.0,0.0,0.0,1,2425
+Joël Schingtienne,Venezia,0,0,0,0.0,0.0,0.0,16,2425
+Vanja Vlahovic,Atalanta,0,0,0,0.0,0.0,0.0,3,2425
+Gaby Jean,Lecce,0,0,0,0.0,0.0,0.0,19,2425
+Lior Kasa,Genoa,0,0,0,0.0,0.0,0.0,8,2425
+Damián Pizarro,Udinese,0,0,0,0.0,0.0,0.0,2,2425
+Vasilije Adzic,Juventus,0,0,0,0.0,0.0,0.0,6,2425
+Matías Moreno,Fiorentina,0,0,0,0.0,0.0,0.0,4,2425
+Fellipe Jack,Como,0,0,0,0.0,0.0,0.0,7,2425
+Brooke Norton-Cuffy,Genoa,0,0,0,0.0,0.0,0.0,14,2425
+Mattia Liberali,AC Milan,0,0,0,0.0,0.0,0.0,1,2425
+Tommaso Gabellini,Torino,0,0,0,0.0,0.0,0.0,1,2425
+Adrian Benedyczak,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,9,2425
+Tommaso Rubino,Fiorentina,0,0,0,0.0,0.0,0.0,1,2425
+Jacopo Bacci,Empoli,0,0,0,0.0,0.0,0.0,3,2425
+Diego Pugno,Juventus,0,0,0,0.0,0.0,0.0,1,2425
+Thomas Campaniello,Empoli,0,0,0,0.0,0.0,0.0,3,2425
+Sergiu Perciun,Torino,0,0,0,0.0,0.0,0.0,5,2425
+Nicolás Valentini,Verona,0,0,0,0.0,0.0,0.0,14,2425
+Bob Omoregbe,AC Milan,0,0,0,0.0,0.0,0.0,1,2425
+Mathias Løvik,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,6,2425
+Cheick Conde,Venezia,0,0,0,0.0,0.0,0.0,9,2425
+Luka Topalovic,Inter,0,0,0,0.0,0.0,0.0,1,2425
+Danilo Veiga,Lecce,0,0,0,0.0,0.0,0.0,13,2425
+Tiago Gabriel,Lecce,0,0,0,0.0,0.0,0.0,2,2425
+Arvid Brorsson,Monza,0,0,0,0.0,0.0,0.0,6,2425
+Daniel Oyegoke,Verona,0,0,0,0.0,0.0,0.0,5,2425
+Benjamin Siegrist,Genoa,0,0,0,0.0,0.0,0.0,2,2425
+Ivan Smolcic,Como,0,0,0,0.0,0.0,0.0,9,2425
+Oliver Provstgaard,Lazio,0,0,0,0.0,0.0,0.0,2,2425
+Victor Nelsson,Roma,0,0,0,0.0,0.0,0.0,4,2425
+Konan N’Dri,Lecce,0,0,0,0.0,0.0,0.0,11,2425
+Sebastian Otoa,Genoa,0,0,0,0.0,0.0,0.0,3,2425
+Nicola Pintus,Cagliari,0,0,0,0.0,0.0,0.0,1,2425
+Alessio Cacciamani,Torino,0,0,0,0.0,0.0,0.0,2,2425

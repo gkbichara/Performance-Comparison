@@ -1,0 +1,447 @@
+player,team,goals,assists,contributions,contribution_pct,goals_pct,assists_pct,games,season
+Erling Haaland,Manchester City,14,1,15,65.2,60.9,4.3,11,2526
+Antoine Semenyo,Bournemouth,6,3,9,52.9,35.3,17.6,11,2526
+Thiago,Brentford,8,0,8,47.1,47.1,0.0,11,2526
+Jean-Philippe Mateta,Crystal Palace,6,0,6,42.9,42.9,0.0,11,2526
+Iliman Ndiaye,Everton,4,1,5,41.7,33.3,8.3,11,2526
+Jack Grealish,Everton,1,4,5,41.7,8.3,33.3,10,2526
+Emiliano Buendía,Aston Villa,3,2,5,38.5,23.1,15.4,9,2526
+Nick Woltemade,Newcastle United,4,0,4,36.4,36.4,0.0,8,2526
+Bruno Guimarães,Newcastle United,3,1,4,36.4,27.3,9.1,10,2526
+Jaidon Anthony,Burnley,4,1,5,35.7,28.6,7.1,11,2526
+Danny Welbeck,Brighton,6,0,6,35.3,35.3,0.0,11,2526
+Mohamed Salah,Liverpool,4,2,6,33.3,22.2,11.1,11,2526
+João Pedro,Chelsea,4,3,7,33.3,19.0,14.3,11,2526
+Bryan Mbeumo,Manchester United,5,1,6,31.6,26.3,5.3,11,2526
+Richarlison,Tottenham,4,2,6,31.6,21.1,10.5,11,2526
+Jarrod Bowen,West Ham,3,1,4,30.8,23.1,7.7,11,2526
+Morgan Gibbs-White,Nottingham Forest,2,1,3,30.0,20.0,10.0,11,2526
+Sean Longstaff,Leeds,1,2,3,30.0,10.0,20.0,11,2526
+Wilson Isidor,Sunderland,4,0,4,28.6,28.6,0.0,11,2526
+Ismaila Sarr,Crystal Palace,3,1,4,28.6,21.4,7.1,9,2526
+Granit Xhaka,Sunderland,1,3,4,28.6,7.1,21.4,11,2526
+Marshall Munetsi,Wolverhampton Wanderers,1,1,2,28.6,14.3,14.3,11,2526
+Ladislav Krejcí,Wolverhampton Wanderers,1,1,2,28.6,14.3,14.3,8,2526
+Quilindschy Hartman,Burnley,0,4,4,28.6,0.0,28.6,11,2526
+Cody Gakpo,Liverpool,3,2,5,27.8,16.7,11.1,11,2526
+Jacob Murphy,Newcastle United,2,1,3,27.3,18.2,9.1,10,2526
+Bruno Fernandes,Manchester United,2,3,5,26.3,10.5,15.8,11,2526
+Mohammed Kudus,Tottenham,1,4,5,26.3,5.3,21.1,10,2526
+Alex Iwobi,Fulham,1,2,3,25.0,8.3,16.7,11,2526
+Kiernan Dewsbury-Hall,Everton,1,2,3,25.0,8.3,16.7,10,2526
+Pedro Neto,Chelsea,3,2,5,23.8,14.3,9.5,11,2526
+Eli Junior Kroupi,Bournemouth,4,0,4,23.5,23.5,0.0,8,2526
+Kevin Schade,Brentford,3,1,4,23.5,17.6,5.9,11,2526
+Yankuba Minteh,Brighton,1,3,4,23.5,5.9,17.6,11,2526
+Lucas Paquetá,West Ham,3,0,3,23.1,23.1,0.0,11,2526
+Donyell Malen,Aston Villa,3,0,3,23.1,23.1,0.0,11,2526
+Morgan Rogers,Aston Villa,1,2,3,23.1,7.7,15.4,11,2526
+Lucas Digne,Aston Villa,0,3,3,23.1,0.0,23.1,11,2526
+El Hadji Malick Diouf,West Ham,0,3,3,23.1,0.0,23.1,11,2526
+Hugo Ekitike,Liverpool,3,1,4,22.2,16.7,5.6,10,2526
+Ryan Gravenberch,Liverpool,3,1,4,22.2,16.7,5.6,9,2526
+Zian Flemming,Burnley,3,0,3,21.4,21.4,0.0,8,2526
+Josh Cullen,Burnley,2,1,3,21.4,14.3,7.1,11,2526
+Lyle Foster,Burnley,2,1,3,21.4,14.3,7.1,8,2526
+Daniel Muñoz,Crystal Palace,1,2,3,21.4,7.1,14.3,11,2526
+Casemiro,Manchester United,3,1,4,21.1,15.8,5.3,10,2526
+Pape Sarr,Tottenham,2,2,4,21.1,10.5,10.5,10,2526
+Viktor Gyokeres,Arsenal,4,0,4,20.0,20.0,0.0,10,2526
+Chris Wood,Nottingham Forest,2,0,2,20.0,20.0,0.0,8,2526
+Declan Rice,Arsenal,2,2,4,20.0,10.0,10.0,11,2526
+Joe Rodon,Leeds,2,0,2,20.0,20.0,0.0,11,2526
+Lukas Nmecha,Leeds,2,0,2,20.0,20.0,0.0,11,2526
+Leandro Trossard,Arsenal,2,2,4,20.0,10.0,10.0,9,2526
+Noah Okafor,Leeds,2,0,2,20.0,20.0,0.0,8,2526
+Dan Ndoye,Nottingham Forest,1,1,2,20.0,10.0,10.0,10,2526
+Elliot Anderson,Nottingham Forest,1,1,2,20.0,10.0,10.0,11,2526
+Anton Stach,Leeds,1,1,2,20.0,10.0,10.0,10,2526
+Brenden Aaronson,Leeds,1,1,2,20.0,10.0,10.0,11,2526
+Moisés Caicedo,Chelsea,3,1,4,19.0,14.3,4.8,11,2526
+Enzo Fernández,Chelsea,3,1,4,19.0,14.3,4.8,10,2526
+Marcus Tavernier,Bournemouth,2,1,3,17.6,11.8,5.9,11,2526
+Jéremy Doku,Manchester City,1,3,4,17.4,4.3,13.0,11,2526
+Idrissa Gueye,Everton,2,0,2,16.7,16.7,0.0,11,2526
+Federico Chiesa,Liverpool,2,1,3,16.7,11.1,5.6,8,2526
+Michael Keane,Everton,2,0,2,16.7,16.7,0.0,11,2526
+Harry Wilson,Fulham,2,0,2,16.7,16.7,0.0,10,2526
+Ryan Sessegnon,Fulham,2,0,2,16.7,16.7,0.0,10,2526
+Sasa Lukic,Fulham,1,1,2,16.7,8.3,8.3,9,2526
+Raúl Jiménez,Fulham,1,1,2,16.7,8.3,8.3,10,2526
+James Garner,Everton,1,1,2,16.7,8.3,8.3,11,2526
+Rodrigo Muniz,Fulham,1,1,2,16.7,8.3,8.3,7,2526
+Micky van de Ven,Tottenham,3,0,3,15.8,15.8,0.0,11,2526
+João Palhinha,Tottenham,2,1,3,15.8,10.5,5.3,11,2526
+Benjamin Sesko,Manchester United,2,1,3,15.8,10.5,5.3,11,2526
+Amad Diallo Traore,Manchester United,1,2,3,15.8,5.3,10.5,10,2526
+Callum Wilson,West Ham,2,0,2,15.4,15.4,0.0,8,2526
+Tomas Soucek,West Ham,2,0,2,15.4,15.4,0.0,8,2526
+Matthew Cash,Aston Villa,2,0,2,15.4,15.4,0.0,11,2526
+Mateus Fernandes,West Ham,1,1,2,15.4,7.7,7.7,9,2526
+Boubacar Kamara,Aston Villa,0,2,2,15.4,0.0,15.4,9,2526
+Bukayo Saka,Arsenal,3,0,3,15.0,15.0,0.0,9,2526
+Martín Zubimendi,Arsenal,2,1,3,15.0,10.0,5.0,11,2526
+Jurriën Timber,Arsenal,2,1,3,15.0,10.0,5.0,11,2526
+Gabriel,Arsenal,1,2,3,15.0,5.0,10.0,11,2526
+Riccardo Calafiori,Arsenal,1,2,3,15.0,5.0,10.0,11,2526
+Chimuanya Ugochukwu,Burnley,2,0,2,14.3,14.3,0.0,10,2526
+Dan Ballard,Sunderland,2,0,2,14.3,14.3,0.0,9,2526
+Nordi Mukiele,Sunderland,1,1,2,14.3,7.1,7.1,9,2526
+Marc Guehi,Crystal Palace,1,1,2,14.3,7.1,7.1,10,2526
+Reece James,Chelsea,1,2,3,14.3,4.8,9.5,11,2526
+Enzo Le Fée,Sunderland,1,1,2,14.3,7.1,7.1,10,2526
+Hee-Chan Hwang,Wolverhampton Wanderers,1,0,1,14.3,14.3,0.0,8,2526
+Omar Alderete,Sunderland,1,1,2,14.3,7.1,7.1,8,2526
+Brian Brobbey,Sunderland,1,1,2,14.3,7.1,7.1,6,2526
+Alejandro Garnacho,Chelsea,1,2,3,14.3,4.8,9.5,6,2526
+Santiago Bueno,Wolverhampton Wanderers,1,0,1,14.3,14.3,0.0,8,2526
+Jørgen Strand Larsen,Wolverhampton Wanderers,1,0,1,14.3,14.3,0.0,9,2526
+Rodrigo Gomes,Wolverhampton Wanderers,1,0,1,14.3,14.3,0.0,6,2526
+Chemsdine Talbi,Sunderland,1,1,2,14.3,7.1,7.1,11,2526
+Fernando López,Wolverhampton Wanderers,0,1,1,14.3,0.0,14.3,5,2526
+David Møller Wolfe,Wolverhampton Wanderers,0,1,1,14.3,0.0,14.3,5,2526
+Mathis Cherki,Manchester City,1,2,3,13.0,4.3,8.7,6,2526
+Nico O'Reilly,Manchester City,1,2,3,13.0,4.3,8.7,10,2526
+Tijjani Reijnders,Manchester City,1,2,3,13.0,4.3,8.7,10,2526
+Mathias Jensen,Brentford,2,0,2,11.8,11.8,0.0,9,2526
+Dango Ouattara,Brentford,2,0,2,11.8,11.8,0.0,10,2526
+Diego Gómez,Brighton,2,0,2,11.8,11.8,0.0,10,2526
+James Milner,Brighton,1,1,2,11.8,5.9,5.9,7,2526
+Tyler Adams,Bournemouth,1,1,2,11.8,5.9,5.9,11,2526
+Mikkel Damsgaard,Brentford,1,1,2,11.8,5.9,5.9,9,2526
+Kaoru Mitoma,Brighton,1,1,2,11.8,5.9,5.9,6,2526
+Brajan Gruda,Brighton,1,1,2,11.8,5.9,5.9,7,2526
+Jordan Henderson,Brentford,0,2,2,11.8,0.0,11.8,11,2526
+Georginio Rutter,Brighton,0,2,2,11.8,0.0,11.8,10,2526
+Marcos Senesi,Bournemouth,0,2,2,11.8,0.0,11.8,11,2526
+Mats Wieffer,Brighton,0,2,2,11.8,0.0,11.8,9,2526
+Dominik Szoboszlai,Liverpool,1,1,2,11.1,5.6,5.6,11,2526
+Alexis Mac Allister,Liverpool,0,2,2,11.1,0.0,11.1,10,2526
+Mathys Tel,Tottenham,2,0,2,10.5,10.5,0.0,8,2526
+Brennan Johnson,Tottenham,2,0,2,10.5,10.5,0.0,11,2526
+Harry Maguire,Manchester United,1,1,2,10.5,5.3,5.3,8,2526
+Rodrigo Bentancur,Tottenham,1,1,2,10.5,5.3,5.3,10,2526
+Lucas Bergvall,Tottenham,1,1,2,10.5,5.3,5.3,9,2526
+Mikel Merino,Arsenal,1,1,2,10.0,5.0,5.0,10,2526
+Dominic Calvert-Lewin,Leeds,1,0,1,10.0,10.0,0.0,9,2526
+Ibrahim Sangare,Nottingham Forest,1,0,1,10.0,10.0,0.0,8,2526
+Callum Hudson-Odoi,Nottingham Forest,1,0,1,10.0,10.0,0.0,10,2526
+Neco Williams,Nottingham Forest,1,0,1,10.0,10.0,0.0,11,2526
+Nicolò Savona,Nottingham Forest,1,0,1,10.0,10.0,0.0,6,2526
+Omari Hutchinson,Nottingham Forest,0,1,1,10.0,0.0,10.0,6,2526
+Ryan Yates,Nottingham Forest,0,1,1,10.0,0.0,10.0,7,2526
+Trevoh Chalobah,Chelsea,2,0,2,9.5,9.5,0.0,10,2526
+Malo Gusto,Chelsea,1,1,2,9.5,4.8,4.8,9,2526
+Estêvão,Chelsea,1,1,2,9.5,4.8,4.8,10,2526
+Marc Cucurella,Chelsea,0,2,2,9.5,0.0,9.5,11,2526
+Harvey Barnes,Newcastle United,1,0,1,9.1,9.1,0.0,11,2526
+William Osula,Newcastle United,1,0,1,9.1,9.1,0.0,10,2526
+Dan Burn,Newcastle United,0,1,1,9.1,0.0,9.1,11,2526
+Sandro Tonali,Newcastle United,0,1,1,9.1,0.0,9.1,11,2526
+Valentino Livramento,Newcastle United,0,1,1,9.1,0.0,9.1,6,2526
+Lewis Miley,Newcastle United,0,1,1,9.1,0.0,9.1,8,2526
+Phil Foden,Manchester City,1,1,2,8.7,4.3,4.3,9,2526
+Matheus Nunes,Manchester City,1,1,2,8.7,4.3,4.3,9,2526
+Bernardo Silva,Manchester City,0,2,2,8.7,0.0,8.7,11,2526
+Emile Smith-Rowe,Fulham,1,0,1,8.3,8.3,0.0,11,2526
+Beto,Everton,1,0,1,8.3,8.3,0.0,11,2526
+Samuel Chukwueze,Fulham,0,1,1,8.3,0.0,8.3,4,2526
+Tim Iroegbunam,Everton,0,1,1,8.3,0.0,8.3,8,2526
+Ross Barkley,Aston Villa,1,0,1,7.7,7.7,0.0,5,2526
+Kyle Walker-Peters,West Ham,1,0,1,7.7,7.7,0.0,10,2526
+John McGinn,Aston Villa,1,0,1,7.7,7.7,0.0,11,2526
+Ollie Watkins,Aston Villa,1,0,1,7.7,7.7,0.0,11,2526
+Amadou Onana,Aston Villa,1,0,1,7.7,7.7,0.0,7,2526
+Youri Tielemans,Aston Villa,0,1,1,7.7,0.0,7.7,5,2526
+Crysencio Summerville,West Ham,0,1,1,7.7,0.0,7.7,9,2526
+Eddie Nketiah,Crystal Palace,1,0,1,7.1,7.1,0.0,5,2526
+Tyrick Mitchell,Crystal Palace,1,0,1,7.1,7.1,0.0,11,2526
+Loum Tchaouna,Burnley,1,0,1,7.1,7.1,0.0,10,2526
+Eliezer Mayenda,Sunderland,1,0,1,7.1,7.1,0.0,7,2526
+Kyle Walker,Burnley,0,1,1,7.1,0.0,7.1,11,2526
+Jefferson Lerma,Crystal Palace,0,1,1,7.1,0.0,7.1,10,2526
+Jacob Bruun Larsen,Burnley,0,1,1,7.1,0.0,7.1,9,2526
+Maxence Lacroix,Crystal Palace,0,1,1,7.1,0.0,7.1,11,2526
+Florentino Luís,Burnley,0,1,1,7.1,0.0,7.1,8,2526
+Hannibal Mejbri,Burnley,0,1,1,7.1,0.0,7.1,10,2526
+Trai Hume,Sunderland,0,1,1,7.1,0.0,7.1,11,2526
+Justin Kluivert,Bournemouth,1,0,1,5.9,5.9,0.0,10,2526
+Fabio Carvalho,Brentford,1,0,1,5.9,5.9,0.0,6,2526
+Ryan Christie,Bournemouth,1,0,1,5.9,5.9,0.0,9,2526
+Jan Paul van Hecke,Brighton,1,0,1,5.9,5.9,0.0,11,2526
+Yasin Ayari,Brighton,1,0,1,5.9,5.9,0.0,11,2526
+Alex Scott,Bournemouth,1,0,1,5.9,5.9,0.0,11,2526
+Evanilson,Bournemouth,1,0,1,5.9,5.9,0.0,9,2526
+Matt O'Riley,Brighton,1,0,1,5.9,5.9,0.0,2,2526
+Maxim De Cuyper,Brighton,1,0,1,5.9,5.9,0.0,9,2526
+Charalampos Kostoulas,Brighton,1,0,1,5.9,5.9,0.0,4,2526
+David Brooks,Bournemouth,0,1,1,5.9,0.0,5.9,10,2526
+Hamed Junior Traore,Bournemouth,0,1,1,5.9,0.0,5.9,1,2526
+Adrien Truffert,Bournemouth,0,1,1,5.9,0.0,5.9,11,2526
+Kristoffer Ajer,Brentford,0,1,1,5.9,0.0,5.9,7,2526
+Frank Onyeka,Brentford,0,1,1,5.9,0.0,5.9,6,2526
+Keane Lewis-Potter,Brentford,0,1,1,5.9,0.0,5.9,9,2526
+Ben Doak,Bournemouth,0,1,1,5.9,0.0,5.9,4,2526
+Yehor Yarmolyuk,Brentford,0,1,1,5.9,0.0,5.9,11,2526
+Stefanos Tzimas,Brighton,0,1,1,5.9,0.0,5.9,7,2526
+Milos Kerkez,Liverpool,1,0,1,5.6,5.6,0.0,10,2526
+Rio Ngumoha,Liverpool,1,0,1,5.6,5.6,0.0,4,2526
+Alexander Isak,Liverpool,0,1,1,5.6,0.0,5.6,4,2526
+Wataru Endo,Liverpool,0,1,1,5.6,0.0,5.6,4,2526
+Matheus Cunha,Manchester United,1,0,1,5.3,5.3,0.0,10,2526
+Mason Mount,Manchester United,1,0,1,5.3,5.3,0.0,8,2526
+Matthijs de Ligt,Manchester United,1,0,1,5.3,5.3,0.0,11,2526
+Luke Shaw,Manchester United,0,1,1,5.3,0.0,5.3,11,2526
+Pedro Porro,Tottenham,0,1,1,5.3,0.0,5.3,11,2526
+Cristian Romero,Tottenham,0,1,1,5.3,0.0,5.3,9,2526
+Diogo Dalot,Manchester United,0,1,1,5.3,0.0,5.3,9,2526
+Xavi Simons,Tottenham,0,1,1,5.3,0.0,5.3,8,2526
+Iyenoma Destiny Udogie,Tottenham,0,1,1,5.3,0.0,5.3,7,2526
+Wilson Odobert,Tottenham,0,1,1,5.3,0.0,5.3,10,2526
+Patrick Dorgu,Manchester United,0,1,1,5.3,0.0,5.3,10,2526
+Ayden Heaven,Manchester United,0,1,1,5.3,0.0,5.3,2,2526
+Gabriel Martinelli,Arsenal,1,0,1,5.0,5.0,0.0,8,2526
+Martin Odegaard,Arsenal,0,1,1,5.0,0.0,5.0,6,2526
+Cole Palmer,Chelsea,1,0,1,4.8,4.8,0.0,3,2526
+Josh Acheampong,Chelsea,1,0,1,4.8,4.8,0.0,5,2526
+Nico González,Manchester City,1,0,1,4.3,4.3,0.0,10,2526
+Omar Marmoush,Manchester City,0,1,1,4.3,0.0,4.3,6,2526
+Josko Gvardiol,Manchester City,0,1,1,4.3,0.0,4.3,7,2526
+Rico Lewis,Manchester City,0,1,1,4.3,0.0,4.3,5,2526
+Sávio,Manchester City,0,1,1,4.3,0.0,4.3,8,2526
+Oscar Bobb,Manchester City,0,1,1,4.3,0.0,4.3,8,2526
+Fabian Schär,Newcastle United,0,0,0,0.0,0.0,0.0,6,2526
+Joelinton,Newcastle United,0,0,0,0.0,0.0,0.0,9,2526
+Bernd Leno,Fulham,0,0,0,0.0,0.0,0.0,11,2526
+Nathan Aké,Manchester City,0,0,0,0.0,0.0,0.0,5,2526
+Seamus Coleman,Everton,0,0,0,0.0,0.0,0.0,2,2526
+John Stones,Manchester City,0,0,0,0.0,0.0,0.0,5,2526
+Nathaniel Clyne,Crystal Palace,0,0,0,0.0,0.0,0.0,1,2526
+Kieran Trippier,Newcastle United,0,0,0,0.0,0.0,0.0,9,2526
+Bertrand Traoré,Sunderland,0,0,0,0.0,0.0,0.0,6,2526
+Ola Aina,Nottingham Forest,0,0,0,0.0,0.0,0.0,3,2526
+Jordan Pickford,Everton,0,0,0,0.0,0.0,0.0,11,2526
+Jamaal Lascelles,Newcastle United,0,0,0,0.0,0.0,0.0,2,2526
+Karl Darlow,Leeds,0,0,0,0.0,0.0,0.0,5,2526
+Adam Smith,Bournemouth,0,0,0,0.0,0.0,0.0,4,2526
+Virgil van Dijk,Liverpool,0,0,0,0.0,0.0,0.0,11,2526
+James Ward-Prowse,West Ham,0,0,0,0.0,0.0,0.0,5,2526
+Adama Traoré,Fulham,0,0,0,0.0,0.0,0.0,9,2526
+Sam Byram,Leeds,0,0,0,0.0,0.0,0.0,1,2526
+Patrick Roberts,Sunderland,0,0,0,0.0,0.0,0.0,1,2526
+Axel Tuanzebe,Burnley,0,0,0,0.0,0.0,0.0,5,2526
+Sam Johnstone,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,7,2526
+Joseph Gomez,Liverpool,0,0,0,0.0,0.0,0.0,4,2526
+Tyrone Mings,Aston Villa,0,0,0,0.0,0.0,0.0,7,2526
+Gianluigi Donnarumma,Manchester City,0,0,0,0.0,0.0,0.0,8,2526
+Alisson,Liverpool,0,0,0,0.0,0.0,0.0,6,2526
+Emil Krafth,Newcastle United,0,0,0,0.0,0.0,0.0,1,2526
+James Tarkowski,Everton,0,0,0,0.0,0.0,0.0,11,2526
+Dominic Solanke,Tottenham,0,0,0,0.0,0.0,0.0,2,2526
+Andrew Robertson,Liverpool,0,0,0,0.0,0.0,0.0,6,2526
+Arthur Masuaku,Sunderland,0,0,0,0.0,0.0,0.0,3,2526
+Lewis Cook,Bournemouth,0,0,0,0.0,0.0,0.0,4,2526
+Mateo Kovacic,Manchester City,0,0,0,0.0,0.0,0.0,1,2526
+Alphonse Areola,West Ham,0,0,0,0.0,0.0,0.0,7,2526
+Rodri,Manchester City,0,0,0,0.0,0.0,0.0,6,2526
+Oleksandr Zinchenko,Nottingham Forest,0,0,0,0.0,0.0,0.0,3,2526
+Issa Diop,Fulham,0,0,0,0.0,0.0,0.0,3,2526
+Odsonne Edouard,Crystal Palace,0,0,0,0.0,0.0,0.0,1,2526
+Emiliano Martinez,Aston Villa,0,0,0,0.0,0.0,0.0,9,2526
+Ashley Barnes,Burnley,0,0,0,0.0,0.0,0.0,1,2526
+Kai Havertz,Arsenal,0,0,0,0.0,0.0,0.0,1,2526
+Kevin Danso,Tottenham,0,0,0,0.0,0.0,0.0,7,2526
+Nick Pope,Newcastle United,0,0,0,0.0,0.0,0.0,11,2526
+Aaron Wan-Bissaka,West Ham,0,0,0,0.0,0.0,0.0,7,2526
+Tosin Adarabioyo,Chelsea,0,0,0,0.0,0.0,0.0,7,2526
+Daniel James,Leeds,0,0,0,0.0,0.0,0.0,8,2526
+Aaron Ramsdale,Newcastle United,0,0,0,0.0,0.0,0.0,1,2526
+Randal Kolo Muani,Tottenham,0,0,0,0.0,0.0,0.0,4,2526
+Kenny Tete,Fulham,0,0,0,0.0,0.0,0.0,8,2526
+Lewis Dunk,Brighton,0,0,0,0.0,0.0,0.0,11,2526
+Victor Lindelöf,Aston Villa,0,0,0,0.0,0.0,0.0,3,2526
+Niclas Füllkrug,West Ham,0,0,0,0.0,0.0,0.0,6,2526
+Will Hughes,Crystal Palace,0,0,0,0.0,0.0,0.0,9,2526
+Douglas Luiz,Nottingham Forest,0,0,0,0.0,0.0,0.0,4,2526
+Daichi Kamada,Crystal Palace,0,0,0,0.0,0.0,0.0,9,2526
+Timothy Castagne,Fulham,0,0,0,0.0,0.0,0.0,7,2526
+Nikola Milenkovic,Nottingham Forest,0,0,0,0.0,0.0,0.0,11,2526
+Pau Torres,Aston Villa,0,0,0,0.0,0.0,0.0,8,2526
+Joachim Andersen,Fulham,0,0,0,0.0,0.0,0.0,10,2526
+Ibrahima Konaté,Liverpool,0,0,0,0.0,0.0,0.0,11,2526
+Jadon Sancho,Aston Villa,0,0,0,0.0,0.0,0.0,4,2526
+Ethan Ampadu,Leeds,0,0,0,0.0,0.0,0.0,9,2526
+Reiss Nelson,Brentford,0,0,0,0.0,0.0,0.0,2,2526
+Martin Dubravka,Burnley,0,0,0,0.0,0.0,0.0,11,2526
+Joe Willock,Newcastle United,0,0,0,0.0,0.0,0.0,3,2526
+Curtis Jones,Liverpool,0,0,0,0.0,0.0,0.0,9,2526
+Rayan Ait Nouri,Manchester City,0,0,0,0.0,0.0,0.0,4,2526
+Konstantinos Mavropanos,West Ham,0,0,0,0.0,0.0,0.0,6,2526
+Dwight McNeil,Everton,0,0,0,0.0,0.0,0.0,3,2526
+Jaka Bijol,Leeds,0,0,0,0.0,0.0,0.0,3,2526
+Jean-Clair Todibo,West Ham,0,0,0,0.0,0.0,0.0,6,2526
+Tom Cairney,Fulham,0,0,0,0.0,0.0,0.0,7,2526
+Matt Doherty,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,4,2526
+William Saliba,Arsenal,0,0,0,0.0,0.0,0.0,10,2526
+Matz Sels,Nottingham Forest,0,0,0,0.0,0.0,0.0,11,2526
+Naif Aguerd,West Ham,0,0,0,0.0,0.0,0.0,2,2526
+Borna Sosa,Crystal Palace,0,0,0,0.0,0.0,0.0,1,2526
+Christian Nørgaard,Arsenal,0,0,0,0.0,0.0,0.0,2,2526
+Benoit Badiashile Mukinayi,Chelsea,0,0,0,0.0,0.0,0.0,2,2526
+Bafode Diakite,Bournemouth,0,0,0,0.0,0.0,0.0,8,2526
+Ben White,Arsenal,0,0,0,0.0,0.0,0.0,1,2526
+Max Kilman,West Ham,0,0,0,0.0,0.0,0.0,11,2526
+Reinildo,Sunderland,0,0,0,0.0,0.0,0.0,8,2526
+Wesley Fofana,Chelsea,0,0,0,0.0,0.0,0.0,5,2526
+Dean Henderson,Crystal Palace,0,0,0,0.0,0.0,0.0,11,2526
+Ezri Konsa Ngoyo,Aston Villa,0,0,0,0.0,0.0,0.0,10,2526
+James Justin,Leeds,0,0,0,0.0,0.0,0.0,5,2526
+Jean-Ricner Bellegarde,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,10,2526
+Taiwo Awoniyi,Nottingham Forest,0,0,0,0.0,0.0,0.0,4,2526
+Caoimhin Kelleher,Brentford,0,0,0,0.0,0.0,0.0,11,2526
+Igor Julio,West Ham,0,0,0,0.0,0.0,0.0,3,2526
+Ilia Gruev,Leeds,0,0,0,0.0,0.0,0.0,5,2526
+Evann Guessand,Aston Villa,0,0,0,0.0,0.0,0.0,10,2526
+Joshua Zirkzee,Manchester United,0,0,0,0.0,0.0,0.0,4,2526
+Arnaud Kalimuendo Muinga,Nottingham Forest,0,0,0,0.0,0.0,0.0,6,2526
+Anthony Gordon,Newcastle United,0,0,0,0.0,0.0,0.0,7,2526
+Amine Adli,Bournemouth,0,0,0,0.0,0.0,0.0,8,2526
+Nicolás Domínguez,Nottingham Forest,0,0,0,0.0,0.0,0.0,3,2526
+Guido Rodríguez,West Ham,0,0,0,0.0,0.0,0.0,2,2526
+Sander Berge,Fulham,0,0,0,0.0,0.0,0.0,11,2526
+Ki-Jana Hoever,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,5,2526
+Malick Thiaw,Newcastle United,0,0,0,0.0,0.0,0.0,8,2526
+Armando Broja,Burnley,0,0,0,0.0,0.0,0.0,5,2526
+Florian Wirtz,Liverpool,0,0,0,0.0,0.0,0.0,11,2526
+Chris Richards,Crystal Palace,0,0,0,0.0,0.0,0.0,11,2526
+Jorge Cuenca,Fulham,0,0,0,0.0,0.0,0.0,3,2526
+Sven Botman,Newcastle United,0,0,0,0.0,0.0,0.0,9,2526
+Pascal Struijk,Leeds,0,0,0,0.0,0.0,0.0,9,2526
+Jack Harrison,Leeds,0,0,0,0.0,0.0,0.0,10,2526
+Joël Veltman,Brighton,0,0,0,0.0,0.0,0.0,5,2526
+Sasa Kalajdzic,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,1,2526
+Guglielmo Vicario,Tottenham,0,0,0,0.0,0.0,0.0,11,2526
+Liam Delap,Chelsea,0,0,0,0.0,0.0,0.0,4,2526
+Tolu Arokodare,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,7,2526
+Dilane Bakwa,Nottingham Forest,0,0,0,0.0,0.0,0.0,4,2526
+Antonee Robinson,Fulham,0,0,0,0.0,0.0,0.0,3,2526
+Jacob Ramsey,Newcastle United,0,0,0,0.0,0.0,0.0,5,2526
+Aaron Hickey,Brentford,0,0,0,0.0,0.0,0.0,6,2526
+Rúben Dias,Manchester City,0,0,0,0.0,0.0,0.0,11,2526
+Yeremi Pino,Crystal Palace,0,0,0,0.0,0.0,0.0,9,2526
+James Trafford,Manchester City,0,0,0,0.0,0.0,0.0,3,2526
+Robert Sánchez,Chelsea,0,0,0,0.0,0.0,0.0,11,2526
+Jayden Bogle,Leeds,0,0,0,0.0,0.0,0.0,11,2526
+Filip Jorgensen,Chelsea,0,0,0,0.0,0.0,0.0,1,2526
+Jeremie Frimpong,Liverpool,0,0,0,0.0,0.0,0.0,4,2526
+Maxime Estève,Burnley,0,0,0,0.0,0.0,0.0,11,2526
+Anthony Elanga,Newcastle United,0,0,0,0.0,0.0,0.0,11,2526
+Marco Bizot,Aston Villa,0,0,0,0.0,0.0,0.0,2,2526
+David Raya,Arsenal,0,0,0,0.0,0.0,0.0,11,2526
+Ethan Pinnock,Brentford,0,0,0,0.0,0.0,0.0,2,2526
+Rico Henry,Brentford,0,0,0,0.0,0.0,0.0,8,2526
+Vitaly Janelt,Brentford,0,0,0,0.0,0.0,0.0,7,2526
+Giorgi Mamardashvili,Liverpool,0,0,0,0.0,0.0,0.0,5,2526
+Nathan Collins,Brentford,0,0,0,0.0,0.0,0.0,11,2526
+José Sá,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,4,2526
+Habib Diarra,Sunderland,0,0,0,0.0,0.0,0.0,4,2526
+Piero Hincapié,Arsenal,0,0,0,0.0,0.0,0.0,2,2526
+Gabriel Gudmundsson,Leeds,0,0,0,0.0,0.0,0.0,11,2526
+Yerson Mosquera,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,4,2526
+Romeo Lavia,Chelsea,0,0,0,0.0,0.0,0.0,4,2526
+Cristhian Mosquera,Arsenal,0,0,0,0.0,0.0,0.0,7,2526
+Lamare Bogarde,Aston Villa,0,0,0,0.0,0.0,0.0,7,2526
+Conor Bradley,Liverpool,0,0,0,0.0,0.0,0.0,9,2526
+James McAtee,Nottingham Forest,0,0,0,0.0,0.0,0.0,4,2526
+Hugo Bueno,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,11,2526
+Diego Coppola,Brighton,0,0,0,0.0,0.0,0.0,3,2526
+Archie Gray,Tottenham,0,0,0,0.0,0.0,0.0,2,2526
+Lewis Hall,Newcastle United,0,0,0,0.0,0.0,0.0,4,2526
+Vitalii Mykolenko,Everton,0,0,0,0.0,0.0,0.0,8,2526
+Toti,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,8,2526
+Carlos Baleba,Brighton,0,0,0,0.0,0.0,0.0,11,2526
+Jamie Bynoe-Gittens,Chelsea,0,0,0,0.0,0.0,0.0,9,2526
+Leny Yoro,Manchester United,0,0,0,0.0,0.0,0.0,11,2526
+Tyler Dibling,Everton,0,0,0,0.0,0.0,0.0,4,2526
+Noussair Mazraoui,Manchester United,0,0,0,0.0,0.0,0.0,5,2526
+Sepp van den Berg,Brentford,0,0,0,0.0,0.0,0.0,11,2526
+James Hill,Bournemouth,0,0,0,0.0,0.0,0.0,7,2526
+Joe Worrall,Burnley,0,0,0,0.0,0.0,0.0,4,2526
+Djed Spence,Tottenham,0,0,0,0.0,0.0,0.0,10,2526
+Soungoutou Magassa,West Ham,0,0,0,0.0,0.0,0.0,6,2526
+Emmanuel Agbadou,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,8,2526
+Ethan Nwaneri,Arsenal,0,0,0,0.0,0.0,0.0,5,2526
+Wilfried Gnonto,Leeds,0,0,0,0.0,0.0,0.0,4,2526
+Kobbie Mainoo,Manchester United,0,0,0,0.0,0.0,0.0,7,2526
+Bashir Humphreys,Burnley,0,0,0,0.0,0.0,0.0,1,2526
+Jack Hinshelwood,Brighton,0,0,0,0.0,0.0,0.0,3,2526
+Michael Kayode,Brentford,0,0,0,0.0,0.0,0.0,11,2526
+Carlos Alcaraz,Everton,0,0,0,0.0,0.0,0.0,8,2526
+Merlin Röhl,Everton,0,0,0,0.0,0.0,0.0,4,2526
+Noni Madueke,Arsenal,0,0,0,0.0,0.0,0.0,5,2526
+Facundo Buonanotte,Chelsea,0,0,0,0.0,0.0,0.0,1,2526
+João Gomes,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,11,2526
+Hjalmar Ekdal,Burnley,0,0,0,0.0,0.0,0.0,7,2526
+Simon Adingra,Sunderland,0,0,0,0.0,0.0,0.0,7,2526
+Bart Verbruggen,Brighton,0,0,0,0.0,0.0,0.0,11,2526
+Calvin Bassey,Fulham,0,0,0,0.0,0.0,0.0,11,2526
+Abduqodir Khusanov,Manchester City,0,0,0,0.0,0.0,0.0,4,2526
+Manuel Ugarte,Manchester United,0,0,0,0.0,0.0,0.0,9,2526
+Ian Maatsen,Aston Villa,0,0,0,0.0,0.0,0.0,7,2526
+Andrey Santos,Chelsea,0,0,0,0.0,0.0,0.0,8,2526
+Lucas Pires,Burnley,0,0,0,0.0,0.0,0.0,1,2526
+Jake O'Brien,Everton,0,0,0,0.0,0.0,0.0,11,2526
+Djordje Petrovic,Bournemouth,0,0,0,0.0,0.0,0.0,11,2526
+Altay Bayindir,Manchester United,0,0,0,0.0,0.0,0.0,6,2526
+Jackson Tchatchoua,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,10,2526
+Murillo,Nottingham Forest,0,0,0,0.0,0.0,0.0,8,2526
+Alejandro Jiménez,Bournemouth,0,0,0,0.0,0.0,0.0,8,2526
+Myles Lewis-Skelly,Arsenal,0,0,0,0.0,0.0,0.0,7,2526
+Oliver Scarles,West Ham,0,0,0,0.0,0.0,0.0,2,2526
+Callum Marshall,West Ham,0,0,0,0.0,0.0,0.0,2,2526
+Lucas Perri,Leeds,0,0,0,0.0,0.0,0.0,6,2526
+Adam Wharton,Crystal Palace,0,0,0,0.0,0.0,0.0,9,2526
+Joshua King,Fulham,0,0,0,0.0,0.0,0.0,11,2526
+Tyrique George,Chelsea,0,0,0,0.0,0.0,0.0,4,2526
+Christantus Uche,Crystal Palace,0,0,0,0.0,0.0,0.0,3,2526
+Harrison Armstrong,Everton,0,0,0,0.0,0.0,0.0,1,2526
+Jota Silva,Nottingham Forest,0,0,0,0.0,0.0,0.0,1,2526
+Andy Irving,West Ham,0,0,0,0.0,0.0,0.0,6,2526
+Mads Hermansen,West Ham,0,0,0,0.0,0.0,0.0,4,2526
+Thierno Barry,Everton,0,0,0,0.0,0.0,0.0,11,2526
+André,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,11,2526
+Luis Guilherme,West Ham,0,0,0,0.0,0.0,0.0,3,2526
+Justin Devenny,Crystal Palace,0,0,0,0.0,0.0,0.0,8,2526
+Lutsharel Geertruida,Sunderland,0,0,0,0.0,0.0,0.0,8,2526
+Ferdi Kadioglu,Brighton,0,0,0,0.0,0.0,0.0,10,2526
+Morato,Nottingham Forest,0,0,0,0.0,0.0,0.0,6,2526
+Jaydee Canvot,Crystal Palace,0,0,0,0.0,0.0,0.0,2,2526
+Ben Winterburn,Bournemouth,0,0,0,0.0,0.0,0.0,1,2526
+Jonah Kusi-Asare,Fulham,0,0,0,0.0,0.0,0.0,1,2526
+Romain Esse,Crystal Palace,0,0,0,0.0,0.0,0.0,1,2526
+Joe Knight,Brighton,0,0,0,0.0,0.0,0.0,1,2526
+Julio Soler,Bournemouth,0,0,0,0.0,0.0,0.0,1,2526
+Mateus Mané,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,1,2526
+Robin Roefs,Sunderland,0,0,0,0.0,0.0,0.0,11,2526
+Jenson Seelt,Sunderland,0,0,0,0.0,0.0,0.0,2,2526
+Noah Sadiki,Sunderland,0,0,0,0.0,0.0,0.0,11,2526
+Chris Rigg,Sunderland,0,0,0,0.0,0.0,0.0,6,2526
+Dan Neil,Sunderland,0,0,0,0.0,0.0,0.0,2,2526
+Freddie Potts,West Ham,0,0,0,0.0,0.0,0.0,6,2526
+Oliver Sonne,Burnley,0,0,0,0.0,0.0,0.0,3,2526
+Josh Laurent,Burnley,0,0,0,0.0,0.0,0.0,10,2526
+Marcus Edwards,Burnley,0,0,0,0.0,0.0,0.0,3,2526
+Jhon Arias,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,10,2526
+Jorrel Hato,Chelsea,0,0,0,0.0,0.0,0.0,4,2526
+Igor Jesus,Nottingham Forest,0,0,0,0.0,0.0,0.0,10,2526
+Jair,Nottingham Forest,0,0,0,0.0,0.0,0.0,1,2526
+Antoni Milambo,Brentford,0,0,0,0.0,0.0,0.0,1,2526
+Ao Tanaka,Leeds,0,0,0,0.0,0.0,0.0,8,2526
+Joël Piroe,Leeds,0,0,0,0.0,0.0,0.0,5,2526
+Bradley Burrowes,Aston Villa,0,0,0,0.0,0.0,0.0,1,2526
+Max Dowman,Arsenal,0,0,0,0.0,0.0,0.0,2,2526
+Veljko Milosavljevic,Bournemouth,0,0,0,0.0,0.0,0.0,4,2526
+Tom Watson,Brighton,0,0,0,0.0,0.0,0.0,2,2526
+Kevin,Fulham,0,0,0,0.0,0.0,0.0,8,2526
+Senne Lammens,Manchester United,0,0,0,0.0,0.0,0.0,5,2526
+Nehemiah Oriola,Brighton,0,0,0,0.0,0.0,0.0,1,2526
