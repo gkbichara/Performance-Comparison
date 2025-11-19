@@ -1,0 +1,571 @@
+player,team,goals,assists,contributions,contribution_pct,goals_pct,assists_pct,games,season
+Dusan Vlahovic,Fiorentina,21,3,24,51.1,44.7,6.4,37,2021
+Simy,Crotone,20,2,22,48.9,44.4,4.4,38,2021
+João Pedro,Cagliari,16,3,19,44.2,37.2,7.0,37,2021
+Rodrigo de Paul,Udinese,9,9,18,42.9,21.4,21.4,36,2021
+Ciro Immobile,Lazio,20,6,26,42.6,32.8,9.8,35,2021
+Cristiano Ronaldo,Juventus,29,3,32,41.6,37.7,3.9,33,2021
+Romelu Lukaku,Inter,24,11,35,39.3,27.0,12.4,36,2021
+Andrea Belotti,Torino,13,6,19,38.0,26.0,12.0,35,2021
+Domenico Berardi,Sassuolo,17,7,24,37.5,26.6,10.9,30,2021
+Henrikh Mkhitaryan,Roma,13,10,23,33.8,19.1,14.7,34,2021
+Luis Muriel,Atalanta,22,8,30,33.3,24.4,8.9,36,2021
+Musa Barrow,Bologna,8,8,16,31.4,15.7,15.7,38,2021
+Lorenzo Insigne,Napoli,19,7,26,30.2,22.1,8.1,35,2021
+Roberto Soriano,Bologna,9,6,15,29.4,17.6,11.8,37,2021
+Junior Messias,Crotone,9,4,13,28.9,20.0,8.9,36,2021
+Roberto Pereyra,Udinese,5,7,12,28.6,11.9,16.7,34,2021
+Sergej Milinkovic-Savic,Lazio,7,10,17,27.9,11.5,16.4,32,2021
+Gianluca Caprari,Benevento,5,6,11,27.5,12.5,15.0,30,2021
+Fabio Quagliarella,Sampdoria,13,1,14,26.9,25.0,1.9,33,2021
+M'Bala Nzola,Spezia,11,3,14,26.9,21.2,5.8,25,2021
+Duván Zapata,Atalanta,15,9,24,26.7,16.7,10.0,37,2021
+Álvaro Morata,Juventus,11,9,20,26.0,14.3,11.7,32,2021
+Lautaro Martínez,Inter,17,6,23,25.8,19.1,6.7,38,2021
+Hernani,Parma Calcio 1913,7,3,10,25.6,17.9,7.7,33,2021
+Mattia Zaccagni,Verona,6,5,11,25.6,14.0,11.6,36,2021
+Marco Faraoni,Verona,4,7,11,25.6,9.3,16.3,34,2021
+Mattia Destro,Genoa,11,1,12,25.5,23.4,2.1,29,2021
+Francesco Caputo,Sassuolo,11,5,16,25.0,17.2,7.8,25,2021
+Gianluca Lapadula,Benevento,8,2,10,25.0,20.0,5.0,37,2021
+Antonio Candreva,Sampdoria,5,8,13,25.0,9.6,15.4,35,2021
+Antonin Barak,Verona,7,3,10,23.3,16.3,7.0,34,2021
+Juraj Kucka,Parma Calcio 1913,7,2,9,23.1,17.9,5.1,28,2021
+Zlatan Ibrahimovic,AC Milan,15,2,17,23.0,20.3,2.7,19,2021
+Franck Kessié,AC Milan,13,4,17,23.0,17.6,5.4,37,2021
+Ruslan Malinovskiy,Atalanta,8,12,20,22.2,8.9,13.3,36,2021
+Gianluca Scamacca,Genoa,8,2,10,21.3,17.0,4.3,26,2021
+Goran Pandev,Genoa,7,3,10,21.3,14.9,6.4,29,2021
+Piotr Zielinski,Napoli,8,10,18,20.9,9.3,11.6,36,2021
+Darko Lazovic,Verona,3,6,9,20.9,7.0,14.0,32,2021
+Razvan Marin,Cagliari,3,6,9,20.9,7.0,14.0,37,2021
+Ante Rebic,AC Milan,11,4,15,20.3,14.9,5.4,27,2021
+Nicolas Viola,Benevento,5,3,8,20.0,12.5,7.5,17,2021
+Dries Mertens,Napoli,9,8,17,19.8,10.5,9.3,29,2021
+Riccardo Orsolini,Bologna,7,3,10,19.6,13.7,5.9,34,2021
+Rodrigo Palacio,Bologna,5,5,10,19.6,9.8,9.8,36,2021
+Emmanuel Gyasi,Spezia,4,6,10,19.2,7.7,11.5,37,2021
+Eldor Shomurodov,Genoa,8,1,9,19.1,17.0,2.1,31,2021
+Lorenzo Pellegrini,Roma,7,6,13,19.1,10.3,8.8,34,2021
+Robin Gosens,Atalanta,11,6,17,18.9,12.2,6.7,32,2021
+Giovanni Simeone,Cagliari,6,2,8,18.6,14.0,4.7,33,2021
+Federico Dimarco,Verona,5,3,8,18.6,11.6,7.0,35,2021
+Luis Alberto,Lazio,9,2,11,18.0,14.8,3.3,34,2021
+Joaquín Correa,Lazio,8,3,11,18.0,13.1,4.9,28,2021
+Jordan Veretout,Roma,10,2,12,17.6,14.7,2.9,29,2021
+Borja Mayoral,Roma,10,2,12,17.6,14.7,2.9,31,2021
+Hakan Calhanoglu,AC Milan,4,9,13,17.6,5.4,12.2,33,2021
+Jakub Jankto,Sampdoria,6,3,9,17.3,11.5,5.8,35,2021
+Gaetano Castrovilli,Fiorentina,5,3,8,17.0,10.6,6.4,34,2021
+Franck Ribéry,Fiorentina,2,6,8,17.0,4.3,12.8,29,2021
+Achraf Hakimi,Inter,7,8,15,16.9,7.9,9.0,37,2021
+Josip Ilicic,Atalanta,6,9,15,16.7,6.7,10.0,28,2021
+Nahuel Molina,Udinese,2,5,7,16.7,4.8,11.9,29,2021
+Hirving Lozano,Napoli,11,3,14,16.3,12.8,3.5,32,2021
+Leonardo Pavoletti,Cagliari,4,3,7,16.3,9.3,7.0,33,2021
+Theo Hernández,AC Milan,7,5,12,16.2,9.5,6.8,33,2021
+Rafael Leão,AC Milan,6,6,12,16.2,8.1,8.1,30,2021
+Juan Cuadrado,Juventus,2,10,12,15.6,2.6,13.0,30,2021
+Keita,Sampdoria,7,1,8,15.4,13.5,1.9,25,2021
+Gervinho,Parma Calcio 1913,5,1,6,15.4,12.8,2.6,27,2021
+Victor Osimhen,Napoli,10,3,13,15.1,11.6,3.5,24,2021
+Matteo Politano,Napoli,9,4,13,15.1,10.5,4.7,37,2021
+Marco Sau,Benevento,4,2,6,15.0,10.0,5.0,24,2021
+Roberto Insigne,Benevento,2,4,6,15.0,5.0,10.0,30,2021
+Edin Dzeko,Roma,7,3,10,14.7,10.3,4.4,27,2021
+Alexis Sánchez,Inter,7,6,13,14.6,7.9,6.7,30,2021
+Filip Djuricic,Sassuolo,5,4,9,14.1,7.8,6.2,32,2021
+Charalampos Lykogiannis,Cagliari,4,2,6,14.0,9.3,4.7,31,2021
+Cristian Ansaldi,Torino,1,6,7,14.0,2.0,12.0,31,2021
+Mattias Svanberg,Bologna,5,2,7,13.7,9.8,3.9,34,2021
+Daniele Verde,Spezia,6,1,7,13.5,11.5,1.9,21,2021
+Simone Bastoni,Spezia,1,6,7,13.5,1.9,11.5,22,2021
+Felipe Caicedo,Lazio,8,0,8,13.1,13.1,0.0,25,2021
+Davide Zappacosta,Genoa,4,2,6,12.8,8.5,4.3,25,2021
+Cristiano Biraghi,Fiorentina,1,5,6,12.8,2.1,10.6,35,2021
+Giuseppe Pezzella,Parma Calcio 1913,1,4,5,12.8,2.6,10.3,24,2021
+Andreas Cornelius,Parma Calcio 1913,1,4,5,12.8,2.6,10.3,29,2021
+Simone Zaza,Torino,6,0,6,12.0,12.0,0.0,29,2021
+Antonio Sanabria,Torino,5,1,6,12.0,10.0,2.0,14,2021
+Simone Verdi,Torino,1,5,6,12.0,2.0,10.0,33,2021
+Stefano Okaka,Udinese,4,1,5,11.9,9.5,2.4,22,2021
+Tommaso Pobega,Spezia,6,0,6,11.5,11.5,0.0,20,2021
+Diego Farias,Spezia,4,2,6,11.5,7.7,3.8,29,2021
+Valerio Verre,Sampdoria,3,3,6,11.5,5.8,5.8,27,2021
+Manuel Lazzari,Lazio,2,5,7,11.5,3.3,8.2,32,2021
+Mikkel Damsgaard,Sampdoria,2,4,6,11.5,3.8,7.7,35,2021
+Nicolò Barella,Inter,3,7,10,11.2,3.4,7.9,36,2021
+Arkadiusz Reca,Crotone,2,3,5,11.1,4.4,6.7,30,2021
+Salvatore Molina,Crotone,1,4,5,11.1,2.2,8.9,29,2021
+Hamed Junior Traore,Sassuolo,5,2,7,10.9,7.8,3.1,35,2021
+Giacomo Bonaventura,Fiorentina,3,2,5,10.6,6.4,4.3,34,2021
+Marko Pjaca,Genoa,3,2,5,10.6,6.4,4.3,35,2021
+Milan Badelj,Genoa,1,4,5,10.6,2.1,8.5,30,2021
+Giovanni Di Lorenzo,Napoli,3,6,9,10.5,3.5,7.0,36,2021
+Pedro,Roma,5,2,7,10.3,7.4,2.9,27,2021
+Jasmin Kurtic,Parma Calcio 1913,4,0,4,10.3,10.3,0.0,34,2021
+Riccardo Gagliolo,Parma Calcio 1913,2,2,4,10.3,5.1,5.1,28,2021
+Rick Karsdorp,Roma,1,6,7,10.3,1.5,8.8,34,2021
+Bremer,Torino,5,0,5,10.0,10.0,0.0,33,2021
+Gaetano Letizia,Benevento,3,1,4,10.0,7.5,2.5,24,2021
+Emanuel Vignato,Bologna,1,4,5,9.8,2.0,7.8,31,2021
+Roberto Piccoli,Spezia,5,0,5,9.6,9.6,0.0,20,2021
+Manolo Gabbiadini,Sampdoria,3,2,5,9.6,5.8,3.8,16,2021
+Brahim Diaz,AC Milan,4,3,7,9.5,5.4,4.1,27,2021
+Ignacio Pussetto,Udinese,3,1,4,9.5,7.1,2.4,11,2021
+Ilija Nestorovski,Udinese,2,2,4,9.5,4.8,4.8,22,2021
+Giacomo Raspadori,Sassuolo,6,0,6,9.4,9.4,0.0,27,2021
+Manuel Locatelli,Sassuolo,4,2,6,9.4,6.2,3.1,34,2021
+Jeremie Boga,Sassuolo,4,2,6,9.4,6.2,3.1,27,2021
+Gregoire Defrel,Sassuolo,3,3,6,9.4,4.7,4.7,28,2021
+Miguel Veloso,Verona,2,2,4,9.3,4.7,4.7,21,2021
+Nahitan Nández,Cagliari,2,2,4,9.3,4.7,4.7,32,2021
+Gastón Pereiro,Cagliari,2,2,4,9.3,4.7,4.7,15,2021
+Gabriele Zappa,Cagliari,0,4,4,9.3,0.0,9.3,34,2021
+Weston McKennie,Juventus,5,2,7,9.1,6.5,2.6,34,2021
+Paulo Dybala,Juventus,4,3,7,9.1,5.2,3.9,20,2021
+Dejan Kulusevski,Juventus,4,3,7,9.1,5.2,3.9,35,2021
+Ivan Perisic,Inter,4,4,8,9.0,4.5,4.5,32,2021
+Marcelo Brozovic,Inter,2,6,8,9.0,2.2,6.7,33,2021
+Mario Pasalic,Atalanta,6,2,8,8.9,6.7,2.2,25,2021
+Pedro Pereira,Crotone,0,4,4,8.9,0.0,8.9,35,2021
+Gianluca Mancini,Roma,4,2,6,8.8,5.9,2.9,33,2021
+Leonardo Spinazzola,Roma,2,4,6,8.8,2.9,5.9,27,2021
+Nikola Milenkovic,Fiorentina,3,1,4,8.5,6.4,2.1,34,2021
+Martín Cáceres,Fiorentina,2,2,4,8.5,4.3,4.3,29,2021
+Erick Pulgar,Fiorentina,1,3,4,8.5,2.1,6.4,31,2021
+Miha Zajc,Genoa,1,3,4,8.5,2.1,6.4,31,2021
+Kevin Strootman,Genoa,0,4,4,8.5,0.0,8.5,18,2021
+Paolo Ghiglione,Genoa,0,4,4,8.5,0.0,8.5,23,2021
+Adam Marusic,Lazio,2,3,5,8.2,3.3,4.9,36,2021
+Andrea Petagna,Napoli,4,3,7,8.1,4.7,3.5,26,2021
+Alexis Saelemaekers,AC Milan,2,4,6,8.1,2.7,5.4,32,2021
+Mergim Vojvoda,Torino,2,2,4,8.0,4.0,4.0,24,2021
+Adrien Rabiot,Juventus,4,2,6,7.8,5.2,2.6,34,2021
+Aaron Ramsey,Juventus,2,4,6,7.8,2.6,5.2,22,2021
+Nicola Sansone,Bologna,2,2,4,7.8,3.9,3.9,26,2021
+Andreas Skov Olsen,Bologna,2,2,4,7.8,3.9,3.9,26,2021
+Martin Erlic,Spezia,3,1,4,7.7,5.8,1.9,27,2021
+Andrej Galabinov,Spezia,3,1,4,7.7,5.8,1.9,12,2021
+Morten Thorsby,Sampdoria,3,1,4,7.7,5.8,1.9,33,2021
+Giulio Maggiore,Spezia,3,1,4,7.7,5.8,1.9,33,2021
+Mihai Valentin Mihaila,Parma Calcio 1913,3,0,3,7.7,7.7,0.0,16,2021
+Yann Karamoh,Parma Calcio 1913,2,1,3,7.7,5.1,2.6,24,2021
+Dennis Man,Parma Calcio 1913,2,1,3,7.7,5.1,2.6,14,2021
+Graziano Pellè,Parma Calcio 1913,1,2,3,7.7,2.6,5.1,13,2021
+Tommaso Augello,Sampdoria,1,3,4,7.7,1.9,5.8,37,2021
+Juan Brunetta,Parma Calcio 1913,1,2,3,7.7,2.6,5.1,12,2021
+Gastón Ramírez,Sampdoria,0,4,4,7.7,0.0,7.7,25,2021
+Kamil Glik,Benevento,2,1,3,7.5,5.0,2.5,36,2021
+Tolgay Arslan,Udinese,3,0,3,7.1,7.1,0.0,30,2021
+Riccardo Sottil,Cagliari,2,1,3,7.0,4.7,2.3,21,2021
+Alejandro Gomez,Atalanta,4,2,6,6.7,4.4,2.2,10,2021
+Aleksey Miranchuk,Atalanta,4,2,6,6.7,4.4,2.2,25,2021
+Lisandro Magallán,Crotone,1,2,3,6.7,2.2,4.4,28,2021
+Danilo,Juventus,1,4,5,6.5,1.3,5.2,34,2021
+Gianmarco Ferrari,Sassuolo,0,4,4,6.2,0.0,6.2,34,2021
+Sasa Lukic,Torino,3,0,3,6.0,6.0,0.0,32,2021
+Wilfried Stephane Singo,Torino,1,2,3,6.0,2.0,4.0,28,2021
+Bryan Cristante,Roma,1,3,4,5.9,1.5,4.4,34,2021
+Albin Ekdal,Sampdoria,2,1,3,5.8,3.8,1.9,32,2021
+Diego Demme,Napoli,2,3,5,5.8,2.3,3.5,24,2021
+Maya Yoshida,Sampdoria,1,2,3,5.8,1.9,3.8,32,2021
+Kevin Agudelo,Spezia,1,2,3,5.8,1.9,3.8,29,2021
+Nahuel Estévez,Spezia,0,3,3,5.8,0.0,5.8,27,2021
+Roberto Gagliardini,Inter,3,2,5,5.6,3.4,2.2,28,2021
+Remo Freuler,Atalanta,2,3,5,5.6,2.2,3.3,34,2021
+Ashley Young,Inter,1,4,5,5.6,1.1,4.5,26,2021
+Rodrigo Bentancur,Juventus,0,4,4,5.2,0.0,5.2,33,2021
+Gastón Brugman,Parma Calcio 1913,1,1,2,5.1,2.6,2.6,26,2021
+Roberto Inglese,Parma Calcio 1913,0,2,2,5.1,0.0,5.1,14,2021
+Luca Caldirola,Benevento,2,0,2,5.0,5.0,0.0,25,2021
+Artur Ionita,Benevento,2,0,2,5.0,5.0,0.0,36,2021
+Adolfo Gaich,Benevento,2,0,2,5.0,5.0,0.0,15,2021
+Iago Falque,Benevento,1,1,2,5.0,2.5,2.5,11,2021
+Pasquale Schiattarella,Benevento,1,1,2,5.0,2.5,2.5,29,2021
+Federico Barba,Benevento,0,2,2,5.0,0.0,5.0,32,2021
+Perparim Hetemaj,Benevento,0,2,2,5.0,0.0,5.0,31,2021
+Andreas Pereira,Lazio,1,2,3,4.9,1.6,3.3,26,2021
+Stefan Radu,Lazio,0,3,3,4.9,0.0,4.9,31,2021
+Jens Stryger Larsen,Udinese,2,0,2,4.8,4.8,0.0,33,2021
+Gerard Deulofeu,Udinese,1,1,2,4.8,2.4,2.4,13,2021
+Fernando Forestieri,Udinese,1,1,2,4.8,2.4,2.4,19,2021
+Thomas Ouwejan,Udinese,0,2,2,4.8,0.0,4.8,15,2021
+Fabián,Napoli,3,1,4,4.7,3.5,1.2,33,2021
+Vlad Chiriches,Sassuolo,2,1,3,4.7,3.1,1.6,24,2021
+Nikola Kalinic,Verona,2,0,2,4.7,4.7,0.0,19,2021
+Andrea Favilli,Verona,2,0,2,4.7,4.7,0.0,11,2021
+Eddie Salcedo,Verona,2,0,2,4.7,4.7,0.0,21,2021
+Ivan Ilic,Verona,2,0,2,4.7,4.7,0.0,29,2021
+Daniele Rugani,Cagliari,1,1,2,4.7,2.3,2.3,16,2021
+Daniel Bessa,Verona,0,2,2,4.7,0.0,4.7,18,2021
+Koray Günter,Verona,0,2,2,4.7,0.0,4.7,27,2021
+Matteo Pessina,Atalanta,2,2,4,4.4,2.2,2.2,28,2021
+Cristian Romero,Atalanta,2,2,4,4.4,2.2,2.2,31,2021
+Carles Pérez,Roma,2,1,3,4.4,2.9,1.5,21,2021
+Vladimir Golemic,Crotone,2,0,2,4.4,4.4,0.0,30,2021
+Emmanuel Rivière,Crotone,1,1,2,4.4,2.2,2.2,21,2021
+Bruno Peres,Roma,1,2,3,4.4,1.5,2.9,30,2021
+Niccolò Zanellato,Crotone,1,1,2,4.4,2.2,2.2,27,2021
+Milos Vulic,Crotone,1,1,2,4.4,2.2,2.2,25,2021
+Valentin Eysseric,Fiorentina,2,0,2,4.3,4.3,0.0,16,2021
+Christian Kouamé,Fiorentina,1,1,2,4.3,2.1,2.1,33,2021
+Nicolo Rovella,Genoa,0,2,2,4.3,0.0,4.3,20,2021
+Davide Calabria,AC Milan,2,1,3,4.1,2.7,1.4,32,2021
+Rade Krunic,AC Milan,1,2,3,4.1,1.4,2.7,25,2021
+Armando Izzo,Torino,2,0,2,4.0,4.0,0.0,25,2021
+Tomás Rincón,Torino,1,1,2,4.0,2.0,2.0,36,2021
+Amer Gojak,Torino,1,1,2,4.0,2.0,2.0,15,2021
+Lorenzo De Silvestri,Bologna,2,0,2,3.9,3.9,0.0,29,2021
+Alex Sandro,Juventus,2,1,3,3.9,2.6,1.3,26,2021
+Takehiro Tomiyasu,Bologna,2,0,2,3.9,3.9,0.0,31,2021
+Jerdy Schouten,Bologna,1,1,2,3.9,2.0,2.0,34,2021
+Omar Colley,Sampdoria,2,0,2,3.8,3.8,0.0,29,2021
+Claudio Terzi,Spezia,1,1,2,3.8,1.9,1.9,25,2021
+Adrien Silva,Sampdoria,1,1,2,3.8,1.9,1.9,24,2021
+Julian Chabot,Spezia,1,1,2,3.8,1.9,1.9,25,2021
+Ardian Ismajli,Spezia,1,1,2,3.8,1.9,1.9,17,2021
+Riccardo Marchizza,Spezia,0,2,2,3.8,0.0,3.8,24,2021
+Matteo Ricci,Spezia,0,2,2,3.8,0.0,3.8,29,2021
+Tiemoué Bakayoko,Napoli,2,1,3,3.5,2.3,1.2,32,2021
+Eljif Elmas,Napoli,2,1,3,3.5,2.3,1.2,33,2021
+Christian Eriksen,Inter,3,0,3,3.4,3.4,0.0,26,2021
+Milan Skriniar,Inter,3,0,3,3.4,3.4,0.0,32,2021
+Danilo D'Ambrosio,Inter,3,0,3,3.4,3.4,0.0,19,2021
+Alessandro Bastoni,Inter,0,3,3,3.4,0.0,3.4,33,2021
+Hans Hateboer,Atalanta,2,1,3,3.3,2.2,1.1,22,2021
+Gonzalo Escalante,Lazio,1,1,2,3.3,1.6,1.6,24,2021
+José Luis Palomino,Atalanta,1,2,3,3.3,1.1,2.2,36,2021
+Marco Parolo,Lazio,0,2,2,3.3,0.0,3.3,18,2021
+Berat Gjimshiti,Atalanta,0,3,3,3.3,0.0,3.3,33,2021
+Maxime Lopez,Sassuolo,2,0,2,3.1,3.1,0.0,29,2021
+Brian Oddei,Sassuolo,0,2,2,3.1,0.0,3.1,5,2021
+Stephan El Shaarawy,Roma,1,1,2,2.9,1.5,1.5,10,2021
+Jens Petter Hauge,AC Milan,2,0,2,2.7,2.7,0.0,18,2021
+Alessio Romagnoli,AC Milan,1,1,2,2.7,1.4,1.4,22,2021
+Diogo Dalot,AC Milan,1,1,2,2.7,1.4,1.4,21,2021
+Pierre Kalulu Kyatengwa,AC Milan,1,1,2,2.7,1.4,1.4,13,2021
+Simon Kjaer,AC Milan,0,2,2,2.7,0.0,2.7,28,2021
+Ismael Bennacer,AC Milan,0,2,2,2.7,0.0,2.7,21,2021
+Leonardo Bonucci,Juventus,2,0,2,2.6,2.6,0.0,26,2021
+Bruno Alves,Parma Calcio 1913,1,0,1,2.6,2.6,0.0,19,2021
+Matthijs de Ligt,Juventus,1,1,2,2.6,1.3,1.3,27,2021
+Simon Sohm,Parma Calcio 1913,1,0,1,2.6,2.6,0.0,18,2021
+Federico Bernardeschi,Juventus,0,2,2,2.6,0.0,2.6,27,2021
+Maxime Busi,Parma Calcio 1913,0,1,1,2.6,0.0,2.6,24,2021
+Andrés Tello,Benevento,1,0,1,2.5,2.5,0.0,17,2021
+Riccardo Improta,Benevento,1,0,1,2.5,2.5,0.0,34,2021
+Alessandro Tuia,Benevento,1,0,1,2.5,2.5,0.0,27,2021
+Daam Foulon,Benevento,0,1,1,2.5,0.0,2.5,23,2021
+Christian Pastina,Benevento,0,1,1,2.5,0.0,2.5,3,2021
+Samir,Udinese,1,0,1,2.4,2.4,0.0,30,2021
+Bram Nuytinck,Udinese,1,0,1,2.4,2.4,0.0,20,2021
+Marvin Zeegelaar,Udinese,1,0,1,2.4,2.4,0.0,24,2021
+Rodrigo Becão,Udinese,1,0,1,2.4,2.4,0.0,35,2021
+Jayden Braaf,Udinese,1,0,1,2.4,2.4,0.0,4,2021
+Diego Godín,Cagliari,1,0,1,2.3,2.3,0.0,28,2021
+Alberto Cerri,Cagliari,1,0,1,2.3,2.3,0.0,24,2021
+Adrien Tameze,Verona,1,0,1,2.3,2.3,0.0,33,2021
+Ebrima Colley,Verona,1,0,1,2.3,2.3,0.0,23,2021
+Elseid Hysaj,Napoli,0,2,2,2.3,0.0,2.3,24,2021
+Mário Rui,Napoli,0,2,2,2.3,0.0,2.3,27,2021
+Christian Oliva,Cagliari,0,1,1,2.3,0.0,2.3,10,2021
+Sebastian Walukiewicz,Cagliari,0,1,1,2.3,0.0,2.3,19,2021
+Andrea Carboni,Cagliari,0,1,1,2.3,0.0,2.3,15,2021
+Rafael Toloi,Atalanta,2,0,2,2.2,2.2,0.0,31,2021
+Sam Lammers,Atalanta,2,0,2,2.2,2.2,0.0,15,2021
+Arturo Vidal,Inter,1,1,2,2.2,1.1,1.1,23,2021
+Matías Vecino,Inter,1,1,2,2.2,1.1,1.1,8,2021
+Marten de Roon,Atalanta,1,1,2,2.2,1.1,1.1,35,2021
+Koffi Djidji,Crotone,1,0,1,2.2,2.2,0.0,20,2021
+Eduardo Henrique,Crotone,1,0,1,2.2,2.2,0.0,18,2021
+Ahmed Benali,Crotone,0,1,1,2.2,0.0,2.2,18,2021
+Joakim Maehle,Atalanta,0,2,2,2.2,0.0,2.2,20,2021
+Germán Pezzella,Fiorentina,1,0,1,2.1,2.1,0.0,32,2021
+Domenico Criscito,Genoa,1,0,1,2.1,2.1,0.0,23,2021
+Lennart Czyborra,Genoa,1,0,1,2.1,2.1,0.0,17,2021
+Lucas Martínez Quarta,Fiorentina,1,0,1,2.1,2.1,0.0,21,2021
+Edoardo Goldaniga,Genoa,0,1,1,2.1,0.0,2.1,25,2021
+José Callejón,Fiorentina,0,1,1,2.1,0.0,2.1,20,2021
+Pol Lirola,Fiorentina,0,1,1,2.1,0.0,2.1,12,2021
+Bartlomiej Dragowski,Fiorentina,0,1,1,2.1,0.0,2.1,36,2021
+Luca Pellegrini,Genoa,0,1,1,2.1,0.0,2.1,11,2021
+Lukas Lerager,Genoa,0,1,1,2.1,0.0,2.1,16,2021
+Lorenzo Venuti,Fiorentina,0,1,1,2.1,0.0,2.1,28,2021
+Steeve-Mike Eboa Ebongue,Genoa,0,1,1,2.1,0.0,2.1,3,2021
+Andrea Poli,Bologna,1,0,1,2.0,2.0,0.0,18,2021
+Karol Linetty,Torino,1,0,1,2.0,2.0,0.0,27,2021
+Ibrahima Mbaye,Bologna,1,0,1,2.0,2.0,0.0,8,2021
+Adama Soumaoro,Bologna,1,0,1,2.0,2.0,0.0,20,2021
+Nicolas N'Koulou,Torino,1,0,1,2.0,2.0,0.0,18,2021
+Nehuén Paz,Bologna,1,0,1,2.0,2.0,0.0,6,2021
+Nicolás Domínguez,Bologna,1,0,1,2.0,2.0,0.0,28,2021
+Danilo,Bologna,0,1,1,2.0,0.0,2.0,35,2021
+Gary Medel,Bologna,0,1,1,2.0,0.0,2.0,11,2021
+Federico Santander,Bologna,0,1,1,2.0,0.0,2.0,4,2021
+Simone Rabbi,Bologna,0,1,1,2.0,0.0,2.0,4,2021
+Lorenzo Tonelli,Sampdoria,1,0,1,1.9,1.9,0.0,23,2021
+Bartosz Bereszynski,Sampdoria,1,0,1,1.9,1.9,0.0,31,2021
+Ernesto Torregrossa,Sampdoria,1,0,1,1.9,1.9,0.0,6,2021
+Emil Audero,Sampdoria,0,1,1,1.9,0.0,1.9,37,2021
+Rafael,Spezia,0,1,1,1.9,0.0,1.9,3,2021
+Alex Ferrari,Sampdoria,0,1,1,1.9,0.0,1.9,12,2021
+Paolo Bartolomei,Spezia,0,1,1,1.9,0.0,1.9,6,2021
+Salvador Ferrer,Spezia,0,1,1,1.9,0.0,1.9,18,2021
+Mehdi Bourabia,Sassuolo,1,0,1,1.6,1.6,0.0,15,2021
+Georgios Kyriakopoulos,Sassuolo,1,0,1,1.6,1.6,0.0,23,2021
+Vedat Muriqi,Lazio,1,0,1,1.6,1.6,0.0,27,2021
+Jeremy Toljan,Sassuolo,0,1,1,1.6,0.0,1.6,26,2021
+Pedro Obiang,Sassuolo,0,1,1,1.6,0.0,1.6,33,2021
+Patric,Lazio,0,1,1,1.6,0.0,1.6,25,2021
+Francesco Acerbi,Lazio,0,1,1,1.6,0.0,1.6,32,2021
+Mohamed Fares,Lazio,0,1,1,1.6,0.0,1.6,21,2021
+Jean-Daniel Akpa-Akpro,Lazio,0,1,1,1.6,0.0,1.6,32,2021
+Rogerio,Sassuolo,0,1,1,1.6,0.0,1.6,28,2021
+Federico Fazio,Roma,1,0,1,1.5,1.5,0.0,6,2021
+Amadou Diawara,Roma,1,0,1,1.5,1.5,0.0,18,2021
+Marash Kumbulla,Roma,1,0,1,1.5,1.5,0.0,21,2021
+Chris Smalling,Roma,0,1,1,1.5,0.0,1.5,16,2021
+Davide Santon,Roma,0,1,1,1.5,0.0,1.5,10,2021
+Gonzalo Villar,Roma,0,1,1,1.5,0.0,1.5,33,2021
+Ibañez,Roma,0,1,1,1.5,0.0,1.5,30,2021
+Nicola Zalewski,Roma,0,1,1,1.5,0.0,1.5,1,2021
+Fikayo Tomori,AC Milan,1,0,1,1.4,1.4,0.0,17,2021
+Samu Castillejo,AC Milan,1,0,1,1.4,1.4,0.0,28,2021
+Arthur,Juventus,1,0,1,1.3,1.3,0.0,22,2021
+Wojciech Szczesny,Juventus,0,1,1,1.3,0.0,1.3,30,2021
+Giorgio Chiellini,Juventus,0,1,1,1.3,0.0,1.3,17,2021
+Gianluca Frabotta,Juventus,0,1,1,1.3,0.0,1.3,15,2021
+Merih Demiral,Juventus,0,1,1,1.3,0.0,1.3,15,2021
+Amir Rrahmani,Napoli,1,0,1,1.2,1.2,0.0,16,2021
+David Ospina,Napoli,0,1,1,1.2,0.0,1.2,16,2021
+Stefan de Vrij,Inter,1,0,1,1.1,1.1,0.0,32,2021
+Andrea Pinamonti,Inter,1,0,1,1.1,1.1,0.0,8,2021
+Aleksandar Kolarov,Inter,0,1,1,1.1,0.0,1.1,7,2021
+Andrea Ranocchia,Inter,0,1,1,1.1,0.0,1.1,8,2021
+Ragnar Klavan,Cagliari,0,0,0,0.0,0.0,0.0,15,2021
+Ricardo Rodríguez,Torino,0,0,0,0.0,0.0,0.0,16,2021
+Kaan Ayhan,Sassuolo,0,0,0,0.0,0.0,0.0,19,2021
+Douglas Costa,Juventus,0,0,0,0.0,0.0,0.0,2,2021
+Lucas Leiva,Lazio,0,0,0,0.0,0.0,0.0,32,2021
+Valon Behrami,Genoa,0,0,0,0.0,0.0,0.0,26,2021
+Mattia Perin,Genoa,0,0,0,0.0,0.0,0.0,32,2021
+Davide Biraschi,Genoa,0,0,0,0.0,0.0,0.0,13,2021
+Gianluigi Donnarumma,AC Milan,0,0,0,0.0,0.0,0.0,37,2021
+Mattia De Sciglio,Juventus,0,0,0,0.0,0.0,0.0,1,2021
+Cristian Zapata,Genoa,0,0,0,0.0,0.0,0.0,12,2021
+Ryder Matos,Udinese,0,0,0,0.0,0.0,0.0,1,2021
+Simone Scuffet,Udinese,0,0,0,0.0,0.0,0.0,1,2021
+Antonio Barreca,Fiorentina,0,0,0,0.0,0.0,0.0,3,2021
+Daniele Baselli,Torino,0,0,0,0.0,0.0,0.0,15,2021
+Daniele Padelli,Inter,0,0,0,0.0,0.0,0.0,1,2021
+Federico Marchetti,Genoa,0,0,0,0.0,0.0,0.0,4,2021
+Wesley Hoedt,Lazio,0,0,0,0.0,0.0,0.0,17,2021
+Senad Lulic,Lazio,0,0,0,0.0,0.0,0.0,16,2021
+Danilo Cataldi,Lazio,0,0,0,0.0,0.0,0.0,19,2021
+Thomas Strakosha,Lazio,0,0,0,0.0,0.0,0.0,9,2021
+Jacopo Sala,Spezia,0,0,0,0.0,0.0,0.0,6,2021
+Vasco Regini,Sampdoria,0,0,0,0.0,0.0,0.0,3,2021
+Luca Cigarini,Crotone,0,0,0,0.0,0.0,0.0,14,2021
+Kostas Manolas,Napoli,0,0,0,0.0,0.0,0.0,30,2021
+Juan Jesus,Roma,0,0,0,0.0,0.0,0.0,5,2021
+Mato Jajalo,Udinese,0,0,0,0.0,0.0,0.0,1,2021
+Andrea Rispoli,Crotone,0,0,0,0.0,0.0,0.0,19,2021
+Gianluigi Buffon,Juventus,0,0,0,0.0,0.0,0.0,8,2021
+Mario Mandzukic,AC Milan,0,0,0,0.0,0.0,0.0,10,2021
+Lukasz Skorupski,Bologna,0,0,0,0.0,0.0,0.0,28,2021
+Vincent Laurini,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,14,2021
+Ivan Radovanovic,Genoa,0,0,0,0.0,0.0,0.0,33,2021
+Vittorio Parigini,Genoa,0,0,0,0.0,0.0,0.0,4,2021
+Alex Cordaz,Crotone,0,0,0,0.0,0.0,0.0,36,2021
+Marco Festa,Crotone,0,0,0,0.0,0.0,0.0,1,2021
+José Reina,Lazio,0,0,0,0.0,0.0,0.0,29,2021
+Kalidou Koulibaly,Napoli,0,0,0,0.0,0.0,0.0,26,2021
+Nikola Maksimovic,Napoli,0,0,0,0.0,0.0,0.0,17,2021
+Faouzi Ghoulam,Napoli,0,0,0,0.0,0.0,0.0,11,2021
+Marko Rog,Cagliari,0,0,0,0.0,0.0,0.0,14,2021
+Christian Maggio,Benevento,0,0,0,0.0,0.0,0.0,8,2021
+Luigi Sepe,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,36,2021
+Fabio Pisacane,Cagliari,0,0,0,0.0,0.0,0.0,5,2021
+Nicola Murru,Torino,0,0,0,0.0,0.0,0.0,14,2021
+Ciprian Tatarusanu,AC Milan,0,0,0,0.0,0.0,0.0,1,2021
+Maximiliano Olivera,Fiorentina,0,0,0,0.0,0.0,0.0,2,2021
+Borja Valero,Fiorentina,0,0,0,0.0,0.0,0.0,20,2021
+Sebastien De Maio,Udinese,0,0,0,0.0,0.0,0.0,15,2021
+Ângelo Da Costa,Bologna,0,0,0,0.0,0.0,0.0,6,2021
+Andrea Consigli,Sassuolo,0,0,0,0.0,0.0,0.0,37,2021
+Federico Peluso,Sassuolo,0,0,0,0.0,0.0,0.0,7,2021
+Stefano Sensi,Inter,0,0,0,0.0,0.0,0.0,18,2021
+Francesco Magnanelli,Sassuolo,0,0,0,0.0,0.0,0.0,10,2021
+Federico Ricci,Sassuolo,0,0,0,0.0,0.0,0.0,1,2021
+Cristian Dell'Orco,Spezia,0,0,0,0.0,0.0,0.0,8,2021
+Gianluca Pegolo,Sassuolo,0,0,0,0.0,0.0,0.0,1,2021
+Andrea Masiello,Genoa,0,0,0,0.0,0.0,0.0,30,2021
+Mattia Caldara,Atalanta,0,0,0,0.0,0.0,0.0,6,2021
+Marco Sportiello,Atalanta,0,0,0,0.0,0.0,0.0,15,2021
+Alberto Grassi,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,23,2021
+Samir Handanovic,Inter,0,0,0,0.0,0.0,0.0,37,2021
+Federico Ravaglia,Bologna,0,0,0,0.0,0.0,0.0,4,2021
+Federico Mattiello,Spezia,0,0,0,0.0,0.0,0.0,1,2021
+Luca Ceppitelli,Cagliari,0,0,0,0.0,0.0,0.0,19,2021
+Kwadwo Asamoah,Cagliari,0,0,0,0.0,0.0,0.0,9,2021
+Giuseppe Cuomo,Crotone,0,0,0,0.0,0.0,0.0,13,2021
+Bastos,Lazio,0,0,0,0.0,0.0,0.0,2,2021
+Antonio Mirante,Roma,0,0,0,0.0,0.0,0.0,13,2021
+Sebastiano Luperto,Crotone,0,0,0,0.0,0.0,0.0,23,2021
+Luca Marrone,Crotone,0,0,0,0.0,0.0,0.0,21,2021
+Ionut Radu,Inter,0,0,0,0.0,0.0,0.0,2,2021
+Pierluigi Gollini,Atalanta,0,0,0,0.0,0.0,0.0,25,2021
+Alex Meret,Napoli,0,0,0,0.0,0.0,0.0,22,2021
+Simone Colombi,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,2,2021
+Francesco Cassata,Genoa,0,0,0,0.0,0.0,0.0,8,2021
+Antonio La Gumina,Sampdoria,0,0,0,0.0,0.0,0.0,9,2021
+Jacopo Dezi,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,2,2021
+Simone Edera,Torino,0,0,0,0.0,0.0,0.0,2,2021
+Samir Ujkani,Torino,0,0,0,0.0,0.0,0.0,1,2021
+Lubomir Tupta,Verona,0,0,0,0.0,0.0,0.0,2,2021
+Kastriot Dermaku,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,2,2021
+Pau López,Roma,0,0,0,0.0,0.0,0.0,21,2021
+Cristiano Piccini,Atalanta,0,0,0,0.0,0.0,0.0,1,2021
+Aleksandr Kokorin,Fiorentina,0,0,0,0.0,0.0,0.0,4,2021
+Javier Pastore,Roma,0,0,0,0.0,0.0,0.0,5,2021
+Salvatore Sirigu,Torino,0,0,0,0.0,0.0,0.0,32,2021
+Bryan Dabo,Benevento,0,0,0,0.0,0.0,0.0,25,2021
+Jean-Victor Makengo,Udinese,0,0,0,0.0,0.0,0.0,17,2021
+Lukas Haraslin,Sassuolo,0,0,0,0.0,0.0,0.0,14,2021
+Gabriele Moncini,Benevento,0,0,0,0.0,0.0,0.0,10,2021
+Alessio Cragno,Cagliari,0,0,0,0.0,0.0,0.0,34,2021
+Kevin Bonifazi,Udinese,0,0,0,0.0,0.0,0.0,30,2021
+Antonio Mazzotta,Crotone,0,0,0,0.0,0.0,0.0,2,2021
+Wylan Cyprien,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,13,2021
+Mamadou Coulibaly,Udinese,0,0,0,0.0,0.0,0.0,3,2021
+Patrick Cutrone,Fiorentina,0,0,0,0.0,0.0,0.0,11,2021
+Matteo Gabbia,AC Milan,0,0,0,0.0,0.0,0.0,8,2021
+Filippo Melegoni,Genoa,0,0,0,0.0,0.0,0.0,14,2021
+Giacomo Vrioni,Juventus,0,0,0,0.0,0.0,0.0,1,2021
+Alessandro Buongiorno,Torino,0,0,0,0.0,0.0,0.0,12,2021
+Marlon Santos,Sassuolo,0,0,0,0.0,0.0,0.0,24,2021
+Alex Berenguer,Torino,0,0,0,0.0,0.0,0.0,2,2021
+Nicolás Schiappacase,Sassuolo,0,0,0,0.0,0.0,0.0,1,2021
+Walace,Udinese,0,0,0,0.0,0.0,0.0,30,2021
+Elio Capradossi,Spezia,0,0,0,0.0,0.0,0.0,1,2021
+Carlo Pinsoglio,Juventus,0,0,0,0.0,0.0,0.0,1,2021
+Stanislav Lobotka,Napoli,0,0,0,0.0,0.0,0.0,15,2021
+Nícolas,Udinese,0,0,0,0.0,0.0,0.0,2,2021
+Marco Silvestri,Verona,0,0,0,0.0,0.0,0.0,34,2021
+Vanja Milinkovic-Savic,Torino,0,0,0,0.0,0.0,0.0,5,2021
+Giovanni Crociata,Crotone,0,0,0,0.0,0.0,0.0,2,2021
+Luiz Felipe,Lazio,0,0,0,0.0,0.0,0.0,14,2021
+Luca Mora,Spezia,0,0,0,0.0,0.0,0.0,4,2021
+Lorenzo Del Pinto,Benevento,0,0,0,0.0,0.0,0.0,1,2021
+Mehdi Leris,Sampdoria,0,0,0,0.0,0.0,0.0,20,2021
+Johan Mojica,Atalanta,0,0,0,0.0,0.0,0.0,11,2021
+Lyanco,Torino,0,0,0,0.0,0.0,0.0,23,2021
+Fabrizio Caligara,Cagliari,0,0,0,0.0,0.0,0.0,10,2021
+Andrea Danzi,Verona,0,0,0,0.0,0.0,0.0,2,2021
+Manuel Gasparini,Udinese,0,0,0,0.0,0.0,0.0,1,2021
+Vincenzo Millico,Torino,0,0,0,0.0,0.0,0.0,3,2021
+Siriki Sanogo,Benevento,0,0,0,0.0,0.0,0.0,1,2021
+Justin Kluivert,Roma,0,0,0,0.0,0.0,0.0,2,2021
+Daniel Fuzato,Roma,0,0,0,0.0,0.0,0.0,5,2021
+Mitchell Dijks,Bologna,0,0,0,0.0,0.0,0.0,20,2021
+Pietro Terracciano,Fiorentina,0,0,0,0.0,0.0,0.0,4,2021
+Ivan Provedel,Spezia,0,0,0,0.0,0.0,0.0,29,2021
+Simone Iacoponi,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,16,2021
+Mattia Sprocati,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,1,2021
+Hidde ter Avest,Udinese,0,0,0,0.0,0.0,0.0,6,2021
+Giangiacomo Magnani,Verona,0,0,0,0.0,0.0,0.0,25,2021
+Tòfol Montiel,Fiorentina,0,0,0,0.0,0.0,0.0,2,2021
+Juan Musso,Udinese,0,0,0,0.0,0.0,0.0,35,2021
+Ronaldo Vieira,Verona,0,0,0,0.0,0.0,0.0,4,2021
+Drissa Camara,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,1,2021
+Petar Micin,Udinese,0,0,0,0.0,0.0,0.0,1,2021
+Matteo Scozzarella,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,3,2021
+Musa Juwara,Bologna,0,0,0,0.0,0.0,0.0,5,2021
+Nicolo Fagioli,Juventus,0,0,0,0.0,0.0,0.0,1,2021
+Kiril Despodov,Cagliari,0,0,0,0.0,0.0,0.0,1,2021
+Nicolò Armini,Lazio,0,0,0,0.0,0.0,0.0,1,2021
+Giacomo Ricci,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,3,2021
+Léo Duarte,AC Milan,0,0,0,0.0,0.0,0.0,1,2021
+Pawel Dawidowicz,Verona,0,0,0,0.0,0.0,0.0,30,2021
+Sofyan Amrabat,Fiorentina,0,0,0,0.0,0.0,0.0,31,2021
+Alan Empereur,Verona,0,0,0,0.0,0.0,0.0,4,2021
+Alessandro Berardi,Verona,0,0,0,0.0,0.0,0.0,1,2021
+Stefano Denswil,Bologna,0,0,0,0.0,0.0,0.0,5,2021
+Denis Vavro,Lazio,0,0,0,0.0,0.0,0.0,1,2021
+Igor Julio,Fiorentina,0,0,0,0.0,0.0,0.0,21,2021
+Karlo Letica,Sampdoria,0,0,0,0.0,0.0,0.0,1,2021
+Mert Müldür,Sassuolo,0,0,0,0.0,0.0,0.0,28,2021
+Alessandro Tripaldelli,Cagliari,0,0,0,0.0,0.0,0.0,10,2021
+Sandro Tonali,AC Milan,0,0,0,0.0,0.0,0.0,25,2021
+Jacopo Petriccione,Crotone,0,0,0,0.0,0.0,0.0,20,2021
+Yildirim Mert Cetin,Verona,0,0,0,0.0,0.0,0.0,6,2021
+Yordan Osorio,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,23,2021
+Joshua Zirkzee,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,4,2021
+Andri Fannar Baldursson,Bologna,0,0,0,0.0,0.0,0.0,8,2021
+Amad Diallo Traore,Atalanta,0,0,0,0.0,0.0,0.0,1,2021
+Riccardo Calafiori,Roma,0,0,0,0.0,0.0,0.0,3,2021
+Ebrima Darboe,Roma,0,0,0,0.0,0.0,0.0,5,2021
+Andrea Adorante,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,1,2021
+Edoardo Vergani,Bologna,0,0,0,0.0,0.0,0.0,1,2021
+Daniel Maldini,AC Milan,0,0,0,0.0,0.0,0.0,5,2021
+Lucien Agoume,Spezia,0,0,0,0.0,0.0,0.0,12,2021
+Djavan Anderson,Lazio,0,0,0,0.0,0.0,0.0,3,2021
+Kristoffer Askildsen,Sampdoria,0,0,0,0.0,0.0,0.0,6,2021
+Bosko Sutalo,Atalanta,0,0,0,0.0,0.0,0.0,7,2021
+Lorenzo Colombo,AC Milan,0,0,0,0.0,0.0,0.0,4,2021
+Martin Palumbo,Udinese,0,0,0,0.0,0.0,0.0,3,2021
+Matteo Lovato,Verona,0,0,0,0.0,0.0,0.0,24,2021
+Márk Kosznovszky,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,1,2021
+Botond Balogh,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,3,2021
+Raul Moro,Lazio,0,0,0,0.0,0.0,0.0,1,2021
+Jacopo Segre,Torino,0,0,0,0.0,0.0,0.0,9,2021
+Kevin Rüegg,Verona,0,0,0,0.0,0.0,0.0,7,2021
+Ivor Pandur,Verona,0,0,0,0.0,0.0,0.0,4,2021
+Iyenoma Destiny Udogie,Verona,0,0,0,0.0,0.0,0.0,6,2021
+Denis Dragus,Crotone,0,0,0,0.0,0.0,0.0,9,2021
+Tomislav Gomelt,Crotone,0,0,0,0.0,0.0,0.0,2,2021
+Augustus Kargbo,Crotone,0,0,0,0.0,0.0,0.0,1,2021
+Gian Marco Crespi,Crotone,0,0,0,0.0,0.0,0.0,1,2021
+Guglielmo Vicario,Cagliari,0,0,0,0.0,0.0,0.0,4,2021
+Matteo Ruggeri,Atalanta,0,0,0,0.0,0.0,0.0,6,2021
+Matteo Tramoni,Cagliari,0,0,0,0.0,0.0,0.0,6,2021
+Lorenzo Montipò,Benevento,0,0,0,0.0,0.0,0.0,37,2021
+Nicolò Manfredini,Benevento,0,0,0,0.0,0.0,0.0,1,2021
+Giuseppe Di Serio,Benevento,0,0,0,0.0,0.0,0.0,16,2021
+Jeroen Zoet,Spezia,0,0,0,0.0,0.0,0.0,7,2021
+Juan Ramos,Spezia,0,0,0,0.0,0.0,0.0,6,2021
+Luca Vignali,Spezia,0,0,0,0.0,0.0,0.0,21,2021
+Aaron Hickey,Bologna,0,0,0,0.0,0.0,0.0,11,2021
+Antonio Palumbo,Sampdoria,0,0,0,0.0,0.0,0.0,1,2021
+Lautaro Valenti,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,11,2021
+Gennaro Acampora,Spezia,0,0,0,0.0,0.0,0.0,14,2021
+Luis Rojas,Crotone,0,0,0,0.0,0.0,0.0,7,2021
+Alberto Paleari,Genoa,0,0,0,0.0,0.0,0.0,3,2021
+Giuseppe Caso,Genoa,0,0,0,0.0,0.0,0.0,2,2021
+Léo Sena,Spezia,0,0,0,0.0,0.0,0.0,16,2021
+Radu Dragusin,Juventus,0,0,0,0.0,0.0,0.0,1,2021
+Omar Khailoti,Bologna,0,0,0,0.0,0.0,0.0,1,2021
+Mattia Pagliuca,Bologna,0,0,0,0.0,0.0,0.0,1,2021
+Alessandro Di Pardo,Juventus,0,0,0,0.0,0.0,0.0,4,2021
+Giuseppe Mastinu,Spezia,0,0,0,0.0,0.0,0.0,3,2021
+Emmanuel Gyabuaa,Atalanta,0,0,0,0.0,0.0,0.0,1,2021
+Philip Yeboah Ankrah,Verona,0,0,0,0.0,0.0,0.0,1,2021
+Antonio Cioffi,Napoli,0,0,0,0.0,0.0,0.0,1,2021
+Daan Dierckx,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,7,2021
+Isaac Karamoko,Sassuolo,0,0,0,0.0,0.0,0.0,1,2021
+Chaka Traorè,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,3,2021
+Jérôme Onguéné,Genoa,0,0,0,0.0,0.0,0.0,4,2021
+Vasilios Zagaritis,Parma Calcio 1913,0,0,0,0.0,0.0,0.0,2,2021
+Davide Ghislandi,Atalanta,0,0,0,0.0,0.0,0.0,1,2021
+Valentin Antov,Bologna,0,0,0,0.0,0.0,0.0,5,2021
+Viktor Kovalenko,Atalanta,0,0,0,0.0,0.0,0.0,1,2021
+Amadou Diambo,Benevento,0,0,0,0.0,0.0,0.0,1,2021
+Bryan Reynolds,Roma,0,0,0,0.0,0.0,0.0,5,2021
+Felix Correia,Juventus,0,0,0,0.0,0.0,0.0,1,2021
+Wisdom Amey,Bologna,0,0,0,0.0,0.0,0.0,1,2021
+Kacper Urbanski,Bologna,0,0,0,0.0,0.0,0.0,1,2021
+Edoardo Bove,Roma,0,0,0,0.0,0.0,0.0,1,2021
+Antonio Raimondo,Bologna,0,0,0,0.0,0.0,0.0,1,2021
+Yayah Kallon,Genoa,0,0,0,0.0,0.0,0.0,1,2021
+Marco Bertini,Lazio,0,0,0,0.0,0.0,0.0,1,2021

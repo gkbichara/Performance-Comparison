@@ -1,0 +1,511 @@
+player,team,goals,assists,contributions,contribution_pct,goals_pct,assists_pct,games,season
+Georges Mikautadze,Metz,13,4,17,48.6,37.1,11.4,20,2324
+Pierre-Emerick Aubameyang,Marseille,16,8,24,46.2,30.8,15.4,34,2324
+Muhammed-Cham Saracevic,Clermont Foot,8,4,12,46.2,30.8,15.4,33,2324
+Jonathan Christian David,Lille,19,4,23,44.2,36.5,7.7,34,2324
+Alexandre Lacazette,Lyon,19,2,21,42.9,38.8,4.1,29,2324
+Kylian Mbappe-Lottin,Paris Saint Germain,27,7,34,42.0,33.3,8.6,29,2324
+Thijs Dallinga,Toulouse,14,2,16,38.1,33.3,4.8,33,2324
+Téji Savanier,Montpellier,9,7,16,37.2,20.9,16.3,32,2324
+Mostafa Mohamed,Nantes,8,2,10,33.3,26.7,6.7,29,2324
+Terem Igobor Moffi,Nice,11,2,13,32.5,27.5,5.0,30,2324
+Romain Del Castillo,Brest,8,8,16,30.2,15.1,15.1,33,2324
+Jeremie Boga,Nice,6,6,12,30.0,15.0,15.0,28,2324
+Florian Sotoca,Lens,7,6,13,28.9,15.6,13.3,32,2324
+Benjamin Bourigeaud,Rennes,9,6,15,28.3,17.0,11.3,32,2324
+Shamar Nicholson,Clermont Foot,4,3,7,26.9,15.4,11.5,26,2324
+Florent Mollet,Nantes,4,4,8,26.7,13.3,13.3,29,2324
+Moses Simon,Nantes,3,5,8,26.7,10.0,16.7,22,2324
+Wissam Ben Yedder,Monaco,16,2,18,26.5,23.5,2.9,32,2324
+Mohamed Bamba,Lorient,8,3,11,25.6,18.6,7.0,16,2324
+Mohamed Daramy,Reims,5,5,10,23.8,11.9,11.9,25,2324
+Junya Ito,Reims,3,7,10,23.8,7.1,16.7,31,2324
+Emanuel Emegha,Strasbourg,8,1,9,23.7,21.1,2.6,28,2324
+Dilane Bakwa,Strasbourg,3,6,9,23.7,7.9,15.8,31,2324
+Takumi Minamino,Monaco,10,6,16,23.5,14.7,8.8,30,2324
+Edon Zhegrova,Lille,6,6,12,23.1,11.5,11.5,33,2324
+Teddy Teuma,Reims,6,3,9,21.4,14.3,7.1,28,2324
+Akor Adams,Montpellier,8,1,9,20.9,18.6,2.3,32,2324
+Arnaud Nordin,Montpellier,6,3,9,20.9,14.0,7.0,20,2324
+Arnaud Kalimuendo Muinga,Rennes,10,1,11,20.8,18.9,1.9,30,2324
+Kamory Doumbia,Brest,6,5,11,20.8,11.3,9.4,25,2324
+Christopher Operi,Le Havre,3,4,7,20.6,8.8,11.8,28,2324
+Vincent Sierro,Toulouse,6,2,8,19.0,14.3,4.8,30,2324
+Martin Terrier,Rennes,7,3,10,18.9,13.2,5.7,24,2324
+Amine Gouiri,Rennes,7,3,10,18.9,13.2,5.7,31,2324
+Mahdi Camara,Brest,7,3,10,18.9,13.2,5.7,32,2324
+Eli Junior Kroupi,Lorient,5,3,8,18.6,11.6,7.0,30,2324
+Wesley Said,Lens,7,1,8,17.8,15.6,2.2,27,2324
+Folarin Balogun,Monaco,7,5,12,17.6,10.3,7.4,29,2324
+Aleksandr Golovin,Monaco,6,6,12,17.6,8.8,8.8,25,2324
+Mohamed Bayo,Le Havre,5,1,6,17.6,14.7,2.9,22,2324
+Emmanuel Sabbi,Le Havre,5,1,6,17.6,14.7,2.9,30,2324
+Gaetan Laborde,Nice,5,2,7,17.5,12.5,5.0,34,2324
+Matthieu Udol,Metz,3,3,6,17.1,8.6,8.6,30,2324
+Matthis Abline,Nantes,5,0,5,16.7,16.7,0.0,22,2324
+Frank Magri,Toulouse,5,2,7,16.7,11.9,4.8,29,2324
+Marshall Munetsi,Reims,4,3,7,16.7,9.5,7.1,27,2324
+Mousa Al Tamari,Montpellier,5,2,7,16.3,11.6,4.7,27,2324
+Maghnes Akliouche,Monaco,7,4,11,16.2,10.3,5.9,28,2324
+Kevin Gameiro,Strasbourg,4,2,6,15.8,10.5,5.3,27,2324
+Angel Gomes,Lille,0,8,8,15.4,0.0,15.4,31,2324
+Steve Mounie,Brest,6,2,8,15.1,11.3,3.8,32,2324
+Martín Satriano,Brest,4,4,8,15.1,7.5,7.5,33,2324
+Désiré Doué,Rennes,4,4,8,15.1,7.5,7.5,31,2324
+Evann Guessand,Nice,6,0,6,15.0,15.0,0.0,34,2324
+Gonçalo Ramos,Paris Saint Germain,11,1,12,14.8,13.6,1.2,29,2324
+André Ayew,Le Havre,5,0,5,14.7,14.7,0.0,19,2324
+Nabil Alioui,Le Havre,4,1,5,14.7,11.8,2.9,18,2324
+Josué Casimir,Le Havre,0,5,5,14.7,0.0,14.7,30,2324
+Oumar Diakité,Reims,5,1,6,14.3,11.9,2.4,28,2324
+Ablie Jallow,Metz,3,2,5,14.3,8.6,5.7,17,2324
+Mathis Cherki,Lyon,1,6,7,14.3,2.0,12.2,33,2324
+Lamine Camara,Metz,1,4,5,14.3,2.9,11.4,31,2324
+Romain Faivre,Lorient,5,1,6,14.0,11.6,2.3,17,2324
+Vitinha,Paris Saint Germain,7,4,11,13.6,8.6,4.9,28,2324
+Randal Kolo Muani,Paris Saint Germain,6,5,11,13.6,7.4,6.2,26,2324
+Ousmane Dembélé,Paris Saint Germain,3,8,11,13.6,3.7,9.9,26,2324
+Bafode Diakite,Lille,5,2,7,13.5,9.6,3.8,21,2324
+Yusuf Yazici,Lille,5,2,7,13.5,9.6,3.8,27,2324
+Ismaila Sarr,Marseille,3,4,7,13.5,5.8,7.7,23,2324
+Jonathan Clauss,Marseille,3,4,7,13.5,5.8,7.7,27,2324
+David Pereira Da Costa,Lens,4,2,6,13.3,8.9,4.4,25,2324
+Morgan Sanson,Nice,2,3,5,12.5,5.0,7.5,29,2324
+Jake O'Brien,Lyon,4,2,6,12.2,8.2,4.1,27,2324
+Said Benrahma,Lyon,3,3,6,12.2,6.1,6.1,12,2324
+Keito Nakamura,Reims,4,1,5,11.9,9.5,2.4,25,2324
+Yann Gboho,Toulouse,3,2,5,11.9,7.1,4.8,16,2324
+Youssouf Fofana,Monaco,4,4,8,11.8,5.9,5.9,32,2324
+Daler Kuzyaev,Le Havre,2,2,4,11.8,5.9,5.9,30,2324
+Ahmadou Bamba Dieng,Lorient,4,1,5,11.6,9.3,2.3,16,2324
+Julien Ponceau,Lorient,3,2,5,11.6,7.0,4.7,32,2324
+Iliman Ndiaye,Marseille,3,3,6,11.5,5.8,5.8,30,2324
+Grejohn Kyei,Clermont Foot,2,1,3,11.5,7.7,3.8,26,2324
+Jim Allevinah,Clermont Foot,2,1,3,11.5,7.7,3.8,29,2324
+Cheick Tidiane Sabaly,Metz,3,1,4,11.4,8.6,2.9,29,2324
+Marco Asensio,Paris Saint Germain,4,5,9,11.1,4.9,6.2,19,2324
+Achraf Hakimi,Paris Saint Germain,4,5,9,11.1,4.9,6.2,25,2324
+Przemyslaw Frankowski,Lens,3,2,5,11.1,6.7,4.4,30,2324
+Dion Moise Sahi,Strasbourg,3,1,4,10.5,7.9,2.6,18,2324
+Habib Diarra,Strasbourg,3,1,4,10.5,7.9,2.6,31,2324
+Jean-Ricner Bellegarde,Strasbourg,2,2,4,10.5,5.3,5.3,3,2324
+Ernest Nuamah,Lyon,3,2,5,10.2,6.1,4.1,29,2324
+Mama Baldé,Lyon,2,3,5,10.2,4.1,6.1,20,2324
+Ainsley Maitland-Niles,Lyon,1,4,5,10.2,2.0,8.2,23,2324
+Abdoul Kader Bamba,Nantes,2,1,3,10.0,6.7,3.3,23,2324
+Vitinha,Marseille,3,2,5,9.6,5.8,3.8,18,2324
+Amir Murillo,Marseille,3,2,5,9.6,5.8,3.8,16,2324
+Yunis Abdelhamid,Reims,4,0,4,9.5,9.5,0.0,31,2324
+Amir Richardson,Reims,3,1,4,9.5,7.1,2.4,28,2324
+Reda Khadra,Reims,1,3,4,9.5,2.4,7.1,29,2324
+Cristian Cásseres Jr.,Toulouse,1,3,4,9.5,2.4,7.1,32,2324
+Gabriel Suazo,Toulouse,0,4,4,9.5,0.0,9.5,31,2324
+Ludovic Blas,Rennes,4,1,5,9.4,7.5,1.9,29,2324
+Ibrahim Salah,Rennes,4,1,5,9.4,7.5,1.9,23,2324
+Pereira Lage,Brest,3,2,5,9.4,5.7,3.8,30,2324
+Kenny Lala,Brest,2,3,5,9.4,3.8,5.7,33,2324
+Imran Louza,Lorient,1,3,4,9.3,2.3,7.0,14,2324
+Siriné Doucouré,Lorient,1,3,4,9.3,2.3,7.0,11,2324
+Deiver Machado,Lens,4,0,4,8.9,8.9,0.0,19,2324
+Ruben Aguilar,Lens,1,3,4,8.9,2.2,6.7,25,2324
+Facundo Medina,Lens,1,3,4,8.9,2.2,6.7,31,2324
+Yassine Kechta,Le Havre,2,1,3,8.8,5.9,2.9,32,2324
+Loïc Négo,Le Havre,0,3,3,8.8,0.0,8.8,28,2324
+Lee Kang-In,Paris Saint Germain,3,4,7,8.6,3.7,4.9,23,2324
+Joel Asoro,Metz,2,1,3,8.6,5.7,2.9,20,2324
+Papa Amadou Diallo,Metz,2,1,3,8.6,5.7,2.9,16,2324
+Arthur Atta,Metz,1,2,3,8.6,2.9,5.7,21,2324
+Kévin Van Den Kerkhof,Metz,1,2,3,8.6,2.9,5.7,29,2324
+Nicolás Tagliafico,Lyon,3,1,4,8.2,6.1,2.0,25,2324
+Maxence Caqueret,Lyon,1,3,4,8.2,2.0,6.1,34,2324
+Lebo Mothiba,Strasbourg,3,0,3,7.9,7.9,0.0,15,2324
+Ângelo,Strasbourg,0,3,3,7.9,0.0,7.9,21,2324
+Benjamin André,Lille,4,0,4,7.7,7.7,0.0,30,2324
+Faris Moumbagna,Marseille,3,1,4,7.7,5.8,1.9,13,2324
+Chancel Mbemba,Marseille,2,2,4,7.7,3.8,3.8,25,2324
+Rémy Cabella,Lille,2,2,4,7.7,3.8,3.8,30,2324
+Elbasan Rashani,Clermont Foot,2,0,2,7.7,7.7,0.0,24,2324
+Bilal Boutobba,Clermont Foot,1,1,2,7.7,3.8,3.8,27,2324
+Florent Ogier,Clermont Foot,1,1,2,7.7,3.8,3.8,14,2324
+Cheick Konate,Clermont Foot,1,1,2,7.7,3.8,3.8,19,2324
+Pierre Lees-Melou,Brest,4,0,4,7.5,7.5,0.0,29,2324
+Jeremy Le Douaron,Brest,4,0,4,7.5,7.5,0.0,33,2324
+Melvin Bard,Nice,1,2,3,7.5,2.5,5.0,32,2324
+Mohamed Ali-Cho,Nice,1,2,3,7.5,2.5,5.0,17,2324
+Caio Henrique,Monaco,0,5,5,7.4,0.0,7.4,9,2324
+Zakaria Aboukhlal,Toulouse,3,0,3,7.1,7.1,0.0,13,2324
+Moussa Diarra,Toulouse,1,2,3,7.1,2.4,4.8,22,2324
+César Gelabert,Toulouse,1,2,3,7.1,2.4,4.8,16,2324
+Warren Kamanzi,Toulouse,0,3,3,7.1,0.0,7.1,24,2324
+Khalil Fayad,Montpellier,3,0,3,7.0,7.0,0.0,23,2324
+Benjamin Mendy,Lorient,2,1,3,7.0,4.7,2.3,15,2324
+Tiemoué Bakayoko,Lorient,2,1,3,7.0,4.7,2.3,20,2324
+Laurent Abergel,Lorient,2,1,3,7.0,4.7,2.3,33,2324
+Issiaga Sylla,Montpellier,1,2,3,7.0,2.3,4.7,19,2324
+Joris Chotard,Montpellier,0,3,3,7.0,0.0,7.0,31,2324
+Jean-Charles Castelletto,Nantes,2,0,2,6.7,6.7,0.0,28,2324
+Eray Cömert,Nantes,2,0,2,6.7,6.7,0.0,25,2324
+Pedro Chirivella,Nantes,1,1,2,6.7,3.3,3.3,32,2324
+Adrien Thomasson,Lens,1,2,3,6.7,2.2,4.4,29,2324
+Angelo Fulgini,Lens,1,2,3,6.7,2.2,4.4,29,2324
+Neil El Aynaoui,Lens,1,2,3,6.7,2.2,4.4,25,2324
+Warren Zaïre-Emery,Paris Saint Germain,2,3,5,6.2,2.5,3.7,26,2324
+Malick Fofana,Lyon,3,0,3,6.1,6.1,0.0,17,2324
+Corentin Tolisso,Lyon,2,1,3,6.1,4.1,2.0,25,2324
+Clinton Mata,Lyon,0,3,3,6.1,0.0,6.1,28,2324
+Denis Zakaria,Monaco,4,0,4,5.9,5.9,0.0,25,2324
+Vanderson,Monaco,3,1,4,5.9,4.4,1.5,20,2324
+Abdoulaye Touré,Le Havre,2,0,2,5.9,5.9,0.0,30,2324
+Gautier Lloris,Le Havre,2,0,2,5.9,5.9,0.0,31,2324
+Yoann Salmier,Le Havre,1,1,2,5.9,2.9,2.9,20,2324
+Antoine Joujou,Le Havre,0,2,2,5.9,0.0,5.9,23,2324
+Samuel Gigot,Marseille,3,0,3,5.8,5.8,0.0,21,2324
+Jordan Veretout,Marseille,1,2,3,5.8,1.9,3.8,29,2324
+Amine Harit,Marseille,1,2,3,5.8,1.9,3.8,28,2324
+Tiago Santos,Lille,1,2,3,5.8,1.9,3.8,29,2324
+Nabil Bentaleb,Lille,0,3,3,5.8,0.0,5.8,26,2324
+Lilian Brassier,Brest,3,0,3,5.7,5.7,0.0,30,2324
+Ismael Traoré,Metz,2,0,2,5.7,5.7,0.0,26,2324
+Adrien Truffert,Rennes,1,2,3,5.7,1.9,3.8,30,2324
+Kevin N'Doram,Metz,0,2,2,5.7,0.0,5.7,23,2324
+Bradley Locko,Brest,0,3,3,5.7,0.0,5.7,33,2324
+Koffi Kouao,Metz,0,2,2,5.7,0.0,5.7,13,2324
+Frederic Guilbert,Strasbourg,2,0,2,5.3,5.3,0.0,32,2324
+Abakar Sylla,Strasbourg,2,0,2,5.3,5.3,0.0,22,2324
+Jeremy Sebas,Strasbourg,2,0,2,5.3,5.3,0.0,14,2324
+Thomas Delaine,Strasbourg,1,1,2,5.3,2.6,2.6,27,2324
+Marvin Senaya,Strasbourg,1,1,2,5.3,2.6,2.6,32,2324
+Junior Mwanga,Strasbourg,1,1,2,5.3,2.6,2.6,22,2324
+Hichem Boudaoui,Nice,2,0,2,5.0,5.0,0.0,29,2324
+Dante,Nice,1,1,2,5.0,2.5,2.5,32,2324
+Kephren Thuram,Nice,1,1,2,5.0,2.5,2.5,27,2324
+Tom Louchet,Nice,1,1,2,5.0,2.5,2.5,13,2324
+Jean-Clair Todibo,Nice,0,2,2,5.0,0.0,5.0,30,2324
+Carlos Soler,Paris Saint Germain,2,2,4,4.9,2.5,2.5,24,2324
+Fabián,Paris Saint Germain,1,3,4,4.9,1.2,3.7,21,2324
+Sergio Akieme,Reims,2,0,2,4.8,4.8,0.0,13,2324
+Rasmus Nicolaisen,Toulouse,2,0,2,4.8,4.8,0.0,33,2324
+Christian Mawissa Elebi,Toulouse,2,0,2,4.8,4.8,0.0,17,2324
+Niklas Schmidt,Toulouse,1,1,2,4.8,2.4,2.4,22,2324
+Logan Costa,Toulouse,1,1,2,4.8,2.4,2.4,31,2324
+Joshua Wilson-Esbrand,Reims,1,1,2,4.8,2.4,2.4,11,2324
+Emmanuel Agbadou,Reims,1,1,2,4.8,2.4,2.4,32,2324
+Ibrahim Cissoko,Toulouse,1,1,2,4.8,2.4,2.4,11,2324
+Modibo Sagnan,Montpellier,2,0,2,4.7,4.7,0.0,13,2324
+Aiyegun Tosin,Lorient,2,0,2,4.7,4.7,0.0,19,2324
+Jordan Ferri,Montpellier,1,1,2,4.7,2.3,2.3,30,2324
+Vincent Le Goff,Lorient,1,1,2,4.7,2.3,2.3,9,2324
+Maxime Estève,Montpellier,1,1,2,4.7,2.3,2.3,12,2324
+Darline Yongwa,Lorient,1,1,2,4.7,2.3,2.3,22,2324
+Souleymane Isaak Touré,Lorient,1,1,2,4.7,2.3,2.3,24,2324
+Ayman Kari,Lorient,1,1,2,4.7,2.3,2.3,14,2324
+Lucas Mincarelli Davin,Montpellier,1,1,2,4.7,2.3,2.3,13,2324
+Panos Katseris,Lorient,1,1,2,4.7,2.3,2.3,15,2324
+Kiki Kouyate,Montpellier,0,2,2,4.7,0.0,4.7,23,2324
+Théo Le Bris,Lorient,0,2,2,4.7,0.0,4.7,26,2324
+Ben Seghir,Monaco,2,1,3,4.4,2.9,1.5,13,2324
+Morgan Guilavogui,Lens,2,0,2,4.4,4.4,0.0,23,2324
+Ismail Jakobs,Monaco,1,2,3,4.4,1.5,2.9,22,2324
+Mohamed Camara,Monaco,1,2,3,4.4,1.5,2.9,20,2324
+Óscar Cortés,Lens,1,1,2,4.4,2.2,2.2,4,2324
+Orel Mangala,Lyon,2,0,2,4.1,4.1,0.0,8,2324
+Jeffinho,Lyon,1,1,2,4.1,2.0,2.0,10,2324
+Hugo Magnetti,Brest,2,0,2,3.8,3.8,0.0,33,2324
+Leonardo Balerdi,Marseille,2,0,2,3.8,3.8,0.0,27,2324
+Azz-Eddine Ounahi,Marseille,2,0,2,3.8,3.8,0.0,21,2324
+Arthur Theate,Rennes,2,0,2,3.8,3.8,0.0,28,2324
+Leny Yoro,Lille,2,0,2,3.8,3.8,0.0,32,2324
+Hákon Haraldsson,Lille,2,0,2,3.8,3.8,0.0,26,2324
+Maxime Gonalons,Clermont Foot,1,0,1,3.8,3.8,0.0,21,2324
+Ivan Cavaleiro,Lille,1,1,2,3.8,1.9,1.9,17,2324
+Brendan Chardonnet,Brest,1,1,2,3.8,1.9,1.9,33,2324
+Lorenz Assignon,Rennes,1,1,2,3.8,1.9,1.9,14,2324
+Habib Keita,Clermont Foot,1,0,1,3.8,3.8,0.0,27,2324
+Yohann Magnin,Clermont Foot,1,0,1,3.8,3.8,0.0,31,2324
+Mateusz Wieteska,Clermont Foot,1,0,1,3.8,3.8,0.0,2,2324
+Ismaily,Lille,1,1,2,3.8,1.9,1.9,30,2324
+Emran Soglo,Marseille,1,1,2,3.8,1.9,1.9,3,2324
+Maximiliano Caufriez,Clermont Foot,0,1,1,3.8,0.0,3.8,20,2324
+Neto Borges,Clermont Foot,0,1,1,3.8,0.0,3.8,28,2324
+Guela Doué,Rennes,0,2,2,3.8,0.0,3.8,24,2324
+Marcus Coco,Nantes,1,0,1,3.3,3.3,0.0,28,2324
+Samuel Moutoussamy,Nantes,1,0,1,3.3,3.3,0.0,26,2324
+Nicolas Pallois,Nantes,0,1,1,3.3,0.0,3.3,23,2324
+Kelvin Adou,Nantes,0,1,1,3.3,0.0,3.3,12,2324
+Bénie Traoré,Nantes,0,1,1,3.3,0.0,3.3,14,2324
+Thilo Kehrer,Monaco,1,1,2,2.9,1.5,1.5,15,2324
+Nolan Mbemba,Le Havre,1,0,1,2.9,2.9,0.0,6,2324
+Samuel Grandsir,Le Havre,1,0,1,2.9,2.9,0.0,23,2324
+Youssef Maziz,Metz,1,0,1,2.9,2.9,0.0,2,2324
+Wilfried Stephane Singo,Monaco,1,1,2,2.9,1.5,1.5,25,2324
+Didier Lamkel Zé,Metz,1,0,1,2.9,2.9,0.0,9,2324
+Simon Elisor,Metz,1,0,1,2.9,2.9,0.0,14,2324
+Ibou Sané,Metz,1,0,1,2.9,2.9,0.0,9,2324
+Krépin Diatta,Monaco,0,2,2,2.9,0.0,2.9,26,2324
+Fali Candé,Metz,0,1,1,2.9,0.0,2.9,25,2324
+Steve Ngoura,Le Havre,0,1,1,2.9,0.0,2.9,12,2324
+Andrey Santos,Strasbourg,1,0,1,2.6,2.6,0.0,11,2324
+Ibrahima Sissoko,Strasbourg,0,1,1,2.6,0.0,2.6,27,2324
+Lucas Perrin,Strasbourg,0,1,1,2.6,0.0,2.6,31,2324
+Saidou Sow,Strasbourg,0,1,1,2.6,0.0,2.6,10,2324
+Rabby Nzingoula,Strasbourg,0,1,1,2.6,0.0,2.6,6,2324
+Aboubacar Ali Abdallah,Strasbourg,0,1,1,2.6,0.0,2.6,9,2324
+Lucas Hernández,Paris Saint Germain,1,1,2,2.5,1.2,1.2,27,2324
+Youcef Atal,Nice,1,0,1,2.5,2.5,0.0,6,2324
+Jordan Lotomba,Nice,1,0,1,2.5,2.5,0.0,28,2324
+Nuno Mendes,Paris Saint Germain,1,1,2,2.5,1.2,1.2,6,2324
+Romain Perraud,Nice,0,1,1,2.5,0.0,2.5,19,2324
+Manuel Ugarte,Paris Saint Germain,0,2,2,2.5,0.0,2.5,25,2324
+Joseph Okumu,Reims,1,0,1,2.4,2.4,0.0,21,2324
+Shavy Babicka,Toulouse,1,0,1,2.4,2.4,0.0,12,2324
+Benjamin Stambouli,Reims,0,1,1,2.4,0.0,2.4,7,2324
+Thomas Foket,Reims,0,1,1,2.4,0.0,2.4,27,2324
+Mikkel Desler,Toulouse,0,1,1,2.4,0.0,2.4,24,2324
+Farès Chaïbi,Toulouse,0,1,1,2.4,0.0,2.4,2,2324
+Mamady Bangré,Toulouse,0,1,1,2.4,0.0,2.4,8,2324
+Aron Dønnum,Toulouse,0,1,1,2.4,0.0,2.4,27,2324
+Wahbi Khazri,Montpellier,1,0,1,2.3,2.3,0.0,25,2324
+Christopher Jullien,Montpellier,1,0,1,2.3,2.3,0.0,20,2324
+Yann Karamoh,Montpellier,1,0,1,2.3,2.3,0.0,12,2324
+Tanguy Coulibaly,Montpellier,1,0,1,2.3,2.3,0.0,16,2324
+Othmane Maamma,Montpellier,1,0,1,2.3,2.3,0.0,2,2324
+Benjamin Lecomte,Montpellier,0,1,1,2.3,0.0,2.3,30,2324
+Léo Leroy,Montpellier,0,1,1,2.3,0.0,2.3,21,2324
+Silvan Hefti,Montpellier,0,1,1,2.3,0.0,2.3,11,2324
+Falaye Sacko,Montpellier,0,1,1,2.3,0.0,2.3,19,2324
+Gédéon Kalulu,Lorient,0,1,1,2.3,0.0,2.3,19,2324
+Kevin Danso,Lens,1,0,1,2.2,2.2,0.0,30,2324
+Jonathan Gradit,Lens,1,0,1,2.2,2.2,0.0,26,2324
+Andy Diouf,Lens,1,0,1,2.2,2.2,0.0,25,2324
+Massadio Haidara,Lens,0,1,1,2.2,0.0,2.2,18,2324
+Nampalys Mendy,Lens,0,1,1,2.2,0.0,2.2,16,2324
+Henrique,Lyon,1,0,1,2.0,2.0,0.0,11,2324
+Skelly Alvero,Lyon,1,0,1,2.0,2.0,0.0,8,2324
+Gift Orban,Lyon,1,0,1,2.0,2.0,0.0,13,2324
+Sael Kumbedi,Lyon,0,1,1,2.0,0.0,2.0,17,2324
+Jordan Amavi,Brest,1,0,1,1.9,1.9,0.0,2,2324
+Adam Ounas,Lille,1,0,1,1.9,1.9,0.0,17,2324
+Jean Onana,Marseille,1,0,1,1.9,1.9,0.0,13,2324
+Pape Alassane Gueye,Marseille,1,0,1,1.9,1.9,0.0,15,2324
+Luis Henrique,Marseille,1,0,1,1.9,1.9,0.0,15,2324
+Jéremy Doku,Rennes,1,0,1,1.9,1.9,0.0,2,2324
+Warmed Omari,Rennes,1,0,1,1.9,1.9,0.0,25,2324
+Christopher Wooh,Rennes,1,0,1,1.9,1.9,0.0,18,2324
+Gabriel Gudmundsson,Lille,1,0,1,1.9,1.9,0.0,25,2324
+Fabian Rieder,Rennes,1,0,1,1.9,1.9,0.0,15,2324
+Jonas Martin,Brest,0,1,1,1.9,0.0,1.9,31,2324
+Baptiste Santamaria,Rennes,0,1,1,1.9,0.0,1.9,30,2324
+Adrien Lebeau,Brest,0,1,1,1.9,0.0,1.9,7,2324
+Enzo Le Fée,Rennes,0,1,1,1.9,0.0,1.9,25,2324
+Jeanuël Belocian,Rennes,0,1,1,1.9,0.0,1.9,23,2324
+Bertug Yildirim,Rennes,0,1,1,1.9,0.0,1.9,21,2324
+Trévis Dago,Lille,0,1,1,1.9,0.0,1.9,4,2324
+Breel Embolo,Monaco,1,0,1,1.5,1.5,0.0,5,2324
+Guillermo Maripán,Monaco,1,0,1,1.5,1.5,0.0,23,2324
+Myron Boadu,Monaco,1,0,1,1.5,1.5,0.0,9,2324
+Kassoum Ouattara,Monaco,1,0,1,1.5,1.5,0.0,14,2324
+Mohammed Salisu,Monaco,0,1,1,1.5,0.0,1.5,12,2324
+Eliot Matazo,Monaco,0,1,1,1.5,0.0,1.5,6,2324
+Beraldo,Paris Saint Germain,1,0,1,1.2,1.2,0.0,13,2324
+Yoram Zague,Paris Saint Germain,1,0,1,1.2,1.2,0.0,5,2324
+Marquinhos,Paris Saint Germain,0,1,1,1.2,0.0,1.2,21,2324
+Arnau Tenas,Paris Saint Germain,0,1,1,1.2,0.0,1.2,6,2324
+Senny Mayulu,Paris Saint Germain,0,1,1,1.2,0.0,1.2,8,2324
+Ulisses García,Marseille,0,0,0,0.0,0.0,0.0,13,2324
+Mamadou Sakho,Montpellier,0,0,0,0.0,0.0,0.0,1,2324
+Dejan Lovren,Lyon,0,0,0,0.0,0.0,0.0,10,2324
+Vito Mannone,Lille,0,0,0,0.0,0.0,0.0,2,2324
+Moussa Sissoko,Nantes,0,0,0,0.0,0.0,0.0,26,2324
+Gianluigi Donnarumma,Paris Saint Germain,0,0,0,0.0,0.0,0.0,25,2324
+Milan Skriniar,Paris Saint Germain,0,0,0,0.0,0.0,0.0,24,2324
+Geoffrey Kondogbia,Marseille,0,0,0,0.0,0.0,0.0,26,2324
+Steve Mandanda,Rennes,0,0,0,0.0,0.0,0.0,34,2324
+Joaquín Correa,Marseille,0,0,0,0.0,0.0,0.0,12,2324
+Sanjin Prcic,Strasbourg,0,0,0,0.0,0.0,0.0,3,2324
+Pau López,Marseille,0,0,0,0.0,0.0,0.0,33,2324
+Keylor Navas,Paris Saint Germain,0,0,0,0.0,0.0,0.0,4,2324
+Rubén Blanco,Marseille,0,0,0,0.0,0.0,0.0,2,2324
+Alban Lafont,Nantes,0,0,0,0.0,0.0,0.0,28,2324
+Mehdi Zeffane,Clermont Foot,0,0,0,0.0,0.0,0.0,23,2324
+Anthony Lopes,Lyon,0,0,0,0.0,0.0,0.0,31,2324
+Mathieu Gorgelin,Le Havre,0,0,0,0.0,0.0,0.0,1,2324
+Layvin Kurzawa,Paris Saint Germain,0,0,0,0.0,0.0,0.0,1,2324
+Jean-Louis Leca,Lens,0,0,0,0.0,0.0,0.0,1,2324
+Rémy Riou,Lyon,0,0,0,0.0,0.0,0.0,3,2324
+Alois Confais,Le Havre,0,0,0,0.0,0.0,0.0,2,2324
+Denis Petric,Nantes,0,0,0,0.0,0.0,0.0,1,2324
+Ronael Pierre Gabriel,Nantes,0,0,0,0.0,0.0,0.0,12,2324
+Jean-Victor Makengo,Lorient,0,0,0,0.0,0.0,0.0,11,2324
+Samuel Umtiti,Lille,0,0,0,0.0,0.0,0.0,6,2324
+Dimitry Bertaud,Montpellier,0,0,0,0.0,0.0,0.0,4,2324
+Valentin Rongier,Marseille,0,0,0,0.0,0.0,0.0,10,2324
+Brice Samba,Lens,0,0,0,0.0,0.0,0.0,33,2324
+Valentin Rosier,Nice,0,0,0,0.0,0.0,0.0,3,2324
+Jeremie Bela,Clermont Foot,0,0,0,0.0,0.0,0.0,12,2324
+Faitout Maouassa,Lens,0,0,0,0.0,0.0,0.0,3,2324
+Nordi Mukiele,Paris Saint Germain,0,0,0,0.0,0.0,0.0,16,2324
+Digbo Maiga,Metz,0,0,0,0.0,0.0,0.0,7,2324
+Alexis Claude Maurice,Nice,0,0,0,0.0,0.0,0.0,18,2324
+Matteo Guendouzi,Marseille,0,0,0,0.0,0.0,0.0,2,2324
+Remy Descamps,Nantes,0,0,0,0.0,0.0,0.0,6,2324
+Johan Gastien,Clermont Foot,0,0,0,0.0,0.0,0.0,28,2324
+Oualid El Hajjam,Le Havre,0,0,0,0.0,0.0,0.0,13,2324
+Alexandre Oukidja,Metz,0,0,0,0.0,0.0,0.0,34,2324
+Christophe Herelle,Metz,0,0,0,0.0,0.0,0.0,19,2324
+Nicolas Cozza,Nantes,0,0,0,0.0,0.0,0.0,13,2324
+Yvon Mvogo,Lorient,0,0,0,0.0,0.0,0.0,34,2324
+Ignatius Ganago,Nantes,0,0,0,0.0,0.0,0.0,6,2324
+Gerzino Nyamsi,Strasbourg,0,0,0,0.0,0.0,0.0,13,2324
+Jessy Deminguet,Strasbourg,0,0,0,0.0,0.0,0.0,18,2324
+Yoel Armougom,Clermont Foot,0,0,0,0.0,0.0,0.0,5,2324
+Andy Pelmard,Clermont Foot,0,0,0,0.0,0.0,0.0,34,2324
+Yehvann Diouf,Reims,0,0,0,0.0,0.0,0.0,34,2324
+Sofiane Diop,Nice,0,0,0,0.0,0.0,0.0,10,2324
+Matz Sels,Strasbourg,0,0,0,0.0,0.0,0.0,19,2324
+Duje Caleta-Car,Lyon,0,0,0,0.0,0.0,0.0,24,2324
+Paul Akouokou,Lyon,0,0,0,0.0,0.0,0.0,8,2324
+Theo Sainte Luce,Montpellier,0,0,0,0.0,0.0,0.0,6,2324
+Fabien Centonze,Nantes,0,0,0,0.0,0.0,0.0,3,2324
+Marcin Bulka,Nice,0,0,0,0.0,0.0,0.0,34,2324
+Renan Lodi,Marseille,0,0,0,0.0,0.0,0.0,14,2324
+Jean-Kevin Duverne,Nantes,0,0,0,0.0,0.0,0.0,19,2324
+Guillaume Dietsch,Metz,0,0,0,0.0,0.0,0.0,1,2324
+Hianga'a M'Bock,Brest,0,0,0,0.0,0.0,0.0,2,2324
+Lucas Chevalier,Lille,0,0,0,0.0,0.0,0.0,33,2324
+Radoslaw Majecki,Monaco,0,0,0,0.0,0.0,0.0,12,2324
+Thibault De Smet,Reims,0,0,0,0.0,0.0,0.0,27,2324
+Julien Laporte,Lorient,0,0,0,0.0,0.0,0.0,23,2324
+Adrian Grbic,Lorient,0,0,0,0.0,0.0,0.0,1,2324
+Birger Meling,Rennes,0,0,0,0.0,0.0,0.0,1,2324
+Sinaly Diomande,Lyon,0,0,0,0.0,0.0,0.0,10,2324
+Hugo Ekitike,Paris Saint Germain,0,0,0,0.0,0.0,0.0,1,2324
+Danilo Pereira,Paris Saint Germain,0,0,0,0.0,0.0,0.0,26,2324
+Komnen Andric,Clermont Foot,0,0,0,0.0,0.0,0.0,7,2324
+Maxime Busi,Reims,0,0,0,0.0,0.0,0.0,5,2324
+Loris Mouyokolo,Lorient,0,0,0,0.0,0.0,0.0,1,2324
+Oussama Targhaline,Le Havre,0,0,0,0.0,0.0,0.0,14,2324
+Antoine Mendy,Nice,0,0,0,0.0,0.0,0.0,10,2324
+Sacha Delaye,Montpellier,0,0,0,0.0,0.0,0.0,9,2324
+Marco Bizot,Brest,0,0,0,0.0,0.0,0.0,32,2324
+Grégoire Coudert,Brest,0,0,0,0.0,0.0,0.0,3,2324
+Arthur Desmas,Le Havre,0,0,0,0.0,0.0,0.0,33,2324
+Salis Abdul Samed,Lens,0,0,0,0.0,0.0,0.0,27,2324
+Pablo Rosario,Nice,0,0,0,0.0,0.0,0.0,30,2324
+Igor Silva,Lorient,0,0,0,0.0,0.0,0.0,5,2324
+Bilal Nadir,Marseille,0,0,0,0.0,0.0,0.0,5,2324
+Axel Camblan,Brest,0,0,0,0.0,0.0,0.0,7,2324
+Montassar Talbi,Lorient,0,0,0,0.0,0.0,0.0,25,2324
+Lovro Majer,Rennes,0,0,0,0.0,0.0,0.0,1,2324
+Aiman Maurer,Clermont Foot,0,0,0,0.0,0.0,0.0,5,2324
+Ibrahim Diakité,Reims,0,0,0,0.0,0.0,0.0,5,2324
+Alaa Bellarouch,Strasbourg,0,0,0,0.0,0.0,0.0,15,2324
+Danley Jean Jacques,Metz,0,0,0,0.0,0.0,0.0,33,2324
+Kelvin Yeboah,Montpellier,0,0,0,0.0,0.0,0.0,13,2324
+Bonke Innocent,Lorient,0,0,0,0.0,0.0,0.0,4,2324
+Pablo Pagis,Lorient,0,0,0,0.0,0.0,0.0,3,2324
+Enzo Tchato Mbiayi,Montpellier,0,0,0,0.0,0.0,0.0,17,2324
+Ibrahima Koné,Lorient,0,0,0,0.0,0.0,0.0,1,2324
+Ismaël Doukouré,Strasbourg,0,0,0,0.0,0.0,0.0,22,2324
+Carlos Baleba,Lille,0,0,0,0.0,0.0,0.0,2,2324
+Johann Lepenant,Lyon,0,0,0,0.0,0.0,0.0,6,2324
+Mohamed El Arouch,Lyon,0,0,0,0.0,0.0,0.0,1,2324
+Soungoutou Magassa,Monaco,0,0,0,0.0,0.0,0.0,21,2324
+Mory Diaw,Clermont Foot,0,0,0,0.0,0.0,0.0,30,2324
+Denis Genreau,Toulouse,0,0,0,0.0,0.0,0.0,9,2324
+Kévin Biakolo,Toulouse,0,0,0,0.0,0.0,0.0,8,2324
+Alexsandro Ribeiro,Lille,0,0,0,0.0,0.0,0.0,29,2324
+Amine Salama,Reims,0,0,0,0.0,0.0,0.0,11,2324
+Achraf Dari,Brest,0,0,0,0.0,0.0,0.0,4,2324
+Karamoko Dembele,Brest,0,0,0,0.0,0.0,0.0,1,2324
+Yanis Begraoui,Toulouse,0,0,0,0.0,0.0,0.0,14,2324
+Naatan Skyttä,Toulouse,0,0,0,0.0,0.0,0.0,8,2324
+Marquinhos,Nantes,0,0,0,0.0,0.0,0.0,7,2324
+Reda Belahyane,Nice,0,0,0,0.0,0.0,0.0,1,2324
+Yaya Fofana,Reims,0,0,0,0.0,0.0,0.0,4,2324
+Axel Gueguin,Montpellier,0,0,0,0.0,0.0,0.0,3,2324
+Ichem Ferrah,Lille,0,0,0,0.0,0.0,0.0,1,2324
+Mamadou Sarr,Lyon,0,0,0,0.0,0.0,0.0,1,2324
+Nathan Zeze,Nantes,0,0,0,0.0,0.0,0.0,13,2324
+François Mughe,Marseille,0,0,0,0.0,0.0,0.0,5,2324
+Youssouf Ndayishimiye,Nice,0,0,0,0.0,0.0,0.0,23,2324
+Eduard Sobol,Strasbourg,0,0,0,0.0,0.0,0.0,3,2324
+Jaouen Hadjam,Nantes,0,0,0,0.0,0.0,0.0,8,2324
+Amin Sarr,Lyon,0,0,0,0.0,0.0,0.0,3,2324
+Valentin Atangana Edoa,Reims,0,0,0,0.0,0.0,0.0,15,2324
+Edan Diop,Monaco,0,0,0,0.0,0.0,0.0,10,2324
+Stredair Appuah,Nantes,0,0,0,0.0,0.0,0.0,4,2324
+Thérence Koudou,Reims,0,0,0,0.0,0.0,0.0,9,2324
+Aurelien Pelon,Lorient,0,0,0,0.0,0.0,0.0,1,2324
+Mamadou Diakhon,Reims,0,0,0,0.0,0.0,0.0,11,2324
+Aaron Malouda,Lille,0,0,0,0.0,0.0,0.0,1,2324
+Abduqodir Khusanov,Lens,0,0,0,0.0,0.0,0.0,11,2324
+Ayanda Sishuba,Lens,0,0,0,0.0,0.0,0.0,7,2324
+Cher Ndour,Paris Saint Germain,0,0,0,0.0,0.0,0.0,3,2324
+Dembo Sylla,Lorient,0,0,0,0.0,0.0,0.0,1,2324
+Formose Mendy,Lorient,0,0,0,0.0,0.0,0.0,18,2324
+Douglas Augusto,Nantes,0,0,0,0.0,0.0,0.0,25,2324
+Lamine Diack,Nantes,0,0,0,0.0,0.0,0.0,1,2324
+Bastien Meupiyou,Nantes,0,0,0,0.0,0.0,0.0,1,2324
+Guillaume Restes,Toulouse,0,0,0,0.0,0.0,0.0,34,2324
+Massamba Ndiaye,Clermont Foot,0,0,0,0.0,0.0,0.0,4,2324
+Philipp Köhn,Monaco,0,0,0,0.0,0.0,0.0,22,2324
+Becir Omeragic,Montpellier,0,0,0,0.0,0.0,0.0,28,2324
+Arouna Sangante,Le Havre,0,0,0,0.0,0.0,0.0,30,2324
+Rassoul Ndiaye,Le Havre,0,0,0,0.0,0.0,0.0,19,2324
+Issa Soumaré,Le Havre,0,0,0,0.0,0.0,0.0,7,2324
+Andy Logbo,Le Havre,0,0,0,0.0,0.0,0.0,10,2324
+Étienne Youté,Le Havre,0,0,0,0.0,0.0,0.0,22,2324
+Maxime Colin,Metz,0,0,0,0.0,0.0,0.0,22,2324
+Benjamin Tetteh,Metz,0,0,0,0.0,0.0,0.0,12,2324
+Malick Mbaye,Metz,0,0,0,0.0,0.0,0.0,5,2324
+Jean N'Guessan,Metz,0,0,0,0.0,0.0,0.0,6,2324
+Aboubacar Lô,Metz,0,0,0,0.0,0.0,0.0,6,2324
+Sadibou Sané,Metz,0,0,0,0.0,0.0,0.0,14,2324
+Ignacio Miramón,Lille,0,0,0,0.0,0.0,0.0,2,2324
+Diego Moreira,Lyon,0,0,0,0.0,0.0,0.0,7,2324
+Mathis Lambourde,Rennes,0,0,0,0.0,0.0,0.0,1,2324
+Joseph N'Duquidi,Metz,0,0,0,0.0,0.0,0.0,13,2324
+Joel Mvuka,Lorient,0,0,0,0.0,0.0,0.0,7,2324
+Adson,Nantes,0,0,0,0.0,0.0,0.0,8,2324
+Aliou Balde,Nice,0,0,0,0.0,0.0,0.0,7,2324
+Ethan Mbappé,Paris Saint Germain,0,0,0,0.0,0.0,0.0,3,2324
+Óscar Estupiñán,Metz,0,0,0,0.0,0.0,0.0,6,2324
+Antonin Cartillier,Monaco,0,0,0,0.0,0.0,0.0,1,2324
+Noam Mayoka-Tika,Marseille,0,0,0,0.0,0.0,0.0,1,2324
+Yanis Issoufou,Montpellier,0,0,0,0.0,0.0,0.0,1,2324
+Steven Baseya,Strasbourg,0,0,0,0.0,0.0,0.0,2,2324
+Mahamadou Diawara,Lyon,0,0,0,0.0,0.0,0.0,11,2324
+Bassirou N'Diaye,Lorient,0,0,0,0.0,0.0,0.0,5,2324
+Mahamadou Nagida,Rennes,0,0,0,0.0,0.0,0.0,3,2324
+Ayyoub Bouaddi,Lille,0,0,0,0.0,0.0,0.0,9,2324
+Amadou Koné,Reims,0,0,0,0.0,0.0,0.0,16,2324
+Adama Bojang,Reims,0,0,0,0.0,0.0,0.0,9,2324
+Abdellah Baallal,Clermont Foot,0,0,0,0.0,0.0,0.0,1,2324
+Luc Zogbe,Brest,0,0,0,0.0,0.0,0.0,1,2324
+Saïmon Bouabré,Monaco,0,0,0,0.0,0.0,0.0,1,2324
+Daouda Traoré,Nice,0,0,0,0.0,0.0,0.0,1,2324
+Mamadou Coulibaly,Monaco,0,0,0,0.0,0.0,0.0,5,2324
+Mohamed Bechikh,Strasbourg,0,0,0,0.0,0.0,0.0,2,2324
+Royce Openda,Lorient,0,0,0,0.0,0.0,0.0,1,2324
+Gino Caoki,Lorient,0,0,0,0.0,0.0,0.0,1,2324
+Hugo Boutsingkham,Nantes,0,0,0,0.0,0.0,0.0,2,2324
+Adryelson,Lyon,0,0,0,0.0,0.0,0.0,2,2324
+Jhoanner Chávez,Lens,0,0,0,0.0,0.0,0.0,8,2324
+Chaïm El Djebali,Lyon,0,0,0,0.0,0.0,0.0,1,2324
+Sofiane Sidi Ali,Marseille,0,0,0,0.0,0.0,0.0,2,2324
+Lucas Michal,Monaco,0,0,0,0.0,0.0,0.0,1,2324
+Nathaniel Adjei,Lorient,0,0,0,0.0,0.0,0.0,15,2324
+Mohamed-Amine Bouchenna,Clermont Foot,0,0,0,0.0,0.0,0.0,2,2324
+Adel Mahamoud,Nantes,0,0,0,0.0,0.0,0.0,1,2324
+Enzo Mongo,Nantes,0,0,0,0.0,0.0,0.0,1,2324
+Tiago Morais,Lille,0,0,0,0.0,0.0,0.0,3,2324
+Andrej Ilic,Lille,0,0,0,0.0,0.0,0.0,2,2324
+Simon Ebonog,Le Havre,0,0,0,0.0,0.0,0.0,4,2324
+Djaoui Cissé,Rennes,0,0,0,0.0,0.0,0.0,2,2324
+Christ Mbondi,Reims,0,0,0,0.0,0.0,0.0,1,2324
+Ivan M'Bahia,Clermont Foot,0,0,0,0.0,0.0,0.0,1,2324
+Raimane Daou,Marseille,0,0,0,0.0,0.0,0.0,1,2324
+Keyliane Abdallah,Marseille,0,0,0,0.0,0.0,0.0,1,2324
+Ilhan Fakili,Clermont Foot,0,0,0,0.0,0.0,0.0,3,2324
+Abdoul Koné,Reims,0,0,0,0.0,0.0,0.0,3,2324
+Vignon Ouotro,Strasbourg,0,0,0,0.0,0.0,0.0,1,2324

@@ -1,0 +1,517 @@
+player,team,goals,assists,contributions,contribution_pct,goals_pct,assists_pct,games,season
+Harry Kane,Tottenham,23,14,37,54.4,33.8,20.6,35,2021
+Matheus Pereira,West Bromwich Albion,11,6,17,48.6,31.4,17.1,33,2021
+Chris Wood,Burnley,12,3,15,45.5,36.4,9.1,33,2021
+David McGoldrick,Sheffield United,8,1,9,45.0,40.0,5.0,35,2021
+Bruno Fernandes,Manchester United,18,12,30,41.1,24.7,16.4,37,2021
+Mohamed Salah,Liverpool,22,5,27,39.7,32.4,7.4,37,2021
+Son Heung-Min,Tottenham,17,10,27,39.7,25.0,14.7,37,2021
+Patrick Bamford,Leeds,17,7,24,38.7,27.4,11.3,38,2021
+Callum Wilson,Newcastle United,12,5,17,37.0,26.1,10.9,26,2021
+Jamie Vardy,Leicester,15,9,24,35.3,22.1,13.2,34,2021
+Ollie Watkins,Aston Villa,14,5,19,34.5,25.5,9.1,37,2021
+Dominic Calvert-Lewin,Everton,16,0,16,34.0,34.0,0.0,33,2021
+Danny Ings,Southampton,12,4,16,34.0,25.5,8.5,29,2021
+James Ward-Prowse,Southampton,8,7,15,31.9,17.0,14.9,38,2021
+Wilfried Zaha,Crystal Palace,11,2,13,31.7,26.8,4.9,30,2021
+Pedro Neto,Wolverhampton Wanderers,5,6,11,30.6,13.9,16.7,31,2021
+Che Adams,Southampton,9,5,14,29.8,19.1,10.6,36,2021
+Ademola Lookman,Fulham,4,4,8,29.6,14.8,14.8,34,2021
+Jack Grealish,Aston Villa,6,10,16,29.1,10.9,18.2,26,2021
+Pascal Groß,Brighton,3,8,11,27.5,7.5,20.0,34,2021
+Marcus Rashford,Manchester United,11,9,20,27.4,15.1,12.3,37,2021
+Alexandre Lacazette,Arsenal,13,2,15,27.3,23.6,3.6,31,2021
+Christian Benteke,Crystal Palace,10,1,11,26.8,24.4,2.4,30,2021
+Sadio Mané,Liverpool,11,7,18,26.5,16.2,10.3,35,2021
+Bobby Reid,Fulham,5,2,7,25.9,18.5,7.4,33,2021
+Jack Harrison,Leeds,8,8,16,25.8,12.9,12.9,36,2021
+Neal Maupay,Brighton,8,2,10,25.0,20.0,5.0,33,2021
+Leandro Trossard,Brighton,5,5,10,25.0,12.5,12.5,35,2021
+Eberechi Eze,Crystal Palace,4,6,10,24.4,9.8,14.6,34,2021
+Michail Antonio,West Ham,10,5,15,24.2,16.1,8.1,26,2021
+Raphinha,Leeds,6,9,15,24.2,9.7,14.5,30,2021
+Timo Werner,Chelsea,6,8,14,24.1,10.3,13.8,35,2021
+Pierre-Emerick Aubameyang,Arsenal,10,3,13,23.6,18.2,5.5,29,2021
+Bertrand Traoré,Aston Villa,7,6,13,23.6,12.7,10.9,36,2021
+Roberto Firmino,Liverpool,9,7,16,23.5,13.2,10.3,36,2021
+Gylfi Sigurdsson,Everton,6,5,11,23.4,12.8,10.6,36,2021
+Aleksandar Mitrovic,Fulham,3,3,6,22.2,11.1,11.1,27,2021
+Kevin De Bruyne,Manchester City,6,12,18,21.7,7.2,14.5,25,2021
+Richarlison,Everton,7,3,10,21.3,14.9,6.4,34,2021
+James Rodríguez,Everton,6,4,10,21.3,12.8,8.5,23,2021
+Dwight McNeil,Burnley,2,5,7,21.2,6.1,15.2,36,2021
+Jesse Lingard,West Ham,9,4,13,21.0,14.5,6.5,16,2021
+Jarrod Bowen,West Ham,8,5,13,21.0,12.9,8.1,38,2021
+Kelechi Iheanacho,Leicester,12,2,14,20.6,17.6,2.9,25,2021
+Raheem Sterling,Manchester City,10,7,17,20.5,12.0,8.4,31,2021
+Nicolas Pepe,Arsenal,10,1,11,20.0,18.2,1.8,29,2021
+Fabio Silva,Wolverhampton Wanderers,4,3,7,19.4,11.1,8.3,32,2021
+Gareth Bale,Tottenham,11,2,13,19.1,16.2,2.9,20,2021
+Harvey Barnes,Leicester,9,4,13,19.1,13.2,5.9,25,2021
+James Maddison,Leicester,8,5,13,19.1,11.8,7.4,31,2021
+Stuart Armstrong,Southampton,4,5,9,19.1,8.5,10.6,33,2021
+Mason Mount,Chelsea,6,5,11,19.0,10.3,8.6,36,2021
+Anwar El Ghazi,Aston Villa,10,0,10,18.2,18.2,0.0,28,2021
+Ashley Westwood,Burnley,3,3,6,18.2,9.1,9.1,38,2021
+Ilkay Gündogan,Manchester City,13,2,15,18.1,15.7,2.4,28,2021
+Riyad Mahrez,Manchester City,9,6,15,18.1,10.8,7.2,27,2021
+Edinson Cavani,Manchester United,10,3,13,17.8,13.7,4.1,26,2021
+Tomas Soucek,West Ham,10,1,11,17.7,16.1,1.6,38,2021
+Danny Welbeck,Brighton,6,1,7,17.5,15.0,2.5,24,2021
+Phil Foden,Manchester City,9,5,14,16.9,10.8,6.0,28,2021
+Rúben Neves,Wolverhampton Wanderers,5,1,6,16.7,13.9,2.8,36,2021
+Stuart Dallas,Leeds,8,2,10,16.1,12.9,3.2,38,2021
+Gabriel Jesus,Manchester City,9,4,13,15.7,10.8,4.8,29,2021
+Allan Saint-Maximin,Newcastle United,3,4,7,15.2,6.5,8.7,25,2021
+Matej Vydra,Burnley,3,2,5,15.2,9.1,6.1,28,2021
+Billy Sharp,Sheffield United,3,0,3,15.0,15.0,0.0,16,2021
+Lucas Digne,Everton,0,7,7,14.9,0.0,14.9,30,2021
+Youri Tielemans,Leicester,6,4,10,14.7,8.8,5.9,38,2021
+Andros Townsend,Crystal Palace,1,5,6,14.6,2.4,12.2,34,2021
+Rodrigo,Leeds,7,2,9,14.5,11.3,3.2,26,2021
+Pablo Fornals,West Ham,5,4,9,14.5,8.1,6.5,33,2021
+Bukayo Saka,Arsenal,5,3,8,14.5,9.1,5.5,32,2021
+Mateusz Klich,Leeds,4,5,9,14.5,6.5,8.1,35,2021
+John McGinn,Aston Villa,3,5,8,14.5,5.5,9.1,37,2021
+Callum Robinson,West Bromwich Albion,5,0,5,14.3,14.3,0.0,28,2021
+Mbaye Diagne,West Bromwich Albion,3,2,5,14.3,8.6,5.7,16,2021
+Daniel Podence,Wolverhampton Wanderers,3,2,5,13.9,8.3,5.6,24,2021
+Jorginho,Chelsea,7,1,8,13.8,12.1,1.7,28,2021
+Ben Chilwell,Chelsea,3,5,8,13.8,5.2,8.6,27,2021
+Diogo Jota,Liverpool,9,0,9,13.2,13.2,0.0,19,2021
+Trent Alexander-Arnold,Liverpool,2,7,9,13.2,2.9,10.3,36,2021
+Joelinton,Newcastle United,4,2,6,13.0,8.7,4.3,31,2021
+Aaron Cresswell,West Ham,0,8,8,12.9,0.0,12.9,36,2021
+Lewis Dunk,Brighton,5,0,5,12.5,12.5,0.0,33,2021
+Mason Greenwood,Manchester United,7,2,9,12.3,9.6,2.7,31,2021
+Jeffrey Schlupp,Crystal Palace,2,3,5,12.2,4.9,7.3,27,2021
+Tammy Abraham,Chelsea,6,1,7,12.1,10.3,1.7,22,2021
+Kai Havertz,Chelsea,4,3,7,12.1,6.9,5.2,27,2021
+Andrew Robertson,Liverpool,1,7,8,11.8,1.5,10.3,38,2021
+Kyle Bartley,West Bromwich Albion,3,1,4,11.4,8.6,2.9,30,2021
+Conor Gallagher,West Bromwich Albion,2,2,4,11.4,5.7,5.7,30,2021
+Darnell Furlong,West Bromwich Albion,1,3,4,11.4,2.9,8.6,35,2021
+Said Benrahma,West Ham,1,6,7,11.3,1.6,9.7,30,2021
+Vladimir Coufal,West Ham,0,7,7,11.3,0.0,11.3,34,2021
+Raúl Jiménez,Wolverhampton Wanderers,4,0,4,11.1,11.1,0.0,10,2021
+Ivan Cavaleiro,Fulham,3,0,3,11.1,11.1,0.0,36,2021
+Josh Maja,Fulham,3,0,3,11.1,11.1,0.0,15,2021
+Ola Aina,Fulham,2,1,3,11.1,7.4,3.7,31,2021
+Adama Traoré,Wolverhampton Wanderers,2,2,4,11.1,5.6,5.6,37,2021
+Franck Zambo,Fulham,0,3,3,11.1,0.0,11.1,36,2021
+Miguel Almirón,Newcastle United,4,1,5,10.9,8.7,2.2,34,2021
+Jacob Murphy,Newcastle United,2,3,5,10.9,4.3,6.5,26,2021
+Emile Smith-Rowe,Arsenal,2,4,6,10.9,3.6,7.3,20,2021
+Willian,Arsenal,1,5,6,10.9,1.8,9.1,25,2021
+Ferrán Torres,Manchester City,7,2,9,10.8,8.4,2.4,24,2021
+Nathan Redmond,Southampton,2,3,5,10.6,4.3,6.4,29,2021
+Abdoulaye Doucouré,Everton,2,3,5,10.6,4.3,6.4,29,2021
+Christian Pulisic,Chelsea,4,2,6,10.3,6.9,3.4,27,2021
+Lucas Moura,Tottenham,3,4,7,10.3,4.4,5.9,30,2021
+Jayden Bogle,Sheffield United,2,0,2,10.0,10.0,0.0,16,2021
+Oliver Burke,Sheffield United,1,1,2,10.0,5.0,5.0,25,2021
+Sander Berge,Sheffield United,1,1,2,10.0,5.0,5.0,15,2021
+George Baldock,Sheffield United,0,2,2,10.0,0.0,10.0,32,2021
+John Lundstram,Sheffield United,0,2,2,10.0,0.0,10.0,28,2021
+John Fleck,Sheffield United,0,2,2,10.0,0.0,10.0,31,2021
+Jordan Ayew,Crystal Palace,1,3,4,9.8,2.4,7.3,33,2021
+Hélder Costa,Leeds,3,3,6,9.7,4.8,4.8,22,2021
+Anthony Martial,Manchester United,4,3,7,9.6,5.5,4.1,22,2021
+Bernardo Silva,Manchester City,2,6,8,9.6,2.4,7.2,26,2021
+Ashley Barnes,Burnley,3,0,3,9.1,9.1,0.0,22,2021
+Jay Rodriguez,Burnley,1,2,3,9.1,3.0,6.1,31,2021
+Pierre-Emile Højbjerg,Tottenham,2,4,6,8.8,2.9,5.9,38,2021
+Marc Albrighton,Leicester,1,5,6,8.8,1.5,7.4,31,2021
+Jonjo Shelvey,Newcastle United,1,3,4,8.7,2.2,6.5,30,2021
+Kurt Zouma,Chelsea,5,0,5,8.6,8.6,0.0,24,2021
+Matt Phillips,West Bromwich Albion,2,1,3,8.6,5.7,2.9,33,2021
+Callum Hudson-Odoi,Chelsea,2,3,5,8.6,3.4,5.2,23,2021
+Hakim Ziyech,Chelsea,2,3,5,8.6,3.4,5.2,23,2021
+Michael Keane,Everton,3,1,4,8.5,6.4,2.1,35,2021
+Romain Saiss,Wolverhampton Wanderers,3,0,3,8.3,8.3,0.0,27,2021
+Paul Pogba,Manchester United,3,3,6,8.2,4.1,4.1,26,2021
+Aaron Wan-Bissaka,Manchester United,2,4,6,8.2,2.7,5.5,34,2021
+Luke Shaw,Manchester United,1,5,6,8.2,1.4,6.8,32,2021
+Ezgjan Alioski,Leeds,2,3,5,8.1,3.2,4.8,36,2021
+Solly March,Brighton,2,1,3,7.5,5.0,2.5,21,2021
+Aaron Connolly,Brighton,2,1,3,7.5,5.0,2.5,17,2021
+Tanguy NDombele Alvaro,Tottenham,3,2,5,7.4,4.4,2.9,33,2021
+Serge Aurier,Tottenham,2,3,5,7.4,2.9,4.4,19,2021
+Timothy Castagne,Leicester,2,3,5,7.4,2.9,4.4,27,2021
+Wilfred Ndidi,Leicester,1,4,5,7.4,1.5,5.9,26,2021
+Joachim Andersen,Fulham,1,1,2,7.4,3.7,3.7,31,2021
+Tom Cairney,Fulham,1,1,2,7.4,3.7,3.7,10,2021
+Harrison Reed,Fulham,0,2,2,7.4,0.0,7.4,31,2021
+Tyrone Mings,Aston Villa,2,2,4,7.3,3.6,3.6,36,2021
+Michy Batshuayi,Crystal Palace,2,1,3,7.3,4.9,2.4,18,2021
+Kieran Tierney,Arsenal,1,3,4,7.3,1.8,5.5,27,2021
+Olivier Giroud,Chelsea,4,0,4,6.9,6.9,0.0,17,2021
+Scott McTominay,Manchester United,4,1,5,6.8,5.5,1.4,32,2021
+Jeff Hendrick,Newcastle United,2,1,3,6.5,4.3,2.2,22,2021
+Jannik Vestergaard,Southampton,3,0,3,6.4,6.4,0.0,30,2021
+Alex Iwobi,Everton,1,2,3,6.4,2.1,4.3,30,2021
+Seamus Coleman,Everton,0,3,3,6.4,0.0,6.4,25,2021
+Ben Mee,Burnley,2,0,2,6.1,6.1,0.0,30,2021
+Johann Berg Gudmundsson,Burnley,2,0,2,6.1,6.1,0.0,22,2021
+Robbie Brady,Burnley,1,1,2,6.1,3.0,3.0,19,2021
+Matthew Lowton,Burnley,1,1,2,6.1,3.0,3.0,34,2021
+Sergio Agüero,Manchester City,4,1,5,6.0,4.8,1.2,12,2021
+João Cancelo,Manchester City,2,3,5,6.0,2.4,3.6,28,2021
+Jonny Evans,Leicester,2,2,4,5.9,2.9,2.9,28,2021
+Steven Bergwijn,Tottenham,1,3,4,5.9,1.5,4.4,21,2021
+Hal Robson-Kanu,West Bromwich Albion,2,0,2,5.7,5.7,0.0,19,2021
+Semi Ajayi,West Bromwich Albion,2,0,2,5.7,5.7,0.0,33,2021
+Conor Townsend,West Bromwich Albion,0,2,2,5.7,0.0,5.7,25,2021
+João Moutinho,Wolverhampton Wanderers,1,1,2,5.6,2.8,2.8,33,2021
+Nélson Semedo,Wolverhampton Wanderers,1,1,2,5.6,2.8,2.8,34,2021
+Rayan Ait Nouri,Wolverhampton Wanderers,1,1,2,5.6,2.8,2.8,21,2021
+Willy Boly,Wolverhampton Wanderers,1,1,2,5.6,2.8,2.8,21,2021
+Daniel James,Manchester United,3,1,4,5.5,4.1,1.4,15,2021
+Eddie Nketiah,Arsenal,2,1,3,5.5,3.6,1.8,17,2021
+Trézéguet,Aston Villa,2,1,3,5.5,3.6,1.8,21,2021
+Gabriel Martinelli,Arsenal,2,1,3,5.5,3.6,1.8,14,2021
+Granit Xhaka,Arsenal,1,2,3,5.5,1.8,3.6,31,2021
+Héctor Bellerín,Arsenal,1,2,3,5.5,1.8,3.6,25,2021
+Martin Odegaard,Arsenal,1,2,3,5.5,1.8,3.6,14,2021
+Dani Ceballos,Arsenal,0,3,3,5.5,0.0,5.5,25,2021
+César Azpilicueta,Chelsea,1,2,3,5.2,1.7,3.4,26,2021
+Reece James,Chelsea,1,2,3,5.2,1.7,3.4,32,2021
+Adam Lallana,Brighton,1,1,2,5.0,2.5,2.5,30,2021
+Oliver McBurnie,Sheffield United,1,0,1,5.0,5.0,0.0,23,2021
+Ben Osborn,Sheffield United,1,0,1,5.0,5.0,0.0,24,2021
+Tariq Lamptey,Brighton,1,1,2,5.0,2.5,2.5,11,2021
+Alexis Mac Allister,Brighton,1,1,2,5.0,2.5,2.5,21,2021
+Joël Veltman,Brighton,1,1,2,5.0,2.5,2.5,28,2021
+Kean Bryan,Sheffield United,1,0,1,5.0,5.0,0.0,13,2021
+Daniel Jebbison,Sheffield United,1,0,1,5.0,5.0,0.0,4,2021
+John Egan,Sheffield United,0,1,1,5.0,0.0,5.0,31,2021
+Chris Basham,Sheffield United,0,1,1,5.0,0.0,5.0,31,2021
+Enda Stevens,Sheffield United,0,1,1,5.0,0.0,5.0,30,2021
+Jack Robinson,Sheffield United,0,1,1,5.0,0.0,5.0,11,2021
+Jairo Riedewald,Crystal Palace,2,0,2,4.9,4.9,0.0,33,2021
+Gary Cahill,Crystal Palace,1,1,2,4.9,2.4,2.4,20,2021
+Luka Milivojevic,Crystal Palace,1,1,2,4.9,2.4,2.4,31,2021
+Tyrick Mitchell,Crystal Palace,1,1,2,4.9,2.4,2.4,19,2021
+James McArthur,Crystal Palace,0,2,2,4.9,0.0,4.9,18,2021
+John Stones,Manchester City,4,0,4,4.8,4.8,0.0,22,2021
+Angelo Ogbonna,West Ham,3,0,3,4.8,4.8,0.0,28,2021
+Craig Dawson,West Ham,3,0,3,4.8,4.8,0.0,22,2021
+Sébastien Haller,West Ham,3,0,3,4.8,4.8,0.0,16,2021
+Rodri,Manchester City,2,2,4,4.8,2.4,2.4,34,2021
+Declan Rice,West Ham,2,1,3,4.8,3.2,1.6,32,2021
+Tyler Roberts,Leeds,1,2,3,4.8,1.6,3.2,27,2021
+Kalvin Phillips,Leeds,1,2,3,4.8,1.6,3.2,29,2021
+Ayoze Pérez,Leicester,2,1,3,4.4,2.9,1.5,25,2021
+James Justin,Leicester,2,1,3,4.4,2.9,1.5,23,2021
+Joel Matip,Liverpool,1,2,3,4.4,1.5,2.9,10,2021
+Curtis Jones,Liverpool,1,2,3,4.4,1.5,2.9,24,2021
+Sergio Reguilón,Tottenham,0,3,3,4.4,0.0,4.4,27,2021
+Jamaal Lascelles,Newcastle United,2,0,2,4.3,4.3,0.0,19,2021
+Yerry Mina,Everton,2,0,2,4.3,4.3,0.0,24,2021
+Dwight Gayle,Newcastle United,1,1,2,4.3,2.2,2.2,18,2021
+Oriol Romeu,Southampton,1,1,2,4.3,2.1,2.1,21,2021
+Jan Bednarek,Southampton,1,1,2,4.3,2.1,2.1,36,2021
+Nathan Tella,Southampton,1,1,2,4.3,2.1,2.1,18,2021
+Matt Ritchie,Newcastle United,0,2,2,4.3,0.0,4.3,18,2021
+Kyle Walker-Peters,Southampton,0,2,2,4.3,0.0,4.3,30,2021
+Ryan Fraser,Newcastle United,0,2,2,4.3,0.0,4.3,18,2021
+Ben Godfrey,Everton,0,2,2,4.3,0.0,4.3,31,2021
+Harry Maguire,Manchester United,2,1,3,4.1,2.7,1.4,34,2021
+Juan Mata,Manchester United,1,2,3,4.1,1.4,2.7,9,2021
+Mario Lemina,Fulham,1,0,1,3.7,3.7,0.0,28,2021
+Joe Bryan,Fulham,1,0,1,3.7,3.7,0.0,16,2021
+Fabio Carvalho,Fulham,1,0,1,3.7,3.7,0.0,4,2021
+Kenny Tete,Fulham,0,1,1,3.7,0.0,3.7,22,2021
+Benjamin Mendy,Manchester City,2,1,3,3.6,2.4,1.2,13,2021
+Gabriel,Arsenal,2,0,2,3.6,3.6,0.0,23,2021
+Ezri Konsa Ngoyo,Aston Villa,2,0,2,3.6,3.6,0.0,36,2021
+Keinan Davis,Aston Villa,1,1,2,3.6,1.8,1.8,15,2021
+Conor Hourihane,Aston Villa,1,1,2,3.6,1.8,1.8,4,2021
+Calum Chambers,Arsenal,0,2,2,3.6,0.0,3.6,10,2021
+Matt Targett,Aston Villa,0,2,2,3.6,0.0,3.6,38,2021
+Thomas Partey,Arsenal,0,2,2,3.6,0.0,3.6,24,2021
+Douglas Luiz,Aston Villa,0,2,2,3.6,0.0,3.6,33,2021
+Matthew Cash,Aston Villa,0,2,2,3.6,0.0,3.6,28,2021
+Marcos Alonso,Chelsea,2,0,2,3.4,3.4,0.0,13,2021
+Thiago Silva,Chelsea,2,0,2,3.4,3.4,0.0,23,2021
+N'Golo Kanté,Chelsea,0,2,2,3.4,0.0,3.4,30,2021
+Issa Diop,West Ham,2,0,2,3.2,3.2,0.0,18,2021
+Manuel Lanzini,West Ham,1,1,2,3.2,1.6,1.6,17,2021
+Ryan Fredericks,West Ham,1,1,2,3.2,1.6,1.6,14,2021
+Arthur Masuaku,West Ham,0,2,2,3.2,0.0,3.2,12,2021
+Pablo Hernández,Leeds,0,2,2,3.2,0.0,3.2,16,2021
+James Tarkowski,Burnley,1,0,1,3.0,3.0,0.0,36,2021
+Jimmy Dunne,Burnley,1,0,1,3.0,3.0,0.0,3,2021
+Erik Pieters,Burnley,0,1,1,3.0,0.0,3.0,20,2021
+Charlie Taylor,Burnley,0,1,1,3.0,0.0,3.0,29,2021
+Josh Brownhill,Burnley,0,1,1,3.0,0.0,3.0,33,2021
+Georginio Wijnaldum,Liverpool,2,0,2,2.9,2.9,0.0,38,2021
+Jordan Henderson,Liverpool,1,1,2,2.9,1.5,1.5,21,2021
+Alex Oxlade-Chamberlain,Liverpool,1,1,2,2.9,1.5,1.5,13,2021
+Dennis Praet,Leicester,1,1,2,2.9,1.5,1.5,15,2021
+Giovani Lo Celso,Tottenham,1,1,2,2.9,1.5,1.5,18,2021
+Grady Diangana,West Bromwich Albion,1,0,1,2.9,2.9,0.0,20,2021
+Karlan Grant,West Bromwich Albion,1,0,1,2.9,2.9,0.0,21,2021
+Nathaniel Phillips,Liverpool,1,1,2,2.9,1.5,1.5,17,2021
+Xherdan Shaqiri,Liverpool,0,2,2,2.9,0.0,2.9,14,2021
+Sam Johnstone,West Bromwich Albion,0,1,1,2.9,0.0,2.9,37,2021
+Kamil Grosicki,West Bromwich Albion,0,1,1,2.9,0.0,2.9,3,2021
+Cengiz Ünder,Leicester,0,2,2,2.9,0.0,2.9,9,2021
+Matt Doherty,Tottenham,0,2,2,2.9,0.0,2.9,17,2021
+Okay Yokuslu,West Bromwich Albion,0,1,1,2.9,0.0,2.9,16,2021
+Willian José,Wolverhampton Wanderers,1,0,1,2.8,2.8,0.0,17,2021
+Conor Coady,Wolverhampton Wanderers,1,0,1,2.8,2.8,0.0,37,2021
+Morgan Gibbs-White,Wolverhampton Wanderers,1,0,1,2.8,2.8,0.0,11,2021
+Leander Dendoncker,Wolverhampton Wanderers,1,0,1,2.8,2.8,0.0,33,2021
+Max Kilman,Wolverhampton Wanderers,0,1,1,2.8,0.0,2.8,18,2021
+Owen Otasowie,Wolverhampton Wanderers,0,1,1,2.8,0.0,2.8,6,2021
+Vitinha,Wolverhampton Wanderers,0,1,1,2.8,0.0,2.8,19,2021
+Victor Lindelöf,Manchester United,1,1,2,2.7,1.4,1.4,29,2021
+Donny van de Beek,Manchester United,1,1,2,2.7,1.4,1.4,19,2021
+Alex Telles,Manchester United,0,2,2,2.7,0.0,2.7,9,2021
+Yves Bissouma,Brighton,1,0,1,2.5,2.5,0.0,36,2021
+Dan Burn,Brighton,1,0,1,2.5,2.5,0.0,27,2021
+Adam Webster,Brighton,1,0,1,2.5,2.5,0.0,29,2021
+Steven Alzate,Brighton,1,0,1,2.5,2.5,0.0,15,2021
+Alireza Jahanbakhsh,Brighton,0,1,1,2.5,0.0,2.5,21,2021
+Percy Tau,Brighton,0,1,1,2.5,0.0,2.5,3,2021
+Scott Dann,Crystal Palace,1,0,1,2.4,2.4,0.0,15,2021
+Cheikhou Kouyaté,Crystal Palace,1,0,1,2.4,2.4,0.0,36,2021
+Kyle Walker,Manchester City,1,1,2,2.4,1.2,1.2,24,2021
+Jean-Philippe Mateta,Crystal Palace,1,0,1,2.4,2.4,0.0,7,2021
+Joel Ward,Crystal Palace,0,1,1,2.4,0.0,2.4,26,2021
+Nathaniel Clyne,Crystal Palace,0,1,1,2.4,0.0,2.4,13,2021
+Fernandinho,Manchester City,0,2,2,2.4,0.0,2.4,21,2021
+Patrick van Aanholt,Crystal Palace,0,1,1,2.4,0.0,2.4,22,2021
+Fabian Schär,Newcastle United,1,0,1,2.2,2.2,0.0,18,2021
+Andy Carroll,Newcastle United,1,0,1,2.2,2.2,0.0,18,2021
+Paul Dummett,Newcastle United,1,0,1,2.2,2.2,0.0,15,2021
+Ciaran Clark,Newcastle United,1,0,1,2.2,2.2,0.0,22,2021
+Emil Krafth,Newcastle United,1,0,1,2.2,2.2,0.0,16,2021
+Sean Longstaff,Newcastle United,0,1,1,2.2,0.0,2.2,22,2021
+Jamal Lewis,Newcastle United,0,1,1,2.2,0.0,2.2,24,2021
+Mason Holgate,Everton,1,0,1,2.1,2.1,0.0,28,2021
+Bernard,Everton,1,0,1,2.1,2.1,0.0,12,2021
+Moussa Djenepo,Southampton,1,0,1,2.1,2.1,0.0,27,2021
+Ryan Bertrand,Southampton,0,1,1,2.1,0.0,2.1,29,2021
+Tom Davies,Everton,0,1,1,2.1,0.0,2.1,25,2021
+André Gomes,Everton,0,1,1,2.1,0.0,2.1,28,2021
+Mohamed Elneny,Arsenal,1,0,1,1.8,1.8,0.0,23,2021
+David Luiz,Arsenal,1,0,1,1.8,1.8,0.0,20,2021
+Kortney Hause,Aston Villa,1,0,1,1.8,1.8,0.0,7,2021
+Cédric Soares,Arsenal,0,1,1,1.8,0.0,1.8,10,2021
+Rob Holding,Arsenal,0,1,1,1.8,0.0,1.8,30,2021
+Antonio Rüdiger,Chelsea,1,0,1,1.7,1.7,0.0,19,2021
+Mateo Kovacic,Chelsea,0,1,1,1.7,0.0,1.7,27,2021
+Diego Llorente,Leeds,1,0,1,1.6,1.6,0.0,15,2021
+Ben Johnson,West Ham,1,0,1,1.6,1.6,0.0,14,2021
+Fabián Balbuena,West Ham,1,0,1,1.6,1.6,0.0,14,2021
+Pascal Struijk,Leeds,1,0,1,1.6,1.6,0.0,27,2021
+Liam Cooper,Leeds,1,0,1,1.6,1.6,0.0,25,2021
+Andriy Yarmolenko,West Ham,0,1,1,1.6,0.0,1.6,15,2021
+Thiago Alcántara,Liverpool,1,0,1,1.5,1.5,0.0,24,2021
+Toby Alderweireld,Tottenham,1,0,1,1.5,1.5,0.0,25,2021
+Erik Lamela,Tottenham,1,0,1,1.5,1.5,0.0,23,2021
+Daniel Amartey,Leicester,1,0,1,1.5,1.5,0.0,12,2021
+Virgil van Dijk,Liverpool,1,0,1,1.5,1.5,0.0,5,2021
+Alisson,Liverpool,1,0,1,1.5,1.5,0.0,33,2021
+Caglar Söyüncü,Leicester,1,0,1,1.5,1.5,0.0,23,2021
+Carlos Vinicius,Tottenham,1,0,1,1.5,1.5,0.0,9,2021
+Luke Thomas,Leicester,1,0,1,1.5,1.5,0.0,14,2021
+James Milner,Liverpool,0,1,1,1.5,0.0,1.5,26,2021
+Dele Alli,Tottenham,0,1,1,1.5,0.0,1.5,15,2021
+Ben Davies,Tottenham,0,1,1,1.5,0.0,1.5,20,2021
+Nampalys Mendy,Leicester,0,1,1,1.5,0.0,1.5,23,2021
+Ricardo Pereira,Leicester,0,1,1,1.5,0.0,1.5,15,2021
+Fred,Manchester United,1,0,1,1.4,1.4,0.0,30,2021
+Anthony Elanga,Manchester United,1,0,1,1.4,1.4,0.0,2,2021
+Amad Diallo Traore,Manchester United,0,1,1,1.4,0.0,1.4,3,2021
+Nathan Aké,Manchester City,1,0,1,1.2,1.2,0.0,10,2021
+Rúben Dias,Manchester City,1,0,1,1.2,1.2,0.0,32,2021
+Ederson,Manchester City,0,1,1,1.2,0.0,1.2,36,2021
+Bernd Leno,Arsenal,0,0,0,0.0,0.0,0.0,35,2021
+Andreas Christensen,Chelsea,0,0,0,0.0,0.0,0.0,17,2021
+Sead Kolasinac,Arsenal,0,0,0,0.0,0.0,0.0,1,2021
+Joshua King,Everton,0,0,0,0.0,0.0,0.0,11,2021
+Divock Origi,Liverpool,0,0,0,0.0,0.0,0.0,9,2021
+Mamadou Sakho,Crystal Palace,0,0,0,0.0,0.0,0.0,4,2021
+Martin Kelly,Crystal Palace,0,0,0,0.0,0.0,0.0,1,2021
+Adrián,Liverpool,0,0,0,0.0,0.0,0.0,3,2021
+James Tomkins,Crystal Palace,0,0,0,0.0,0.0,0.0,8,2021
+Mark Noble,West Ham,0,0,0,0.0,0.0,0.0,21,2021
+Darren Randolph,West Ham,0,0,0,0.0,0.0,0.0,3,2021
+Kieran Gibbs,West Bromwich Albion,0,0,0,0.0,0.0,0.0,10,2021
+David de Gea,Manchester United,0,0,0,0.0,0.0,0.0,26,2021
+Timothy Fosu-Mensah,Manchester United,0,0,0,0.0,0.0,0.0,1,2021
+Odion Ighalo,Manchester United,0,0,0,0.0,0.0,0.0,1,2021
+Phil Jagielka,Sheffield United,0,0,0,0.0,0.0,0.0,10,2021
+James McCarthy,Crystal Palace,0,0,0,0.0,0.0,0.0,16,2021
+Willy Caballero,Chelsea,0,0,0,0.0,0.0,0.0,1,2021
+Alex McCarthy,Southampton,0,0,0,0.0,0.0,0.0,30,2021
+Hugo Lloris,Tottenham,0,0,0,0.0,0.0,0.0,38,2021
+Eric Dier,Tottenham,0,0,0,0.0,0.0,0.0,28,2021
+Josh Onomah,Fulham,0,0,0,0.0,0.0,0.0,11,2021
+Branislav Ivanovic,West Bromwich Albion,0,0,0,0.0,0.0,0.0,13,2021
+Nemanja Matic,Manchester United,0,0,0,0.0,0.0,0.0,20,2021
+Fikayo Tomori,Chelsea,0,0,0,0.0,0.0,0.0,1,2021
+Lukasz Fabianski,West Ham,0,0,0,0.0,0.0,0.0,35,2021
+Federico Fernández,Newcastle United,0,0,0,0.0,0.0,0.0,24,2021
+Neil Taylor,Aston Villa,0,0,0,0.0,0.0,0.0,1,2021
+Jack Cork,Burnley,0,0,0,0.0,0.0,0.0,16,2021
+DeAndre Yedlin,Newcastle United,0,0,0,0.0,0.0,0.0,6,2021
+Jordan Pickford,Everton,0,0,0,0.0,0.0,0.0,31,2021
+Kasper Schmeichel,Leicester,0,0,0,0.0,0.0,0.0,38,2021
+Wes Morgan,Leicester,0,0,0,0.0,0.0,0.0,3,2021
+Christian Fuchs,Leicester,0,0,0,0.0,0.0,0.0,9,2021
+Demarai Gray,Leicester,0,0,0,0.0,0.0,0.0,1,2021
+Moussa Sissoko,Tottenham,0,0,0,0.0,0.0,0.0,25,2021
+Karl Darlow,Newcastle United,0,0,0,0.0,0.0,0.0,25,2021
+John Ruddy,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,2,2021
+Fraser Forster,Southampton,0,0,0,0.0,0.0,0.0,8,2021
+Shane Long,Southampton,0,0,0,0.0,0.0,0.0,11,2021
+Charlie Austin,West Bromwich Albion,0,0,0,0.0,0.0,0.0,5,2021
+Jack Butland,Crystal Palace,0,0,0,0.0,0.0,0.0,1,2021
+Phil Bardsley,Burnley,0,0,0,0.0,0.0,0.0,4,2021
+Fabian Delph,Everton,0,0,0,0.0,0.0,0.0,8,2021
+Axel Tuanzebe,Manchester United,0,0,0,0.0,0.0,0.0,9,2021
+Harry Winks,Tottenham,0,0,0,0.0,0.0,0.0,15,2021
+Joseph Gomez,Liverpool,0,0,0,0.0,0.0,0.0,7,2021
+Sam Field,West Bromwich Albion,0,0,0,0.0,0.0,0.0,3,2021
+Jonjoe Kenny,Everton,0,0,0,0.0,0.0,0.0,4,2021
+Felipe Anderson,West Ham,0,0,0,0.0,0.0,0.0,2,2021
+Emerson,Chelsea,0,0,0,0.0,0.0,0.0,2,2021
+Moise Kean,Everton,0,0,0,0.0,0.0,0.0,2,2021
+Allan,Everton,0,0,0,0.0,0.0,0.0,24,2021
+Islam Slimani,Leicester,0,0,0,0.0,0.0,0.0,1,2021
+Ahmed Elmohamady,Aston Villa,0,0,0,0.0,0.0,0.0,14,2021
+Jake Livermore,West Bromwich Albion,0,0,0,0.0,0.0,0.0,18,2021
+Shkodran Mustafi,Arsenal,0,0,0,0.0,0.0,0.0,3,2021
+Javier Manquillo,Newcastle United,0,0,0,0.0,0.0,0.0,13,2021
+Jack Stephens,Southampton,0,0,0,0.0,0.0,0.0,18,2021
+Eric Bailly,Manchester United,0,0,0,0.0,0.0,0.0,12,2021
+Kevin Long,Burnley,0,0,0,0.0,0.0,0.0,8,2021
+Lys Mousset,Sheffield United,0,0,0,0.0,0.0,0.0,11,2021
+Vicente Guaita,Crystal Palace,0,0,0,0.0,0.0,0.0,37,2021
+Kiko Casilla,Leeds,0,0,0,0.0,0.0,0.0,3,2021
+Jonny,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,7,2021
+Alphonse Areola,Fulham,0,0,0,0.0,0.0,0.0,36,2021
+Aymeric Laporte,Manchester City,0,0,0,0.0,0.0,0.0,16,2021
+Oleksandr Zinchenko,Manchester City,0,0,0,0.0,0.0,0.0,20,2021
+Maxime Le Marchand,Fulham,0,0,0,0.0,0.0,0.0,2,2021
+Fabinho,Liverpool,0,0,0,0.0,0.0,0.0,30,2021
+Morgan Sanson,Aston Villa,0,0,0,0.0,0.0,0.0,9,2021
+Ahmed Hegazy,West Bromwich Albion,0,0,0,0.0,0.0,0.0,1,2021
+Emiliano Martinez,Aston Villa,0,0,0,0.0,0.0,0.0,38,2021
+Jean-Philippe Gbamin,Everton,0,0,0,0.0,0.0,0.0,1,2021
+Aboubakar Kamara,Fulham,0,0,0,0.0,0.0,0.0,11,2021
+Patrick Cutrone,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,2,2021
+Kepa,Chelsea,0,0,0,0.0,0.0,0.0,7,2021
+Bernardo,Brighton,0,0,0,0.0,0.0,0.0,3,2021
+Naby Keita,Liverpool,0,0,0,0.0,0.0,0.0,10,2021
+Michael Hector,Fulham,0,0,0,0.0,0.0,0.0,4,2021
+Nick Pope,Burnley,0,0,0,0.0,0.0,0.0,32,2021
+Rekeem Harper,West Bromwich Albion,0,0,0,0.0,0.0,0.0,2,2021
+Rhian Brewster,Sheffield United,0,0,0,0.0,0.0,0.0,27,2021
+Tosin Adarabioyo,Fulham,0,0,0,0.0,0.0,0.0,33,2021
+Aaron Ramsdale,Sheffield United,0,0,0,0.0,0.0,0.0,38,2021
+Fernando Marçal,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,13,2021
+Davy Pröpper,Brighton,0,0,0,0.0,0.0,0.0,7,2021
+Dale Stephens,Burnley,0,0,0,0.0,0.0,0.0,7,2021
+Isaac Hayden,Newcastle United,0,0,0,0.0,0.0,0.0,24,2021
+Terence Kongolo,Fulham,0,0,0,0.0,0.0,0.0,1,2021
+José Izquierdo,Brighton,0,0,0,0.0,0.0,0.0,1,2021
+Davinson Sánchez,Tottenham,0,0,0,0.0,0.0,0.0,18,2021
+Robin Koch,Leeds,0,0,0,0.0,0.0,0.0,17,2021
+Jayson Molumby,Brighton,0,0,0,0.0,0.0,0.0,1,2021
+Ethan Ampadu,Sheffield United,0,0,0,0.0,0.0,0.0,25,2021
+Joe Rodon,Tottenham,0,0,0,0.0,0.0,0.0,12,2021
+Hamza Choudhury,Leicester,0,0,0,0.0,0.0,0.0,10,2021
+Cenk Tosun,Everton,0,0,0,0.0,0.0,0.0,5,2021
+Reiss Nelson,Arsenal,0,0,0,0.0,0.0,0.0,2,2021
+Michael Obafemi,Southampton,0,0,0,0.0,0.0,0.0,4,2021
+Martin Dubravka,Newcastle United,0,0,0,0.0,0.0,0.0,13,2021
+Ibrahima Diallo,Southampton,0,0,0,0.0,0.0,0.0,22,2021
+Lee Peltier,West Bromwich Albion,0,0,0,0.0,0.0,0.0,4,2021
+Neeskens Kebano,Fulham,0,0,0,0.0,0.0,0.0,5,2021
+David Button,West Bromwich Albion,0,0,0,0.0,0.0,0.0,1,2021
+Rui Patrício,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,37,2021
+Rúben Vinagre,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,2,2021
+Rúnar Alex Rúnarsson,Arsenal,0,0,0,0.0,0.0,0.0,1,2021
+Edouard Mendy,Chelsea,0,0,0,0.0,0.0,0.0,31,2021
+Mohammed Salisu,Southampton,0,0,0,0.0,0.0,0.0,12,2021
+Robin Olsen,Everton,0,0,0,0.0,0.0,0.0,7,2021
+Denis Odoi,Fulham,0,0,0,0.0,0.0,0.0,3,2021
+Tim Ream,Fulham,0,0,0,0.0,0.0,0.0,7,2021
+Yan Valery,Southampton,0,0,0,0.0,0.0,0.0,3,2021
+Ben White,Brighton,0,0,0,0.0,0.0,0.0,36,2021
+Kayne Ramsay,Southampton,0,0,0,0.0,0.0,0.0,1,2021
+Ozan Kabak,Liverpool,0,0,0,0.0,0.0,0.0,9,2021
+Josh Benson,Burnley,0,0,0,0.0,0.0,0.0,6,2021
+Will Norris,Burnley,0,0,0,0.0,0.0,0.0,2,2021
+Wesley Fofana,Leicester,0,0,0,0.0,0.0,0.0,28,2021
+Dean Henderson,Manchester United,0,0,0,0.0,0.0,0.0,13,2021
+Jack O'Connell,Sheffield United,0,0,0,0.0,0.0,0.0,2,2021
+Oliver Norwood,Sheffield United,0,0,0,0.0,0.0,0.0,32,2021
+Wesley,Aston Villa,0,0,0,0.0,0.0,0.0,3,2021
+Zack Steffen,Manchester City,0,0,0,0.0,0.0,0.0,1,2021
+Caoimhin Kelleher,Liverpool,0,0,0,0.0,0.0,0.0,2,2021
+Daniel N'Lundulu,Southampton,0,0,0,0.0,0.0,0.0,13,2021
+Billy Gilmour,Chelsea,0,0,0,0.0,0.0,0.0,5,2021
+Matthew Longstaff,Newcastle United,0,0,0,0.0,0.0,0.0,5,2021
+Marvelous Nakamba,Aston Villa,0,0,0,0.0,0.0,0.0,13,2021
+Eric Garcia,Manchester City,0,0,0,0.0,0.0,0.0,6,2021
+Brandon Williams,Manchester United,0,0,0,0.0,0.0,0.0,4,2021
+Niels Nkounkou,Everton,0,0,0,0.0,0.0,0.0,2,2021
+Anthony Gordon,Everton,0,0,0,0.0,0.0,0.0,3,2021
+Scott Carson,Manchester City,0,0,0,0.0,0.0,0.0,1,2021
+Neco Williams,Liverpool,0,0,0,0.0,0.0,0.0,6,2021
+Japhet Tanganga,Tottenham,0,0,0,0.0,0.0,0.0,6,2021
+William Smallbone,Southampton,0,0,0,0.0,0.0,0.0,3,2021
+Oskar Buur,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,1,2021
+Ki-Jana Hoever,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,12,2021
+João Virgínia,Everton,0,0,0,0.0,0.0,0.0,1,2021
+Pablo Marí,Arsenal,0,0,0,0.0,0.0,0.0,10,2021
+Bailey Peacock-Farrell,Burnley,0,0,0,0.0,0.0,0.0,4,2021
+Jake Vokins,Southampton,0,0,0,0.0,0.0,0.0,1,2021
+Alexandre Jankewitz,Southampton,0,0,0,0.0,0.0,0.0,2,2021
+Joel Mumbongo,Burnley,0,0,0,0.0,0.0,0.0,4,2021
+Marek Rodák,Fulham,0,0,0,0.0,0.0,0.0,2,2021
+Illan Meslier,Leeds,0,0,0,0.0,0.0,0.0,35,2021
+Luke Ayling,Leeds,0,0,0,0.0,0.0,0.0,38,2021
+Jamie Shackleton,Leeds,0,0,0,0.0,0.0,0.0,13,2021
+Ian Poveda-Ocampo,Leeds,0,0,0,0.0,0.0,0.0,14,2021
+Dara O'Shea,West Bromwich Albion,0,0,0,0.0,0.0,0.0,28,2021
+Romaine Sawyers,West Bromwich Albion,0,0,0,0.0,0.0,0.0,19,2021
+Kyle Edwards,West Bromwich Albion,0,0,0,0.0,0.0,0.0,5,2021
+Konstantinos Tsimikas,Liverpool,0,0,0,0.0,0.0,0.0,2,2021
+Liam Delap,Manchester City,0,0,0,0.0,0.0,0.0,1,2021
+Max Lowe,Sheffield United,0,0,0,0.0,0.0,0.0,8,2021
+Leif Davis,Leeds,0,0,0,0.0,0.0,0.0,2,2021
+Antonee Robinson,Fulham,0,0,0,0.0,0.0,0.0,28,2021
+Jacob Ramsey,Aston Villa,0,0,0,0.0,0.0,0.0,22,2021
+Filip Krovinovic,West Bromwich Albion,0,0,0,0.0,0.0,0.0,11,2021
+Lewis Richardson,Burnley,0,0,0,0.0,0.0,0.0,2,2021
+Rhys Williams,Liverpool,0,0,0,0.0,0.0,0.0,9,2021
+Robert Sánchez,Brighton,0,0,0,0.0,0.0,0.0,27,2021
+Andi Zeqiri,Brighton,0,0,0,0.0,0.0,0.0,9,2021
+Elliot Anderson,Newcastle United,0,0,0,0.0,0.0,0.0,1,2021
+Theo Corbeanu,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,1,2021
+Niall Huggins,Leeds,0,0,0,0.0,0.0,0.0,1,2021
+Antwoine Hackford,Sheffield United,0,0,0,0.0,0.0,0.0,1,2021
+Reda Khadra,Brighton,0,0,0,0.0,0.0,0.0,1,2021
+Caleb Watts,Southampton,0,0,0,0.0,0.0,0.0,3,2021
+Allan Tchaptchet,Southampton,0,0,0,0.0,0.0,0.0,1,2021
+Jakub Moder,Brighton,0,0,0,0.0,0.0,0.0,12,2021
+Iliman Ndiaye,Sheffield United,0,0,0,0.0,0.0,0.0,1,2021
+Thakgalo Leshabela,Leicester,0,0,0,0.0,0.0,0.0,1,2021
+Dane Scarlett,Tottenham,0,0,0,0.0,0.0,0.0,1,2021
+Carney Chukwuemeka,Aston Villa,0,0,0,0.0,0.0,0.0,2,2021
+Shola Shoretire,Manchester United,0,0,0,0.0,0.0,0.0,2,2021
+Sidnei Tavares,Leicester,0,0,0,0.0,0.0,0.0,2,2021
+Nathan Broadhead,Everton,0,0,0,0.0,0.0,0.0,1,2021
+Jaden Philogene-Bidace,Aston Villa,0,0,0,0.0,0.0,0.0,1,2021
+Gaetano Berardi,Leeds,0,0,0,0.0,0.0,0.0,2,2021
+Femi Seriki,Sheffield United,0,0,0,0.0,0.0,0.0,1,2021
+Tyrese Francois,Fulham,0,0,0,0.0,0.0,0.0,1,2021
+William Fish,Manchester United,0,0,0,0.0,0.0,0.0,1,2021
+Hannibal Mejbri,Manchester United,0,0,0,0.0,0.0,0.0,1,2021

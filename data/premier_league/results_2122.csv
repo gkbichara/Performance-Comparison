@@ -1,0 +1,545 @@
+Season,Team,Match_Number,Date,Opponent,Venue,Result,FTHG,FTAG,Points_cur,Points_prev,Differential,Cumulative
+2122,Arsenal,1,2021-08-22,Chelsea,H,L,0,2,0,3.0,-3.0,-3.0
+2122,Arsenal,2,2021-08-28,Man City,A,L,5,0,0,0.0,0.0,-3.0
+2122,Arsenal,3,2021-09-18,Burnley,A,W,0,1,3,1.0,2.0,-1.0
+2122,Arsenal,4,2021-09-26,Tottenham,H,W,3,1,3,3.0,0.0,-1.0
+2122,Arsenal,5,2021-10-02,Brighton,A,D,0,0,1,3.0,-2.0,-3.0
+2122,Arsenal,6,2021-10-18,Crystal Palace,H,D,2,2,1,1.0,0.0,-3.0
+2122,Arsenal,7,2021-10-22,Aston Villa,H,W,3,1,3,0.0,3.0,0.0
+2122,Arsenal,8,2021-10-30,Leicester,A,W,0,2,3,3.0,0.0,0.0
+2122,Arsenal,9,2021-11-20,Liverpool,A,L,4,0,0,0.0,0.0,0.0
+2122,Arsenal,10,2021-11-27,Newcastle,H,W,2,0,3,3.0,0.0,0.0
+2122,Arsenal,11,2021-12-02,Man United,A,L,3,2,0,3.0,-3.0,-3.0
+2122,Arsenal,12,2021-12-06,Everton,A,L,2,1,0,0.0,0.0,-3.0
+2122,Arsenal,13,2021-12-11,Southampton,H,W,3,0,3,1.0,2.0,-1.0
+2122,Arsenal,14,2021-12-15,West Ham,H,W,2,0,3,3.0,0.0,-1.0
+2122,Arsenal,15,2021-12-18,Leeds,A,W,1,4,3,1.0,2.0,1.0
+2122,Arsenal,16,2022-01-01,Man City,H,L,1,2,0,0.0,0.0,1.0
+2122,Arsenal,17,2022-01-23,Burnley,H,D,0,0,1,0.0,1.0,2.0
+2122,Arsenal,18,2022-02-10,Wolves,A,W,0,1,3,0.0,3.0,5.0
+2122,Arsenal,19,2022-02-24,Wolves,H,W,2,1,3,0.0,3.0,8.0
+2122,Arsenal,20,2022-03-13,Leicester,H,W,2,0,3,0.0,3.0,11.0
+2122,Arsenal,21,2022-03-16,Liverpool,H,L,0,2,0,0.0,0.0,11.0
+2122,Arsenal,22,2022-03-19,Aston Villa,A,W,0,1,3,0.0,3.0,14.0
+2122,Arsenal,23,2022-04-04,Crystal Palace,A,L,3,0,0,3.0,-3.0,11.0
+2122,Arsenal,24,2022-04-09,Brighton,H,L,1,2,0,3.0,-3.0,8.0
+2122,Arsenal,25,2022-04-16,Southampton,A,L,1,0,0,3.0,-3.0,5.0
+2122,Arsenal,26,2022-04-20,Chelsea,A,W,2,4,3,3.0,0.0,5.0
+2122,Arsenal,27,2022-04-23,Man United,H,W,3,1,3,1.0,2.0,7.0
+2122,Arsenal,28,2022-05-01,West Ham,A,W,1,2,3,1.0,2.0,9.0
+2122,Arsenal,29,2022-05-08,Leeds,H,W,2,1,3,3.0,0.0,9.0
+2122,Arsenal,30,2022-05-12,Tottenham,A,L,3,0,0,0.0,0.0,9.0
+2122,Arsenal,31,2022-05-16,Newcastle,A,L,2,0,0,3.0,-3.0,6.0
+2122,Arsenal,32,2022-05-22,Everton,H,W,5,1,3,0.0,3.0,9.0
+2122,Aston Villa,1,2021-08-21,Newcastle,H,W,2,0,3,3.0,0.0,0.0
+2122,Aston Villa,2,2021-09-11,Chelsea,A,L,3,0,0,1.0,-1.0,-1.0
+2122,Aston Villa,3,2021-09-18,Everton,H,W,3,0,3,1.0,2.0,1.0
+2122,Aston Villa,4,2021-09-25,Man United,A,W,0,1,3,0.0,3.0,4.0
+2122,Aston Villa,5,2021-10-03,Tottenham,A,L,2,1,0,3.0,-3.0,1.0
+2122,Aston Villa,6,2021-10-16,Wolves,H,L,2,3,0,1.0,-1.0,0.0
+2122,Aston Villa,7,2021-10-22,Arsenal,A,L,3,1,0,3.0,-3.0,-3.0
+2122,Aston Villa,8,2021-10-31,West Ham,H,L,1,4,0,0.0,0.0,-3.0
+2122,Aston Villa,9,2021-11-05,Southampton,A,L,1,0,0,3.0,-3.0,-6.0
+2122,Aston Villa,10,2021-11-20,Brighton,H,W,2,0,3,0.0,3.0,-3.0
+2122,Aston Villa,11,2021-11-27,Crystal Palace,A,W,1,2,3,0.0,3.0,0.0
+2122,Aston Villa,12,2021-12-01,Man City,H,L,1,2,0,0.0,0.0,0.0
+2122,Aston Villa,13,2021-12-05,Leicester,H,W,2,1,3,0.0,3.0,3.0
+2122,Aston Villa,14,2021-12-11,Liverpool,A,L,1,0,0,0.0,0.0,3.0
+2122,Aston Villa,15,2021-12-26,Chelsea,H,L,1,3,0,3.0,-3.0,0.0
+2122,Aston Villa,16,2022-01-15,Man United,H,D,2,2,1,0.0,1.0,1.0
+2122,Aston Villa,17,2022-01-22,Everton,A,W,0,1,3,3.0,0.0,1.0
+2122,Aston Villa,18,2022-02-09,Leeds,H,D,3,3,1,0.0,1.0,2.0
+2122,Aston Villa,19,2022-02-13,Newcastle,A,L,1,0,0,1.0,-1.0,1.0
+2122,Aston Villa,20,2022-02-26,Brighton,A,W,0,2,3,1.0,2.0,3.0
+2122,Aston Villa,21,2022-03-05,Southampton,H,W,4,0,3,0.0,3.0,6.0
+2122,Aston Villa,22,2022-03-10,Leeds,A,W,0,3,3,3.0,0.0,6.0
+2122,Aston Villa,23,2022-03-13,West Ham,A,L,2,1,0,0.0,0.0,6.0
+2122,Aston Villa,24,2022-03-19,Arsenal,H,L,0,1,0,3.0,-3.0,3.0
+2122,Aston Villa,25,2022-04-02,Wolves,A,L,2,1,0,3.0,-3.0,0.0
+2122,Aston Villa,26,2022-04-09,Tottenham,H,L,0,4,0,0.0,0.0,0.0
+2122,Aston Villa,27,2022-04-23,Leicester,A,D,0,0,1,3.0,-2.0,-2.0
+2122,Aston Villa,28,2022-05-07,Burnley,A,W,1,3,3,0.0,3.0,1.0
+2122,Aston Villa,29,2022-05-10,Liverpool,H,L,1,2,0,3.0,-3.0,-2.0
+2122,Aston Villa,30,2022-05-15,Crystal Palace,H,D,1,1,1,3.0,-2.0,-4.0
+2122,Aston Villa,31,2022-05-19,Burnley,H,D,1,1,1,1.0,0.0,-4.0
+2122,Aston Villa,32,2022-05-22,Man City,A,L,3,2,0,0.0,0.0,-4.0
+2122,Brighton,1,2021-08-14,Burnley,A,W,1,2,3,1.0,2.0,2.0
+2122,Brighton,2,2021-08-28,Everton,H,L,0,2,0,1.0,-1.0,1.0
+2122,Brighton,3,2021-09-19,Leicester,H,W,2,1,3,0.0,3.0,4.0
+2122,Brighton,4,2021-09-27,Crystal Palace,A,D,1,1,1,1.0,0.0,4.0
+2122,Brighton,5,2021-10-02,Arsenal,H,D,0,0,1,0.0,1.0,5.0
+2122,Brighton,6,2021-10-23,Man City,H,L,1,4,0,3.0,-3.0,2.0
+2122,Brighton,7,2021-10-30,Liverpool,A,D,2,2,1,3.0,-2.0,0.0
+2122,Brighton,8,2021-11-06,Newcastle,H,D,1,1,1,3.0,-2.0,-2.0
+2122,Brighton,9,2021-11-20,Aston Villa,A,L,2,0,0,3.0,-3.0,-5.0
+2122,Brighton,10,2021-11-27,Leeds,H,D,0,0,1,3.0,-2.0,-7.0
+2122,Brighton,11,2021-12-01,West Ham,A,D,1,1,1,1.0,0.0,-7.0
+2122,Brighton,12,2021-12-04,Southampton,A,D,1,1,1,3.0,-2.0,-9.0
+2122,Brighton,13,2021-12-15,Wolves,H,L,0,1,0,1.0,-1.0,-10.0
+2122,Brighton,14,2021-12-29,Chelsea,A,D,1,1,1,1.0,0.0,-10.0
+2122,Brighton,15,2022-01-02,Everton,A,W,2,3,3,0.0,3.0,-7.0
+2122,Brighton,16,2022-01-14,Crystal Palace,H,D,1,1,1,0.0,1.0,-6.0
+2122,Brighton,17,2022-01-18,Chelsea,H,D,1,1,1,0.0,1.0,-5.0
+2122,Brighton,18,2022-01-23,Leicester,A,D,1,1,1,0.0,1.0,-4.0
+2122,Brighton,19,2022-02-15,Man United,A,L,2,0,0,0.0,0.0,-4.0
+2122,Brighton,20,2022-02-19,Burnley,H,L,0,3,0,1.0,-1.0,-5.0
+2122,Brighton,21,2022-02-26,Aston Villa,H,L,0,2,0,1.0,-1.0,-6.0
+2122,Brighton,22,2022-03-05,Newcastle,A,L,2,1,0,3.0,-3.0,-9.0
+2122,Brighton,23,2022-03-12,Liverpool,H,L,0,2,0,1.0,-1.0,-10.0
+2122,Brighton,24,2022-03-16,Tottenham,H,L,0,2,0,3.0,-3.0,-13.0
+2122,Brighton,25,2022-04-09,Arsenal,A,W,1,2,3,0.0,3.0,-10.0
+2122,Brighton,26,2022-04-16,Tottenham,A,W,0,1,3,0.0,3.0,-7.0
+2122,Brighton,27,2022-04-20,Man City,A,L,3,0,0,0.0,0.0,-7.0
+2122,Brighton,28,2022-04-24,Southampton,H,D,2,2,1,0.0,1.0,-6.0
+2122,Brighton,29,2022-04-30,Wolves,A,W,0,3,3,0.0,3.0,-3.0
+2122,Brighton,30,2022-05-07,Man United,H,W,4,0,3,0.0,3.0,0.0
+2122,Brighton,31,2022-05-15,Leeds,A,D,1,1,1,3.0,-2.0,-2.0
+2122,Brighton,32,2022-05-22,West Ham,H,W,3,1,3,1.0,2.0,0.0
+2122,Burnley,1,2021-08-14,Brighton,H,L,1,2,0,1.0,-1.0,-1.0
+2122,Burnley,2,2021-08-21,Liverpool,A,L,2,0,0,3.0,-3.0,-4.0
+2122,Burnley,3,2021-08-29,Leeds,H,D,1,1,1,0.0,1.0,-3.0
+2122,Burnley,4,2021-09-13,Everton,A,L,3,1,0,3.0,-3.0,-6.0
+2122,Burnley,5,2021-09-18,Arsenal,H,L,0,1,0,1.0,-1.0,-7.0
+2122,Burnley,6,2021-09-25,Leicester,A,D,2,2,1,0.0,1.0,-6.0
+2122,Burnley,7,2021-10-16,Man City,A,L,2,0,0,0.0,0.0,-6.0
+2122,Burnley,8,2021-10-23,Southampton,A,D,2,2,1,0.0,1.0,-5.0
+2122,Burnley,9,2021-11-06,Chelsea,A,D,1,1,1,0.0,1.0,-4.0
+2122,Burnley,10,2021-11-20,Crystal Palace,H,D,3,3,1,3.0,-2.0,-6.0
+2122,Burnley,11,2021-12-01,Wolves,A,D,0,0,1,3.0,-2.0,-8.0
+2122,Burnley,12,2021-12-04,Newcastle,A,L,1,0,0,0.0,0.0,-8.0
+2122,Burnley,13,2021-12-12,West Ham,H,D,0,0,1,0.0,1.0,-7.0
+2122,Burnley,14,2021-12-30,Man United,A,L,3,1,0,0.0,0.0,-7.0
+2122,Burnley,15,2022-01-02,Leeds,A,L,3,1,0,0.0,0.0,-7.0
+2122,Burnley,16,2022-01-23,Arsenal,A,D,0,0,1,3.0,-2.0,-9.0
+2122,Burnley,17,2022-02-08,Man United,H,D,1,1,1,0.0,1.0,-8.0
+2122,Burnley,18,2022-02-13,Liverpool,H,L,0,1,0,0.0,0.0,-8.0
+2122,Burnley,19,2022-02-19,Brighton,A,W,0,3,3,1.0,2.0,-6.0
+2122,Burnley,20,2022-02-23,Tottenham,H,W,1,0,3,0.0,3.0,-3.0
+2122,Burnley,21,2022-02-26,Crystal Palace,A,D,1,1,1,3.0,-2.0,-5.0
+2122,Burnley,22,2022-03-01,Leicester,H,L,0,2,0,1.0,-1.0,-6.0
+2122,Burnley,23,2022-03-05,Chelsea,H,L,0,4,0,0.0,0.0,-6.0
+2122,Burnley,24,2022-04-02,Man City,H,L,0,2,0,0.0,0.0,-6.0
+2122,Burnley,25,2022-04-06,Everton,H,W,3,2,3,1.0,2.0,-4.0
+2122,Burnley,26,2022-04-17,West Ham,A,D,1,1,1,0.0,1.0,-3.0
+2122,Burnley,27,2022-04-21,Southampton,H,W,2,0,3,0.0,3.0,0.0
+2122,Burnley,28,2022-04-24,Wolves,H,W,1,0,3,3.0,0.0,0.0
+2122,Burnley,29,2022-05-07,Aston Villa,H,L,1,3,0,3.0,-3.0,-3.0
+2122,Burnley,30,2022-05-15,Tottenham,A,L,1,0,0,0.0,0.0,-3.0
+2122,Burnley,31,2022-05-19,Aston Villa,A,D,1,1,1,1.0,0.0,-3.0
+2122,Burnley,32,2022-05-22,Newcastle,H,L,1,2,0,0.0,0.0,-3.0
+2122,Chelsea,1,2021-08-14,Crystal Palace,H,W,3,0,3,3.0,0.0,0.0
+2122,Chelsea,2,2021-08-22,Arsenal,A,W,0,2,3,0.0,3.0,3.0
+2122,Chelsea,3,2021-08-28,Liverpool,A,D,1,1,1,3.0,-2.0,1.0
+2122,Chelsea,4,2021-09-11,Aston Villa,H,W,3,0,3,1.0,2.0,3.0
+2122,Chelsea,5,2021-09-19,Tottenham,A,W,0,3,3,3.0,0.0,3.0
+2122,Chelsea,6,2021-09-25,Man City,H,L,0,1,0,0.0,0.0,3.0
+2122,Chelsea,7,2021-10-02,Southampton,H,W,3,1,3,1.0,2.0,5.0
+2122,Chelsea,8,2021-10-30,Newcastle,A,W,0,3,3,3.0,0.0,5.0
+2122,Chelsea,9,2021-11-06,Burnley,H,D,1,1,1,3.0,-2.0,3.0
+2122,Chelsea,10,2021-11-20,Leicester,A,W,0,3,3,0.0,3.0,6.0
+2122,Chelsea,11,2021-11-28,Man United,H,D,1,1,1,1.0,0.0,6.0
+2122,Chelsea,12,2021-12-04,West Ham,A,L,3,2,0,3.0,-3.0,3.0
+2122,Chelsea,13,2021-12-11,Leeds,H,W,3,2,3,3.0,0.0,3.0
+2122,Chelsea,14,2021-12-16,Everton,H,D,1,1,1,3.0,-2.0,1.0
+2122,Chelsea,15,2021-12-19,Wolves,A,D,0,0,1,0.0,1.0,2.0
+2122,Chelsea,16,2021-12-26,Aston Villa,A,W,1,3,3,0.0,3.0,5.0
+2122,Chelsea,17,2021-12-29,Brighton,H,D,1,1,1,1.0,0.0,5.0
+2122,Chelsea,18,2022-01-02,Liverpool,H,D,2,2,1,0.0,1.0,6.0
+2122,Chelsea,19,2022-01-15,Man City,A,L,1,0,0,3.0,-3.0,3.0
+2122,Chelsea,20,2022-01-18,Brighton,A,D,1,1,1,3.0,-2.0,1.0
+2122,Chelsea,21,2022-01-23,Tottenham,H,W,2,0,3,1.0,2.0,3.0
+2122,Chelsea,22,2022-02-19,Crystal Palace,A,W,0,1,3,3.0,0.0,3.0
+2122,Chelsea,23,2022-03-05,Burnley,A,W,0,4,3,3.0,0.0,3.0
+2122,Chelsea,24,2022-03-13,Newcastle,H,W,1,0,3,3.0,0.0,3.0
+2122,Chelsea,25,2022-04-09,Southampton,A,W,0,6,3,1.0,2.0,5.0
+2122,Chelsea,26,2022-04-20,Arsenal,H,L,2,4,0,0.0,0.0,5.0
+2122,Chelsea,27,2022-04-24,West Ham,H,W,1,0,3,3.0,0.0,5.0
+2122,Chelsea,28,2022-04-28,Man United,A,D,1,1,1,1.0,0.0,5.0
+2122,Chelsea,29,2022-05-01,Everton,A,L,1,0,0,0.0,0.0,5.0
+2122,Chelsea,30,2022-05-07,Wolves,H,D,2,2,1,1.0,0.0,5.0
+2122,Chelsea,31,2022-05-11,Leeds,A,W,0,3,3,1.0,2.0,7.0
+2122,Chelsea,32,2022-05-19,Leicester,H,D,1,1,1,3.0,-2.0,5.0
+2122,Crystal Palace,1,2021-08-14,Chelsea,A,L,3,0,0,0.0,0.0,0.0
+2122,Crystal Palace,2,2021-08-28,West Ham,A,D,2,2,1,1.0,0.0,0.0
+2122,Crystal Palace,3,2021-09-11,Tottenham,H,W,3,0,3,1.0,2.0,2.0
+2122,Crystal Palace,4,2021-09-18,Liverpool,A,L,3,0,0,0.0,0.0,2.0
+2122,Crystal Palace,5,2021-09-27,Brighton,H,D,1,1,1,1.0,0.0,2.0
+2122,Crystal Palace,6,2021-10-03,Leicester,H,D,2,2,1,1.0,0.0,2.0
+2122,Crystal Palace,7,2021-10-18,Arsenal,A,D,2,2,1,1.0,0.0,2.0
+2122,Crystal Palace,8,2021-10-23,Newcastle,H,D,1,1,1,0.0,1.0,3.0
+2122,Crystal Palace,9,2021-10-30,Man City,A,W,0,2,3,0.0,3.0,6.0
+2122,Crystal Palace,10,2021-11-06,Wolves,H,W,2,0,3,3.0,0.0,6.0
+2122,Crystal Palace,11,2021-11-20,Burnley,A,D,3,3,1,0.0,1.0,7.0
+2122,Crystal Palace,12,2021-11-27,Aston Villa,H,L,1,2,0,3.0,-3.0,4.0
+2122,Crystal Palace,13,2021-11-30,Leeds,A,L,1,0,0,0.0,0.0,4.0
+2122,Crystal Palace,14,2021-12-05,Man United,A,L,1,0,0,3.0,-3.0,1.0
+2122,Crystal Palace,15,2021-12-12,Everton,H,W,3,1,3,0.0,3.0,4.0
+2122,Crystal Palace,16,2021-12-15,Southampton,H,D,2,2,1,3.0,-2.0,2.0
+2122,Crystal Palace,17,2021-12-26,Tottenham,A,L,3,0,0,0.0,0.0,2.0
+2122,Crystal Palace,18,2022-01-01,West Ham,H,L,2,3,0,0.0,0.0,2.0
+2122,Crystal Palace,19,2022-01-14,Brighton,A,D,1,1,1,3.0,-2.0,0.0
+2122,Crystal Palace,20,2022-01-23,Liverpool,H,L,1,3,0,0.0,0.0,0.0
+2122,Crystal Palace,21,2022-02-19,Chelsea,H,L,0,1,0,0.0,0.0,0.0
+2122,Crystal Palace,22,2022-02-26,Burnley,H,D,1,1,1,0.0,1.0,1.0
+2122,Crystal Palace,23,2022-03-05,Wolves,A,W,0,2,3,0.0,3.0,4.0
+2122,Crystal Palace,24,2022-03-14,Man City,H,D,0,0,1,0.0,1.0,5.0
+2122,Crystal Palace,25,2022-04-04,Arsenal,H,W,3,0,3,0.0,3.0,8.0
+2122,Crystal Palace,26,2022-04-10,Leicester,A,L,2,1,0,0.0,0.0,8.0
+2122,Crystal Palace,27,2022-04-20,Newcastle,A,L,1,0,0,3.0,-3.0,5.0
+2122,Crystal Palace,28,2022-04-25,Leeds,H,D,0,0,1,3.0,-2.0,3.0
+2122,Crystal Palace,29,2022-04-30,Southampton,A,W,1,2,3,0.0,3.0,6.0
+2122,Crystal Palace,30,2022-05-15,Aston Villa,A,D,1,1,1,0.0,1.0,7.0
+2122,Crystal Palace,31,2022-05-19,Everton,A,L,3,2,0,1.0,-1.0,6.0
+2122,Crystal Palace,32,2022-05-22,Man United,H,W,1,0,3,1.0,2.0,8.0
+2122,Everton,1,2021-08-14,Southampton,H,W,3,1,3,3.0,0.0,0.0
+2122,Everton,2,2021-08-21,Leeds,A,D,2,2,1,3.0,-2.0,-2.0
+2122,Everton,3,2021-08-28,Brighton,A,W,0,2,3,1.0,2.0,0.0
+2122,Everton,4,2021-09-13,Burnley,H,W,3,1,3,0.0,3.0,3.0
+2122,Everton,5,2021-09-18,Aston Villa,A,L,3,0,0,1.0,-1.0,2.0
+2122,Everton,6,2021-10-02,Man United,A,D,1,1,1,1.0,0.0,2.0
+2122,Everton,7,2021-10-17,West Ham,H,L,0,1,0,0.0,0.0,2.0
+2122,Everton,8,2021-11-01,Wolves,A,L,2,1,0,3.0,-3.0,-1.0
+2122,Everton,9,2021-11-07,Tottenham,H,D,0,0,1,1.0,0.0,-1.0
+2122,Everton,10,2021-11-21,Man City,A,L,3,0,0,0.0,0.0,-1.0
+2122,Everton,11,2021-12-01,Liverpool,H,L,1,4,0,1.0,-1.0,-2.0
+2122,Everton,12,2021-12-06,Arsenal,H,W,2,1,3,3.0,0.0,-2.0
+2122,Everton,13,2021-12-12,Crystal Palace,A,L,3,1,0,3.0,-3.0,-5.0
+2122,Everton,14,2021-12-16,Chelsea,A,D,1,1,1,0.0,1.0,-4.0
+2122,Everton,15,2022-01-02,Brighton,H,L,2,3,0,3.0,-3.0,-7.0
+2122,Everton,16,2022-01-22,Aston Villa,H,L,0,1,0,0.0,0.0,-7.0
+2122,Everton,17,2022-02-08,Newcastle,A,L,3,1,0,0.0,0.0,-7.0
+2122,Everton,18,2022-02-12,Leeds,H,W,3,0,3,0.0,3.0,-4.0
+2122,Everton,19,2022-02-19,Southampton,A,L,2,0,0,0.0,0.0,-4.0
+2122,Everton,20,2022-02-26,Man City,H,L,0,1,0,0.0,0.0,-4.0
+2122,Everton,21,2022-03-07,Tottenham,A,L,5,0,0,3.0,-3.0,-7.0
+2122,Everton,22,2022-03-13,Wolves,H,L,0,1,0,3.0,-3.0,-10.0
+2122,Everton,23,2022-03-17,Newcastle,H,W,1,0,3,0.0,3.0,-7.0
+2122,Everton,24,2022-04-03,West Ham,A,L,2,1,0,3.0,-3.0,-10.0
+2122,Everton,25,2022-04-06,Burnley,A,L,3,2,0,1.0,-1.0,-11.0
+2122,Everton,26,2022-04-09,Man United,H,W,1,0,3,0.0,3.0,-8.0
+2122,Everton,27,2022-04-20,Leicester,H,D,1,1,1,1.0,0.0,-8.0
+2122,Everton,28,2022-04-24,Liverpool,A,L,2,0,0,3.0,-3.0,-11.0
+2122,Everton,29,2022-05-01,Chelsea,H,W,1,0,3,3.0,0.0,-11.0
+2122,Everton,30,2022-05-08,Leicester,A,W,1,2,3,3.0,0.0,-11.0
+2122,Everton,31,2022-05-19,Crystal Palace,H,W,3,2,3,1.0,2.0,-9.0
+2122,Everton,32,2022-05-22,Arsenal,A,L,5,1,0,3.0,-3.0,-12.0
+2122,Leeds,1,2021-08-14,Man United,A,L,5,1,0,0.0,0.0,0.0
+2122,Leeds,2,2021-08-21,Everton,H,D,2,2,1,0.0,1.0,1.0
+2122,Leeds,3,2021-08-29,Burnley,A,D,1,1,1,3.0,-2.0,-1.0
+2122,Leeds,4,2021-09-12,Liverpool,H,L,0,3,0,1.0,-1.0,-2.0
+2122,Leeds,5,2021-09-17,Newcastle,A,D,1,1,1,3.0,-2.0,-4.0
+2122,Leeds,6,2021-09-25,West Ham,H,L,1,2,0,0.0,0.0,-4.0
+2122,Leeds,7,2021-10-16,Southampton,A,L,1,0,0,3.0,-3.0,-7.0
+2122,Leeds,8,2021-10-23,Wolves,H,D,1,1,1,0.0,1.0,-6.0
+2122,Leeds,9,2021-11-07,Leicester,H,D,1,1,1,0.0,1.0,-5.0
+2122,Leeds,10,2021-11-21,Tottenham,A,L,2,1,0,0.0,0.0,-5.0
+2122,Leeds,11,2021-11-27,Brighton,A,D,0,0,1,0.0,1.0,-4.0
+2122,Leeds,12,2021-11-30,Crystal Palace,H,W,1,0,3,3.0,0.0,-4.0
+2122,Leeds,13,2021-12-11,Chelsea,A,L,3,2,0,0.0,0.0,-4.0
+2122,Leeds,14,2021-12-14,Man City,A,L,7,0,0,3.0,-3.0,-7.0
+2122,Leeds,15,2021-12-18,Arsenal,H,L,1,4,0,1.0,-1.0,-8.0
+2122,Leeds,16,2022-01-02,Burnley,H,W,3,1,3,3.0,0.0,-8.0
+2122,Leeds,17,2022-01-16,West Ham,A,W,2,3,3,0.0,3.0,-5.0
+2122,Leeds,18,2022-01-22,Newcastle,H,L,0,1,0,3.0,-3.0,-8.0
+2122,Leeds,19,2022-02-09,Aston Villa,A,D,3,3,1,3.0,-2.0,-10.0
+2122,Leeds,20,2022-02-12,Everton,A,L,3,0,0,3.0,-3.0,-13.0
+2122,Leeds,21,2022-02-20,Man United,H,L,2,4,0,1.0,-1.0,-14.0
+2122,Leeds,22,2022-02-23,Liverpool,A,L,6,0,0,0.0,0.0,-14.0
+2122,Leeds,23,2022-02-26,Tottenham,H,L,0,4,0,3.0,-3.0,-17.0
+2122,Leeds,24,2022-03-05,Leicester,A,L,1,0,0,3.0,-3.0,-20.0
+2122,Leeds,25,2022-03-10,Aston Villa,H,L,0,3,0,0.0,0.0,-20.0
+2122,Leeds,26,2022-03-18,Wolves,A,W,2,3,3,0.0,3.0,-17.0
+2122,Leeds,27,2022-04-02,Southampton,H,D,1,1,1,3.0,-2.0,-19.0
+2122,Leeds,28,2022-04-25,Crystal Palace,A,D,0,0,1,0.0,1.0,-18.0
+2122,Leeds,29,2022-04-30,Man City,H,L,0,4,0,1.0,-1.0,-19.0
+2122,Leeds,30,2022-05-08,Arsenal,A,L,2,1,0,0.0,0.0,-19.0
+2122,Leeds,31,2022-05-11,Chelsea,H,L,0,3,0,1.0,-1.0,-20.0
+2122,Leeds,32,2022-05-15,Brighton,H,D,1,1,1,0.0,1.0,-19.0
+2122,Leicester,1,2021-08-14,Wolves,H,W,1,0,3,3.0,0.0,0.0
+2122,Leicester,2,2021-08-23,West Ham,A,L,4,1,0,0.0,0.0,0.0
+2122,Leicester,3,2021-09-11,Man City,H,L,0,1,0,0.0,0.0,0.0
+2122,Leicester,4,2021-09-19,Brighton,A,L,2,1,0,3.0,-3.0,-3.0
+2122,Leicester,5,2021-09-25,Burnley,H,D,2,2,1,3.0,-2.0,-5.0
+2122,Leicester,6,2021-10-03,Crystal Palace,A,D,2,2,1,1.0,0.0,-5.0
+2122,Leicester,7,2021-10-16,Man United,H,W,4,2,3,1.0,2.0,-3.0
+2122,Leicester,8,2021-10-30,Arsenal,H,L,0,2,0,0.0,0.0,-3.0
+2122,Leicester,9,2021-11-07,Leeds,A,D,1,1,1,3.0,-2.0,-5.0
+2122,Leicester,10,2021-11-20,Chelsea,H,L,0,3,0,3.0,-3.0,-8.0
+2122,Leicester,11,2021-12-01,Southampton,A,D,2,2,1,1.0,0.0,-8.0
+2122,Leicester,12,2021-12-05,Aston Villa,A,L,2,1,0,3.0,-3.0,-11.0
+2122,Leicester,13,2021-12-12,Newcastle,H,W,4,0,3,0.0,3.0,-8.0
+2122,Leicester,14,2021-12-26,Man City,A,L,6,3,0,3.0,-3.0,-11.0
+2122,Leicester,15,2021-12-28,Liverpool,H,W,1,0,3,3.0,0.0,-11.0
+2122,Leicester,16,2022-01-19,Tottenham,H,L,2,3,0,0.0,0.0,-11.0
+2122,Leicester,17,2022-01-23,Brighton,H,D,1,1,1,3.0,-2.0,-13.0
+2122,Leicester,18,2022-02-10,Liverpool,A,L,2,0,0,0.0,0.0,-13.0
+2122,Leicester,19,2022-02-13,West Ham,H,D,2,2,1,0.0,1.0,-12.0
+2122,Leicester,20,2022-02-20,Wolves,A,L,2,1,0,1.0,-1.0,-13.0
+2122,Leicester,21,2022-03-01,Burnley,A,W,0,2,3,1.0,2.0,-11.0
+2122,Leicester,22,2022-03-05,Leeds,H,W,1,0,3,0.0,3.0,-8.0
+2122,Leicester,23,2022-03-13,Arsenal,A,L,2,0,0,3.0,-3.0,-11.0
+2122,Leicester,24,2022-04-02,Man United,A,D,1,1,1,3.0,-2.0,-13.0
+2122,Leicester,25,2022-04-10,Crystal Palace,H,W,2,1,3,3.0,0.0,-13.0
+2122,Leicester,26,2022-04-17,Newcastle,A,L,2,1,0,3.0,-3.0,-16.0
+2122,Leicester,27,2022-04-20,Everton,A,D,1,1,1,1.0,0.0,-16.0
+2122,Leicester,28,2022-04-23,Aston Villa,H,D,0,0,1,0.0,1.0,-15.0
+2122,Leicester,29,2022-05-01,Tottenham,A,L,3,1,0,3.0,-3.0,-18.0
+2122,Leicester,30,2022-05-08,Everton,H,L,1,2,0,0.0,0.0,-18.0
+2122,Leicester,31,2022-05-19,Chelsea,A,D,1,1,1,0.0,1.0,-17.0
+2122,Leicester,32,2022-05-22,Southampton,H,W,4,1,3,3.0,0.0,-17.0
+2122,Liverpool,1,2021-08-21,Burnley,H,W,2,0,3,0.0,3.0,3.0
+2122,Liverpool,2,2021-08-28,Chelsea,H,D,1,1,1,0.0,1.0,4.0
+2122,Liverpool,3,2021-09-12,Leeds,A,W,0,3,3,1.0,2.0,6.0
+2122,Liverpool,4,2021-09-18,Crystal Palace,H,W,3,0,3,3.0,0.0,6.0
+2122,Liverpool,5,2021-10-03,Man City,H,D,2,2,1,0.0,1.0,7.0
+2122,Liverpool,6,2021-10-24,Man United,A,W,0,5,3,3.0,0.0,7.0
+2122,Liverpool,7,2021-10-30,Brighton,H,D,2,2,1,0.0,1.0,8.0
+2122,Liverpool,8,2021-11-07,West Ham,A,L,3,2,0,3.0,-3.0,5.0
+2122,Liverpool,9,2021-11-20,Arsenal,H,W,4,0,3,3.0,0.0,5.0
+2122,Liverpool,10,2021-11-27,Southampton,H,W,4,0,3,3.0,0.0,5.0
+2122,Liverpool,11,2021-12-01,Everton,A,W,1,4,3,1.0,2.0,7.0
+2122,Liverpool,12,2021-12-04,Wolves,A,W,0,1,3,3.0,0.0,7.0
+2122,Liverpool,13,2021-12-11,Aston Villa,H,W,1,0,3,3.0,0.0,7.0
+2122,Liverpool,14,2021-12-16,Newcastle,H,W,3,1,3,1.0,2.0,9.0
+2122,Liverpool,15,2021-12-19,Tottenham,A,D,2,2,1,3.0,-2.0,7.0
+2122,Liverpool,16,2021-12-28,Leicester,A,L,1,0,0,0.0,0.0,7.0
+2122,Liverpool,17,2022-01-02,Chelsea,A,D,2,2,1,3.0,-2.0,5.0
+2122,Liverpool,18,2022-01-23,Crystal Palace,A,W,1,3,3,3.0,0.0,5.0
+2122,Liverpool,19,2022-02-10,Leicester,H,W,2,0,3,3.0,0.0,5.0
+2122,Liverpool,20,2022-02-13,Burnley,A,W,0,1,3,3.0,0.0,5.0
+2122,Liverpool,21,2022-02-23,Leeds,H,W,6,0,3,3.0,0.0,5.0
+2122,Liverpool,22,2022-03-05,West Ham,H,W,1,0,3,3.0,0.0,5.0
+2122,Liverpool,23,2022-03-12,Brighton,A,W,0,2,3,1.0,2.0,7.0
+2122,Liverpool,24,2022-03-16,Arsenal,A,W,0,2,3,3.0,0.0,7.0
+2122,Liverpool,25,2022-04-10,Man City,A,D,2,2,1,1.0,0.0,7.0
+2122,Liverpool,26,2022-04-19,Man United,H,W,4,0,3,1.0,2.0,9.0
+2122,Liverpool,27,2022-04-24,Everton,H,W,2,0,3,0.0,3.0,12.0
+2122,Liverpool,28,2022-04-30,Newcastle,A,W,0,1,3,1.0,2.0,14.0
+2122,Liverpool,29,2022-05-07,Tottenham,H,D,1,1,1,3.0,-2.0,12.0
+2122,Liverpool,30,2022-05-10,Aston Villa,A,W,1,2,3,0.0,3.0,15.0
+2122,Liverpool,31,2022-05-17,Southampton,A,W,1,2,3,0.0,3.0,18.0
+2122,Liverpool,32,2022-05-22,Wolves,H,W,3,1,3,3.0,0.0,18.0
+2122,Man City,1,2021-08-15,Tottenham,A,L,1,0,0,0.0,0.0,0.0
+2122,Man City,2,2021-08-28,Arsenal,H,W,5,0,3,3.0,0.0,0.0
+2122,Man City,3,2021-09-11,Leicester,A,W,0,1,3,3.0,0.0,0.0
+2122,Man City,4,2021-09-18,Southampton,H,D,0,0,1,3.0,-2.0,-2.0
+2122,Man City,5,2021-09-25,Chelsea,A,W,0,1,3,3.0,0.0,-2.0
+2122,Man City,6,2021-10-03,Liverpool,A,D,2,2,1,3.0,-2.0,-4.0
+2122,Man City,7,2021-10-16,Burnley,H,W,2,0,3,3.0,0.0,-4.0
+2122,Man City,8,2021-10-23,Brighton,A,W,1,4,3,0.0,3.0,-1.0
+2122,Man City,9,2021-10-30,Crystal Palace,H,L,0,2,0,3.0,-3.0,-4.0
+2122,Man City,10,2021-11-06,Man United,A,W,0,2,3,1.0,2.0,-2.0
+2122,Man City,11,2021-11-21,Everton,H,W,3,0,3,3.0,0.0,-2.0
+2122,Man City,12,2021-11-28,West Ham,H,W,2,1,3,3.0,0.0,-2.0
+2122,Man City,13,2021-12-01,Aston Villa,A,W,1,2,3,3.0,0.0,-2.0
+2122,Man City,14,2021-12-11,Wolves,H,W,1,0,3,3.0,0.0,-2.0
+2122,Man City,15,2021-12-14,Leeds,H,W,7,0,3,0.0,3.0,1.0
+2122,Man City,16,2021-12-19,Newcastle,A,W,0,4,3,3.0,0.0,1.0
+2122,Man City,17,2021-12-26,Leicester,H,W,6,3,3,0.0,3.0,4.0
+2122,Man City,18,2022-01-01,Arsenal,A,W,1,2,3,3.0,0.0,4.0
+2122,Man City,19,2022-01-15,Chelsea,H,W,1,0,3,0.0,3.0,7.0
+2122,Man City,20,2022-01-22,Southampton,A,D,1,1,1,3.0,-2.0,5.0
+2122,Man City,21,2022-02-19,Tottenham,H,L,2,3,0,3.0,-3.0,2.0
+2122,Man City,22,2022-02-26,Everton,A,W,0,1,3,3.0,0.0,2.0
+2122,Man City,23,2022-03-06,Man United,H,W,4,1,3,0.0,3.0,5.0
+2122,Man City,24,2022-03-14,Crystal Palace,A,D,0,0,1,3.0,-2.0,3.0
+2122,Man City,25,2022-04-02,Burnley,A,W,0,2,3,3.0,0.0,3.0
+2122,Man City,26,2022-04-10,Liverpool,H,D,2,2,1,1.0,0.0,3.0
+2122,Man City,27,2022-04-20,Brighton,H,W,3,0,3,3.0,0.0,3.0
+2122,Man City,28,2022-04-30,Leeds,A,W,0,4,3,1.0,2.0,5.0
+2122,Man City,29,2022-05-08,Newcastle,H,W,5,0,3,3.0,0.0,5.0
+2122,Man City,30,2022-05-11,Wolves,A,W,1,5,3,3.0,0.0,5.0
+2122,Man City,31,2022-05-15,West Ham,A,D,2,2,1,1.0,0.0,5.0
+2122,Man City,32,2022-05-22,Aston Villa,H,W,3,2,3,3.0,0.0,5.0
+2122,Man United,1,2021-08-14,Leeds,H,W,5,1,3,3.0,0.0,0.0
+2122,Man United,2,2021-08-22,Southampton,A,D,1,1,1,3.0,-2.0,-2.0
+2122,Man United,3,2021-08-29,Wolves,A,W,0,1,3,3.0,0.0,-2.0
+2122,Man United,4,2021-09-11,Newcastle,H,W,4,1,3,3.0,0.0,-2.0
+2122,Man United,5,2021-09-19,West Ham,A,W,1,2,3,3.0,0.0,-2.0
+2122,Man United,6,2021-09-25,Aston Villa,H,L,0,1,0,3.0,-3.0,-5.0
+2122,Man United,7,2021-10-02,Everton,H,D,1,1,1,1.0,0.0,-5.0
+2122,Man United,8,2021-10-16,Leicester,A,L,4,2,0,1.0,-1.0,-6.0
+2122,Man United,9,2021-10-24,Liverpool,H,L,0,5,0,0.0,0.0,-6.0
+2122,Man United,10,2021-10-30,Tottenham,A,W,0,3,3,3.0,0.0,-6.0
+2122,Man United,11,2021-11-06,Man City,H,L,0,2,0,1.0,-1.0,-7.0
+2122,Man United,12,2021-11-28,Chelsea,A,D,1,1,1,1.0,0.0,-7.0
+2122,Man United,13,2021-12-02,Arsenal,H,W,3,2,3,0.0,3.0,-4.0
+2122,Man United,14,2021-12-05,Crystal Palace,H,W,1,0,3,0.0,3.0,-1.0
+2122,Man United,15,2021-12-27,Newcastle,A,D,1,1,1,3.0,-2.0,-3.0
+2122,Man United,16,2021-12-30,Burnley,H,W,3,1,3,3.0,0.0,-3.0
+2122,Man United,17,2022-01-03,Wolves,H,L,0,1,0,3.0,-3.0,-6.0
+2122,Man United,18,2022-01-15,Aston Villa,A,D,2,2,1,3.0,-2.0,-8.0
+2122,Man United,19,2022-01-22,West Ham,H,W,1,0,3,3.0,0.0,-8.0
+2122,Man United,20,2022-02-08,Burnley,A,D,1,1,1,3.0,-2.0,-10.0
+2122,Man United,21,2022-02-12,Southampton,H,D,1,1,1,3.0,-2.0,-12.0
+2122,Man United,22,2022-02-15,Brighton,H,W,2,0,3,3.0,0.0,-12.0
+2122,Man United,23,2022-02-20,Leeds,A,W,2,4,3,1.0,2.0,-10.0
+2122,Man United,24,2022-03-06,Man City,A,L,4,1,0,3.0,-3.0,-13.0
+2122,Man United,25,2022-03-12,Tottenham,H,W,3,2,3,0.0,3.0,-10.0
+2122,Man United,26,2022-04-02,Leicester,H,D,1,1,1,0.0,1.0,-9.0
+2122,Man United,27,2022-04-09,Everton,A,L,1,0,0,3.0,-3.0,-12.0
+2122,Man United,28,2022-04-19,Liverpool,A,L,4,0,0,1.0,-1.0,-13.0
+2122,Man United,29,2022-04-23,Arsenal,A,L,3,1,0,1.0,-1.0,-14.0
+2122,Man United,30,2022-04-28,Chelsea,H,D,1,1,1,1.0,0.0,-14.0
+2122,Man United,31,2022-05-07,Brighton,A,L,4,0,0,3.0,-3.0,-17.0
+2122,Man United,32,2022-05-22,Crystal Palace,A,L,1,0,0,1.0,-1.0,-18.0
+2122,Newcastle,1,2021-08-15,West Ham,H,L,2,4,0,3.0,-3.0,-3.0
+2122,Newcastle,2,2021-08-21,Aston Villa,A,L,2,0,0,0.0,0.0,-3.0
+2122,Newcastle,3,2021-08-28,Southampton,H,D,2,2,1,3.0,-2.0,-5.0
+2122,Newcastle,4,2021-09-11,Man United,A,L,4,1,0,0.0,0.0,-5.0
+2122,Newcastle,5,2021-09-17,Leeds,H,D,1,1,1,0.0,1.0,-4.0
+2122,Newcastle,6,2021-10-02,Wolves,A,L,2,1,0,1.0,-1.0,-5.0
+2122,Newcastle,7,2021-10-17,Tottenham,H,L,2,3,0,1.0,-1.0,-6.0
+2122,Newcastle,8,2021-10-23,Crystal Palace,A,D,1,1,1,3.0,-2.0,-8.0
+2122,Newcastle,9,2021-10-30,Chelsea,H,L,0,3,0,0.0,0.0,-8.0
+2122,Newcastle,10,2021-11-06,Brighton,A,D,1,1,1,0.0,1.0,-7.0
+2122,Newcastle,11,2021-11-27,Arsenal,A,L,2,0,0,0.0,0.0,-7.0
+2122,Newcastle,12,2021-12-04,Burnley,H,W,1,0,3,3.0,0.0,-7.0
+2122,Newcastle,13,2021-12-12,Leicester,A,L,4,0,0,3.0,-3.0,-10.0
+2122,Newcastle,14,2021-12-16,Liverpool,A,L,3,1,0,1.0,-1.0,-11.0
+2122,Newcastle,15,2021-12-19,Man City,H,L,0,4,0,0.0,0.0,-11.0
+2122,Newcastle,16,2021-12-27,Man United,H,D,1,1,1,0.0,1.0,-10.0
+2122,Newcastle,17,2022-01-22,Leeds,A,W,0,1,3,0.0,3.0,-7.0
+2122,Newcastle,18,2022-02-08,Everton,H,W,3,1,3,3.0,0.0,-7.0
+2122,Newcastle,19,2022-02-13,Aston Villa,H,W,1,0,3,1.0,2.0,-5.0
+2122,Newcastle,20,2022-02-19,West Ham,A,D,1,1,1,3.0,-2.0,-7.0
+2122,Newcastle,21,2022-03-05,Brighton,H,W,2,1,3,0.0,3.0,-4.0
+2122,Newcastle,22,2022-03-10,Southampton,A,W,1,2,3,0.0,3.0,-1.0
+2122,Newcastle,23,2022-03-13,Chelsea,A,L,1,0,0,0.0,0.0,-1.0
+2122,Newcastle,24,2022-03-17,Everton,A,L,1,0,0,3.0,-3.0,-4.0
+2122,Newcastle,25,2022-04-03,Tottenham,A,L,5,1,0,1.0,-1.0,-5.0
+2122,Newcastle,26,2022-04-08,Wolves,H,W,1,0,3,1.0,2.0,-3.0
+2122,Newcastle,27,2022-04-17,Leicester,H,W,2,1,3,0.0,3.0,0.0
+2122,Newcastle,28,2022-04-20,Crystal Palace,H,W,1,0,3,0.0,3.0,3.0
+2122,Newcastle,29,2022-04-30,Liverpool,H,L,0,1,0,1.0,-1.0,2.0
+2122,Newcastle,30,2022-05-08,Man City,A,L,5,0,0,0.0,0.0,2.0
+2122,Newcastle,31,2022-05-16,Arsenal,H,W,2,0,3,0.0,3.0,5.0
+2122,Newcastle,32,2022-05-22,Burnley,A,W,1,2,3,3.0,0.0,5.0
+2122,Southampton,1,2021-08-14,Everton,A,L,3,1,0,0.0,0.0,0.0
+2122,Southampton,2,2021-08-22,Man United,H,D,1,1,1,0.0,1.0,1.0
+2122,Southampton,3,2021-08-28,Newcastle,A,D,2,2,1,0.0,1.0,2.0
+2122,Southampton,4,2021-09-11,West Ham,H,D,0,0,1,1.0,0.0,2.0
+2122,Southampton,5,2021-09-18,Man City,A,D,0,0,1,0.0,1.0,3.0
+2122,Southampton,6,2021-09-26,Wolves,H,L,0,1,0,0.0,0.0,3.0
+2122,Southampton,7,2021-10-02,Chelsea,A,L,3,1,0,1.0,-1.0,2.0
+2122,Southampton,8,2021-10-16,Leeds,H,W,1,0,3,0.0,3.0,5.0
+2122,Southampton,9,2021-10-23,Burnley,H,D,2,2,1,3.0,-2.0,3.0
+2122,Southampton,10,2021-11-05,Aston Villa,H,W,1,0,3,0.0,3.0,6.0
+2122,Southampton,11,2021-11-27,Liverpool,A,L,4,0,0,0.0,0.0,6.0
+2122,Southampton,12,2021-12-01,Leicester,H,D,2,2,1,1.0,0.0,6.0
+2122,Southampton,13,2021-12-04,Brighton,H,D,1,1,1,0.0,1.0,7.0
+2122,Southampton,14,2021-12-11,Arsenal,A,L,3,0,0,1.0,-1.0,6.0
+2122,Southampton,15,2021-12-15,Crystal Palace,A,D,2,2,1,0.0,1.0,7.0
+2122,Southampton,16,2021-12-26,West Ham,A,W,2,3,3,0.0,3.0,10.0
+2122,Southampton,17,2021-12-28,Tottenham,H,D,1,1,1,0.0,1.0,11.0
+2122,Southampton,18,2022-01-15,Wolves,A,L,3,1,0,1.0,-1.0,10.0
+2122,Southampton,19,2022-01-22,Man City,H,D,1,1,1,0.0,1.0,11.0
+2122,Southampton,20,2022-02-09,Tottenham,A,W,2,3,3,0.0,3.0,14.0
+2122,Southampton,21,2022-02-12,Man United,A,D,1,1,1,0.0,1.0,15.0
+2122,Southampton,22,2022-02-19,Everton,H,W,2,0,3,3.0,0.0,15.0
+2122,Southampton,23,2022-03-05,Aston Villa,A,L,4,0,0,3.0,-3.0,12.0
+2122,Southampton,24,2022-03-10,Newcastle,H,L,1,2,0,3.0,-3.0,9.0
+2122,Southampton,25,2022-04-02,Leeds,A,D,1,1,1,0.0,1.0,10.0
+2122,Southampton,26,2022-04-09,Chelsea,H,L,0,6,0,1.0,-1.0,9.0
+2122,Southampton,27,2022-04-16,Arsenal,H,W,1,0,3,0.0,3.0,12.0
+2122,Southampton,28,2022-04-21,Burnley,A,L,2,0,0,3.0,-3.0,9.0
+2122,Southampton,29,2022-04-24,Brighton,A,D,2,2,1,3.0,-2.0,7.0
+2122,Southampton,30,2022-04-30,Crystal Palace,H,L,1,2,0,3.0,-3.0,4.0
+2122,Southampton,31,2022-05-17,Liverpool,H,L,1,2,0,3.0,-3.0,1.0
+2122,Southampton,32,2022-05-22,Leicester,A,L,4,1,0,0.0,0.0,1.0
+2122,Tottenham,1,2021-08-15,Man City,H,W,1,0,3,3.0,0.0,0.0
+2122,Tottenham,2,2021-08-22,Wolves,A,W,0,1,3,1.0,2.0,2.0
+2122,Tottenham,3,2021-09-11,Crystal Palace,A,L,3,0,0,1.0,-1.0,1.0
+2122,Tottenham,4,2021-09-19,Chelsea,H,L,0,3,0,0.0,0.0,1.0
+2122,Tottenham,5,2021-09-26,Arsenal,A,L,3,1,0,0.0,0.0,1.0
+2122,Tottenham,6,2021-10-03,Aston Villa,H,W,2,1,3,0.0,3.0,4.0
+2122,Tottenham,7,2021-10-17,Newcastle,A,W,2,3,3,1.0,2.0,6.0
+2122,Tottenham,8,2021-10-24,West Ham,A,L,1,0,0,0.0,0.0,6.0
+2122,Tottenham,9,2021-10-30,Man United,H,L,0,3,0,0.0,0.0,6.0
+2122,Tottenham,10,2021-11-07,Everton,A,D,0,0,1,1.0,0.0,6.0
+2122,Tottenham,11,2021-11-21,Leeds,H,W,2,1,3,3.0,0.0,6.0
+2122,Tottenham,12,2021-12-19,Liverpool,H,D,2,2,1,0.0,1.0,7.0
+2122,Tottenham,13,2021-12-26,Crystal Palace,H,W,3,0,3,3.0,0.0,7.0
+2122,Tottenham,14,2021-12-28,Southampton,A,D,1,1,1,3.0,-2.0,5.0
+2122,Tottenham,15,2022-01-19,Leicester,A,W,2,3,3,3.0,0.0,5.0
+2122,Tottenham,16,2022-01-23,Chelsea,A,L,2,0,0,1.0,-1.0,4.0
+2122,Tottenham,17,2022-02-09,Southampton,H,L,2,3,0,3.0,-3.0,1.0
+2122,Tottenham,18,2022-02-13,Wolves,H,L,0,2,0,3.0,-3.0,-2.0
+2122,Tottenham,19,2022-02-19,Man City,A,W,2,3,3,0.0,3.0,1.0
+2122,Tottenham,20,2022-02-23,Burnley,A,L,1,0,0,3.0,-3.0,-2.0
+2122,Tottenham,21,2022-02-26,Leeds,A,W,0,4,3,0.0,3.0,1.0
+2122,Tottenham,22,2022-03-07,Everton,H,W,5,0,3,0.0,3.0,4.0
+2122,Tottenham,23,2022-03-12,Man United,A,L,3,2,0,3.0,-3.0,1.0
+2122,Tottenham,24,2022-03-16,Brighton,A,W,0,2,3,0.0,3.0,4.0
+2122,Tottenham,25,2022-03-20,West Ham,H,W,3,1,3,1.0,2.0,6.0
+2122,Tottenham,26,2022-04-03,Newcastle,H,W,5,1,3,1.0,2.0,8.0
+2122,Tottenham,27,2022-04-09,Aston Villa,A,W,0,4,3,3.0,0.0,8.0
+2122,Tottenham,28,2022-04-16,Brighton,H,L,0,1,0,3.0,-3.0,5.0
+2122,Tottenham,29,2022-05-01,Leicester,H,W,3,1,3,0.0,3.0,8.0
+2122,Tottenham,30,2022-05-07,Liverpool,A,D,1,1,1,0.0,1.0,9.0
+2122,Tottenham,31,2022-05-12,Arsenal,H,W,3,0,3,3.0,0.0,9.0
+2122,Tottenham,32,2022-05-15,Burnley,H,W,1,0,3,3.0,0.0,9.0
+2122,West Ham,1,2021-08-15,Newcastle,A,W,2,4,3,0.0,3.0,3.0
+2122,West Ham,2,2021-08-23,Leicester,H,W,4,1,3,3.0,0.0,3.0
+2122,West Ham,3,2021-08-28,Crystal Palace,H,D,2,2,1,1.0,0.0,3.0
+2122,West Ham,4,2021-09-11,Southampton,A,D,0,0,1,1.0,0.0,3.0
+2122,West Ham,5,2021-09-19,Man United,H,L,1,2,0,0.0,0.0,3.0
+2122,West Ham,6,2021-09-25,Leeds,A,W,1,2,3,3.0,0.0,3.0
+2122,West Ham,7,2021-10-17,Everton,A,W,0,1,3,3.0,0.0,3.0
+2122,West Ham,8,2021-10-24,Tottenham,H,W,1,0,3,3.0,0.0,3.0
+2122,West Ham,9,2021-10-31,Aston Villa,A,W,1,4,3,3.0,0.0,3.0
+2122,West Ham,10,2021-11-07,Liverpool,H,W,3,2,3,0.0,3.0,6.0
+2122,West Ham,11,2021-11-20,Wolves,A,L,1,0,0,3.0,-3.0,3.0
+2122,West Ham,12,2021-11-28,Man City,A,L,2,1,0,0.0,0.0,3.0
+2122,West Ham,13,2021-12-01,Brighton,H,D,1,1,1,1.0,0.0,3.0
+2122,West Ham,14,2021-12-04,Chelsea,H,W,3,2,3,0.0,3.0,6.0
+2122,West Ham,15,2021-12-12,Burnley,A,D,0,0,1,3.0,-2.0,4.0
+2122,West Ham,16,2021-12-15,Arsenal,A,L,2,0,0,0.0,0.0,4.0
+2122,West Ham,17,2021-12-26,Southampton,H,L,2,3,0,3.0,-3.0,1.0
+2122,West Ham,18,2022-01-01,Crystal Palace,A,W,2,3,3,3.0,0.0,1.0
+2122,West Ham,19,2022-01-16,Leeds,H,L,2,3,0,3.0,-3.0,-2.0
+2122,West Ham,20,2022-01-22,Man United,A,L,1,0,0,0.0,0.0,-2.0
+2122,West Ham,21,2022-02-13,Leicester,A,D,2,2,1,3.0,-2.0,-4.0
+2122,West Ham,22,2022-02-19,Newcastle,H,D,1,1,1,0.0,1.0,-3.0
+2122,West Ham,23,2022-02-27,Wolves,H,W,1,0,3,3.0,0.0,-3.0
+2122,West Ham,24,2022-03-05,Liverpool,A,L,1,0,0,0.0,0.0,-3.0
+2122,West Ham,25,2022-03-13,Aston Villa,H,W,2,1,3,3.0,0.0,-3.0
+2122,West Ham,26,2022-03-20,Tottenham,A,L,3,1,0,1.0,-1.0,-4.0
+2122,West Ham,27,2022-04-03,Everton,H,W,2,1,3,0.0,3.0,-1.0
+2122,West Ham,28,2022-04-17,Burnley,H,D,1,1,1,3.0,-2.0,-3.0
+2122,West Ham,29,2022-04-24,Chelsea,A,L,1,0,0,0.0,0.0,-3.0
+2122,West Ham,30,2022-05-01,Arsenal,H,L,1,2,0,1.0,-1.0,-4.0
+2122,West Ham,31,2022-05-15,Man City,H,D,2,2,1,1.0,0.0,-4.0
+2122,West Ham,32,2022-05-22,Brighton,A,L,3,1,0,1.0,-1.0,-5.0
+2122,Wolves,1,2021-08-14,Leicester,A,L,1,0,0,0.0,0.0,0.0
+2122,Wolves,2,2021-08-22,Tottenham,H,L,0,1,0,1.0,-1.0,-1.0
+2122,Wolves,3,2021-08-29,Man United,H,L,0,1,0,0.0,0.0,-1.0
+2122,Wolves,4,2021-09-26,Southampton,A,W,0,1,3,3.0,0.0,-1.0
+2122,Wolves,5,2021-10-02,Newcastle,H,W,2,1,3,1.0,2.0,1.0
+2122,Wolves,6,2021-10-16,Aston Villa,A,W,2,3,3,1.0,2.0,3.0
+2122,Wolves,7,2021-10-23,Leeds,A,D,1,1,1,3.0,-2.0,1.0
+2122,Wolves,8,2021-11-01,Everton,H,W,2,1,3,0.0,3.0,4.0
+2122,Wolves,9,2021-11-06,Crystal Palace,A,L,2,0,0,0.0,0.0,4.0
+2122,Wolves,10,2021-11-20,West Ham,H,W,1,0,3,0.0,3.0,7.0
+2122,Wolves,11,2021-12-01,Burnley,H,D,0,0,1,0.0,1.0,8.0
+2122,Wolves,12,2021-12-04,Liverpool,H,L,0,1,0,0.0,0.0,8.0
+2122,Wolves,13,2021-12-11,Man City,A,L,1,0,0,0.0,0.0,8.0
+2122,Wolves,14,2021-12-15,Brighton,A,W,0,1,3,1.0,2.0,10.0
+2122,Wolves,15,2021-12-19,Chelsea,H,D,0,0,1,3.0,-2.0,8.0
+2122,Wolves,16,2022-01-03,Man United,A,W,0,1,3,0.0,3.0,11.0
+2122,Wolves,17,2022-01-15,Southampton,H,W,3,1,3,1.0,2.0,13.0
+2122,Wolves,18,2022-02-10,Arsenal,H,L,0,1,0,3.0,-3.0,10.0
+2122,Wolves,19,2022-02-13,Tottenham,A,W,0,2,3,0.0,3.0,13.0
+2122,Wolves,20,2022-02-20,Leicester,H,W,2,1,3,1.0,2.0,15.0
+2122,Wolves,21,2022-02-24,Arsenal,A,L,2,1,0,3.0,-3.0,12.0
+2122,Wolves,22,2022-02-27,West Ham,A,L,1,0,0,0.0,0.0,12.0
+2122,Wolves,23,2022-03-05,Crystal Palace,H,L,0,2,0,3.0,-3.0,9.0
+2122,Wolves,24,2022-03-13,Everton,A,W,0,1,3,0.0,3.0,12.0
+2122,Wolves,25,2022-03-18,Leeds,H,L,2,3,0,3.0,-3.0,9.0
+2122,Wolves,26,2022-04-02,Aston Villa,H,W,2,1,3,0.0,3.0,12.0
+2122,Wolves,27,2022-04-08,Newcastle,A,L,1,0,0,1.0,-1.0,11.0
+2122,Wolves,28,2022-04-24,Burnley,A,L,1,0,0,0.0,0.0,11.0
+2122,Wolves,29,2022-04-30,Brighton,H,L,0,3,0,3.0,-3.0,8.0
+2122,Wolves,30,2022-05-07,Chelsea,A,D,2,2,1,1.0,0.0,8.0
+2122,Wolves,31,2022-05-11,Man City,H,L,1,5,0,0.0,0.0,8.0
+2122,Wolves,32,2022-05-22,Liverpool,A,L,3,1,0,0.0,0.0,8.0

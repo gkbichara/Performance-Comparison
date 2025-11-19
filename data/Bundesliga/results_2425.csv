@@ -1,0 +1,481 @@
+Season,Team,Match_Number,Date,Opponent,Venue,Result,FTHG,FTAG,Points_cur,Points_prev,Differential,Cumulative
+2425,Augsburg,1,2024-08-24,Werder Bremen,H,D,2,2,1,0.0,1.0,1.0
+2425,Augsburg,2,2024-09-01,Heidenheim,A,L,4,0,0,3.0,-3.0,-2.0
+2425,Augsburg,3,2024-09-20,Mainz,H,L,2,3,0,3.0,-3.0,-5.0
+2425,Augsburg,4,2024-09-28,RB Leipzig,A,L,4,0,0,0.0,0.0,-5.0
+2425,Augsburg,5,2024-10-04,M'gladbach,H,W,2,1,3,1.0,2.0,-3.0
+2425,Augsburg,6,2024-10-19,Freiburg,A,L,3,1,0,0.0,0.0,-3.0
+2425,Augsburg,7,2024-10-26,Dortmund,H,W,2,1,3,1.0,2.0,-1.0
+2425,Augsburg,8,2024-11-02,Wolfsburg,A,D,1,1,1,3.0,-2.0,-3.0
+2425,Augsburg,9,2024-11-10,Hoffenheim,H,D,0,0,1,1.0,0.0,-3.0
+2425,Augsburg,10,2024-11-22,Bayern Munich,A,L,3,0,0,0.0,0.0,-3.0
+2425,Augsburg,11,2024-11-30,Bochum,H,W,1,0,3,1.0,2.0,-1.0
+2425,Augsburg,12,2024-12-07,Ein Frankfurt,A,D,2,2,1,0.0,1.0,0.0
+2425,Augsburg,13,2024-12-14,Leverkusen,H,L,0,2,0,0.0,0.0,0.0
+2425,Augsburg,14,2025-01-12,Stuttgart,H,L,0,1,0,0.0,0.0,0.0
+2425,Augsburg,15,2025-01-15,Union Berlin,A,W,0,2,3,1.0,2.0,2.0
+2425,Augsburg,16,2025-01-19,Werder Bremen,A,W,0,2,3,0.0,3.0,5.0
+2425,Augsburg,17,2025-01-25,Heidenheim,H,W,2,1,3,3.0,0.0,5.0
+2425,Augsburg,18,2025-02-08,Mainz,A,D,0,0,1,0.0,1.0,6.0
+2425,Augsburg,19,2025-02-14,RB Leipzig,H,D,0,0,1,1.0,0.0,6.0
+2425,Augsburg,20,2025-02-22,M'gladbach,A,W,0,3,3,3.0,0.0,6.0
+2425,Augsburg,21,2025-03-02,Freiburg,H,D,0,0,1,3.0,-2.0,4.0
+2425,Augsburg,22,2025-03-08,Dortmund,A,W,0,1,3,0.0,3.0,7.0
+2425,Augsburg,23,2025-03-15,Wolfsburg,H,W,1,0,3,3.0,0.0,7.0
+2425,Augsburg,24,2025-03-29,Hoffenheim,A,D,1,1,1,0.0,1.0,8.0
+2425,Augsburg,25,2025-04-04,Bayern Munich,H,L,1,3,0,0.0,0.0,8.0
+2425,Augsburg,26,2025-04-12,Bochum,A,W,1,2,3,1.0,2.0,10.0
+2425,Augsburg,27,2025-04-20,Ein Frankfurt,H,D,0,0,1,3.0,-2.0,8.0
+2425,Augsburg,28,2025-04-26,Leverkusen,A,L,2,0,0,0.0,0.0,8.0
+2425,Augsburg,29,2025-05-11,Stuttgart,A,L,4,0,0,0.0,0.0,8.0
+2425,Augsburg,30,2025-05-17,Union Berlin,H,L,1,2,0,3.0,-3.0,5.0
+2425,Bayern Munich,1,2024-08-25,Wolfsburg,A,W,2,3,3,3.0,0.0,0.0
+2425,Bayern Munich,2,2024-09-01,Freiburg,H,W,2,0,3,3.0,0.0,0.0
+2425,Bayern Munich,3,2024-09-21,Werder Bremen,A,W,0,5,3,3.0,0.0,0.0
+2425,Bayern Munich,4,2024-09-28,Leverkusen,H,D,1,1,1,1.0,0.0,0.0
+2425,Bayern Munich,5,2024-10-06,Ein Frankfurt,A,D,3,3,1,0.0,1.0,1.0
+2425,Bayern Munich,6,2024-10-19,Stuttgart,H,W,4,0,3,3.0,0.0,1.0
+2425,Bayern Munich,7,2024-10-27,Bochum,A,W,0,5,3,0.0,3.0,4.0
+2425,Bayern Munich,8,2024-11-02,Union Berlin,H,W,3,0,3,3.0,0.0,4.0
+2425,Bayern Munich,9,2024-11-22,Augsburg,H,W,3,0,3,3.0,0.0,4.0
+2425,Bayern Munich,10,2024-11-30,Dortmund,A,D,1,1,1,3.0,-2.0,2.0
+2425,Bayern Munich,11,2024-12-07,Heidenheim,H,W,4,2,3,3.0,0.0,2.0
+2425,Bayern Munich,12,2024-12-14,Mainz,A,L,2,1,0,3.0,-3.0,-1.0
+2425,Bayern Munich,13,2024-12-20,RB Leipzig,H,W,5,1,3,3.0,0.0,-1.0
+2425,Bayern Munich,14,2025-01-11,M'gladbach,A,W,0,1,3,3.0,0.0,-1.0
+2425,Bayern Munich,15,2025-01-15,Hoffenheim,H,W,5,0,3,3.0,0.0,-1.0
+2425,Bayern Munich,16,2025-01-18,Wolfsburg,H,W,3,2,3,3.0,0.0,-1.0
+2425,Bayern Munich,17,2025-01-25,Freiburg,A,W,1,2,3,1.0,2.0,1.0
+2425,Bayern Munich,18,2025-02-07,Werder Bremen,H,W,3,0,3,0.0,3.0,4.0
+2425,Bayern Munich,19,2025-02-15,Leverkusen,A,D,0,0,1,0.0,1.0,5.0
+2425,Bayern Munich,20,2025-02-23,Ein Frankfurt,H,W,4,0,3,3.0,0.0,5.0
+2425,Bayern Munich,21,2025-02-28,Stuttgart,A,W,1,3,3,0.0,3.0,8.0
+2425,Bayern Munich,22,2025-03-08,Bochum,H,L,2,3,0,3.0,-3.0,5.0
+2425,Bayern Munich,23,2025-03-15,Union Berlin,A,D,1,1,1,3.0,-2.0,3.0
+2425,Bayern Munich,24,2025-04-04,Augsburg,A,W,1,3,3,3.0,0.0,3.0
+2425,Bayern Munich,25,2025-04-12,Dortmund,H,D,2,2,1,0.0,1.0,4.0
+2425,Bayern Munich,26,2025-04-19,Heidenheim,A,W,0,4,3,0.0,3.0,7.0
+2425,Bayern Munich,27,2025-04-26,Mainz,H,W,3,0,3,3.0,0.0,7.0
+2425,Bayern Munich,28,2025-05-03,RB Leipzig,A,D,3,3,1,1.0,0.0,7.0
+2425,Bayern Munich,29,2025-05-10,M'gladbach,H,W,2,0,3,3.0,0.0,7.0
+2425,Bayern Munich,30,2025-05-17,Hoffenheim,A,W,0,4,3,0.0,3.0,10.0
+2425,Bochum,1,2024-08-24,RB Leipzig,A,L,1,0,0,1.0,-1.0,-1.0
+2425,Bochum,2,2024-08-31,M'gladbach,H,L,0,2,0,0.0,0.0,-1.0
+2425,Bochum,3,2024-09-14,Freiburg,A,L,2,1,0,0.0,0.0,-1.0
+2425,Bochum,4,2024-09-27,Dortmund,A,L,4,2,0,0.0,0.0,-1.0
+2425,Bochum,5,2024-10-05,Wolfsburg,H,L,1,3,0,3.0,-3.0,-4.0
+2425,Bochum,6,2024-10-19,Hoffenheim,A,L,3,1,0,0.0,0.0,-4.0
+2425,Bochum,7,2024-10-27,Bayern Munich,H,L,0,5,0,3.0,-3.0,-7.0
+2425,Bochum,8,2024-11-02,Ein Frankfurt,A,L,7,2,0,1.0,-1.0,-8.0
+2425,Bochum,9,2024-11-09,Leverkusen,H,D,1,1,1,0.0,1.0,-7.0
+2425,Bochum,10,2024-11-23,Stuttgart,A,L,2,0,0,0.0,0.0,-7.0
+2425,Bochum,11,2024-11-30,Augsburg,A,L,1,0,0,1.0,-1.0,-8.0
+2425,Bochum,12,2024-12-07,Werder Bremen,H,L,0,1,0,1.0,-1.0,-9.0
+2425,Bochum,13,2024-12-14,Union Berlin,A,W,0,2,3,3.0,0.0,-9.0
+2425,Bochum,14,2024-12-22,Heidenheim,H,W,2,0,3,1.0,2.0,-7.0
+2425,Bochum,15,2025-01-11,Mainz,A,L,2,0,0,0.0,0.0,-7.0
+2425,Bochum,16,2025-01-18,RB Leipzig,H,D,3,3,1,0.0,1.0,-6.0
+2425,Bochum,17,2025-01-25,M'gladbach,A,L,3,0,0,0.0,0.0,-6.0
+2425,Bochum,18,2025-02-01,Freiburg,H,L,0,1,0,0.0,0.0,-6.0
+2425,Bochum,19,2025-02-15,Dortmund,H,W,2,0,3,1.0,2.0,-4.0
+2425,Bochum,20,2025-02-22,Wolfsburg,A,D,1,1,1,0.0,1.0,-3.0
+2425,Bochum,21,2025-03-01,Hoffenheim,H,L,0,1,0,3.0,-3.0,-6.0
+2425,Bochum,22,2025-03-08,Bayern Munich,A,W,2,3,3,0.0,3.0,-3.0
+2425,Bochum,23,2025-03-16,Ein Frankfurt,H,L,1,3,0,1.0,-1.0,-4.0
+2425,Bochum,24,2025-03-28,Leverkusen,A,L,3,1,0,0.0,0.0,-4.0
+2425,Bochum,25,2025-04-05,Stuttgart,H,L,0,4,0,3.0,-3.0,-7.0
+2425,Bochum,26,2025-04-12,Augsburg,H,L,1,2,0,1.0,-1.0,-8.0
+2425,Bochum,27,2025-04-19,Werder Bremen,A,L,1,0,0,0.0,0.0,-8.0
+2425,Bochum,28,2025-04-27,Union Berlin,H,D,1,1,1,3.0,-2.0,-10.0
+2425,Bochum,29,2025-05-02,Heidenheim,A,D,0,0,1,1.0,0.0,-10.0
+2425,Bochum,30,2025-05-10,Mainz,H,L,1,4,0,1.0,-1.0,-11.0
+2425,Dortmund,1,2024-08-24,Ein Frankfurt,H,W,2,0,3,3.0,0.0,0.0
+2425,Dortmund,2,2024-08-31,Werder Bremen,A,D,0,0,1,3.0,-2.0,-2.0
+2425,Dortmund,3,2024-09-13,Heidenheim,H,W,4,2,3,1.0,2.0,0.0
+2425,Dortmund,4,2024-09-22,Stuttgart,A,L,5,1,0,0.0,0.0,0.0
+2425,Dortmund,5,2024-09-27,Bochum,H,W,4,2,3,3.0,0.0,0.0
+2425,Dortmund,6,2024-10-05,Union Berlin,A,L,2,1,0,3.0,-3.0,-3.0
+2425,Dortmund,7,2024-10-26,Augsburg,A,L,2,1,0,1.0,-1.0,-4.0
+2425,Dortmund,8,2024-11-02,RB Leipzig,H,W,2,1,3,0.0,3.0,-1.0
+2425,Dortmund,9,2024-11-09,Mainz,A,L,3,1,0,0.0,0.0,-1.0
+2425,Dortmund,10,2024-11-23,Freiburg,H,W,4,0,3,3.0,0.0,-1.0
+2425,Dortmund,11,2024-11-30,Bayern Munich,H,D,1,1,1,0.0,1.0,0.0
+2425,Dortmund,12,2024-12-07,M'gladbach,A,D,1,1,1,3.0,-2.0,-2.0
+2425,Dortmund,13,2024-12-15,Hoffenheim,H,D,1,1,1,0.0,1.0,-1.0
+2425,Dortmund,14,2024-12-22,Wolfsburg,A,W,1,3,3,1.0,2.0,1.0
+2425,Dortmund,15,2025-01-10,Leverkusen,H,L,2,3,0,1.0,-1.0,0.0
+2425,Dortmund,16,2025-01-17,Ein Frankfurt,A,L,2,0,0,1.0,-1.0,-1.0
+2425,Dortmund,17,2025-01-25,Werder Bremen,H,D,2,2,1,3.0,-2.0,-3.0
+2425,Dortmund,18,2025-02-01,Heidenheim,A,W,1,2,3,1.0,2.0,-1.0
+2425,Dortmund,19,2025-02-08,Stuttgart,H,L,1,2,0,0.0,0.0,-1.0
+2425,Dortmund,20,2025-02-15,Bochum,A,L,2,0,0,1.0,-1.0,-2.0
+2425,Dortmund,21,2025-02-22,Union Berlin,H,W,6,0,3,3.0,0.0,-2.0
+2425,Dortmund,22,2025-03-08,Augsburg,H,L,0,1,0,3.0,-3.0,-5.0
+2425,Dortmund,23,2025-03-15,RB Leipzig,A,L,2,0,0,0.0,0.0,-5.0
+2425,Dortmund,24,2025-03-30,Mainz,H,W,3,1,3,1.0,2.0,-3.0
+2425,Dortmund,25,2025-04-05,Freiburg,A,W,1,4,3,3.0,0.0,-3.0
+2425,Dortmund,26,2025-04-12,Bayern Munich,A,D,2,2,1,3.0,-2.0,-5.0
+2425,Dortmund,27,2025-04-20,M'gladbach,H,W,3,2,3,3.0,0.0,-5.0
+2425,Dortmund,28,2025-04-26,Hoffenheim,A,W,2,3,3,3.0,0.0,-5.0
+2425,Dortmund,29,2025-05-03,Wolfsburg,H,W,4,0,3,3.0,0.0,-5.0
+2425,Dortmund,30,2025-05-11,Leverkusen,A,W,2,4,3,1.0,2.0,-3.0
+2425,Ein Frankfurt,1,2024-08-24,Dortmund,A,L,2,0,0,0.0,0.0,0.0
+2425,Ein Frankfurt,2,2024-08-31,Hoffenheim,H,W,3,1,3,3.0,0.0,0.0
+2425,Ein Frankfurt,3,2024-09-14,Wolfsburg,A,W,1,2,3,0.0,3.0,3.0
+2425,Ein Frankfurt,4,2024-09-21,M'gladbach,H,W,2,0,3,3.0,0.0,3.0
+2425,Ein Frankfurt,5,2024-10-06,Bayern Munich,H,D,3,3,1,3.0,-2.0,1.0
+2425,Ein Frankfurt,6,2024-10-19,Leverkusen,A,L,2,1,0,0.0,0.0,1.0
+2425,Ein Frankfurt,7,2024-10-27,Union Berlin,A,D,1,1,1,3.0,-2.0,-1.0
+2425,Ein Frankfurt,8,2024-11-02,Bochum,H,W,7,2,3,1.0,2.0,1.0
+2425,Ein Frankfurt,9,2024-11-10,Stuttgart,A,W,2,3,3,0.0,3.0,4.0
+2425,Ein Frankfurt,10,2024-11-23,Werder Bremen,H,W,1,0,3,1.0,2.0,6.0
+2425,Ein Frankfurt,11,2024-12-01,Heidenheim,A,W,0,4,3,3.0,0.0,6.0
+2425,Ein Frankfurt,12,2024-12-07,Augsburg,H,D,2,2,1,3.0,-2.0,4.0
+2425,Ein Frankfurt,13,2024-12-15,RB Leipzig,A,L,2,1,0,3.0,-3.0,1.0
+2425,Ein Frankfurt,14,2024-12-21,Mainz,H,L,1,3,0,3.0,-3.0,-2.0
+2425,Ein Frankfurt,15,2025-01-14,Freiburg,H,W,4,1,3,1.0,2.0,0.0
+2425,Ein Frankfurt,16,2025-01-17,Dortmund,H,W,2,0,3,1.0,2.0,2.0
+2425,Ein Frankfurt,17,2025-01-26,Hoffenheim,A,D,2,2,1,3.0,-2.0,0.0
+2425,Ein Frankfurt,18,2025-02-02,Wolfsburg,H,D,1,1,1,1.0,0.0,0.0
+2425,Ein Frankfurt,19,2025-02-08,M'gladbach,A,D,1,1,1,1.0,0.0,0.0
+2425,Ein Frankfurt,20,2025-02-23,Bayern Munich,A,L,4,0,0,0.0,0.0,0.0
+2425,Ein Frankfurt,21,2025-03-01,Leverkusen,H,L,1,4,0,0.0,0.0,0.0
+2425,Ein Frankfurt,22,2025-03-09,Union Berlin,H,L,1,2,0,1.0,-1.0,-1.0
+2425,Ein Frankfurt,23,2025-03-16,Bochum,A,W,1,3,3,1.0,2.0,1.0
+2425,Ein Frankfurt,24,2025-03-29,Stuttgart,H,W,1,0,3,0.0,3.0,4.0
+2425,Ein Frankfurt,25,2025-04-05,Werder Bremen,A,L,2,0,0,1.0,-1.0,3.0
+2425,Ein Frankfurt,26,2025-04-13,Heidenheim,H,W,3,0,3,3.0,0.0,3.0
+2425,Ein Frankfurt,27,2025-04-20,Augsburg,A,D,0,0,1,0.0,1.0,4.0
+2425,Ein Frankfurt,28,2025-04-26,RB Leipzig,H,W,4,0,3,1.0,2.0,6.0
+2425,Ein Frankfurt,29,2025-05-04,Mainz,A,D,1,1,1,1.0,0.0,6.0
+2425,Ein Frankfurt,30,2025-05-17,Freiburg,A,W,1,3,3,1.0,2.0,8.0
+2425,Freiburg,1,2024-08-24,Stuttgart,H,W,3,1,3,0.0,3.0,3.0
+2425,Freiburg,2,2024-09-01,Bayern Munich,A,L,2,0,0,0.0,0.0,3.0
+2425,Freiburg,3,2024-09-14,Bochum,H,W,2,1,3,3.0,0.0,3.0
+2425,Freiburg,4,2024-09-21,Heidenheim,A,W,0,3,3,0.0,3.0,6.0
+2425,Freiburg,5,2024-10-05,Werder Bremen,A,W,0,1,3,0.0,3.0,9.0
+2425,Freiburg,6,2024-10-19,Augsburg,H,W,3,1,3,3.0,0.0,9.0
+2425,Freiburg,7,2024-10-26,RB Leipzig,A,L,3,1,0,0.0,0.0,9.0
+2425,Freiburg,8,2024-11-03,Mainz,H,D,0,0,1,1.0,0.0,9.0
+2425,Freiburg,9,2024-11-08,Union Berlin,A,D,0,0,1,0.0,1.0,10.0
+2425,Freiburg,10,2024-11-23,Dortmund,A,L,4,0,0,0.0,0.0,10.0
+2425,Freiburg,11,2024-11-30,M'gladbach,H,W,3,1,3,1.0,2.0,12.0
+2425,Freiburg,12,2024-12-08,Hoffenheim,A,D,1,1,1,3.0,-2.0,10.0
+2425,Freiburg,13,2024-12-13,Wolfsburg,H,W,3,2,3,0.0,3.0,13.0
+2425,Freiburg,14,2024-12-21,Leverkusen,A,L,5,1,0,0.0,0.0,13.0
+2425,Freiburg,15,2025-01-14,Ein Frankfurt,A,L,4,1,0,1.0,-1.0,12.0
+2425,Freiburg,16,2025-01-18,Stuttgart,A,L,4,0,0,0.0,0.0,12.0
+2425,Freiburg,17,2025-01-25,Bayern Munich,H,L,1,2,0,1.0,-1.0,11.0
+2425,Freiburg,18,2025-02-01,Bochum,A,W,0,1,3,3.0,0.0,11.0
+2425,Freiburg,19,2025-02-08,Heidenheim,H,W,1,0,3,1.0,2.0,13.0
+2425,Freiburg,20,2025-02-21,Werder Bremen,H,W,5,0,3,3.0,0.0,13.0
+2425,Freiburg,21,2025-03-02,Augsburg,A,D,0,0,1,0.0,1.0,14.0
+2425,Freiburg,22,2025-03-08,RB Leipzig,H,D,0,0,1,0.0,1.0,15.0
+2425,Freiburg,23,2025-03-15,Mainz,A,D,2,2,1,3.0,-2.0,13.0
+2425,Freiburg,24,2025-03-30,Union Berlin,H,L,1,2,0,1.0,-1.0,12.0
+2425,Freiburg,25,2025-04-05,Dortmund,H,L,1,4,0,0.0,0.0,12.0
+2425,Freiburg,26,2025-04-12,M'gladbach,A,W,1,2,3,3.0,0.0,12.0
+2425,Freiburg,27,2025-04-19,Hoffenheim,H,W,3,2,3,3.0,0.0,12.0
+2425,Freiburg,28,2025-04-26,Wolfsburg,A,W,0,1,3,3.0,0.0,12.0
+2425,Freiburg,29,2025-05-04,Leverkusen,H,D,2,2,1,0.0,1.0,13.0
+2425,Freiburg,30,2025-05-17,Ein Frankfurt,H,L,1,3,0,1.0,-1.0,12.0
+2425,Heidenheim,1,2024-09-01,Augsburg,H,W,4,0,3,0.0,3.0,3.0
+2425,Heidenheim,2,2024-09-13,Dortmund,A,L,4,2,0,1.0,-1.0,2.0
+2425,Heidenheim,3,2024-09-21,Freiburg,H,L,0,3,0,3.0,-3.0,-1.0
+2425,Heidenheim,4,2024-09-28,Mainz,A,W,0,2,3,3.0,0.0,-1.0
+2425,Heidenheim,5,2024-10-06,RB Leipzig,H,L,0,1,0,0.0,0.0,-1.0
+2425,Heidenheim,6,2024-10-19,M'gladbach,A,L,3,2,0,0.0,0.0,-1.0
+2425,Heidenheim,7,2024-10-27,Hoffenheim,H,D,0,0,1,0.0,1.0,0.0
+2425,Heidenheim,8,2024-11-10,Wolfsburg,H,L,1,3,0,1.0,-1.0,-1.0
+2425,Heidenheim,9,2024-11-23,Leverkusen,A,L,5,2,0,0.0,0.0,-1.0
+2425,Heidenheim,10,2024-12-01,Ein Frankfurt,H,L,0,4,0,0.0,0.0,-1.0
+2425,Heidenheim,11,2024-12-07,Bayern Munich,A,L,4,2,0,0.0,0.0,-1.0
+2425,Heidenheim,12,2024-12-15,Stuttgart,H,L,1,3,0,3.0,-3.0,-4.0
+2425,Heidenheim,13,2024-12-22,Bochum,A,L,2,0,0,1.0,-1.0,-5.0
+2425,Heidenheim,14,2025-01-11,Union Berlin,H,W,2,0,3,3.0,0.0,-5.0
+2425,Heidenheim,15,2025-01-15,Werder Bremen,A,D,3,3,1,3.0,-2.0,-7.0
+2425,Heidenheim,16,2025-01-25,Augsburg,A,L,2,1,0,0.0,0.0,-7.0
+2425,Heidenheim,17,2025-02-01,Dortmund,H,L,1,2,0,1.0,-1.0,-8.0
+2425,Heidenheim,18,2025-02-08,Freiburg,A,L,1,0,0,1.0,-1.0,-9.0
+2425,Heidenheim,19,2025-02-16,Mainz,H,L,0,2,0,1.0,-1.0,-10.0
+2425,Heidenheim,20,2025-02-23,RB Leipzig,A,D,2,2,1,0.0,1.0,-9.0
+2425,Heidenheim,21,2025-03-01,M'gladbach,H,L,0,3,0,1.0,-1.0,-10.0
+2425,Heidenheim,22,2025-03-09,Hoffenheim,A,D,1,1,1,1.0,0.0,-10.0
+2425,Heidenheim,23,2025-03-29,Wolfsburg,A,W,0,1,3,0.0,3.0,-7.0
+2425,Heidenheim,24,2025-04-05,Leverkusen,H,L,0,1,0,0.0,0.0,-7.0
+2425,Heidenheim,25,2025-04-13,Ein Frankfurt,A,L,3,0,0,0.0,0.0,-7.0
+2425,Heidenheim,26,2025-04-19,Bayern Munich,H,L,0,4,0,3.0,-3.0,-10.0
+2425,Heidenheim,27,2025-04-25,Stuttgart,A,W,0,1,3,1.0,2.0,-8.0
+2425,Heidenheim,28,2025-05-02,Bochum,H,D,0,0,1,1.0,0.0,-8.0
+2425,Heidenheim,29,2025-05-10,Union Berlin,A,W,0,3,3,1.0,2.0,-6.0
+2425,Heidenheim,30,2025-05-17,Werder Bremen,H,L,1,4,0,3.0,-3.0,-9.0
+2425,Hoffenheim,1,2024-08-31,Ein Frankfurt,A,L,3,1,0,0.0,0.0,0.0
+2425,Hoffenheim,2,2024-09-14,Leverkusen,H,L,1,4,0,0.0,0.0,0.0
+2425,Hoffenheim,3,2024-09-21,Union Berlin,A,L,2,1,0,3.0,-3.0,-3.0
+2425,Hoffenheim,4,2024-09-29,Werder Bremen,H,L,3,4,0,3.0,-3.0,-6.0
+2425,Hoffenheim,5,2024-10-06,Stuttgart,A,D,1,1,1,3.0,-2.0,-8.0
+2425,Hoffenheim,6,2024-10-19,Bochum,H,W,3,1,3,3.0,0.0,-8.0
+2425,Hoffenheim,7,2024-10-27,Heidenheim,A,D,0,0,1,3.0,-2.0,-10.0
+2425,Hoffenheim,8,2024-11-10,Augsburg,A,D,0,0,1,1.0,0.0,-10.0
+2425,Hoffenheim,9,2024-11-23,RB Leipzig,H,W,4,3,3,1.0,2.0,-8.0
+2425,Hoffenheim,10,2024-12-01,Mainz,A,L,2,0,0,0.0,0.0,-8.0
+2425,Hoffenheim,11,2024-12-08,Freiburg,H,D,1,1,1,0.0,1.0,-7.0
+2425,Hoffenheim,12,2024-12-15,Dortmund,A,D,1,1,1,3.0,-2.0,-9.0
+2425,Hoffenheim,13,2024-12-21,M'gladbach,H,L,1,2,0,3.0,-3.0,-12.0
+2425,Hoffenheim,14,2025-01-11,Wolfsburg,H,L,0,1,0,3.0,-3.0,-15.0
+2425,Hoffenheim,15,2025-01-15,Bayern Munich,A,L,5,0,0,0.0,0.0,-15.0
+2425,Hoffenheim,16,2025-01-26,Ein Frankfurt,H,D,2,2,1,0.0,1.0,-14.0
+2425,Hoffenheim,17,2025-02-02,Leverkusen,A,L,3,1,0,0.0,0.0,-14.0
+2425,Hoffenheim,18,2025-02-08,Union Berlin,H,L,0,4,0,0.0,0.0,-14.0
+2425,Hoffenheim,19,2025-02-16,Werder Bremen,A,W,1,3,3,3.0,0.0,-14.0
+2425,Hoffenheim,20,2025-02-23,Stuttgart,H,D,1,1,1,0.0,1.0,-13.0
+2425,Hoffenheim,21,2025-03-01,Bochum,A,W,0,1,3,0.0,3.0,-10.0
+2425,Hoffenheim,22,2025-03-09,Heidenheim,H,D,1,1,1,1.0,0.0,-10.0
+2425,Hoffenheim,23,2025-03-29,Augsburg,H,D,1,1,1,3.0,-2.0,-12.0
+2425,Hoffenheim,24,2025-04-05,RB Leipzig,A,L,3,1,0,0.0,0.0,-12.0
+2425,Hoffenheim,25,2025-04-12,Mainz,H,W,2,0,3,1.0,2.0,-10.0
+2425,Hoffenheim,26,2025-04-19,Freiburg,A,L,3,2,0,0.0,0.0,-10.0
+2425,Hoffenheim,27,2025-04-26,Dortmund,H,L,2,3,0,0.0,0.0,-10.0
+2425,Hoffenheim,28,2025-05-03,M'gladbach,A,D,4,4,1,0.0,1.0,-9.0
+2425,Hoffenheim,29,2025-05-09,Wolfsburg,A,D,2,2,1,1.0,0.0,-9.0
+2425,Hoffenheim,30,2025-05-17,Bayern Munich,H,L,0,4,0,3.0,-3.0,-12.0
+2425,Leverkusen,1,2024-08-23,M'gladbach,A,W,2,3,3,3.0,0.0,0.0
+2425,Leverkusen,2,2024-08-31,RB Leipzig,H,L,2,3,0,3.0,-3.0,-3.0
+2425,Leverkusen,3,2024-09-14,Hoffenheim,A,W,1,4,3,3.0,0.0,-3.0
+2425,Leverkusen,4,2024-09-22,Wolfsburg,H,W,4,3,3,3.0,0.0,-3.0
+2425,Leverkusen,5,2024-09-28,Bayern Munich,A,D,1,1,1,1.0,0.0,-3.0
+2425,Leverkusen,6,2024-10-19,Ein Frankfurt,H,W,2,1,3,3.0,0.0,-3.0
+2425,Leverkusen,7,2024-10-26,Werder Bremen,A,D,2,2,1,3.0,-2.0,-5.0
+2425,Leverkusen,8,2024-11-01,Stuttgart,H,D,0,0,1,1.0,0.0,-5.0
+2425,Leverkusen,9,2024-11-09,Bochum,A,D,1,1,1,3.0,-2.0,-7.0
+2425,Leverkusen,10,2024-11-23,Heidenheim,H,W,5,2,3,3.0,0.0,-7.0
+2425,Leverkusen,11,2024-11-30,Union Berlin,A,W,1,2,3,3.0,0.0,-7.0
+2425,Leverkusen,12,2024-12-14,Augsburg,A,W,0,2,3,3.0,0.0,-7.0
+2425,Leverkusen,13,2024-12-21,Freiburg,H,W,5,1,3,3.0,0.0,-7.0
+2425,Leverkusen,14,2025-01-10,Dortmund,A,W,2,3,3,1.0,2.0,-5.0
+2425,Leverkusen,15,2025-01-14,Mainz,H,W,1,0,3,3.0,0.0,-5.0
+2425,Leverkusen,16,2025-01-18,M'gladbach,H,W,3,1,3,1.0,2.0,-3.0
+2425,Leverkusen,17,2025-01-25,RB Leipzig,A,D,2,2,1,3.0,-2.0,-5.0
+2425,Leverkusen,18,2025-02-02,Hoffenheim,H,W,3,1,3,3.0,0.0,-5.0
+2425,Leverkusen,19,2025-02-08,Wolfsburg,A,D,0,0,1,3.0,-2.0,-7.0
+2425,Leverkusen,20,2025-02-15,Bayern Munich,H,D,0,0,1,3.0,-2.0,-9.0
+2425,Leverkusen,21,2025-03-01,Ein Frankfurt,A,W,1,4,3,3.0,0.0,-9.0
+2425,Leverkusen,22,2025-03-08,Werder Bremen,H,L,0,2,0,3.0,-3.0,-12.0
+2425,Leverkusen,23,2025-03-16,Stuttgart,A,W,3,4,3,1.0,2.0,-10.0
+2425,Leverkusen,24,2025-03-28,Bochum,H,W,3,1,3,3.0,0.0,-10.0
+2425,Leverkusen,25,2025-04-05,Heidenheim,A,W,0,1,3,3.0,0.0,-10.0
+2425,Leverkusen,26,2025-04-12,Union Berlin,H,D,0,0,1,3.0,-2.0,-12.0
+2425,Leverkusen,27,2025-04-26,Augsburg,H,W,2,0,3,3.0,0.0,-12.0
+2425,Leverkusen,28,2025-05-04,Freiburg,A,D,2,2,1,3.0,-2.0,-14.0
+2425,Leverkusen,29,2025-05-11,Dortmund,H,L,2,4,0,1.0,-1.0,-15.0
+2425,Leverkusen,30,2025-05-17,Mainz,A,D,2,2,1,3.0,-2.0,-17.0
+2425,M'gladbach,1,2024-08-23,Leverkusen,H,L,2,3,0,0.0,0.0,0.0
+2425,M'gladbach,2,2024-08-31,Bochum,A,W,0,2,3,3.0,0.0,0.0
+2425,M'gladbach,3,2024-09-14,Stuttgart,H,L,1,3,0,3.0,-3.0,-3.0
+2425,M'gladbach,4,2024-09-21,Ein Frankfurt,A,L,2,0,0,0.0,0.0,-3.0
+2425,M'gladbach,5,2024-09-28,Union Berlin,H,W,1,0,3,1.0,2.0,-1.0
+2425,M'gladbach,6,2024-10-04,Augsburg,A,L,2,1,0,1.0,-1.0,-2.0
+2425,M'gladbach,7,2024-10-19,Heidenheim,H,W,3,2,3,3.0,0.0,-2.0
+2425,M'gladbach,8,2024-10-25,Mainz,A,D,1,1,1,1.0,0.0,-2.0
+2425,M'gladbach,9,2024-11-03,Werder Bremen,H,W,4,1,3,1.0,2.0,0.0
+2425,M'gladbach,10,2024-11-09,RB Leipzig,A,D,0,0,1,0.0,1.0,1.0
+2425,M'gladbach,11,2024-11-30,Freiburg,A,L,3,1,0,1.0,-1.0,0.0
+2425,M'gladbach,12,2024-12-07,Dortmund,H,D,1,1,1,0.0,1.0,1.0
+2425,M'gladbach,13,2024-12-21,Hoffenheim,A,W,1,2,3,0.0,3.0,4.0
+2425,M'gladbach,14,2025-01-11,Bayern Munich,H,L,0,1,0,0.0,0.0,4.0
+2425,M'gladbach,15,2025-01-14,Wolfsburg,A,L,5,1,0,3.0,-3.0,1.0
+2425,M'gladbach,16,2025-01-18,Leverkusen,A,L,3,1,0,1.0,-1.0,0.0
+2425,M'gladbach,17,2025-01-25,Bochum,H,W,3,0,3,3.0,0.0,0.0
+2425,M'gladbach,18,2025-02-01,Stuttgart,A,W,1,2,3,0.0,3.0,3.0
+2425,M'gladbach,19,2025-02-08,Ein Frankfurt,H,D,1,1,1,1.0,0.0,3.0
+2425,M'gladbach,20,2025-02-15,Union Berlin,A,W,1,2,3,0.0,3.0,6.0
+2425,M'gladbach,21,2025-02-22,Augsburg,H,L,0,3,0,0.0,0.0,6.0
+2425,M'gladbach,22,2025-03-01,Heidenheim,A,W,0,3,3,1.0,2.0,8.0
+2425,M'gladbach,23,2025-03-07,Mainz,H,L,1,3,0,1.0,-1.0,7.0
+2425,M'gladbach,24,2025-03-15,Werder Bremen,A,W,2,4,3,1.0,2.0,9.0
+2425,M'gladbach,25,2025-03-29,RB Leipzig,H,W,1,0,3,0.0,3.0,12.0
+2425,M'gladbach,26,2025-04-12,Freiburg,H,L,1,2,0,0.0,0.0,12.0
+2425,M'gladbach,27,2025-04-20,Dortmund,A,L,3,2,0,0.0,0.0,12.0
+2425,M'gladbach,28,2025-05-03,Hoffenheim,H,D,4,4,1,3.0,-2.0,10.0
+2425,M'gladbach,29,2025-05-10,Bayern Munich,A,L,2,0,0,0.0,0.0,10.0
+2425,M'gladbach,30,2025-05-17,Wolfsburg,H,L,0,1,0,3.0,-3.0,7.0
+2425,Mainz,1,2024-08-24,Union Berlin,H,D,1,1,1,1.0,0.0,0.0
+2425,Mainz,2,2024-08-31,Stuttgart,A,D,3,3,1,0.0,1.0,1.0
+2425,Mainz,3,2024-09-15,Werder Bremen,H,L,1,2,0,0.0,0.0,1.0
+2425,Mainz,4,2024-09-20,Augsburg,A,W,2,3,3,0.0,3.0,4.0
+2425,Mainz,5,2024-09-28,Heidenheim,H,L,0,2,0,0.0,0.0,4.0
+2425,Mainz,6,2024-10-19,RB Leipzig,H,L,0,2,0,3.0,-3.0,1.0
+2425,Mainz,7,2024-10-25,M'gladbach,H,D,1,1,1,1.0,0.0,1.0
+2425,Mainz,8,2024-11-03,Freiburg,A,D,0,0,1,1.0,0.0,1.0
+2425,Mainz,9,2024-11-09,Dortmund,H,W,3,1,3,3.0,0.0,1.0
+2425,Mainz,10,2024-12-01,Hoffenheim,H,W,2,0,3,3.0,0.0,1.0
+2425,Mainz,11,2024-12-08,Wolfsburg,A,L,4,3,0,3.0,-3.0,-2.0
+2425,Mainz,12,2024-12-14,Bayern Munich,H,W,2,1,3,0.0,3.0,1.0
+2425,Mainz,13,2024-12-21,Ein Frankfurt,A,W,1,3,3,0.0,3.0,4.0
+2425,Mainz,14,2025-01-11,Bochum,H,W,2,0,3,3.0,0.0,4.0
+2425,Mainz,15,2025-01-14,Leverkusen,A,L,1,0,0,0.0,0.0,4.0
+2425,Mainz,16,2025-01-19,Union Berlin,A,L,2,1,0,0.0,0.0,4.0
+2425,Mainz,17,2025-01-25,Stuttgart,H,W,2,0,3,0.0,3.0,7.0
+2425,Mainz,18,2025-01-31,Werder Bremen,A,L,1,0,0,0.0,0.0,7.0
+2425,Mainz,19,2025-02-08,Augsburg,H,D,0,0,1,3.0,-2.0,5.0
+2425,Mainz,20,2025-02-16,Heidenheim,A,W,0,2,3,1.0,2.0,7.0
+2425,Mainz,21,2025-03-01,RB Leipzig,A,W,1,2,3,1.0,2.0,9.0
+2425,Mainz,22,2025-03-07,M'gladbach,A,W,1,3,3,1.0,2.0,11.0
+2425,Mainz,23,2025-03-15,Freiburg,H,D,2,2,1,0.0,1.0,12.0
+2425,Mainz,24,2025-03-30,Dortmund,A,L,3,1,0,1.0,-1.0,11.0
+2425,Mainz,25,2025-04-12,Hoffenheim,A,L,2,0,0,1.0,-1.0,10.0
+2425,Mainz,26,2025-04-19,Wolfsburg,H,D,2,2,1,1.0,0.0,10.0
+2425,Mainz,27,2025-04-26,Bayern Munich,A,L,3,0,0,0.0,0.0,10.0
+2425,Mainz,28,2025-05-04,Ein Frankfurt,H,D,1,1,1,1.0,0.0,10.0
+2425,Mainz,29,2025-05-10,Bochum,A,W,1,4,3,1.0,2.0,12.0
+2425,Mainz,30,2025-05-17,Leverkusen,H,D,2,2,1,0.0,1.0,13.0
+2425,RB Leipzig,1,2024-08-24,Bochum,H,W,1,0,3,1.0,2.0,2.0
+2425,RB Leipzig,2,2024-08-31,Leverkusen,A,W,2,3,3,0.0,3.0,5.0
+2425,RB Leipzig,3,2024-09-14,Union Berlin,H,D,0,0,1,3.0,-2.0,3.0
+2425,RB Leipzig,4,2024-09-28,Augsburg,H,W,4,0,3,3.0,0.0,3.0
+2425,RB Leipzig,5,2024-10-06,Heidenheim,A,W,0,1,3,3.0,0.0,3.0
+2425,RB Leipzig,6,2024-10-19,Mainz,A,W,0,2,3,0.0,3.0,6.0
+2425,RB Leipzig,7,2024-10-26,Freiburg,H,W,3,1,3,3.0,0.0,6.0
+2425,RB Leipzig,8,2024-11-02,Dortmund,A,L,2,1,0,3.0,-3.0,3.0
+2425,RB Leipzig,9,2024-11-09,M'gladbach,H,D,0,0,1,3.0,-2.0,1.0
+2425,RB Leipzig,10,2024-11-23,Hoffenheim,A,L,4,3,0,1.0,-1.0,0.0
+2425,RB Leipzig,11,2024-11-30,Wolfsburg,H,L,1,5,0,3.0,-3.0,-3.0
+2425,RB Leipzig,12,2024-12-15,Ein Frankfurt,H,W,2,1,3,0.0,3.0,0.0
+2425,RB Leipzig,13,2024-12-20,Bayern Munich,A,L,5,1,0,0.0,0.0,0.0
+2425,RB Leipzig,14,2025-01-12,Werder Bremen,H,W,4,2,3,1.0,2.0,2.0
+2425,RB Leipzig,15,2025-01-15,Stuttgart,A,L,2,1,0,0.0,0.0,2.0
+2425,RB Leipzig,16,2025-01-18,Bochum,A,D,3,3,1,3.0,-2.0,0.0
+2425,RB Leipzig,17,2025-01-25,Leverkusen,H,D,2,2,1,0.0,1.0,1.0
+2425,RB Leipzig,18,2025-02-01,Union Berlin,A,D,0,0,1,3.0,-2.0,-1.0
+2425,RB Leipzig,19,2025-02-14,Augsburg,A,D,0,0,1,1.0,0.0,-1.0
+2425,RB Leipzig,20,2025-02-23,Heidenheim,H,D,2,2,1,3.0,-2.0,-3.0
+2425,RB Leipzig,21,2025-03-01,Mainz,H,L,1,2,0,1.0,-1.0,-4.0
+2425,RB Leipzig,22,2025-03-08,Freiburg,A,D,0,0,1,3.0,-2.0,-6.0
+2425,RB Leipzig,23,2025-03-15,Dortmund,H,W,2,0,3,3.0,0.0,-6.0
+2425,RB Leipzig,24,2025-03-29,M'gladbach,A,L,1,0,0,3.0,-3.0,-9.0
+2425,RB Leipzig,25,2025-04-05,Hoffenheim,H,W,3,1,3,3.0,0.0,-9.0
+2425,RB Leipzig,26,2025-04-11,Wolfsburg,A,W,2,3,3,0.0,3.0,-6.0
+2425,RB Leipzig,27,2025-04-26,Ein Frankfurt,A,L,4,0,0,1.0,-1.0,-7.0
+2425,RB Leipzig,28,2025-05-03,Bayern Munich,H,D,3,3,1,1.0,0.0,-7.0
+2425,RB Leipzig,29,2025-05-10,Werder Bremen,A,D,0,0,1,1.0,0.0,-7.0
+2425,RB Leipzig,30,2025-05-17,Stuttgart,H,L,2,3,0,3.0,-3.0,-10.0
+2425,Stuttgart,1,2024-08-24,Freiburg,A,L,3,1,0,3.0,-3.0,-3.0
+2425,Stuttgart,2,2024-08-31,Mainz,H,D,3,3,1,3.0,-2.0,-5.0
+2425,Stuttgart,3,2024-09-14,M'gladbach,A,W,1,3,3,0.0,3.0,-2.0
+2425,Stuttgart,4,2024-09-22,Dortmund,H,W,5,1,3,3.0,0.0,-2.0
+2425,Stuttgart,5,2024-09-28,Wolfsburg,A,D,2,2,1,3.0,-2.0,-4.0
+2425,Stuttgart,6,2024-10-06,Hoffenheim,H,D,1,1,1,0.0,1.0,-3.0
+2425,Stuttgart,7,2024-10-19,Bayern Munich,A,L,4,0,0,0.0,0.0,-3.0
+2425,Stuttgart,8,2024-11-01,Leverkusen,A,D,0,0,1,1.0,0.0,-3.0
+2425,Stuttgart,9,2024-11-10,Ein Frankfurt,H,L,2,3,0,3.0,-3.0,-6.0
+2425,Stuttgart,10,2024-11-23,Bochum,H,W,2,0,3,3.0,0.0,-6.0
+2425,Stuttgart,11,2024-11-30,Werder Bremen,A,D,2,2,1,0.0,1.0,-5.0
+2425,Stuttgart,12,2024-12-06,Union Berlin,H,W,3,2,3,3.0,0.0,-5.0
+2425,Stuttgart,13,2024-12-15,Heidenheim,A,W,1,3,3,0.0,3.0,-2.0
+2425,Stuttgart,14,2025-01-12,Augsburg,A,W,0,1,3,3.0,0.0,-2.0
+2425,Stuttgart,15,2025-01-15,RB Leipzig,H,W,2,1,3,3.0,0.0,-2.0
+2425,Stuttgart,16,2025-01-18,Freiburg,H,W,4,0,3,3.0,0.0,-2.0
+2425,Stuttgart,17,2025-01-25,Mainz,A,L,2,0,0,3.0,-3.0,-5.0
+2425,Stuttgart,18,2025-02-01,M'gladbach,H,L,1,2,0,3.0,-3.0,-8.0
+2425,Stuttgart,19,2025-02-08,Dortmund,A,W,1,2,3,3.0,0.0,-8.0
+2425,Stuttgart,20,2025-02-15,Wolfsburg,H,L,1,2,0,3.0,-3.0,-11.0
+2425,Stuttgart,21,2025-02-23,Hoffenheim,A,D,1,1,1,3.0,-2.0,-13.0
+2425,Stuttgart,22,2025-02-28,Bayern Munich,H,L,1,3,0,3.0,-3.0,-16.0
+2425,Stuttgart,23,2025-03-16,Leverkusen,H,L,3,4,0,1.0,-1.0,-17.0
+2425,Stuttgart,24,2025-03-29,Ein Frankfurt,A,L,1,0,0,3.0,-3.0,-20.0
+2425,Stuttgart,25,2025-04-05,Bochum,A,W,0,4,3,0.0,3.0,-17.0
+2425,Stuttgart,26,2025-04-13,Werder Bremen,H,L,1,2,0,3.0,-3.0,-20.0
+2425,Stuttgart,27,2025-04-19,Union Berlin,A,D,4,4,1,3.0,-2.0,-22.0
+2425,Stuttgart,28,2025-04-25,Heidenheim,H,L,0,1,0,1.0,-1.0,-23.0
+2425,Stuttgart,29,2025-05-11,Augsburg,H,W,4,0,3,3.0,0.0,-23.0
+2425,Stuttgart,30,2025-05-17,RB Leipzig,A,W,2,3,3,0.0,3.0,-20.0
+2425,Union Berlin,1,2024-08-24,Mainz,A,D,1,1,1,1.0,0.0,0.0
+2425,Union Berlin,2,2024-09-14,RB Leipzig,A,D,0,0,1,0.0,1.0,1.0
+2425,Union Berlin,3,2024-09-21,Hoffenheim,H,W,2,1,3,0.0,3.0,4.0
+2425,Union Berlin,4,2024-09-28,M'gladbach,A,L,1,0,0,1.0,-1.0,3.0
+2425,Union Berlin,5,2024-10-05,Dortmund,H,W,2,1,3,0.0,3.0,6.0
+2425,Union Berlin,6,2024-10-27,Ein Frankfurt,H,D,1,1,1,0.0,1.0,7.0
+2425,Union Berlin,7,2024-11-02,Bayern Munich,A,L,3,0,0,0.0,0.0,7.0
+2425,Union Berlin,8,2024-11-08,Freiburg,H,D,0,0,1,3.0,-2.0,5.0
+2425,Union Berlin,9,2024-11-23,Wolfsburg,A,L,1,0,0,0.0,0.0,5.0
+2425,Union Berlin,10,2024-11-30,Leverkusen,H,L,1,2,0,0.0,0.0,5.0
+2425,Union Berlin,11,2024-12-06,Stuttgart,A,L,3,2,0,0.0,0.0,5.0
+2425,Union Berlin,12,2024-12-14,Bochum,H,L,0,2,0,0.0,0.0,5.0
+2425,Union Berlin,13,2024-12-21,Werder Bremen,A,L,4,1,0,0.0,0.0,5.0
+2425,Union Berlin,14,2025-01-11,Heidenheim,A,L,2,0,0,0.0,0.0,5.0
+2425,Union Berlin,15,2025-01-15,Augsburg,H,L,0,2,0,1.0,-1.0,4.0
+2425,Union Berlin,16,2025-01-19,Mainz,H,W,2,1,3,3.0,0.0,4.0
+2425,Union Berlin,17,2025-02-01,RB Leipzig,H,D,0,0,1,0.0,1.0,5.0
+2425,Union Berlin,18,2025-02-08,Hoffenheim,A,W,0,4,3,3.0,0.0,5.0
+2425,Union Berlin,19,2025-02-15,M'gladbach,H,L,1,2,0,3.0,-3.0,2.0
+2425,Union Berlin,20,2025-02-22,Dortmund,A,L,6,0,0,0.0,0.0,2.0
+2425,Union Berlin,21,2025-03-09,Ein Frankfurt,A,W,1,2,3,1.0,2.0,4.0
+2425,Union Berlin,22,2025-03-15,Bayern Munich,H,D,1,1,1,0.0,1.0,5.0
+2425,Union Berlin,23,2025-03-30,Freiburg,A,W,1,2,3,1.0,2.0,7.0
+2425,Union Berlin,24,2025-04-06,Wolfsburg,H,W,1,0,3,3.0,0.0,7.0
+2425,Union Berlin,25,2025-04-12,Leverkusen,A,D,0,0,1,0.0,1.0,8.0
+2425,Union Berlin,26,2025-04-19,Stuttgart,H,D,4,4,1,0.0,1.0,9.0
+2425,Union Berlin,27,2025-04-27,Bochum,A,D,1,1,1,0.0,1.0,10.0
+2425,Union Berlin,28,2025-05-03,Werder Bremen,H,D,2,2,1,3.0,-2.0,8.0
+2425,Union Berlin,29,2025-05-10,Heidenheim,H,L,0,3,0,1.0,-1.0,7.0
+2425,Union Berlin,30,2025-05-17,Augsburg,A,W,1,2,3,0.0,3.0,10.0
+2425,Werder Bremen,1,2024-08-24,Augsburg,A,D,2,2,1,3.0,-2.0,-2.0
+2425,Werder Bremen,2,2024-08-31,Dortmund,H,D,0,0,1,0.0,1.0,-1.0
+2425,Werder Bremen,3,2024-09-15,Mainz,A,W,1,2,3,3.0,0.0,-1.0
+2425,Werder Bremen,4,2024-09-21,Bayern Munich,H,L,0,5,0,0.0,0.0,-1.0
+2425,Werder Bremen,5,2024-09-29,Hoffenheim,A,W,3,4,3,0.0,3.0,2.0
+2425,Werder Bremen,6,2024-10-05,Freiburg,H,L,0,1,0,3.0,-3.0,-1.0
+2425,Werder Bremen,7,2024-10-20,Wolfsburg,A,W,2,4,3,1.0,2.0,1.0
+2425,Werder Bremen,8,2024-10-26,Leverkusen,H,D,2,2,1,0.0,1.0,2.0
+2425,Werder Bremen,9,2024-11-03,M'gladbach,A,L,4,1,0,1.0,-1.0,1.0
+2425,Werder Bremen,10,2024-11-23,Ein Frankfurt,A,L,1,0,0,1.0,-1.0,0.0
+2425,Werder Bremen,11,2024-11-30,Stuttgart,H,D,2,2,1,3.0,-2.0,-2.0
+2425,Werder Bremen,12,2024-12-07,Bochum,A,W,0,1,3,1.0,2.0,0.0
+2425,Werder Bremen,13,2024-12-21,Union Berlin,H,W,4,1,3,3.0,0.0,0.0
+2425,Werder Bremen,14,2025-01-12,RB Leipzig,A,L,4,2,0,1.0,-1.0,-1.0
+2425,Werder Bremen,15,2025-01-15,Heidenheim,H,D,3,3,1,0.0,1.0,0.0
+2425,Werder Bremen,16,2025-01-19,Augsburg,H,L,0,2,0,3.0,-3.0,-3.0
+2425,Werder Bremen,17,2025-01-25,Dortmund,A,D,2,2,1,0.0,1.0,-2.0
+2425,Werder Bremen,18,2025-01-31,Mainz,H,W,1,0,3,3.0,0.0,-2.0
+2425,Werder Bremen,19,2025-02-07,Bayern Munich,A,L,3,0,0,3.0,-3.0,-5.0
+2425,Werder Bremen,20,2025-02-16,Hoffenheim,H,L,1,3,0,0.0,0.0,-5.0
+2425,Werder Bremen,21,2025-02-21,Freiburg,A,L,5,0,0,0.0,0.0,-5.0
+2425,Werder Bremen,22,2025-03-01,Wolfsburg,H,L,1,2,0,0.0,0.0,-5.0
+2425,Werder Bremen,23,2025-03-08,Leverkusen,A,W,0,2,3,0.0,3.0,-2.0
+2425,Werder Bremen,24,2025-03-15,M'gladbach,H,L,2,4,0,1.0,-1.0,-3.0
+2425,Werder Bremen,25,2025-04-05,Ein Frankfurt,H,W,2,0,3,1.0,2.0,-1.0
+2425,Werder Bremen,26,2025-04-13,Stuttgart,A,W,1,2,3,0.0,3.0,2.0
+2425,Werder Bremen,27,2025-04-19,Bochum,H,W,1,0,3,3.0,0.0,2.0
+2425,Werder Bremen,28,2025-05-03,Union Berlin,A,D,2,2,1,0.0,1.0,3.0
+2425,Werder Bremen,29,2025-05-10,RB Leipzig,H,D,0,0,1,1.0,0.0,3.0
+2425,Werder Bremen,30,2025-05-17,Heidenheim,A,W,1,4,3,0.0,3.0,6.0
+2425,Wolfsburg,1,2024-08-25,Bayern Munich,H,L,2,3,0,0.0,0.0,0.0
+2425,Wolfsburg,2,2024-09-14,Ein Frankfurt,H,L,1,2,0,3.0,-3.0,-3.0
+2425,Wolfsburg,3,2024-09-22,Leverkusen,A,L,4,3,0,0.0,0.0,-3.0
+2425,Wolfsburg,4,2024-09-28,Stuttgart,H,D,2,2,1,0.0,1.0,-2.0
+2425,Wolfsburg,5,2024-10-05,Bochum,A,W,1,3,3,0.0,3.0,1.0
+2425,Wolfsburg,6,2024-10-20,Werder Bremen,H,L,2,4,0,1.0,-1.0,0.0
+2425,Wolfsburg,7,2024-11-02,Augsburg,H,D,1,1,1,0.0,1.0,1.0
+2425,Wolfsburg,8,2024-11-10,Heidenheim,A,W,1,3,3,1.0,2.0,3.0
+2425,Wolfsburg,9,2024-11-23,Union Berlin,H,W,1,0,3,3.0,0.0,3.0
+2425,Wolfsburg,10,2024-11-30,RB Leipzig,A,W,1,5,3,0.0,3.0,6.0
+2425,Wolfsburg,11,2024-12-08,Mainz,H,W,4,3,3,0.0,3.0,9.0
+2425,Wolfsburg,12,2024-12-13,Freiburg,A,L,3,2,0,3.0,-3.0,6.0
+2425,Wolfsburg,13,2024-12-22,Dortmund,H,L,1,3,0,1.0,-1.0,5.0
+2425,Wolfsburg,14,2025-01-11,Hoffenheim,A,W,0,1,3,0.0,3.0,8.0
+2425,Wolfsburg,15,2025-01-14,M'gladbach,H,W,5,1,3,0.0,3.0,11.0
+2425,Wolfsburg,16,2025-01-18,Bayern Munich,A,L,3,2,0,0.0,0.0,11.0
+2425,Wolfsburg,17,2025-02-02,Ein Frankfurt,A,D,1,1,1,1.0,0.0,11.0
+2425,Wolfsburg,18,2025-02-08,Leverkusen,H,D,0,0,1,0.0,1.0,12.0
+2425,Wolfsburg,19,2025-02-15,Stuttgart,A,W,1,2,3,0.0,3.0,15.0
+2425,Wolfsburg,20,2025-02-22,Bochum,H,D,1,1,1,3.0,-2.0,13.0
+2425,Wolfsburg,21,2025-03-01,Werder Bremen,A,W,1,2,3,3.0,0.0,13.0
+2425,Wolfsburg,22,2025-03-15,Augsburg,A,L,1,0,0,0.0,0.0,13.0
+2425,Wolfsburg,23,2025-03-29,Heidenheim,H,L,0,1,0,3.0,-3.0,10.0
+2425,Wolfsburg,24,2025-04-06,Union Berlin,A,L,1,0,0,0.0,0.0,10.0
+2425,Wolfsburg,25,2025-04-11,RB Leipzig,H,L,2,3,0,3.0,-3.0,7.0
+2425,Wolfsburg,26,2025-04-19,Mainz,A,D,2,2,1,1.0,0.0,7.0
+2425,Wolfsburg,27,2025-04-26,Freiburg,H,L,0,1,0,0.0,0.0,7.0
+2425,Wolfsburg,28,2025-05-03,Dortmund,A,L,4,0,0,0.0,0.0,7.0
+2425,Wolfsburg,29,2025-05-09,Hoffenheim,H,D,2,2,1,1.0,0.0,7.0
+2425,Wolfsburg,30,2025-05-17,M'gladbach,A,W,0,1,3,0.0,3.0,10.0

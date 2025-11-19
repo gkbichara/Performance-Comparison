@@ -1,0 +1,561 @@
+player,team,goals,assists,contributions,contribution_pct,goals_pct,assists_pct,games,season
+Ollie Watkins,Aston Villa,19,13,32,42.1,25.0,17.1,37,2324
+Dominic Solanke,Bournemouth,19,3,22,40.7,35.2,5.6,38,2324
+Matheus Cunha,Wolverhampton Wanderers,12,7,19,38.0,24.0,14.0,32,2324
+Jean-Philippe Mateta,Crystal Palace,16,5,21,36.8,28.1,8.8,35,2324
+Jarrod Bowen,West Ham,16,6,22,36.7,26.7,10.0,34,2324
+Son Heung-Min,Tottenham,17,10,27,36.5,23.0,13.5,35,2324
+Erling Haaland,Manchester City,27,5,32,33.3,28.1,5.2,31,2324
+Mohamed Salah,Liverpool,18,10,28,32.6,20.9,11.6,32,2324
+Bruno Fernandes,Manchester United,10,8,18,31.6,17.5,14.0,35,2324
+Chris Wood,Nottingham Forest,14,1,15,30.6,28.6,2.0,31,2324
+Morgan Gibbs-White,Nottingham Forest,5,10,15,30.6,10.2,20.4,37,2324
+Hee-Chan Hwang,Wolverhampton Wanderers,12,3,15,30.0,24.0,6.0,29,2324
+Carlton Morris,Luton,11,4,15,28.8,21.2,7.7,38,2324
+Anthony Elanga,Nottingham Forest,5,9,14,28.6,10.2,18.4,36,2324
+Gustavo Hamer,Sheffield United,4,6,10,28.6,11.4,17.1,36,2324
+Phil Foden,Manchester City,19,8,27,28.1,19.8,8.3,35,2324
+Michael Olise,Crystal Palace,10,6,16,28.1,17.5,10.5,19,2324
+Alexander Isak,Newcastle United,21,2,23,27.1,24.7,2.4,30,2324
+Yoane Wissa,Brentford,12,3,15,26.8,21.4,5.4,34,2324
+Bryan Mbeumo,Brentford,9,6,15,26.8,16.1,10.7,25,2324
+Bukayo Saka,Arsenal,16,8,24,26.4,17.6,8.8,35,2324
+Eberechi Eze,Crystal Palace,11,4,15,26.3,19.3,7.0,27,2324
+Oliver McBurnie,Sheffield United,6,3,9,25.7,17.1,8.6,21,2324
+Pascal Groß,Brighton,4,10,14,25.5,7.3,18.2,36,2324
+Leon Bailey,Aston Villa,10,9,19,25.0,13.2,11.8,35,2324
+Nicolas Jackson,Chelsea,14,5,19,24.7,18.2,6.5,35,2324
+Anthony Gordon,Newcastle United,11,10,21,24.7,12.9,11.8,35,2324
+Mohammed Kudus,West Ham,8,6,14,23.3,13.3,10.0,33,2324
+James Ward-Prowse,West Ham,7,7,14,23.3,11.7,11.7,37,2324
+Dominic Calvert-Lewin,Everton,7,2,9,22.5,17.5,5.0,32,2324
+Dwight McNeil,Everton,3,6,9,22.5,7.5,15.0,35,2324
+Darwin Núñez,Liverpool,11,8,19,22.1,12.8,9.3,36,2324
+Kai Havertz,Arsenal,13,7,20,22.0,14.3,7.7,37,2324
+Pablo Sarabia,Wolverhampton Wanderers,4,7,11,22.0,8.0,14.0,30,2324
+Pedro Neto,Wolverhampton Wanderers,2,9,11,22.0,4.0,18.0,20,2324
+João Pedro,Brighton,9,3,12,21.8,16.4,5.5,31,2324
+Rasmus Højlund,Manchester United,10,2,12,21.1,17.5,3.5,30,2324
+Richarlison,Tottenham,11,4,15,20.3,14.9,5.4,28,2324
+Abdoulaye Doucouré,Everton,7,1,8,20.0,17.5,2.5,32,2324
+Ben Brereton Díaz,Sheffield United,6,1,7,20.0,17.1,2.9,14,2324
+Julián Álvarez,Manchester City,11,8,19,19.8,11.5,8.3,36,2324
+Martin Odegaard,Arsenal,8,10,18,19.8,8.8,11.0,35,2324
+Lyle Foster,Burnley,5,3,8,19.5,12.2,7.3,24,2324
+Alejandro Garnacho,Manchester United,7,4,11,19.3,12.3,7.0,36,2324
+Jordan Ayew,Crystal Palace,4,7,11,19.3,7.0,12.3,35,2324
+Elijah Adebayo,Luton,10,0,10,19.2,19.2,0.0,27,2324
+Alfie Doughty,Luton,2,8,10,19.2,3.8,15.4,37,2324
+Antoine Semenyo,Bournemouth,8,2,10,18.5,14.8,3.7,33,2324
+Douglas Luiz,Aston Villa,9,5,14,18.4,11.8,6.6,35,2324
+Callum Hudson-Odoi,Nottingham Forest,8,1,9,18.4,16.3,2.0,29,2324
+Moussa Diaby,Aston Villa,6,8,14,18.4,7.9,10.5,38,2324
+Taiwo Awoniyi,Nottingham Forest,6,3,9,18.4,12.2,6.1,20,2324
+Rodrigo Muniz,Fulham,9,1,10,18.2,16.4,1.8,26,2324
+Harry Wilson,Fulham,4,6,10,18.2,7.3,10.9,35,2324
+Andreas Pereira,Fulham,3,7,10,18.2,5.5,12.7,37,2324
+Rodri,Manchester City,8,9,17,17.7,8.3,9.4,34,2324
+Bruno Guimarães,Newcastle United,7,8,15,17.6,8.2,9.4,37,2324
+James Maddison,Tottenham,4,9,13,17.6,5.4,12.2,28,2324
+Ross Barkley,Luton,5,4,9,17.3,9.6,7.7,32,2324
+Dara O'Shea,Burnley,3,4,7,17.1,7.3,9.8,33,2324
+Lucas Paquetá,West Ham,4,6,10,16.7,6.7,10.0,31,2324
+Marcos Senesi,Bournemouth,4,5,9,16.7,7.4,9.3,31,2324
+Declan Rice,Arsenal,7,8,15,16.5,7.7,8.8,38,2324
+Marcus Rashford,Manchester United,7,2,9,15.8,12.3,3.5,33,2324
+Raheem Sterling,Chelsea,8,4,12,15.6,10.4,5.2,31,2324
+Bernardo Silva,Manchester City,6,9,15,15.6,6.2,9.4,33,2324
+Conor Gallagher,Chelsea,5,7,12,15.6,6.5,9.1,37,2324
+Diogo Jota,Liverpool,10,3,13,15.1,11.6,3.5,21,2324
+Luis Díaz,Liverpool,8,5,13,15.1,9.3,5.8,37,2324
+Cody Gakpo,Liverpool,8,5,13,15.1,9.3,5.8,35,2324
+Tomas Soucek,West Ham,7,2,9,15.0,11.7,3.3,37,2324
+Jack Harrison,Everton,3,3,6,15.0,7.5,7.5,29,2324
+Dejan Kulusevski,Tottenham,8,3,11,14.9,10.8,4.1,36,2324
+Justin Kluivert,Bournemouth,7,1,8,14.8,13.0,1.9,32,2324
+Jacob Bruun Larsen,Burnley,6,0,6,14.6,14.6,0.0,32,2324
+Zeki Amdouni,Burnley,5,1,6,14.6,12.2,2.4,34,2324
+Kevin De Bruyne,Manchester City,4,10,14,14.6,4.2,10.4,18,2324
+Josh Brownhill,Burnley,4,2,6,14.6,9.8,4.9,33,2324
+Bobby Reid,Fulham,6,2,8,14.5,10.9,3.6,33,2324
+Leandro Trossard,Arsenal,12,1,13,14.3,13.2,1.1,34,2324
+Scott McTominay,Manchester United,7,1,8,14.0,12.3,1.8,32,2324
+Pedro Porro,Tottenham,3,7,10,13.5,4.1,9.5,35,2324
+Michail Antonio,West Ham,6,2,8,13.3,10.0,3.3,26,2324
+John McGinn,Aston Villa,6,4,10,13.2,7.9,5.3,35,2324
+Marcus Tavernier,Bournemouth,3,4,7,13.0,5.6,7.4,30,2324
+Kieran Trippier,Newcastle United,1,10,11,12.9,1.2,11.8,28,2324
+Raúl Jiménez,Fulham,7,0,7,12.7,12.7,0.0,24,2324
+Simon Adingra,Brighton,6,1,7,12.7,10.9,1.8,31,2324
+Kaoru Mitoma,Brighton,3,4,7,12.7,5.5,7.3,19,2324
+Odsonne Edouard,Crystal Palace,7,0,7,12.3,12.3,0.0,30,2324
+David Datro Fofana,Burnley,4,1,5,12.2,9.8,2.4,15,2324
+Wilson Odobert,Burnley,3,2,5,12.2,7.3,4.9,29,2324
+Josh Cullen,Burnley,2,3,5,12.2,4.9,7.3,25,2324
+Callum Wilson,Newcastle United,9,1,10,11.8,10.6,1.2,20,2324
+Jacob Murphy,Newcastle United,3,7,10,11.8,3.5,8.2,21,2324
+Vladimir Coufal,West Ham,0,7,7,11.7,0.0,11.7,36,2324
+Alexis Mac Allister,Liverpool,5,5,10,11.6,5.8,5.8,33,2324
+Jéremy Doku,Manchester City,3,8,11,11.5,3.1,8.3,29,2324
+Gabriel Martinelli,Arsenal,6,4,10,11.0,6.6,4.4,35,2324
+Evan Ferguson,Brighton,6,0,6,10.9,10.9,0.0,27,2324
+Danny Welbeck,Brighton,5,1,6,10.9,9.1,1.8,29,2324
+Willian,Fulham,4,2,6,10.9,7.3,3.6,31,2324
+Antonee Robinson,Fulham,0,6,6,10.9,0.0,10.9,37,2324
+Ivan Toney,Brentford,4,2,6,10.7,7.1,3.6,17,2324
+Mathias Jensen,Brentford,3,3,6,10.7,5.4,5.4,32,2324
+Harvey Elliott,Liverpool,3,6,9,10.5,3.5,7.0,34,2324
+Youri Tielemans,Aston Villa,2,6,8,10.5,2.6,7.9,32,2324
+Idrissa Gueye,Everton,4,0,4,10.0,10.0,0.0,25,2324
+Mario Lemina,Wolverhampton Wanderers,4,1,5,10.0,8.0,2.0,35,2324
+Gabriel Jesus,Arsenal,4,5,9,9.9,4.4,5.5,27,2324
+Johann Berg Gudmundsson,Burnley,1,3,4,9.8,2.4,7.3,26,2324
+Chiedozie Ogbene,Luton,4,1,5,9.6,7.7,1.9,30,2324
+Sean Longstaff,Newcastle United,6,2,8,9.4,7.1,2.4,35,2324
+Harvey Barnes,Newcastle United,5,3,8,9.4,5.9,3.5,21,2324
+Ryan Christie,Bournemouth,0,5,5,9.3,0.0,9.3,37,2324
+Mykhailo Mudryk,Chelsea,5,2,7,9.1,6.5,2.6,31,2324
+Noni Madueke,Chelsea,5,2,7,9.1,6.5,2.6,23,2324
+João Palhinha,Fulham,4,1,5,9.1,7.3,1.8,33,2324
+Adama Traoré,Fulham,2,3,5,9.1,3.6,5.5,17,2324
+Estupiñán,Brighton,2,3,5,9.1,3.6,5.5,19,2324
+Tom Cairney,Fulham,1,4,5,9.1,1.8,7.3,34,2324
+Ben White,Arsenal,4,4,8,8.8,4.4,4.4,37,2324
+Joachim Andersen,Crystal Palace,2,3,5,8.8,3.5,5.3,38,2324
+Diogo Dalot,Manchester United,2,3,5,8.8,3.5,5.3,36,2324
+Tyrick Mitchell,Crystal Palace,2,3,5,8.8,3.5,5.3,37,2324
+Jayden Bogle,Sheffield United,3,0,3,8.6,8.6,0.0,34,2324
+Nicolás Domínguez,Nottingham Forest,2,2,4,8.2,4.1,4.1,26,2324
+Danilo,Nottingham Forest,2,2,4,8.2,4.1,4.1,29,2324
+Harry Toffolo,Nottingham Forest,1,3,4,8.2,2.0,6.1,23,2324
+Trent Alexander-Arnold,Liverpool,3,4,7,8.1,3.5,4.7,28,2324
+Pape Sarr,Tottenham,3,3,6,8.1,4.1,4.1,34,2324
+Toti,Wolverhampton Wanderers,1,3,4,8.0,2.0,6.0,35,2324
+Malo Gusto,Chelsea,0,6,6,7.8,0.0,7.8,27,2324
+Eddie Nketiah,Arsenal,5,2,7,7.7,5.5,2.2,27,2324
+Tahith Chong,Luton,4,0,4,7.7,7.7,0.0,33,2324
+Andros Townsend,Luton,1,3,4,7.7,1.9,5.8,27,2324
+Albert Sambi Lokonga,Luton,1,3,4,7.7,1.9,5.8,17,2324
+Reece Burke,Luton,0,4,4,7.7,0.0,7.7,22,2324
+Jarrad Branthwaite,Everton,3,0,3,7.5,7.5,0.0,35,2324
+Beto,Everton,3,0,3,7.5,7.5,0.0,30,2324
+James Garner,Everton,1,2,3,7.5,2.5,5.0,37,2324
+Philip Billing,Bournemouth,2,2,4,7.4,3.7,3.7,29,2324
+Enes Ünal,Bournemouth,2,2,4,7.4,3.7,3.7,16,2324
+Luis Sinisterra,Bournemouth,2,2,4,7.4,3.7,3.7,20,2324
+Lewis Dunk,Brighton,3,1,4,7.3,5.5,1.8,33,2324
+Solly March,Brighton,3,1,4,7.3,5.5,1.8,7,2324
+Facundo Buonanotte,Brighton,3,1,4,7.3,5.5,1.8,27,2324
+Jay Rodriguez,Burnley,2,1,3,7.3,4.9,2.4,21,2324
+Timothy Castagne,Fulham,1,3,4,7.3,1.8,5.5,34,2324
+Sander Berge,Burnley,1,2,3,7.3,2.4,4.9,37,2324
+Lorenz Assignon,Burnley,1,2,3,7.3,2.4,4.9,15,2324
+Keane Lewis-Potter,Brentford,3,1,4,7.1,5.4,1.8,30,2324
+Vitaly Janelt,Brentford,1,3,4,7.1,1.8,5.4,38,2324
+Kobbie Mainoo,Manchester United,3,1,4,7.0,5.3,1.8,24,2324
+Jeffrey Schlupp,Crystal Palace,2,2,4,7.0,3.5,3.5,29,2324
+Harry Maguire,Manchester United,2,2,4,7.0,3.5,3.5,22,2324
+Daniel Muñoz,Crystal Palace,0,4,4,7.0,0.0,7.0,16,2324
+Cristian Romero,Tottenham,5,0,5,6.8,6.8,0.0,33,2324
+Timo Werner,Tottenham,2,3,5,6.8,2.7,4.1,13,2324
+Iyenoma Destiny Udogie,Tottenham,2,3,5,6.8,2.7,4.1,28,2324
+Jhon Durán,Aston Villa,5,0,5,6.6,6.6,0.0,23,2324
+Enzo Fernández,Chelsea,3,2,5,6.5,3.9,2.6,28,2324
+Willy Boly,Nottingham Forest,2,1,3,6.1,4.1,2.0,20,2324
+Rayan Ait Nouri,Wolverhampton Wanderers,2,1,3,6.0,4.0,2.0,33,2324
+Jean-Ricner Bellegarde,Wolverhampton Wanderers,2,1,3,6.0,4.0,2.0,22,2324
+João Gomes,Wolverhampton Wanderers,2,1,3,6.0,4.0,2.0,34,2324
+Fabian Schär,Newcastle United,4,1,5,5.9,4.7,1.2,36,2324
+Andrew Robertson,Liverpool,3,2,5,5.8,3.5,2.3,23,2324
+Dominik Szoboszlai,Liverpool,3,2,5,5.8,3.5,2.3,33,2324
+Luke Berry,Luton,2,1,3,5.8,3.8,1.9,17,2324
+Anel Ahmedhodzic,Sheffield United,2,0,2,5.7,5.7,0.0,31,2324
+Jack Robinson,Sheffield United,1,1,2,5.7,2.9,2.9,34,2324
+Ben Osborn,Sheffield United,0,2,2,5.7,0.0,5.7,24,2324
+Dango Ouattara,Bournemouth,1,2,3,5.6,1.9,3.7,30,2324
+Lewis Cook,Bournemouth,0,3,3,5.6,0.0,5.6,33,2324
+Jack Hinshelwood,Brighton,3,0,3,5.5,5.5,0.0,12,2324
+Tariq Lamptey,Brighton,0,3,3,5.5,0.0,5.5,19,2324
+Giovani Lo Celso,Tottenham,2,2,4,5.4,2.7,2.7,22,2324
+Christian Nørgaard,Brentford,2,1,3,5.4,3.6,1.8,31,2324
+Kevin Schade,Brentford,2,1,3,5.4,3.6,1.8,11,2324
+Kristoffer Ajer,Brentford,2,1,3,5.4,3.6,1.8,28,2324
+Frank Onyeka,Brentford,1,2,3,5.4,1.8,3.6,26,2324
+Mads Roerslev,Brentford,1,2,3,5.4,1.8,3.6,34,2324
+Morgan Rogers,Aston Villa,3,1,4,5.3,3.9,1.3,11,2324
+Matthew Cash,Aston Villa,2,2,4,5.3,2.6,2.6,29,2324
+Christian Eriksen,Manchester United,1,2,3,5.3,1.8,3.5,22,2324
+Lucas Digne,Aston Villa,1,3,4,5.3,1.3,3.9,33,2324
+Casemiro,Manchester United,1,2,3,5.3,1.8,3.5,25,2324
+Adam Wharton,Crystal Palace,0,3,3,5.3,0.0,5.3,16,2324
+Josko Gvardiol,Manchester City,4,1,5,5.2,4.2,1.0,28,2324
+Thiago Silva,Chelsea,3,1,4,5.2,3.9,1.3,31,2324
+Moisés Caicedo,Chelsea,1,3,4,5.2,1.3,3.9,35,2324
+Kurt Zouma,West Ham,3,0,3,5.0,5.0,0.0,33,2324
+Amadou Onana,Everton,2,0,2,5.0,5.0,0.0,30,2324
+Vitalii Mykolenko,Everton,2,0,2,5.0,5.0,0.0,28,2324
+Emerson,West Ham,1,2,3,5.0,1.7,3.3,36,2324
+James Tarkowski,Everton,1,1,2,5.0,2.5,2.5,38,2324
+Nathan Patterson,Everton,0,2,2,5.0,0.0,5.0,20,2324
+Charlie Taylor,Burnley,1,1,2,4.9,2.4,2.4,28,2324
+Luca Koleosho,Burnley,1,1,2,4.9,2.4,2.4,15,2324
+Vitinho,Burnley,0,2,2,4.9,0.0,4.9,32,2324
+Miguel Almirón,Newcastle United,3,1,4,4.7,3.5,1.2,33,2324
+Virgil van Dijk,Liverpool,2,2,4,4.7,2.3,2.3,36,2324
+Dan Burn,Newcastle United,2,2,4,4.7,2.4,2.4,33,2324
+Sven Botman,Newcastle United,2,2,4,4.7,2.4,2.4,17,2324
+Conor Bradley,Liverpool,1,3,4,4.7,1.2,3.5,11,2324
+Lewis Miley,Newcastle United,1,3,4,4.7,1.2,3.5,17,2324
+Jakub Kiwior,Arsenal,1,3,4,4.4,1.1,3.3,20,2324
+Jack Grealish,Manchester City,3,1,4,4.2,3.1,1.0,20,2324
+Nathan Aké,Manchester City,2,2,4,4.2,2.1,2.1,29,2324
+Kyle Walker,Manchester City,0,4,4,4.2,0.0,4.2,32,2324
+Micky van de Ven,Tottenham,3,0,3,4.1,4.1,0.0,27,2324
+Ola Aina,Nottingham Forest,1,1,2,4.1,2.0,2.0,22,2324
+Ryan Yates,Nottingham Forest,1,1,2,4.1,2.0,2.0,35,2324
+Serge Aurier,Nottingham Forest,0,2,2,4.1,0.0,4.1,12,2324
+Gonzalo Montiel,Nottingham Forest,0,2,2,4.1,0.0,4.1,14,2324
+Murillo,Nottingham Forest,0,2,2,4.1,0.0,4.1,32,2324
+Max Kilman,Wolverhampton Wanderers,2,0,2,4.0,4.0,0.0,38,2324
+Sasa Kalajdzic,Wolverhampton Wanderers,2,0,2,4.0,4.0,0.0,11,2324
+Craig Dawson,Wolverhampton Wanderers,1,1,2,4.0,2.0,2.0,25,2324
+Christopher Nkunku,Chelsea,3,0,3,3.9,3.9,0.0,11,2324
+Jacob Brown,Luton,2,0,2,3.8,3.8,0.0,19,2324
+Gabriel Osho,Luton,2,0,2,3.8,3.8,0.0,21,2324
+Tom Lockyer,Luton,1,1,2,3.8,1.9,1.9,14,2324
+Cauley Woodrow,Luton,1,1,2,3.8,1.9,1.9,24,2324
+Jordan Clark,Luton,1,1,2,3.8,1.9,1.9,23,2324
+Issa Kabore,Luton,0,2,2,3.8,0.0,3.8,24,2324
+David Brooks,Bournemouth,1,1,2,3.7,1.9,1.9,13,2324
+Alex Scott,Bournemouth,1,1,2,3.7,1.9,1.9,23,2324
+Adam Smith,Bournemouth,0,2,2,3.7,0.0,3.7,28,2324
+Ben Mee,Brentford,2,0,2,3.6,3.6,0.0,16,2324
+Tosin Adarabioyo,Fulham,2,0,2,3.6,3.6,0.0,20,2324
+Carlos Vinicius,Fulham,2,0,2,3.6,3.6,0.0,13,2324
+Anssumane Fati,Brighton,2,0,2,3.6,3.6,0.0,19,2324
+Ethan Pinnock,Brentford,2,0,2,3.6,3.6,0.0,29,2324
+Joël Veltman,Brighton,1,1,2,3.6,1.8,1.8,27,2324
+Nathan Collins,Brentford,1,1,2,3.6,1.8,1.8,32,2324
+Shandon Baptiste,Brentford,1,1,2,3.6,1.8,1.8,10,2324
+James Milner,Brighton,0,2,2,3.6,0.0,3.6,15,2324
+Harrison Reed,Fulham,0,2,2,3.6,0.0,3.6,27,2324
+Mikkel Damsgaard,Brentford,0,2,2,3.6,0.0,3.6,23,2324
+Julio Enciso,Brighton,0,2,2,3.6,0.0,3.6,12,2324
+Joelinton,Newcastle United,2,1,3,3.5,2.4,1.2,20,2324
+Jefferson Lerma,Crystal Palace,1,1,2,3.5,1.8,1.8,28,2324
+Victor Lindelöf,Manchester United,1,1,2,3.5,1.8,1.8,19,2324
+Amad Diallo Traore,Manchester United,1,1,2,3.5,1.8,1.8,9,2324
+Chris Richards,Crystal Palace,1,1,2,3.5,1.8,1.8,26,2324
+Antony,Manchester United,1,1,2,3.5,1.8,1.8,29,2324
+Aaron Wan-Bissaka,Manchester United,0,2,2,3.5,0.0,3.5,22,2324
+Konstantinos Tsimikas,Liverpool,0,3,3,3.5,0.0,3.5,13,2324
+Gabriel,Arsenal,3,0,3,3.3,3.3,0.0,36,2324
+William Saliba,Arsenal,2,1,3,3.3,2.2,1.1,38,2324
+Takehiro Tomiyasu,Arsenal,2,1,3,3.3,2.2,1.1,22,2324
+Oleksandr Zinchenko,Arsenal,1,2,3,3.3,1.1,2.2,27,2324
+Fábio Vieira,Arsenal,1,2,3,3.3,1.1,2.2,11,2324
+Edson Álvarez,West Ham,1,1,2,3.3,1.7,1.7,31,2324
+Oliver Norwood,Sheffield United,1,0,1,2.9,2.9,0.0,27,2324
+Vinicius Souza,Sheffield United,1,0,1,2.9,2.9,0.0,36,2324
+George Baldock,Sheffield United,0,1,1,2.9,0.0,2.9,13,2324
+Rodrigo Bentancur,Tottenham,1,1,2,2.7,1.4,1.4,23,2324
+Manor Solomon,Tottenham,0,2,2,2.7,0.0,2.7,5,2324
+Álex Moreno,Aston Villa,2,0,2,2.6,2.6,0.0,21,2324
+Pau Torres,Aston Villa,2,0,2,2.6,2.6,0.0,29,2324
+Nicolo Zaniolo,Aston Villa,2,0,2,2.6,2.6,0.0,25,2324
+Axel Disasi,Chelsea,2,0,2,2.6,2.6,0.0,31,2324
+Jacob Ramsey,Aston Villa,1,1,2,2.6,1.3,1.3,16,2324
+Carney Chukwuemeka,Chelsea,1,1,2,2.6,1.3,1.3,9,2324
+Levi Colwill,Chelsea,1,1,2,2.6,1.3,1.3,23,2324
+Marc Cucurella,Chelsea,0,2,2,2.6,0.0,2.6,21,2324
+Reece James,Chelsea,0,2,2,2.6,0.0,2.6,10,2324
+Michael Keane,Everton,1,0,1,2.5,2.5,0.0,9,2324
+André Gomes,Everton,1,0,1,2.5,2.5,0.0,12,2324
+Arnaut Danjuma Groeneveld,Everton,1,0,1,2.5,2.5,0.0,14,2324
+Lewis Dobbin,Everton,1,0,1,2.5,2.5,0.0,12,2324
+Ameen Al Dakhil,Burnley,1,0,1,2.4,2.4,0.0,13,2324
+Connor Roberts,Burnley,0,1,1,2.4,0.0,2.4,14,2324
+Louis Beyer,Burnley,0,1,1,2.4,0.0,2.4,15,2324
+Elliot Anderson,Newcastle United,0,2,2,2.4,0.0,2.4,21,2324
+Jarell Quansah,Liverpool,2,0,2,2.3,2.3,0.0,17,2324
+Curtis Jones,Liverpool,1,1,2,2.3,1.2,1.2,23,2324
+Jorginho,Arsenal,0,2,2,2.2,0.0,2.2,24,2324
+Manuel Akanji,Manchester City,2,0,2,2.1,2.1,0.0,30,2324
+Rico Lewis,Manchester City,2,0,2,2.1,2.1,0.0,16,2324
+Oscar Bobb,Manchester City,1,1,2,2.1,1.0,1.0,14,2324
+Moussa Niakhate,Nottingham Forest,1,0,1,2.0,2.0,0.0,21,2324
+Orel Mangala,Nottingham Forest,1,0,1,2.0,2.0,0.0,20,2324
+Matt Doherty,Wolverhampton Wanderers,1,0,1,2.0,2.0,0.0,30,2324
+Divock Origi,Nottingham Forest,0,1,1,2.0,0.0,2.0,20,2324
+Nélson Semedo,Wolverhampton Wanderers,0,1,1,2.0,0.0,2.0,36,2324
+Giovanni Reyna,Nottingham Forest,0,1,1,2.0,0.0,2.0,9,2324
+Neco Williams,Nottingham Forest,0,1,1,2.0,0.0,2.0,26,2324
+Kieffer Moore,Bournemouth,1,0,1,1.9,1.9,0.0,8,2324
+Illia Zabarnyi,Bournemouth,1,0,1,1.9,1.9,0.0,37,2324
+Mads Andersen,Luton,1,0,1,1.9,1.9,0.0,8,2324
+Teden Mengi,Luton,1,0,1,1.9,1.9,0.0,30,2324
+Chris Mepham,Bournemouth,0,1,1,1.9,0.0,1.9,10,2324
+Max Aarons,Bournemouth,0,1,1,1.9,0.0,1.9,20,2324
+Lloyd Kelly,Bournemouth,0,1,1,1.9,0.0,1.9,23,2324
+Milos Kerkez,Bournemouth,0,1,1,1.9,0.0,1.9,28,2324
+Anthony Martial,Manchester United,1,0,1,1.8,1.8,0.0,13,2324
+Sasa Lukic,Fulham,1,0,1,1.8,1.8,0.0,24,2324
+Raphael Varane,Manchester United,1,0,1,1.8,1.8,0.0,22,2324
+Kenny Tete,Fulham,1,0,1,1.8,1.8,0.0,14,2324
+Zanka,Brentford,1,0,1,1.8,1.8,0.0,14,2324
+Saman Ghoddos,Brentford,1,0,1,1.8,1.8,0.0,19,2324
+Tim Ream,Fulham,1,0,1,1.8,1.8,0.0,18,2324
+Mason Mount,Manchester United,1,0,1,1.8,1.8,0.0,14,2324
+Hannibal Mejbri,Manchester United,1,0,1,1.8,1.8,0.0,5,2324
+Calvin Bassey,Fulham,1,0,1,1.8,1.8,0.0,29,2324
+Mahmoud Dahoud,Brighton,0,1,1,1.8,0.0,1.8,9,2324
+Adam Lallana,Brighton,0,1,1,1.8,0.0,1.8,25,2324
+Joel Ward,Crystal Palace,0,1,1,1.8,0.0,1.8,26,2324
+Jonny Evans,Manchester United,0,1,1,1.8,0.0,1.8,23,2324
+Will Hughes,Crystal Palace,0,1,1,1.8,0.0,1.8,30,2324
+Mark Flekken,Brentford,0,1,1,1.8,0.0,1.8,37,2324
+Marc Guehi,Crystal Palace,0,1,1,1.8,0.0,1.8,25,2324
+Billy Gilmour,Brighton,0,1,1,1.8,0.0,1.8,30,2324
+Facundo Pellistri,Manchester United,0,1,1,1.8,0.0,1.8,9,2324
+Rico Henry,Brentford,0,1,1,1.8,0.0,1.8,5,2324
+Lisandro Martínez,Manchester United,0,1,1,1.8,0.0,1.8,11,2324
+Matheus França,Crystal Palace,0,1,1,1.8,0.0,1.8,10,2324
+Omari Forson,Manchester United,0,1,1,1.8,0.0,1.8,4,2324
+Danny Ings,West Ham,1,0,1,1.7,1.7,0.0,20,2324
+Maxwel Cornet,West Ham,1,0,1,1.7,1.7,0.0,7,2324
+Konstantinos Mavropanos,West Ham,1,0,1,1.7,1.7,0.0,19,2324
+Naif Aguerd,West Ham,1,0,1,1.7,1.7,0.0,21,2324
+George Earthy,West Ham,1,0,1,1.7,1.7,0.0,3,2324
+Said Benrahma,West Ham,0,1,1,1.7,0.0,1.7,13,2324
+Ben Davies,Tottenham,1,0,1,1.4,1.4,0.0,17,2324
+Emerson,Tottenham,1,0,1,1.4,1.4,0.0,22,2324
+Alejo Véliz,Tottenham,1,0,1,1.4,1.4,0.0,8,2324
+Ivan Perisic,Tottenham,0,1,1,1.4,0.0,1.4,5,2324
+Trevoh Chalobah,Chelsea,1,0,1,1.3,1.3,0.0,13,2324
+Leander Dendoncker,Aston Villa,1,0,1,1.3,1.3,0.0,8,2324
+Ezri Konsa Ngoyo,Aston Villa,1,0,1,1.3,1.3,0.0,35,2324
+Alfie Gilchrist,Chelsea,1,0,1,1.3,1.3,0.0,11,2324
+Calum Chambers,Aston Villa,0,1,1,1.3,0.0,1.3,5,2324
+Ben Chilwell,Chelsea,0,1,1,1.3,0.0,1.3,13,2324
+Clement Lenglet,Aston Villa,0,1,1,1.3,0.0,1.3,14,2324
+Boubacar Kamara,Aston Villa,0,1,1,1.3,0.0,1.3,20,2324
+Benoit Badiashile Mukinayi,Chelsea,0,1,1,1.3,0.0,1.3,18,2324
+Matt Ritchie,Newcastle United,1,0,1,1.2,1.2,0.0,13,2324
+Jamaal Lascelles,Newcastle United,1,0,1,1.2,1.2,0.0,16,2324
+Joe Willock,Newcastle United,1,0,1,1.2,1.2,0.0,9,2324
+Sandro Tonali,Newcastle United,1,0,1,1.2,1.2,0.0,8,2324
+Wataru Endo,Liverpool,1,0,1,1.2,1.2,0.0,29,2324
+Valentino Livramento,Newcastle United,1,0,1,1.2,1.2,0.0,26,2324
+Lewis Hall,Newcastle United,1,0,1,1.2,1.2,0.0,18,2324
+Ryan Gravenberch,Liverpool,1,0,1,1.2,1.2,0.0,26,2324
+Joseph Gomez,Liverpool,0,1,1,1.2,0.0,1.2,32,2324
+Emile Smith-Rowe,Arsenal,0,1,1,1.1,0.0,1.1,13,2324
+John Stones,Manchester City,1,0,1,1.0,1.0,0.0,16,2324
+Mateo Kovacic,Manchester City,1,0,1,1.0,1.0,0.0,30,2324
+Sergio Gómez,Manchester City,0,1,1,1.0,0.0,1.0,6,2324
+Loris Karius,Newcastle United,0,0,0,0.0,0.0,0.0,1,2324
+Bernd Leno,Fulham,0,0,0,0.0,0.0,0.0,38,2324
+Thiago Alcántara,Liverpool,0,0,0,0.0,0.0,0.0,1,2324
+Joel Matip,Liverpool,0,0,0,0.0,0.0,0.0,10,2324
+Pierre-Emile Højbjerg,Tottenham,0,0,0,0.0,0.0,0.0,36,2324
+Odisseas Vlachodimos,Nottingham Forest,0,0,0,0.0,0.0,0.0,5,2324
+Philippe Coutinho,Aston Villa,0,0,0,0.0,0.0,0.0,2,2324
+Mohamed Elneny,Arsenal,0,0,0,0.0,0.0,0.0,3,2324
+Angelo Ogbonna,West Ham,0,0,0,0.0,0.0,0.0,11,2324
+James Tomkins,Crystal Palace,0,0,0,0.0,0.0,0.0,4,2324
+Cheikhou Kouyaté,Nottingham Forest,0,0,0,0.0,0.0,0.0,12,2324
+Aaron Cresswell,West Ham,0,0,0,0.0,0.0,0.0,11,2324
+Joe Rothwell,Bournemouth,0,0,0,0.0,0.0,0.0,11,2324
+Seamus Coleman,Everton,0,0,0,0.0,0.0,0.0,12,2324
+Nathaniel Clyne,Crystal Palace,0,0,0,0.0,0.0,0.0,19,2324
+Ashley Young,Everton,0,0,0,0.0,0.0,0.0,31,2324
+Eric Dier,Tottenham,0,0,0,0.0,0.0,0.0,4,2324
+Bertrand Traoré,Aston Villa,0,0,0,0.0,0.0,0.0,2,2324
+Lukasz Fabianski,West Ham,0,0,0,0.0,0.0,0.0,10,2324
+Jack Cork,Burnley,0,0,0,0.0,0.0,0.0,4,2324
+Jordan Pickford,Everton,0,0,0,0.0,0.0,0.0,38,2324
+Aleksandar Mitrovic,Fulham,0,0,0,0.0,0.0,0.0,1,2324
+Nathan Redmond,Burnley,0,0,0,0.0,0.0,0.0,12,2324
+Cédric Soares,Arsenal,0,0,0,0.0,0.0,0.0,3,2324
+Paul Dummett,Newcastle United,0,0,0,0.0,0.0,0.0,5,2324
+Matt Targett,Newcastle United,0,0,0,0.0,0.0,0.0,3,2324
+Sam Johnstone,Crystal Palace,0,0,0,0.0,0.0,0.0,20,2324
+Mason Holgate,Sheffield United,0,0,0,0.0,0.0,0.0,10,2324
+Luke Shaw,Manchester United,0,0,0,0.0,0.0,0.0,12,2324
+Tyrone Mings,Aston Villa,0,0,0,0.0,0.0,0.0,1,2324
+Tom Davies,Sheffield United,0,0,0,0.0,0.0,0.0,9,2324
+Thomas Strakosha,Brentford,0,0,0,0.0,0.0,0.0,2,2324
+Alisson,Liverpool,0,0,0,0.0,0.0,0.0,28,2324
+Neto,Bournemouth,0,0,0,0.0,0.0,0.0,32,2324
+Emil Krafth,Newcastle United,0,0,0,0.0,0.0,0.0,17,2324
+Ionut Radu,Bournemouth,0,0,0,0.0,0.0,0.0,2,2324
+Jonny,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,1,2324
+Alphonse Areola,West Ham,0,0,0,0.0,0.0,0.0,31,2324
+Thomas Partey,Arsenal,0,0,0,0.0,0.0,0.0,14,2324
+Pablo Fornals,West Ham,0,0,0,0.0,0.0,0.0,15,2324
+Aymeric Laporte,Manchester City,0,0,0,0.0,0.0,0.0,1,2324
+Thilo Kehrer,West Ham,0,0,0,0.0,0.0,0.0,4,2324
+Issa Diop,Fulham,0,0,0,0.0,0.0,0.0,18,2324
+Emiliano Martinez,Aston Villa,0,0,0,0.0,0.0,0.0,34,2324
+Nick Pope,Newcastle United,0,0,0,0.0,0.0,0.0,15,2324
+Rhian Brewster,Sheffield United,0,0,0,0.0,0.0,0.0,13,2324
+Aaron Ramsdale,Arsenal,0,0,0,0.0,0.0,0.0,6,2324
+Yves Bissouma,Tottenham,0,0,0,0.0,0.0,0.0,28,2324
+Diego Carlos,Aston Villa,0,0,0,0.0,0.0,0.0,27,2324
+Ibrahim Sangare,Nottingham Forest,0,0,0,0.0,0.0,0.0,17,2324
+Fode Toure,Fulham,0,0,0,0.0,0.0,0.0,6,2324
+Jairo Riedewald,Crystal Palace,0,0,0,0.0,0.0,0.0,9,2324
+Ederson,Manchester City,0,0,0,0.0,0.0,0.0,33,2324
+Davinson Sánchez,Tottenham,0,0,0,0.0,0.0,0.0,1,2324
+Ibrahima Konaté,Liverpool,0,0,0,0.0,0.0,0.0,22,2324
+Jadon Sancho,Manchester United,0,0,0,0.0,0.0,0.0,3,2324
+Romain Faivre,Bournemouth,0,0,0,0.0,0.0,0.0,5,2324
+Ben Johnson,West Ham,0,0,0,0.0,0.0,0.0,14,2324
+Reiss Nelson,Arsenal,0,0,0,0.0,0.0,0.0,15,2324
+Michael Obafemi,Burnley,0,0,0,0.0,0.0,0.0,2,2324
+Martin Dubravka,Newcastle United,0,0,0,0.0,0.0,0.0,23,2324
+Matz Sels,Nottingham Forest,0,0,0,0.0,0.0,0.0,16,2324
+Robin Olsen,Aston Villa,0,0,0,0.0,0.0,0.0,5,2324
+Hamed Junior Traore,Bournemouth,0,0,0,0.0,0.0,0.0,3,2324
+Arijanet Muric,Burnley,0,0,0,0.0,0.0,0.0,10,2324
+Oliver Skipp,Tottenham,0,0,0,0.0,0.0,0.0,21,2324
+Jason Steele,Brighton,0,0,0,0.0,0.0,0.0,17,2324
+Han-Noah Massengo,Burnley,0,0,0,0.0,0.0,0.0,3,2324
+Ryan John Giles,Luton,0,0,0,0.0,0.0,0.0,11,2324
+Bryan Gil Salvatierra,Tottenham,0,0,0,0.0,0.0,0.0,11,2324
+Tyler Adams,Bournemouth,0,0,0,0.0,0.0,0.0,3,2324
+Mark Travers,Bournemouth,0,0,0,0.0,0.0,0.0,4,2324
+Ben Godfrey,Everton,0,0,0,0.0,0.0,0.0,15,2324
+Adam Webster,Brighton,0,0,0,0.0,0.0,0.0,15,2324
+Dean Henderson,Crystal Palace,0,0,0,0.0,0.0,0.0,18,2324
+John Egan,Sheffield United,0,0,0,0.0,0.0,0.0,6,2324
+Chris Basham,Sheffield United,0,0,0,0.0,0.0,0.0,8,2324
+John Fleck,Sheffield United,0,0,0,0.0,0.0,0.0,4,2324
+Caoimhin Kelleher,Liverpool,0,0,0,0.0,0.0,0.0,10,2324
+Felipe,Nottingham Forest,0,0,0,0.0,0.0,0.0,7,2324
+Sofyan Amrabat,Manchester United,0,0,0,0.0,0.0,0.0,21,2324
+Igor Julio,Brighton,0,0,0,0.0,0.0,0.0,24,2324
+Marvelous Nakamba,Luton,0,0,0,0.0,0.0,0.0,13,2324
+Boubacar Traore,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,24,2324
+Tommy Doyle,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,26,2324
+Luke Thomas,Sheffield United,0,0,0,0.0,0.0,0.0,12,2324
+Cheick Oumar Doucoure,Crystal Palace,0,0,0,0.0,0.0,0.0,11,2324
+Wes Foderingham,Sheffield United,0,0,0,0.0,0.0,0.0,30,2324
+Fabio Silva,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,8,2324
+Stefan Ortega Moreno,Manchester City,0,0,0,0.0,0.0,0.0,9,2324
+Donny van de Beek,Manchester United,0,0,0,0.0,0.0,0.0,1,2324
+Guglielmo Vicario,Tottenham,0,0,0,0.0,0.0,0.0,38,2324
+Max Lowe,Sheffield United,0,0,0,0.0,0.0,0.0,10,2324
+Ivo Grbic,Sheffield United,0,0,0,0.0,0.0,0.0,9,2324
+Aaron Hickey,Brentford,0,0,0,0.0,0.0,0.0,9,2324
+Rúben Dias,Manchester City,0,0,0,0.0,0.0,0.0,30,2324
+James Trafford,Burnley,0,0,0,0.0,0.0,0.0,28,2324
+Robert Sánchez,Chelsea,0,0,0,0.0,0.0,0.0,16,2324
+Radu Dragusin,Tottenham,0,0,0,0.0,0.0,0.0,9,2324
+Antwoine Hackford,Sheffield United,0,0,0,0.0,0.0,0.0,2,2324
+Naouirou Ahamada,Crystal Palace,0,0,0,0.0,0.0,0.0,20,2324
+Jakub Moder,Brighton,0,0,0,0.0,0.0,0.0,17,2324
+Tyler Onyango,Everton,0,0,0,0.0,0.0,0.0,1,2324
+Dane Scarlett,Tottenham,0,0,0,0.0,0.0,0.0,4,2324
+Kaine Hayden,Aston Villa,0,0,0,0.0,0.0,0.0,3,2324
+Jaden Philogene-Bidace,Aston Villa,0,0,0,0.0,0.0,0.0,1,2324
+Chimuanya Ugochukwu,Chelsea,0,0,0,0.0,0.0,0.0,12,2324
+Jesurun Rak-Sakyi,Crystal Palace,0,0,0,0.0,0.0,0.0,6,2324
+Maxime Estève,Burnley,0,0,0,0.0,0.0,0.0,16,2324
+Daniel Jebbison,Sheffield United,0,0,0,0.0,0.0,0.0,1,2324
+Tim Iroegbunam,Aston Villa,0,0,0,0.0,0.0,0.0,9,2324
+William Osula,Sheffield United,0,0,0,0.0,0.0,0.0,21,2324
+David Raya,Arsenal,0,0,0,0.0,0.0,0.0,32,2324
+Nuno Tavares,Nottingham Forest,0,0,0,0.0,0.0,0.0,8,2324
+José Sá,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,35,2324
+Andrew Omobamidele,Nottingham Forest,0,0,0,0.0,0.0,0.0,11,2324
+Remi Matthews,Crystal Palace,0,0,0,0.0,0.0,0.0,1,2324
+Aaron Ramsey,Burnley,0,0,0,0.0,0.0,0.0,14,2324
+Joe White,Newcastle United,0,0,0,0.0,0.0,0.0,4,2324
+Romeo Lavia,Chelsea,0,0,0,0.0,0.0,0.0,1,2324
+Yasser Larouci,Sheffield United,0,0,0,0.0,0.0,0.0,11,2324
+Kaide Gordon,Liverpool,0,0,0,0.0,0.0,0.0,1,2324
+Owen Beck,Liverpool,0,0,0,0.0,0.0,0.0,1,2324
+Hugo Bueno,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,22,2324
+Myles Peart-Harris,Brentford,0,0,0,0.0,0.0,0.0,3,2324
+Josh Dasilva,Brentford,0,0,0,0.0,0.0,0.0,3,2324
+Cesare Casadei,Chelsea,0,0,0,0.0,0.0,0.0,11,2324
+Odeluga Offiah,Brighton,0,0,0,0.0,0.0,0.0,4,2324
+Carlos Baleba,Brighton,0,0,0,0.0,0.0,0.0,27,2324
+Matt Turner,Nottingham Forest,0,0,0,0.0,0.0,0.0,17,2324
+Luke Harris,Fulham,0,0,0,0.0,0.0,0.0,1,2324
+Stefan Bajcetic,Liverpool,0,0,0,0.0,0.0,0.0,1,2324
+Jaidon Anthony,Bournemouth,0,0,0,0.0,0.0,0.0,3,2324
+James Hill,Bournemouth,0,0,0,0.0,0.0,0.0,5,2324
+Joe Worrall,Nottingham Forest,0,0,0,0.0,0.0,0.0,7,2324
+Scott McKenna,Nottingham Forest,0,0,0,0.0,0.0,0.0,5,2324
+Lewis Warrington,Everton,0,0,0,0.0,0.0,0.0,1,2324
+Jan Paul van Hecke,Brighton,0,0,0,0.0,0.0,0.0,28,2324
+André Onana,Manchester United,0,0,0,0.0,0.0,0.0,38,2324
+Santiago Bueno,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,12,2324
+Bobby Clark,Liverpool,0,0,0,0.0,0.0,0.0,5,2324
+Ethan Nwaneri,Arsenal,0,0,0,0.0,0.0,0.0,1,2324
+Nathan Fraser,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,7,2324
+Ben Doak,Liverpool,0,0,0,0.0,0.0,0.0,1,2324
+Thomas Cannon,Everton,0,0,0,0.0,0.0,0.0,1,2324
+Divin Mubama,West Ham,0,0,0,0.0,0.0,0.0,5,2324
+David Ozoh,Crystal Palace,0,0,0,0.0,0.0,0.0,9,2324
+Dominic Sadi,Bournemouth,0,0,0,0.0,0.0,0.0,1,2324
+Daniel Bentley,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,5,2324
+Kaelan Casey,West Ham,0,0,0,0.0,0.0,0.0,1,2324
+Michael Olakigbe,Brentford,0,0,0,0.0,0.0,0.0,8,2324
+Benson Manuel,Burnley,0,0,0,0.0,0.0,0.0,8,2324
+Anass Zaroury,Burnley,0,0,0,0.0,0.0,0.0,6,2324
+Hjalmar Ekdal,Burnley,0,0,0,0.0,0.0,0.0,8,2324
+Jurriën Timber,Arsenal,0,0,0,0.0,0.0,0.0,2,2324
+Bart Verbruggen,Brighton,0,0,0,0.0,0.0,0.0,21,2324
+Thomas Kaminski,Luton,0,0,0,0.0,0.0,0.0,38,2324
+Amari'i Bell,Luton,0,0,0,0.0,0.0,0.0,21,2324
+Pelly Ruddock Mpanzu,Luton,0,0,0,0.0,0.0,0.0,27,2324
+James Shea,Luton,0,0,0,0.0,0.0,0.0,1,2324
+Bénie Traoré,Sheffield United,0,0,0,0.0,0.0,0.0,8,2324
+Anis Ben Slimane,Sheffield United,0,0,0,0.0,0.0,0.0,15,2324
+Andre Brooks,Sheffield United,0,0,0,0.0,0.0,0.0,20,2324
+Auston Trusty,Sheffield United,0,0,0,0.0,0.0,0.0,32,2324
+Omari Kellyman,Aston Villa,0,0,0,0.0,0.0,0.0,2,2324
+Yehor Yarmolyuk,Brentford,0,0,0,0.0,0.0,0.0,27,2324
+Ian Maatsen,Chelsea,0,0,0,0.0,0.0,0.0,12,2324
+Andrey Santos,Nottingham Forest,0,0,0,0.0,0.0,0.0,1,2324
+Mason Burstow,Chelsea,0,0,0,0.0,0.0,0.0,2,2324
+James McConnell,Liverpool,0,0,0,0.0,0.0,0.0,3,2324
+Joseph Johnson,Luton,0,0,0,0.0,0.0,0.0,2,2324
+Youssef Chermiti,Everton,0,0,0,0.0,0.0,0.0,18,2324
+Daniel Gore,Manchester United,0,0,0,0.0,0.0,0.0,1,2324
+Hannes Delcroix,Burnley,0,0,0,0.0,0.0,0.0,12,2324
+Djordje Petrovic,Chelsea,0,0,0,0.0,0.0,0.0,23,2324
+Deivid Washington,Chelsea,0,0,0,0.0,0.0,0.0,2,2324
+Brandon Aguilera,Nottingham Forest,0,0,0,0.0,0.0,0.0,1,2324
+Enso González,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,1,2324
+Alex Matos,Chelsea,0,0,0,0.0,0.0,0.0,1,2324
+Mike Trésor,Burnley,0,0,0,0.0,0.0,0.0,16,2324
+Jamie Donley,Tottenham,0,0,0,0.0,0.0,0.0,3,2324
+Ryan Oné,Sheffield United,0,0,0,0.0,0.0,0.0,1,2324
+Zack Nelson,Luton,0,0,0,0.0,0.0,0.0,2,2324
+Ben Parkinson,Newcastle United,0,0,0,0.0,0.0,0.0,1,2324
+Alex Murphy,Newcastle United,0,0,0,0.0,0.0,0.0,2,2324
+Amadou Diallo,Newcastle United,0,0,0,0.0,0.0,0.0,1,2324
+Benicio Baker-Boaitey,Brighton,0,0,0,0.0,0.0,0.0,5,2324
+Mark O’Mahony,Brighton,0,0,0,0.0,0.0,0.0,3,2324
+Michael Ndiweni,Newcastle United,0,0,0,0.0,0.0,0.0,1,2324
+Tawanda Chirewa,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,8,2324
+Sydie Peck,Sheffield United,0,0,0,0.0,0.0,0.0,1,2324
+Willy Kambwala,Manchester United,0,0,0,0.0,0.0,0.0,8,2324
+Rhys Norrington-Davies,Sheffield United,0,0,0,0.0,0.0,0.0,5,2324
+Rodrigo Ribeiro,Nottingham Forest,0,0,0,0.0,0.0,0.0,4,2324
+Oliver Arblaster,Sheffield United,0,0,0,0.0,0.0,0.0,12,2324
+Jayden Danns,Liverpool,0,0,0,0.0,0.0,0.0,2,2324
+Sam Curtis,Sheffield United,0,0,0,0.0,0.0,0.0,1,2324
+Jimi Tauriainen,Chelsea,0,0,0,0.0,0.0,0.0,1,2324
+Valentín Barco,Brighton,0,0,0,0.0,0.0,0.0,6,2324
+Daiki Hashioka,Luton,0,0,0,0.0,0.0,0.0,10,2324
+Leon Chiwome,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,3,2324
+Josh Acheampong,Chelsea,0,0,0,0.0,0.0,0.0,1,2324
+Fred Onyedinma,Luton,0,0,0,0.0,0.0,0.0,8,2324
+Ethan Wheatley,Manchester United,0,0,0,0.0,0.0,0.0,3,2324
+Finley Munroe,Aston Villa,0,0,0,0.0,0.0,0.0,1,2324
+Mikey Moore,Tottenham,0,0,0,0.0,0.0,0.0,2,2324

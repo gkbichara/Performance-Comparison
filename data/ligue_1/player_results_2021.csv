@@ -1,0 +1,566 @@
+player,team,goals,assists,contributions,contribution_pct,goals_pct,assists_pct,games,season
+Ludovic Ajorque,Strasbourg,16,4,20,40.8,32.7,8.2,35,2021
+Memphis Depay,Lyon,21,12,33,40.7,25.9,14.8,37,2021
+Gaetan Laborde,Montpellier,16,8,24,40.0,26.7,13.3,38,2021
+Andy Delort,Montpellier,15,9,24,40.0,25.0,15.0,30,2021
+Zinedine Ferhat,Nimes,6,10,16,40.0,15.0,25.0,33,2021
+Kylian Mbappe-Lottin,Paris Saint Germain,27,7,34,39.5,31.4,8.1,31,2021
+Amine Gouiri,Nice,12,7,19,38.0,24.0,14.0,34,2021
+Boulaye Dia,Reims,14,1,15,35.7,33.3,2.4,36,2021
+Hwang Ui-Jo,Bordeaux,12,3,15,35.7,28.6,7.1,36,2021
+Wissam Ben Yedder,Monaco,20,7,27,35.5,26.3,9.2,37,2021
+Burak Yilmaz,Lille,16,5,21,32.8,25.0,7.8,28,2021
+Terem Igobor Moffi,Lorient,14,2,16,32.0,28.0,4.0,32,2021
+Farid Boulaya,Metz,6,8,14,31.8,13.6,18.2,33,2021
+Dimitri Payet,Marseille,7,10,17,31.5,13.0,18.5,33,2021
+Martin Terrier,Rennes,9,7,16,30.8,17.3,13.5,34,2021
+Kevin Volland,Monaco,16,7,23,30.3,21.1,9.2,35,2021
+Ludovic Blas,Nantes,10,4,14,29.8,21.3,8.5,36,2021
+Florian Thauvin,Marseille,8,8,16,29.6,14.8,14.8,36,2021
+Gaël Kakuta,Lens,11,5,16,29.1,20.0,9.1,35,2021
+Yoane Wissa,Lorient,10,4,14,28.0,20.0,8.0,38,2021
+Mama Baldé,Dijon,7,0,7,28.0,28.0,0.0,29,2021
+Randal Kolo Muani,Nantes,9,4,13,27.7,19.1,8.5,37,2021
+Renaud Ripart,Nimes,11,0,11,27.5,27.5,0.0,38,2021
+Denis Bouanga,Saint-Etienne,7,4,11,26.2,16.7,9.5,36,2021
+Steve Mounie,Brest,9,4,13,26.0,18.0,8.0,35,2021
+Angelo Fulgini,Angers,7,3,10,25.0,17.5,7.5,33,2021
+Karl Toko Ekambi,Lyon,14,6,20,24.7,17.3,7.4,35,2021
+Franck Honorat,Brest,8,4,12,24.0,16.0,8.0,36,2021
+Moussa Konate,Dijon,5,1,6,24.0,20.0,4.0,27,2021
+Jonathan Christian David,Lille,13,2,15,23.4,20.3,3.1,37,2021
+Jonathan Bamba,Lille,6,9,15,23.4,9.4,14.1,38,2021
+Moses Simon,Nantes,6,5,11,23.4,12.8,10.6,33,2021
+Moussa Koné,Nimes,9,0,9,22.5,22.5,0.0,33,2021
+Romain Faivre,Brest,6,5,11,22.0,12.0,10.0,36,2021
+Serhou Guirassy,Rennes,10,1,11,21.2,19.2,1.9,27,2021
+Benjamin Bourigeaud,Rennes,6,5,11,21.2,11.5,9.6,37,2021
+Florian Sotoca,Lens,8,3,11,20.0,14.5,5.5,33,2021
+Stéphane Bahoken,Angers,6,2,8,20.0,15.0,5.0,30,2021
+Romain Perraud,Brest,3,7,10,20.0,6.0,14.0,36,2021
+Bersant Celina,Dijon,0,5,5,20.0,0.0,20.0,32,2021
+Imran Louza,Nantes,7,2,9,19.1,14.9,4.3,33,2021
+Wahbi Khazri,Saint-Etienne,7,1,8,19.0,16.7,2.4,22,2021
+Arnaud Nordin,Saint-Etienne,4,4,8,19.0,9.5,9.5,32,2021
+Remi Oudin,Bordeaux,4,4,8,19.0,9.5,9.5,38,2021
+Arkadiusz Milik,Marseille,9,1,10,18.5,16.7,1.9,15,2021
+Aleksandr Golovin,Monaco,5,9,14,18.4,6.6,11.8,21,2021
+Alexis Claude Maurice,Nice,4,5,9,18.0,8.0,10.0,30,2021
+Niclas Eliasson,Nimes,4,3,7,17.5,10.0,7.5,30,2021
+Lucas Paquetá,Lyon,9,5,14,17.3,11.1,6.2,30,2021
+Yusuf Yazici,Lille,7,4,11,17.2,10.9,6.2,32,2021
+Romain Hamouma,Saint-Etienne,6,1,7,16.7,14.3,2.4,29,2021
+Téji Savanier,Montpellier,5,5,10,16.7,8.3,8.3,27,2021
+Yacine Adli,Bordeaux,2,5,7,16.7,4.8,11.9,35,2021
+Adil Aouchiche,Saint-Etienne,2,5,7,16.7,4.8,11.9,34,2021
+Jonathan Clauss,Lens,3,6,9,16.4,5.5,10.9,33,2021
+Neymar,Paris Saint Germain,9,5,14,16.3,10.5,5.8,18,2021
+Ángel Di María,Paris Saint Germain,5,9,14,16.3,5.8,10.5,27,2021
+Tinotenda Kadewere,Lyon,10,3,13,16.0,12.3,3.7,33,2021
+Irvin Cardona,Brest,7,1,8,16.0,14.0,2.0,36,2021
+Kasper Dolberg,Nice,6,2,8,16.0,12.0,4.0,25,2021
+Armand Lauriente,Lorient,3,5,8,16.0,6.0,10.0,29,2021
+Papa Ndiaga Yade,Metz,3,4,7,15.9,6.8,9.1,28,2021
+Moise Kean,Paris Saint Germain,13,0,13,15.1,15.1,0.0,26,2021
+Stephy Mavididi,Montpellier,9,0,9,15.0,15.0,0.0,35,2021
+Lois Diony,Angers,5,1,6,15.0,12.5,2.5,36,2021
+Ismael Traoré,Angers,3,3,6,15.0,7.5,7.5,34,2021
+Thomas Mangani,Angers,3,3,6,15.0,7.5,7.5,35,2021
+Pierrick Capelle,Angers,3,3,6,15.0,7.5,7.5,35,2021
+Darío Benedetto,Marseille,5,3,8,14.8,9.3,5.6,32,2021
+Mathieu Cafaro,Reims,4,2,6,14.3,9.5,4.8,31,2021
+Arbër Zeneli,Reims,3,3,6,14.3,7.1,7.1,28,2021
+Hatem Ben Arfa,Bordeaux,2,4,6,14.3,4.8,9.5,24,2021
+Jonathan Ikone,Lille,4,5,9,14.1,6.2,7.8,37,2021
+Gaëtan Charbonnier,Brest,6,1,7,14.0,12.0,2.0,36,2021
+Ibrahima Niane,Metz,6,0,6,13.6,13.6,0.0,10,2021
+Clément Grenier,Rennes,4,3,7,13.5,7.7,5.8,23,2021
+Florent Mollet,Montpellier,3,5,8,13.3,5.0,8.3,34,2021
+Ignatius Ganago,Lens,7,0,7,12.7,12.7,0.0,24,2021
+Simon Banza,Lens,5,2,7,12.7,9.1,3.6,34,2021
+Pereira Lage,Angers,4,1,5,12.5,10.0,2.5,28,2021
+Birger Meling,Nimes,2,3,5,12.5,5.0,7.5,26,2021
+Houssem Aouar,Lyon,7,3,10,12.3,8.6,3.7,30,2021
+Adrien Thomasson,Strasbourg,5,1,6,12.2,10.2,2.0,37,2021
+Dmitri Lienard,Strasbourg,2,4,6,12.2,4.1,8.2,34,2021
+Pierre Lees-Melou,Nice,4,2,6,12.0,8.0,4.0,29,2021
+Pierre-Yves Hamel,Lorient,4,2,6,12.0,8.0,4.0,23,2021
+Toma Basic,Bordeaux,4,1,5,11.9,9.5,2.4,34,2021
+Samuel Kalu,Bordeaux,4,1,5,11.9,9.5,2.4,20,2021
+Nathanael Mbuku,Reims,4,1,5,11.9,9.5,2.4,32,2021
+El Bilal Touré,Reims,4,1,5,11.9,9.5,2.4,33,2021
+Mahdi Camara,Saint-Etienne,3,2,5,11.9,7.1,4.8,37,2021
+Charles Nathan Abi,Saint-Etienne,3,2,5,11.9,7.1,4.8,24,2021
+Junior Sambia,Montpellier,1,6,7,11.7,1.7,10.0,36,2021
+Mauro Icardi,Paris Saint Germain,7,3,10,11.6,8.1,3.5,20,2021
+Pablo Sarabia,Paris Saint Germain,6,4,10,11.6,7.0,4.7,27,2021
+Vágner,Metz,4,1,5,11.4,9.1,2.3,26,2021
+Thomas Delaine,Metz,3,2,5,11.4,6.8,4.5,24,2021
+Lamine Gueye,Metz,3,2,5,11.4,6.8,4.5,26,2021
+Sofiane Diop,Monaco,7,1,8,10.5,9.2,1.3,32,2021
+Kenny Lala,Strasbourg,3,2,5,10.2,6.1,4.1,21,2021
+Frederic Guilbert,Strasbourg,1,4,5,10.2,2.0,8.2,13,2021
+Romain Thomas,Angers,4,0,4,10.0,10.0,0.0,34,2021
+Hichem Boudaoui,Nice,3,2,5,10.0,6.0,4.0,25,2021
+Enzo Le Fée,Lorient,0,5,5,10.0,0.0,10.0,36,2021
+Jéremy Doku,Rennes,2,3,5,9.6,3.8,5.8,30,2021
+Romain Del Castillo,Rennes,0,5,5,9.6,0.0,9.6,26,2021
+Harold Moukoudi,Saint-Etienne,3,1,4,9.5,7.1,2.4,26,2021
+Paul Baysse,Bordeaux,2,2,4,9.5,4.8,4.8,31,2021
+Luiz Araujo,Lille,4,2,6,9.4,6.2,3.1,28,2021
+Álvaro González,Marseille,2,3,5,9.3,3.7,5.6,32,2021
+Morgan Sanson,Marseille,2,3,5,9.3,3.7,5.6,12,2021
+Luis Henrique,Marseille,0,5,5,9.3,0.0,9.3,19,2021
+Aaron Leya Iseka,Metz,4,0,4,9.1,9.1,0.0,21,2021
+Opa Nguette,Metz,3,1,4,9.1,6.8,2.3,16,2021
+Seko Fofana,Lens,2,3,5,9.1,3.6,5.5,30,2021
+Digbo Maiga,Metz,1,3,4,9.1,2.3,6.8,31,2021
+Maxwel Cornet,Lyon,2,5,7,8.6,2.5,6.2,36,2021
+Kalifa Coulibaly,Nantes,3,1,4,8.5,6.4,2.1,17,2021
+Abdoul Kader Bamba,Nantes,3,1,4,8.5,6.4,2.1,29,2021
+Abdoulaye Touré,Nantes,2,2,4,8.5,4.3,4.3,29,2021
+Julian Draxler,Paris Saint Germain,4,3,7,8.1,4.7,3.5,24,2021
+Adrian Grbic,Lorient,4,0,4,8.0,8.0,0.0,33,2021
+Rony Lopes,Nice,3,1,4,8.0,6.0,2.0,28,2021
+Laurent Abergel,Lorient,3,1,4,8.0,6.0,2.0,38,2021
+Myziane Maolida,Nice,3,1,4,8.0,6.0,2.0,19,2021
+Brendan Chardonnet,Brest,3,1,4,8.0,6.0,2.0,33,2021
+Yassine Benzia,Dijon,2,0,2,8.0,8.0,0.0,7,2021
+Bruno Ecuele Manga,Dijon,2,0,2,8.0,8.0,0.0,38,2021
+Quentin Boisgard,Lorient,2,2,4,8.0,4.0,4.0,24,2021
+Trevoh Chalobah,Lorient,2,2,4,8.0,4.0,4.0,29,2021
+Senou Coulibaly,Dijon,2,0,2,8.0,8.0,0.0,22,2021
+Ngonda Muzinga,Dijon,2,0,2,8.0,8.0,0.0,30,2021
+Eric Junior Dina Ebimbe,Dijon,1,1,2,8.0,4.0,4.0,30,2021
+Frederic Sammaritano,Dijon,0,2,2,8.0,0.0,8.0,30,2021
+Mounir Chouiar,Dijon,0,2,2,8.0,0.0,8.0,23,2021
+Stevan Jovetic,Monaco,6,0,6,7.9,7.9,0.0,29,2021
+Guillermo Maripán,Monaco,5,1,6,7.9,6.6,1.3,28,2021
+Aurelien Tchouameni,Monaco,2,4,6,7.9,2.6,5.3,36,2021
+Mehmet Zeki Çelik,Lille,3,2,5,7.8,4.7,3.1,29,2021
+Damien Da Silva,Rennes,4,0,4,7.7,7.7,0.0,30,2021
+Adrien Hunou,Rennes,4,0,4,7.7,7.7,0.0,20,2021
+Naif Aguerd,Rennes,3,1,4,7.7,5.8,1.9,35,2021
+Flavien Tait,Rennes,1,3,4,7.7,1.9,5.8,23,2021
+Adrien Truffert,Rennes,1,3,4,7.7,1.9,5.8,29,2021
+Lucas Deaux,Nimes,1,2,3,7.5,2.5,5.0,25,2021
+Pol Lirola,Marseille,2,2,4,7.4,3.7,3.7,19,2021
+Léo Dubois,Lyon,2,4,6,7.4,2.5,4.9,37,2021
+Clement Michelin,Lens,0,4,4,7.3,0.0,7.3,26,2021
+Tony Mauricio,Lens,0,4,4,7.3,0.0,7.3,26,2021
+Yunis Abdelhamid,Reims,3,0,3,7.1,7.1,0.0,33,2021
+Mathieu Debuchy,Saint-Etienne,2,1,3,7.1,4.8,2.4,26,2021
+Ghislain Konan,Reims,2,1,3,7.1,4.8,2.4,31,2021
+Nicolas de Preville,Bordeaux,1,2,3,7.1,2.4,4.8,33,2021
+Youssouf Sabaly,Bordeaux,1,2,3,7.1,2.4,4.8,33,2021
+Jimmy Briand,Bordeaux,1,2,3,7.1,2.4,4.8,24,2021
+Dereck Kutesa,Reims,1,2,3,7.1,2.4,4.8,28,2021
+Yvan Neyou,Saint-Etienne,1,2,3,7.1,2.4,4.8,31,2021
+Sékou Mara,Bordeaux,1,2,3,7.1,2.4,4.8,8,2021
+Xavier Chavalerin,Reims,0,3,3,7.1,0.0,7.1,30,2021
+Thomas Foket,Reims,0,3,3,7.1,0.0,7.1,37,2021
+Valon Berisha,Reims,0,3,3,7.1,0.0,7.1,24,2021
+Pape Sarr,Metz,3,0,3,6.8,6.8,0.0,22,2021
+John Boye,Metz,1,2,3,6.8,2.3,4.5,35,2021
+Matthieu Udol,Metz,0,3,3,6.8,0.0,6.8,25,2021
+Sepe Elye Wahi,Montpellier,3,1,4,6.7,5.0,1.7,18,2021
+Gelson Martins,Monaco,3,2,5,6.6,3.9,2.6,23,2021
+Cesc Fàbregas,Monaco,2,3,5,6.6,2.6,3.9,21,2021
+Renato Sanches,Lille,1,3,4,6.2,1.6,4.7,23,2021
+Dante,Nice,2,1,3,6.0,4.0,2.0,9,2021
+Hassane Kamara,Nice,2,1,3,6.0,4.0,2.0,36,2021
+Andrew Gravillon,Lorient,1,2,3,6.0,2.0,4.0,26,2021
+Jeremy Le Douaron,Brest,1,2,3,6.0,2.0,4.0,28,2021
+Julien Faussurier,Brest,0,3,3,6.0,0.0,6.0,17,2021
+Eduardo Camavinga,Rennes,1,2,3,5.8,1.9,3.8,35,2021
+Raphinha,Rennes,1,2,3,5.8,1.9,3.8,6,2021
+Valère Germain,Marseille,3,0,3,5.6,5.6,0.0,24,2021
+Saif-Eddine Khaoui,Marseille,2,1,3,5.6,3.7,1.9,17,2021
+Michaël Cuisance,Marseille,2,1,3,5.6,3.7,1.9,23,2021
+Duje Caleta-Car,Marseille,2,1,3,5.6,3.7,1.9,33,2021
+Nemanja Radonjic,Marseille,2,1,3,5.6,3.7,1.9,12,2021
+Valentin Rongier,Marseille,1,2,3,5.6,1.9,3.7,26,2021
+Massadio Haidara,Lens,2,1,3,5.5,3.6,1.8,25,2021
+Cheick Oumar Doucoure,Lens,2,1,3,5.5,3.6,1.8,33,2021
+Ruben Aguilar,Monaco,1,3,4,5.3,1.3,3.9,33,2021
+Caio Henrique,Monaco,0,4,4,5.3,0.0,5.3,31,2021
+Matteo Ahlinvi,Nimes,2,0,2,5.0,5.0,0.0,20,2021
+Lassana Coulibaly,Angers,1,1,2,5.0,2.5,2.5,29,2021
+Jimmy Cabot,Angers,1,1,2,5.0,2.5,2.5,22,2021
+Sada Thioub,Angers,1,1,2,5.0,2.5,2.5,27,2021
+Kévin Denkey,Nimes,1,1,2,5.0,2.5,2.5,10,2021
+Lamine Fomba,Nimes,1,1,2,5.0,2.5,2.5,32,2021
+Jordan Ferri,Montpellier,0,3,3,5.0,0.0,5.0,34,2021
+Sofiane Alakouch,Nimes,0,2,2,5.0,0.0,5.0,22,2021
+Haris Duljevic,Nimes,0,2,2,5.0,0.0,5.0,20,2021
+Islam Slimani,Lyon,3,1,4,4.9,3.7,1.2,18,2021
+Bruno Guimarães,Lyon,3,1,4,4.9,3.7,1.2,33,2021
+Mathis Cherki,Lyon,1,3,4,4.9,1.2,3.7,27,2021
+Josh Maja,Bordeaux,2,0,2,4.8,4.8,0.0,17,2021
+Zaydou Youssef,Saint-Etienne,1,1,2,4.8,2.4,2.4,29,2021
+Moreto Cassamã,Reims,1,1,2,4.8,2.4,2.4,29,2021
+Mehdi Zerkane,Bordeaux,1,1,2,4.8,2.4,2.4,27,2021
+Yvann Maçon,Saint-Etienne,1,1,2,4.8,2.4,2.4,6,2021
+Laurent Koscielny,Bordeaux,0,2,2,4.8,0.0,4.8,26,2021
+Miguel Trauco,Saint-Etienne,0,2,2,4.8,0.0,4.8,26,2021
+José Fonte,Lille,3,0,3,4.7,4.7,0.0,36,2021
+Marquinhos,Paris Saint Germain,3,1,4,4.7,3.5,1.2,25,2021
+Timothy Weah,Lille,3,0,3,4.7,4.7,0.0,28,2021
+Ander Herrera,Paris Saint Germain,1,3,4,4.7,1.2,3.5,31,2021
+Xeka,Lille,1,2,3,4.7,1.6,3.1,33,2021
+Domagoj Bradaric,Lille,1,2,3,4.7,1.6,3.1,26,2021
+Rafinha,Paris Saint Germain,0,4,4,4.7,0.0,4.7,23,2021
+Dylan Bronn,Metz,2,0,2,4.5,4.5,0.0,38,2021
+Nicolas Pallois,Nantes,2,0,2,4.3,4.3,0.0,32,2021
+Renaud Emond,Nantes,2,0,2,4.3,4.3,0.0,22,2021
+Andrei Girotto,Nantes,1,1,2,4.3,2.1,2.1,34,2021
+Pedro Chirivella,Nantes,0,2,2,4.3,0.0,4.3,32,2021
+Marcus Coco,Nantes,0,2,2,4.3,0.0,4.3,32,2021
+Dennis Appiah,Nantes,0,2,2,4.3,0.0,4.3,22,2021
+Stefan Mitrovic,Strasbourg,2,0,2,4.1,4.1,0.0,32,2021
+Kévin Zohi,Strasbourg,2,0,2,4.1,4.1,0.0,23,2021
+Mehdi Chahiri,Strasbourg,2,0,2,4.1,4.1,0.0,23,2021
+Mohamed Simakan,Strasbourg,1,1,2,4.1,2.0,2.0,19,2021
+Jean-Ricner Bellegarde,Strasbourg,1,1,2,4.1,2.0,2.0,36,2021
+Anthony Caci,Strasbourg,0,2,2,4.1,0.0,4.1,33,2021
+Thomas Monconduit,Lorient,2,0,2,4.0,4.0,0.0,27,2021
+Kephren Thuram,Nice,2,0,2,4.0,4.0,0.0,29,2021
+Jerome Hergault,Lorient,2,0,2,4.0,4.0,0.0,22,2021
+Aboubakar Kamara,Dijon,1,0,1,4.0,4.0,0.0,10,2021
+Fouad Chafik,Dijon,1,0,1,4.0,4.0,0.0,23,2021
+Roger Assalé,Dijon,1,0,1,4.0,4.0,0.0,17,2021
+Aurelien Scheidler,Dijon,1,0,1,4.0,4.0,0.0,10,2021
+Dan Ndoye,Nice,1,1,2,4.0,2.0,2.0,28,2021
+Lilian Brassier,Brest,1,1,2,4.0,2.0,2.0,11,2021
+Didier Ndong,Dijon,0,1,1,4.0,0.0,4.0,29,2021
+Axel Disasi,Monaco,3,0,3,3.9,3.9,0.0,29,2021
+Benoit Badiashile Mukinayi,Monaco,2,1,3,3.9,2.6,1.3,35,2021
+Fode Toure,Monaco,0,3,3,3.9,0.0,3.9,24,2021
+Youssouf Fofana,Monaco,0,3,3,3.9,0.0,3.9,35,2021
+Steven N'Zonzi,Rennes,1,1,2,3.8,1.9,1.9,34,2021
+Hamari Traore,Rennes,1,1,2,3.8,1.9,1.9,35,2021
+Marcelo,Lyon,3,0,3,3.7,3.7,0.0,34,2021
+Leonardo Balerdi,Marseille,2,0,2,3.7,3.7,0.0,21,2021
+Pape Alassane Gueye,Marseille,2,0,2,3.7,3.7,0.0,32,2021
+Boubacar Kamara,Marseille,0,2,2,3.7,0.0,3.7,35,2021
+Facundo Medina,Lens,2,0,2,3.6,3.6,0.0,24,2021
+Corentin Jean,Lens,1,1,2,3.6,1.8,1.8,23,2021
+David Pereira Da Costa,Lens,1,1,2,3.6,1.8,1.8,8,2021
+Idrissa Gueye,Paris Saint Germain,2,1,3,3.5,2.3,1.2,28,2021
+Alessandro Florenzi,Paris Saint Germain,2,1,3,3.5,2.3,1.2,21,2021
+Danilo Pereira,Paris Saint Germain,2,1,3,3.5,2.3,1.2,23,2021
+Leandro Paredes,Paris Saint Germain,1,2,3,3.5,1.2,2.3,21,2021
+Colin Dagba,Paris Saint Germain,1,2,3,3.5,1.2,2.3,25,2021
+Petar Skuletic,Montpellier,2,0,2,3.3,3.3,0.0,19,2021
+Pedro Mendes,Montpellier,2,0,2,3.3,3.3,0.0,22,2021
+Daniel Congré,Montpellier,2,0,2,3.3,3.3,0.0,38,2021
+Arnaud Souquet,Montpellier,1,1,2,3.3,1.7,1.7,23,2021
+Ambroise Oyongo,Montpellier,1,1,2,3.3,1.7,1.7,13,2021
+Mihailo Ristic,Montpellier,0,2,2,3.3,0.0,3.3,34,2021
+Eliot Matazo,Monaco,1,1,2,2.6,1.3,1.3,10,2021
+Djibril Sidibe,Monaco,0,2,2,2.6,0.0,2.6,30,2021
+Sofiane Boufal,Angers,1,0,1,2.5,2.5,0.0,14,2021
+Loïck Landre,Nimes,1,0,1,2.5,2.5,0.0,20,2021
+Adrián Cubas,Nimes,1,0,1,2.5,2.5,0.0,27,2021
+Pablo Martinez,Nimes,0,1,1,2.5,0.0,2.5,7,2021
+Mateo Pavlovic,Angers,0,1,1,2.5,0.0,2.5,14,2021
+Rayan Ait Nouri,Angers,0,1,1,2.5,0.0,2.5,3,2021
+Antonin Bobichon,Angers,0,1,1,2.5,0.0,2.5,23,2021
+Souleyman Doumbia,Angers,0,1,1,2.5,0.0,2.5,27,2021
+Pablo,Bordeaux,1,0,1,2.4,2.4,0.0,13,2021
+Enock Kwateng,Bordeaux,1,0,1,2.4,2.4,0.0,18,2021
+Otávio,Bordeaux,1,0,1,2.4,2.4,0.0,18,2021
+Marshall Munetsi,Reims,1,0,1,2.4,2.4,0.0,27,2021
+Wout Faes,Reims,1,0,1,2.4,2.4,0.0,33,2021
+Alexis Flips,Reims,1,0,1,2.4,2.4,0.0,2,2021
+Issouf Sissokho,Bordeaux,1,0,1,2.4,2.4,0.0,6,2021
+Moussa Doumbia,Reims,0,1,1,2.4,0.0,2.4,23,2021
+Ryad Boudebouz,Saint-Etienne,0,1,1,2.4,0.0,2.4,14,2021
+Kaj Sierhuis,Reims,0,1,1,2.4,0.0,2.4,24,2021
+Amadou Traoré,Bordeaux,0,1,1,2.4,0.0,2.4,19,2021
+Layvin Kurzawa,Paris Saint Germain,1,1,2,2.3,1.2,1.2,19,2021
+Fabien Centonze,Metz,1,0,1,2.3,2.3,0.0,36,2021
+Boubacar Traore,Metz,1,0,1,2.3,2.3,0.0,2,2021
+Kiki Kouyate,Metz,1,0,1,2.3,2.3,0.0,25,2021
+Marco Verratti,Paris Saint Germain,0,2,2,2.3,0.0,2.3,21,2021
+Thierry Ambrose,Metz,0,1,1,2.3,0.0,2.3,23,2021
+Victorien Angban,Metz,0,1,1,2.3,0.0,2.3,26,2021
+Mitchel Bakker,Paris Saint Germain,0,2,2,2.3,0.0,2.3,26,2021
+Charles Traore,Nantes,1,0,1,2.1,2.1,0.0,22,2021
+Jean-Charles Castelletto,Nantes,1,0,1,2.1,2.1,0.0,24,2021
+Fabio,Nantes,0,1,1,2.1,0.0,2.1,22,2021
+Sébastien Corchia,Nantes,0,1,1,2.1,0.0,2.1,25,2021
+Lamine Koné,Strasbourg,1,0,1,2.0,2.0,0.0,15,2021
+Majeed Waris,Strasbourg,1,0,1,2.0,2.0,0.0,15,2021
+Fabien Lemoine,Lorient,1,0,1,2.0,2.0,0.0,30,2021
+Ronael Pierre Gabriel,Brest,1,0,1,2.0,2.0,0.0,29,2021
+Jean-Clair Todibo,Nice,1,0,1,2.0,2.0,0.0,15,2021
+Youcef Atal,Nice,1,0,1,2.0,2.0,0.0,18,2021
+William Saliba,Nice,1,0,1,2.0,2.0,0.0,20,2021
+Jean-Kevin Duverne,Brest,1,0,1,2.0,2.0,0.0,27,2021
+Jordan Lotomba,Nice,1,0,1,2.0,2.0,0.0,30,2021
+Flavius Daniliuc,Nice,1,0,1,2.0,2.0,0.0,23,2021
+Malik Sellouki,Nice,1,0,1,2.0,2.0,0.0,4,2021
+Dion Moise Sahi,Strasbourg,1,0,1,2.0,2.0,0.0,6,2021
+Sanjin Prcic,Strasbourg,0,1,1,2.0,0.0,2.0,14,2021
+Jonathan Delaplace,Lorient,0,1,1,2.0,0.0,2.0,18,2021
+Lionel Carole,Strasbourg,0,1,1,2.0,0.0,2.0,27,2021
+Jordan Amavi,Marseille,1,0,1,1.9,1.9,0.0,13,2021
+M'Baye Niang,Rennes,1,0,1,1.9,1.9,0.0,9,2021
+Gerzino Nyamsi,Rennes,1,0,1,1.9,1.9,0.0,14,2021
+Lucas Perrin,Marseille,1,0,1,1.9,1.9,0.0,7,2021
+Hiroki Sakai,Marseille,0,1,1,1.9,0.0,1.9,29,2021
+Yuto Nagatomo,Marseille,0,1,1,1.9,0.0,1.9,25,2021
+Faitout Maouassa,Rennes,0,1,1,1.9,0.0,1.9,23,2021
+Dalbert,Rennes,0,1,1,1.9,0.0,1.9,13,2021
+Yannick Cahuzac,Lens,1,0,1,1.8,1.8,0.0,30,2021
+Issiaga Sylla,Lens,1,0,1,1.8,1.8,0.0,20,2021
+Jonathan Gradit,Lens,0,1,1,1.8,0.0,1.8,33,2021
+Hilton,Montpellier,0,1,1,1.7,0.0,1.7,29,2021
+Benjamin André,Lille,0,1,1,1.6,0.0,1.6,35,2021
+Boubakary Soumare,Lille,0,1,1,1.6,0.0,1.6,32,2021
+Isaac Lihadji,Lille,0,1,1,1.6,0.0,1.6,15,2021
+Pietro Pellegri,Monaco,1,0,1,1.3,1.3,0.0,16,2021
+Willem Geubbels,Monaco,1,0,1,1.3,1.3,0.0,14,2021
+Krépin Diatta,Monaco,1,0,1,1.3,1.3,0.0,12,2021
+Henry Onyekuru,Monaco,0,1,1,1.3,0.0,1.3,4,2021
+Jason Denayer,Lyon,1,0,1,1.2,1.2,0.0,31,2021
+Moussa Dembele,Lyon,1,0,1,1.2,1.2,0.0,16,2021
+Timothee Pembele,Paris Saint Germain,1,0,1,1.2,1.2,0.0,6,2021
+Mattia De Sciglio,Lyon,0,1,1,1.2,0.0,1.2,29,2021
+Abdou Diallo,Paris Saint Germain,0,1,1,1.2,0.0,1.2,22,2021
+Thiago Mendes,Lyon,0,1,1,1.2,0.0,1.2,32,2021
+Maxence Caqueret,Lyon,0,1,1,1.2,0.0,1.2,29,2021
+Anthony Modeste,Saint-Etienne,0,0,0,0.0,0.0,0.0,7,2021
+Juan Bernat,Paris Saint Germain,0,0,0,0.0,0.0,0.0,3,2021
+Morgan Schneiderlin,Nice,0,0,0,0.0,0.0,0.0,28,2021
+Vito Mannone,Monaco,0,0,0,0.0,0.0,0.0,9,2021
+Yann M'Vila,Saint-Etienne,0,0,0,0.0,0.0,0.0,1,2021
+Sylvain Marveaux,Lorient,0,0,0,0.0,0.0,0.0,9,2021
+Olivier Ntcham,Marseille,0,0,0,0.0,0.0,0.0,4,2021
+Kevin Strootman,Marseille,0,0,0,0.0,0.0,0.0,11,2021
+Daniele Rugani,Rennes,0,0,0,0.0,0.0,0.0,1,2021
+Assane Diousse,Saint-Etienne,0,0,0,0.0,0.0,0.0,1,2021
+Steve Mandanda,Marseille,0,0,0,0.0,0.0,0.0,37,2021
+Jérémy Pied,Lille,0,0,0,0.0,0.0,0.0,6,2021
+Gabriel Silva,Saint-Etienne,0,0,0,0.0,0.0,0.0,4,2021
+Timothée Kolodziejczak,Saint-Etienne,0,0,0,0.0,0.0,0.0,24,2021
+Sergio Rico,Paris Saint Germain,0,0,0,0.0,0.0,0.0,10,2021
+Rubén Pardo,Bordeaux,0,0,0,0.0,0.0,0.0,2,2021
+Keylor Navas,Paris Saint Germain,0,0,0,0.0,0.0,0.0,29,2021
+Jesé,Paris Saint Germain,0,0,0,0.0,0.0,0.0,2,2021
+Pape Cheikh,Dijon,0,0,0,0.0,0.0,0.0,21,2021
+Danilo,Nice,0,0,0,0.0,0.0,0.0,4,2021
+Thilo Kehrer,Paris Saint Germain,0,0,0,0.0,0.0,0.0,24,2021
+Damien Le Tallec,Montpellier,0,0,0,0.0,0.0,0.0,23,2021
+Alban Lafont,Nantes,0,0,0,0.0,0.0,0.0,38,2021
+Benoit Costil,Bordeaux,0,0,0,0.0,0.0,0.0,38,2021
+Ludovic Baal,Brest,0,0,0,0.0,0.0,0.0,7,2021
+Paul Bernardoni,Angers,0,0,0,0.0,0.0,0.0,38,2021
+Anthony Lopes,Lyon,0,0,0,0.0,0.0,0.0,38,2021
+Jérémy Morel,Lorient,0,0,0,0.0,0.0,0.0,28,2021
+Jean-Kevin Augustin,Nantes,0,0,0,0.0,0.0,0.0,3,2021
+Jean Michael Seri,Bordeaux,0,0,0,0.0,0.0,0.0,12,2021
+Jean-Louis Leca,Lens,0,0,0,0.0,0.0,0.0,37,2021
+Alexander Djiku,Strasbourg,0,0,0,0.0,0.0,0.0,30,2021
+Casimir Ninga,Angers,0,0,0,0.0,0.0,0.0,1,2021
+Jonas Martin,Rennes,0,0,0,0.0,0.0,0.0,12,2021
+Adama Soumaoro,Lille,0,0,0,0.0,0.0,0.0,3,2021
+Ibrahim Amadou,Angers,0,0,0,0.0,0.0,0.0,24,2021
+Bouna Sarr,Marseille,0,0,0,0.0,0.0,0.0,2,2021
+Yohann Pelé,Marseille,0,0,0,0.0,0.0,0.0,1,2021
+Paul Nardi,Lorient,0,0,0,0.0,0.0,0.0,23,2021
+Matthieu Dreyer,Lorient,0,0,0,0.0,0.0,0.0,15,2021
+Benjamin Lecomte,Monaco,0,0,0,0.0,0.0,0.0,28,2021
+Vincent Le Goff,Lorient,0,0,0,0.0,0.0,0.0,26,2021
+Vincent Manceau,Angers,0,0,0,0.0,0.0,0.0,27,2021
+Vincent Pajot,Metz,0,0,0,0.0,0.0,0.0,12,2021
+Nolan Roux,Nimes,0,0,0,0.0,0.0,0.0,19,2021
+Kévin Monnet-Paquet,Saint-Etienne,0,0,0,0.0,0.0,0.0,16,2021
+Jessy Moulin,Saint-Etienne,0,0,0,0.0,0.0,0.0,29,2021
+Maxime Poundje,Bordeaux,0,0,0,0.0,0.0,0.0,14,2021
+Dimitry Bertaud,Montpellier,0,0,0,0.0,0.0,0.0,9,2021
+Presnel Kimpembe,Paris Saint Germain,0,0,0,0.0,0.0,0.0,28,2021
+Mexer,Bordeaux,0,0,0,0.0,0.0,0.0,9,2021
+Kevin N'Doram,Metz,0,0,0,0.0,0.0,0.0,6,2021
+Wesley Lautoa,Dijon,0,0,0,0.0,0.0,0.0,25,2021
+Mike Maignan,Lille,0,0,0,0.0,0.0,0.0,38,2021
+Paul Lasne,Brest,0,0,0,0.0,0.0,0.0,22,2021
+Maxime Lopez,Marseille,0,0,0,0.0,0.0,0.0,4,2021
+Anastasios Donis,Reims,0,0,0,0.0,0.0,0.0,3,2021
+Mehdi Abeid,Nantes,0,0,0,0.0,0.0,0.0,18,2021
+Rachid Alioui,Angers,0,0,0,0.0,0.0,0.0,1,2021
+Marc-Aurele Caillard,Metz,0,0,0,0.0,0.0,0.0,5,2021
+Roli Pereira De Sa,Nantes,0,0,0,0.0,0.0,0.0,6,2021
+Baptiste Reynet,Nimes,0,0,0,0.0,0.0,0.0,38,2021
+Romain Amalfitano,Dijon,0,0,0,0.0,0.0,0.0,2,2021
+Walter Benítez,Nice,0,0,0,0.0,0.0,0.0,38,2021
+Baptiste Santamaria,Angers,0,0,0,0.0,0.0,0.0,3,2021
+Keagan Dolly,Montpellier,0,0,0,0.0,0.0,0.0,18,2021
+Eiji Kawashima,Strasbourg,0,0,0,0.0,0.0,0.0,24,2021
+Fernando Marçal,Lyon,0,0,0,0.0,0.0,0.0,1,2021
+Jordan Marié,Dijon,0,0,0,0.0,0.0,0.0,24,2021
+Abdoulaye Bamba,Angers,0,0,0,0.0,0.0,0.0,16,2021
+Hugo Magnetti,Brest,0,0,0,0.0,0.0,0.0,13,2021
+Sami Benamar,Nimes,0,0,0,0.0,0.0,0.0,1,2021
+Youssef Maziz,Metz,0,0,0,0.0,0.0,0.0,11,2021
+Romain Salin,Rennes,0,0,0,0.0,0.0,0.0,15,2021
+James Edward Lea Siliki,Rennes,0,0,0,0.0,0.0,0.0,7,2021
+Kenny Tete,Lyon,0,0,0,0.0,0.0,0.0,1,2021
+Bingourou Kamara,Strasbourg,0,0,0,0.0,0.0,0.0,8,2021
+Idriss Saadi,Strasbourg,0,0,0,0.0,0.0,0.0,7,2021
+Alexandre Oukidja,Metz,0,0,0,0.0,0.0,0.0,34,2021
+Rayan Souici,Saint-Etienne,0,0,0,0.0,0.0,0.0,1,2021
+Hicham Mahou,Nice,0,0,0,0.0,0.0,0.0,2,2021
+Christophe Herelle,Brest,0,0,0,0.0,0.0,0.0,16,2021
+Tristan Dingome,Reims,0,0,0,0.0,0.0,0.0,1,2021
+Nicolas Cozza,Montpellier,0,0,0,0.0,0.0,0.0,20,2021
+Samuel Moutoussamy,Nantes,0,0,0,0.0,0.0,0.0,1,2021
+Wilfried Kanga,Angers,0,0,0,0.0,0.0,0.0,2,2021
+Racine Coly,Nice,0,0,0,0.0,0.0,0.0,1,2021
+Ismail Aaneb,Strasbourg,0,0,0,0.0,0.0,0.0,2,2021
+Joachim Andersen,Lyon,0,0,0,0.0,0.0,0.0,3,2021
+Panagiotis Retsos,Saint-Etienne,0,0,0,0.0,0.0,0.0,4,2021
+Stanley N'Soki,Nice,0,0,0,0.0,0.0,0.0,18,2021
+Steven Fortes,Lens,0,0,0,0.0,0.0,0.0,18,2021
+Andy Pelmard,Nice,0,0,0,0.0,0.0,0.0,19,2021
+Sebastien Cibois,Brest,0,0,0,0.0,0.0,0.0,3,2021
+Yehvann Diouf,Reims,0,0,0,0.0,0.0,0.0,2,2021
+Anthony Racioppi,Dijon,0,0,0,0.0,0.0,0.0,21,2021
+Ibrahima Diallo,Brest,0,0,0,0.0,0.0,0.0,5,2021
+Christopher Rocchia,Marseille,0,0,0,0.0,0.0,0.0,2,2021
+Anthony Briancon,Nimes,0,0,0,0.0,0.0,0.0,16,2021
+Florian Miguel,Nimes,0,0,0,0.0,0.0,0.0,21,2021
+Umut Bozok,Lorient,0,0,0,0.0,0.0,0.0,5,2021
+Clement Depres,Nimes,0,0,0,0.0,0.0,0.0,1,2021
+Gaetan Paquiez,Nimes,0,0,0,0.0,0.0,0.0,16,2021
+Yann Gboho,Rennes,0,0,0,0.0,0.0,0.0,10,2021
+Edouard Mendy,Rennes,0,0,0,0.0,0.0,0.0,1,2021
+Thomas Fontaine,Lorient,0,0,0,0.0,0.0,0.0,4,2021
+Cheick Traoré,Lens,0,0,0,0.0,0.0,0.0,2,2021
+Matz Sels,Strasbourg,0,0,0,0.0,0.0,0.0,6,2021
+Ibrahima Sissoko,Strasbourg,0,0,0,0.0,0.0,0.0,36,2021
+Georginio Rutter,Rennes,0,0,0,0.0,0.0,0.0,4,2021
+Farid El Melali,Angers,0,0,0,0.0,0.0,0.0,17,2021
+Lucas Buades,Nimes,0,0,0,0.0,0.0,0.0,2,2021
+Jonathan Panzo,Dijon,0,0,0,0.0,0.0,0.0,22,2021
+Giulian Biancone,Monaco,0,0,0,0.0,0.0,0.0,2,2021
+Marvin Tshibuabua,Saint-Etienne,0,0,0,0.0,0.0,0.0,1,2021
+Eddy Sylvestre,Nice,0,0,0,0.0,0.0,0.0,4,2021
+Loic Bessile,Bordeaux,0,0,0,0.0,0.0,0.0,1,2021
+Reinildo,Lille,0,0,0,0.0,0.0,0.0,29,2021
+Kelyan Guessoum,Nimes,0,0,0,0.0,0.0,0.0,15,2021
+Yassin Benrahou,Nimes,0,0,0,0.0,0.0,0.0,23,2021
+Bilal Benkhedim,Saint-Etienne,0,0,0,0.0,0.0,0.0,3,2021
+Arthur Zagre,Dijon,0,0,0,0.0,0.0,0.0,3,2021
+Wesley Fofana,Saint-Etienne,0,0,0,0.0,0.0,0.0,4,2021
+Predrag Rajkovic,Reims,0,0,0,0.0,0.0,0.0,37,2021
+Gautier Larsonneur,Brest,0,0,0,0.0,0.0,0.0,35,2021
+Haris Belkebla,Brest,0,0,0,0.0,0.0,0.0,35,2021
+Cristian Battocchio,Brest,0,0,0,0.0,0.0,0.0,15,2021
+Joris Chotard,Montpellier,0,0,0,0.0,0.0,0.0,29,2021
+Loris Benito,Bordeaux,0,0,0,0.0,0.0,0.0,31,2021
+Rayan Philippe,Dijon,0,0,0,0.0,0.0,0.0,4,2021
+Tiago Djaló,Lille,0,0,0,0.0,0.0,0.0,17,2021
+Mamadou Fofana,Metz,0,0,0,0.0,0.0,0.0,16,2021
+Marcin Bulka,Paris Saint Germain,0,0,0,0.0,0.0,0.0,1,2021
+Sidy Sarr,Nimes,0,0,0,0.0,0.0,0.0,9,2021
+Dario Maresic,Reims,0,0,0,0.0,0.0,0.0,8,2021
+Evann Guessand,Nice,0,0,0,0.0,0.0,0.0,3,2021
+Antoine Valerio,Nimes,0,0,0,0.0,0.0,0.0,1,2021
+Marley Aké,Marseille,0,0,0,0.0,0.0,0.0,9,2021
+Stefan Bajic,Saint-Etienne,0,0,0,0.0,0.0,0.0,1,2021
+Clement Vidal,Montpellier,0,0,0,0.0,0.0,0.0,2,2021
+Hianga'a M'Bock,Brest,0,0,0,0.0,0.0,0.0,12,2021
+Ahmad Toure Ngouyamsa Nounchili,Dijon,0,0,0,0.0,0.0,0.0,3,2021
+Zinédine Ould Khaled,Angers,0,0,0,0.0,0.0,0.0,3,2021
+Nelson Sissoko,Saint-Etienne,0,0,0,0.0,0.0,0.0,9,2021
+Melvin Bard,Lyon,0,0,0,0.0,0.0,0.0,14,2021
+Mihai-Alexandru Dobre,Dijon,0,0,0,0.0,0.0,0.0,22,2021
+Bridge Ndilu,Nantes,0,0,0,0.0,0.0,0.0,6,2021
+Moise Sakava,Reims,0,0,0,0.0,0.0,0.0,1,2021
+Maxence Rivera,Saint-Etienne,0,0,0,0.0,0.0,0.0,17,2021
+Yun Il-Lok,Montpellier,0,0,0,0.0,0.0,0.0,12,2021
+Batista Mendy,Nantes,0,0,0,0.0,0.0,0.0,2,2021
+Alexis Trouillet,Nice,0,0,0,0.0,0.0,0.0,5,2021
+Lucas Gourna Douath,Saint-Etienne,0,0,0,0.0,0.0,0.0,30,2021
+Enzo Ebosse,Angers,0,0,0,0.0,0.0,0.0,6,2021
+Waniss Taibi,Angers,0,0,0,0.0,0.0,0.0,2,2021
+Sven Botman,Lille,0,0,0,0.0,0.0,0.0,37,2021
+Brandon Soppy,Rennes,0,0,0,0.0,0.0,0.0,10,2021
+Radoslaw Majecki,Monaco,0,0,0,0.0,0.0,0.0,1,2021
+Strahinja Pavlovic,Monaco,0,0,0,0.0,0.0,0.0,1,2021
+Chrislain Matsima,Monaco,0,0,0,0.0,0.0,0.0,9,2021
+Enzo Millot,Monaco,0,0,0,0.0,0.0,0.0,2,2021
+Thibault De Smet,Reims,0,0,0,0.0,0.0,0.0,8,2021
+Fraser Hornby,Reims,0,0,0,0.0,0.0,0.0,3,2021
+Houboulang Mendes,Lorient,0,0,0,0.0,0.0,0.0,17,2021
+Julien Laporte,Lorient,0,0,0,0.0,0.0,0.0,30,2021
+Stéphane Diarra,Lorient,0,0,0,0.0,0.0,0.0,13,2021
+Franklin Wadja,Lorient,0,0,0,0.0,0.0,0.0,4,2021
+Heriberto Tavares,Brest,0,0,0,0.0,0.0,0.0,4,2021
+Robson Bambu,Nice,0,0,0,0.0,0.0,0.0,15,2021
+Loic Bade,Lens,0,0,0,0.0,0.0,0.0,31,2021
+Ismael Boura,Lens,0,0,0,0.0,0.0,0.0,19,2021
+Manuel Perez,Lens,0,0,0,0.0,0.0,0.0,4,2021
+Wuilker Fariñez,Lens,0,0,0,0.0,0.0,0.0,3,2021
+Aníbal Chalá,Dijon,0,0,0,0.0,0.0,0.0,13,2021
+Jonas Omlin,Montpellier,0,0,0,0.0,0.0,0.0,31,2021
+Samy Benchama,Montpellier,0,0,0,0.0,0.0,0.0,5,2021
+Salim Ben Seghir,Nice,0,0,0,0.0,0.0,0.0,1,2021
+Fodé Doucouré,Reims,0,0,0,0.0,0.0,0.0,7,2021
+Mohamed Ali-Cho,Angers,0,0,0,0.0,0.0,0.0,21,2021
+Cheick Tidiane Sabaly,Metz,0,0,0,0.0,0.0,0.0,1,2021
+Warren Tchimbembé,Metz,0,0,0,0.0,0.0,0.0,15,2021
+Jean-Phillipe Krasso,Saint-Etienne,0,0,0,0.0,0.0,0.0,6,2021
+Saidou Sow,Saint-Etienne,0,0,0,0.0,0.0,0.0,15,2021
+Kays Ruiz-Atil,Paris Saint Germain,0,0,0,0.0,0.0,0.0,7,2021
+Xavi Simons,Paris Saint Germain,0,0,0,0.0,0.0,0.0,1,2021
+Sinaly Diomande,Lyon,0,0,0,0.0,0.0,0.0,27,2021
+Aïmen Moueffek,Saint-Etienne,0,0,0,0.0,0.0,0.0,19,2021
+Wilitty Younoussa,Dijon,0,0,0,0.0,0.0,0.0,3,2021
+Marco Ludivin Majouga,Nimes,0,0,0,0.0,0.0,0.0,7,2021
+Nassim Chadli,Nimes,0,0,0,0.0,0.0,0.0,3,2021
+Abdoulaye Sidibé,Saint-Etienne,0,0,0,0.0,0.0,0.0,1,2021
+Tyrone Tormin,Saint-Etienne,0,0,0,0.0,0.0,0.0,3,2021
+Dilane Bakwa,Bordeaux,0,0,0,0.0,0.0,0.0,7,2021
+Florentino Luís,Monaco,0,0,0,0.0,0.0,0.0,9,2021
+Saturnin Allagbe,Dijon,0,0,0,0.0,0.0,0.0,12,2021
+Karim Aribi,Nimes,0,0,0,0.0,0.0,0.0,13,2021
+Hugo Ekitike,Reims,0,0,0,0.0,0.0,0.0,2,2021
+Mouhamadou Drammeh,Reims,0,0,0,0.0,0.0,0.0,6,2021
+Djamel Benlamri,Lyon,0,0,0,0.0,0.0,0.0,6,2021
+Malo Gusto,Lyon,0,0,0,0.0,0.0,0.0,2,2021
+Aleksandar Radovanovic,Lens,0,0,0,0.0,0.0,0.0,1,2021
+Mahamé Siby,Strasbourg,0,0,0,0.0,0.0,0.0,7,2021
+Yaya Soumare,Lyon,0,0,0,0.0,0.0,0.0,3,2021
+Loris Mouyokolo,Lorient,0,0,0,0.0,0.0,0.0,1,2021
+Adilson Malanda,Nimes,0,0,0,0.0,0.0,0.0,1,2021
+Tom Lacoux,Bordeaux,0,0,0,0.0,0.0,0.0,13,2021
+Baptiste Gabard,Saint-Etienne,0,0,0,0.0,0.0,0.0,2,2021
+Florent da Silva,Lyon,0,0,0,0.0,0.0,0.0,1,2021
+Cheick Souaré,Marseille,0,0,0,0.0,0.0,0.0,1,2021
+Yoann Etienne,Lorient,0,0,0,0.0,0.0,0.0,1,2021
+Etienne Green,Saint-Etienne,0,0,0,0.0,0.0,0.0,8,2021
+Pape Abou Cissé,Saint-Etienne,0,0,0,0.0,0.0,0.0,14,2021
+Naomichi Ueda,Nimes,0,0,0,0.0,0.0,0.0,9,2021
+Edouard Michut,Paris Saint Germain,0,0,0,0.0,0.0,0.0,1,2021
+Ahmadou Bamba Dieng,Marseille,0,0,0,0.0,0.0,0.0,5,2021
+Abdoulaye Sylla,Nantes,0,0,0,0.0,0.0,0.0,2,2021
+Noah Fatar,Angers,0,0,0,0.0,0.0,0.0,2,2021
+Dion Lopy,Reims,0,0,0,0.0,0.0,0.0,4,2021
+Chimuanya Ugochukwu,Rennes,0,0,0,0.0,0.0,0.0,3,2021
+Kenny Nagera,Paris Saint Germain,0,0,0,0.0,0.0,0.0,1,2021
+Ansou Sow,Lens,0,0,0,0.0,0.0,0.0,1,2021
+Adrien Louveau,Lens,0,0,0,0.0,0.0,0.0,1,2021
+Jacques Siwe,Dijon,0,0,0,0.0,0.0,0.0,5,2021
+Yassin Fortuné,Angers,0,0,0,0.0,0.0,0.0,1,2021
+Matthis Abline,Rennes,0,0,0,0.0,0.0,0.0,1,2021
+Habib Keita,Lyon,0,0,0,0.0,0.0,0.0,1,2021
+Mahamadou Doucouré,Nimes,0,0,0,0.0,0.0,0.0,3,2021
+Andy Diouf,Rennes,0,0,0,0.0,0.0,0.0,1,2021
+Sacha Delaye,Montpellier,0,0,0,0.0,0.0,0.0,1,2021
+Mathys Saban,Saint-Etienne,0,0,0,0.0,0.0,0.0,1,2021
+Yanis Lhéry,Saint-Etienne,0,0,0,0.0,0.0,0.0,1,2021
+Erwan Belhadji,Dijon,0,0,0,0.0,0.0,0.0,1,2021
+Charles Costes,Dijon,0,0,0,0.0,0.0,0.0,1,2021

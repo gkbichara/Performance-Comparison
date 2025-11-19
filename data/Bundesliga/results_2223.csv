@@ -1,0 +1,481 @@
+Season,Team,Match_Number,Date,Opponent,Venue,Result,FTHG,FTAG,Points_cur,Points_prev,Differential,Cumulative
+2223,Augsburg,1,2022-08-06,Freiburg,H,L,0,4,0,0.0,0.0,0.0
+2223,Augsburg,2,2022-08-13,Leverkusen,A,W,1,2,3,0.0,3.0,3.0
+2223,Augsburg,3,2022-08-20,Mainz,H,L,1,2,0,3.0,-3.0,0.0
+2223,Augsburg,4,2022-08-27,Hoffenheim,A,L,1,0,0,0.0,0.0,0.0
+2223,Augsburg,5,2022-09-04,Hertha,H,L,0,2,0,0.0,0.0,0.0
+2223,Augsburg,6,2022-09-17,Bayern Munich,H,W,1,0,3,3.0,0.0,0.0
+2223,Augsburg,7,2022-10-08,Wolfsburg,H,D,1,1,1,3.0,-2.0,-2.0
+2223,Augsburg,8,2022-10-16,FC Koln,A,L,3,2,0,3.0,-3.0,-5.0
+2223,Augsburg,9,2022-10-22,RB Leipzig,H,D,3,3,1,1.0,0.0,-5.0
+2223,Augsburg,10,2022-10-29,Stuttgart,A,L,2,1,0,0.0,0.0,-5.0
+2223,Augsburg,11,2022-11-05,Ein Frankfurt,H,L,1,2,0,1.0,-1.0,-6.0
+2223,Augsburg,12,2022-11-09,Union Berlin,A,D,2,2,1,1.0,0.0,-6.0
+2223,Augsburg,13,2022-11-12,Bochum,H,L,0,1,0,0.0,0.0,-6.0
+2223,Augsburg,14,2023-01-22,Dortmund,A,L,4,3,0,0.0,0.0,-6.0
+2223,Augsburg,15,2023-01-25,M'gladbach,H,W,1,0,3,3.0,0.0,-6.0
+2223,Augsburg,16,2023-01-28,Freiburg,A,L,3,1,0,0.0,0.0,-6.0
+2223,Augsburg,17,2023-02-03,Leverkusen,H,W,1,0,3,0.0,3.0,-3.0
+2223,Augsburg,18,2023-02-11,Mainz,A,L,3,1,0,0.0,0.0,-3.0
+2223,Augsburg,19,2023-02-17,Hoffenheim,H,W,1,0,3,0.0,3.0,0.0
+2223,Augsburg,20,2023-02-25,Hertha,A,L,2,0,0,1.0,-1.0,-1.0
+2223,Augsburg,21,2023-03-11,Bayern Munich,A,L,5,3,0,0.0,0.0,-1.0
+2223,Augsburg,22,2023-04-01,Wolfsburg,A,D,2,2,1,0.0,1.0,0.0
+2223,Augsburg,23,2023-04-08,FC Koln,H,L,1,3,0,0.0,0.0,0.0
+2223,Augsburg,24,2023-04-15,RB Leipzig,A,L,3,2,0,0.0,0.0,0.0
+2223,Augsburg,25,2023-04-21,Stuttgart,H,D,1,1,1,3.0,-2.0,-2.0
+2223,Augsburg,26,2023-04-29,Ein Frankfurt,A,D,1,1,1,1.0,0.0,-2.0
+2223,Augsburg,27,2023-05-06,Union Berlin,H,W,1,0,3,3.0,0.0,-2.0
+2223,Augsburg,28,2023-05-13,Bochum,A,L,3,2,0,3.0,-3.0,-5.0
+2223,Augsburg,29,2023-05-21,Dortmund,H,L,0,3,0,1.0,-1.0,-6.0
+2223,Augsburg,30,2023-05-27,M'gladbach,A,L,2,0,0,0.0,0.0,-6.0
+2223,Bayern Munich,1,2022-08-05,Ein Frankfurt,A,W,1,6,3,3.0,0.0,0.0
+2223,Bayern Munich,2,2022-08-14,Wolfsburg,H,W,2,0,3,3.0,0.0,0.0
+2223,Bayern Munich,3,2022-08-21,Bochum,A,W,0,7,3,0.0,3.0,3.0
+2223,Bayern Munich,4,2022-08-27,M'gladbach,H,D,1,1,1,0.0,1.0,4.0
+2223,Bayern Munich,5,2022-09-03,Union Berlin,A,D,1,1,1,3.0,-2.0,2.0
+2223,Bayern Munich,6,2022-09-10,Stuttgart,H,D,2,2,1,1.0,0.0,2.0
+2223,Bayern Munich,7,2022-09-17,Augsburg,A,L,1,0,0,0.0,0.0,2.0
+2223,Bayern Munich,8,2022-09-30,Leverkusen,H,W,4,0,3,1.0,2.0,4.0
+2223,Bayern Munich,9,2022-10-08,Dortmund,A,D,2,2,1,3.0,-2.0,2.0
+2223,Bayern Munich,10,2022-10-16,Freiburg,H,W,5,0,3,3.0,0.0,2.0
+2223,Bayern Munich,11,2022-10-22,Hoffenheim,A,W,0,2,3,1.0,2.0,4.0
+2223,Bayern Munich,12,2022-10-29,Mainz,H,W,6,2,3,3.0,0.0,4.0
+2223,Bayern Munich,13,2022-11-05,Hertha,A,W,2,3,3,3.0,0.0,4.0
+2223,Bayern Munich,14,2023-01-20,RB Leipzig,A,D,1,1,1,3.0,-2.0,2.0
+2223,Bayern Munich,15,2023-01-24,FC Koln,H,D,1,1,1,3.0,-2.0,0.0
+2223,Bayern Munich,16,2023-01-28,Ein Frankfurt,H,D,1,1,1,0.0,1.0,1.0
+2223,Bayern Munich,17,2023-02-05,Wolfsburg,A,W,2,4,3,1.0,2.0,3.0
+2223,Bayern Munich,18,2023-02-11,Bochum,H,W,3,0,3,3.0,0.0,3.0
+2223,Bayern Munich,19,2023-02-18,M'gladbach,A,L,3,2,0,1.0,-1.0,2.0
+2223,Bayern Munich,20,2023-02-26,Union Berlin,H,W,3,0,3,3.0,0.0,2.0
+2223,Bayern Munich,21,2023-03-04,Stuttgart,A,W,1,2,3,3.0,0.0,2.0
+2223,Bayern Munich,22,2023-03-11,Augsburg,H,W,5,3,3,3.0,0.0,2.0
+2223,Bayern Munich,23,2023-03-19,Leverkusen,A,L,2,1,0,3.0,-3.0,-1.0
+2223,Bayern Munich,24,2023-04-01,Dortmund,H,W,4,2,3,3.0,0.0,-1.0
+2223,Bayern Munich,25,2023-04-08,Freiburg,A,W,0,1,3,3.0,0.0,-1.0
+2223,Bayern Munich,26,2023-04-15,Hoffenheim,H,D,1,1,1,3.0,-2.0,-3.0
+2223,Bayern Munich,27,2023-04-22,Mainz,A,L,3,1,0,0.0,0.0,-3.0
+2223,Bayern Munich,28,2023-04-30,Hertha,H,W,2,0,3,3.0,0.0,-3.0
+2223,Bayern Munich,29,2023-05-20,RB Leipzig,H,L,1,3,0,3.0,-3.0,-6.0
+2223,Bayern Munich,30,2023-05-27,FC Koln,A,W,1,2,3,3.0,0.0,-6.0
+2223,Bochum,1,2022-08-06,Mainz,H,L,1,2,0,3.0,-3.0,-3.0
+2223,Bochum,2,2022-08-13,Hoffenheim,A,L,3,2,0,3.0,-3.0,-6.0
+2223,Bochum,3,2022-08-21,Bayern Munich,H,L,0,7,0,3.0,-3.0,-9.0
+2223,Bochum,4,2022-08-26,Freiburg,A,L,1,0,0,0.0,0.0,-9.0
+2223,Bochum,5,2022-09-18,FC Koln,H,D,1,1,1,1.0,0.0,-9.0
+2223,Bochum,6,2022-10-01,RB Leipzig,A,L,4,0,0,0.0,0.0,-9.0
+2223,Bochum,7,2022-10-08,Ein Frankfurt,H,W,3,0,3,3.0,0.0,-9.0
+2223,Bochum,8,2022-10-15,Stuttgart,A,L,4,1,0,1.0,-1.0,-10.0
+2223,Bochum,9,2022-10-23,Union Berlin,H,W,2,1,3,0.0,3.0,-7.0
+2223,Bochum,10,2022-10-29,Wolfsburg,A,L,4,0,0,0.0,0.0,-7.0
+2223,Bochum,11,2022-11-05,Dortmund,A,L,3,0,0,3.0,-3.0,-10.0
+2223,Bochum,12,2022-11-08,M'gladbach,H,W,2,1,3,0.0,3.0,-7.0
+2223,Bochum,13,2022-11-12,Augsburg,A,W,0,1,3,3.0,0.0,-7.0
+2223,Bochum,14,2023-01-21,Hertha,H,W,3,1,3,0.0,3.0,-4.0
+2223,Bochum,15,2023-01-25,Leverkusen,A,L,2,0,0,0.0,0.0,-4.0
+2223,Bochum,16,2023-01-28,Mainz,A,L,5,2,0,0.0,0.0,-4.0
+2223,Bochum,17,2023-02-04,Hoffenheim,H,W,5,2,3,3.0,0.0,-4.0
+2223,Bochum,18,2023-02-11,Bayern Munich,A,L,3,0,0,0.0,0.0,-4.0
+2223,Bochum,19,2023-02-18,Freiburg,H,L,0,2,0,3.0,-3.0,-7.0
+2223,Bochum,20,2023-03-10,FC Koln,A,W,0,2,3,0.0,3.0,-4.0
+2223,Bochum,21,2023-03-18,RB Leipzig,H,W,1,0,3,0.0,3.0,-1.0
+2223,Bochum,22,2023-03-31,Ein Frankfurt,A,D,1,1,1,0.0,1.0,0.0
+2223,Bochum,23,2023-04-09,Stuttgart,H,L,2,3,0,1.0,-1.0,-1.0
+2223,Bochum,24,2023-04-16,Union Berlin,A,D,1,1,1,0.0,1.0,0.0
+2223,Bochum,25,2023-04-22,Wolfsburg,H,L,1,5,0,3.0,-3.0,-3.0
+2223,Bochum,26,2023-04-28,Dortmund,H,D,1,1,1,1.0,0.0,-3.0
+2223,Bochum,27,2023-05-06,M'gladbach,A,L,2,0,0,0.0,0.0,-3.0
+2223,Bochum,28,2023-05-13,Augsburg,H,W,3,2,3,0.0,3.0,0.0
+2223,Bochum,29,2023-05-20,Hertha,A,D,1,1,1,1.0,0.0,0.0
+2223,Bochum,30,2023-05-27,Leverkusen,H,W,3,0,3,1.0,2.0,2.0
+2223,Dortmund,1,2022-08-06,Leverkusen,H,W,1,0,3,0.0,3.0,3.0
+2223,Dortmund,2,2022-08-12,Freiburg,A,W,1,3,3,0.0,3.0,6.0
+2223,Dortmund,3,2022-08-27,Hertha,A,W,0,1,3,0.0,3.0,9.0
+2223,Dortmund,4,2022-09-02,Hoffenheim,H,W,1,0,3,3.0,0.0,9.0
+2223,Dortmund,5,2022-09-10,RB Leipzig,A,L,3,0,0,0.0,0.0,9.0
+2223,Dortmund,6,2022-10-01,FC Koln,A,L,3,2,0,1.0,-1.0,8.0
+2223,Dortmund,7,2022-10-08,Bayern Munich,H,D,2,2,1,0.0,1.0,9.0
+2223,Dortmund,8,2022-10-16,Union Berlin,A,L,2,0,0,3.0,-3.0,6.0
+2223,Dortmund,9,2022-10-22,Stuttgart,H,W,5,0,3,3.0,0.0,6.0
+2223,Dortmund,10,2022-10-29,Ein Frankfurt,A,W,1,2,3,3.0,0.0,6.0
+2223,Dortmund,11,2022-11-05,Bochum,H,W,3,0,3,0.0,3.0,9.0
+2223,Dortmund,12,2022-11-08,Wolfsburg,A,L,2,0,0,3.0,-3.0,6.0
+2223,Dortmund,13,2022-11-11,M'gladbach,A,L,4,2,0,0.0,0.0,6.0
+2223,Dortmund,14,2023-01-22,Augsburg,H,W,4,3,3,3.0,0.0,6.0
+2223,Dortmund,15,2023-01-25,Mainz,A,W,1,2,3,3.0,0.0,6.0
+2223,Dortmund,16,2023-01-29,Leverkusen,A,W,0,2,3,3.0,0.0,6.0
+2223,Dortmund,17,2023-02-04,Freiburg,H,W,5,1,3,3.0,0.0,6.0
+2223,Dortmund,18,2023-02-19,Hertha,H,W,4,1,3,3.0,0.0,6.0
+2223,Dortmund,19,2023-02-25,Hoffenheim,A,W,0,1,3,3.0,0.0,6.0
+2223,Dortmund,20,2023-03-03,RB Leipzig,H,W,2,1,3,0.0,3.0,9.0
+2223,Dortmund,21,2023-03-18,FC Koln,H,W,6,1,3,3.0,0.0,9.0
+2223,Dortmund,22,2023-04-01,Bayern Munich,A,L,4,2,0,0.0,0.0,9.0
+2223,Dortmund,23,2023-04-08,Union Berlin,H,W,2,1,3,3.0,0.0,9.0
+2223,Dortmund,24,2023-04-15,Stuttgart,A,D,3,3,1,3.0,-2.0,7.0
+2223,Dortmund,25,2023-04-22,Ein Frankfurt,H,W,4,0,3,3.0,0.0,7.0
+2223,Dortmund,26,2023-04-28,Bochum,A,D,1,1,1,1.0,0.0,7.0
+2223,Dortmund,27,2023-05-07,Wolfsburg,H,W,6,0,3,3.0,0.0,7.0
+2223,Dortmund,28,2023-05-13,M'gladbach,H,W,5,2,3,3.0,0.0,7.0
+2223,Dortmund,29,2023-05-21,Augsburg,A,W,0,3,3,1.0,2.0,9.0
+2223,Dortmund,30,2023-05-27,Mainz,H,D,2,2,1,3.0,-2.0,7.0
+2223,Ein Frankfurt,1,2022-08-05,Bayern Munich,H,L,1,6,0,0.0,0.0,0.0
+2223,Ein Frankfurt,2,2022-08-13,Hertha,A,D,1,1,1,3.0,-2.0,-2.0
+2223,Ein Frankfurt,3,2022-08-21,FC Koln,H,D,1,1,1,1.0,0.0,-2.0
+2223,Ein Frankfurt,4,2022-09-03,RB Leipzig,H,W,4,0,3,1.0,2.0,0.0
+2223,Ein Frankfurt,5,2022-09-10,Wolfsburg,H,L,0,1,0,0.0,0.0,0.0
+2223,Ein Frankfurt,6,2022-09-17,Stuttgart,A,W,1,3,3,3.0,0.0,0.0
+2223,Ein Frankfurt,7,2022-10-01,Union Berlin,H,W,2,0,3,3.0,0.0,0.0
+2223,Ein Frankfurt,8,2022-10-08,Bochum,A,L,3,0,0,0.0,0.0,0.0
+2223,Ein Frankfurt,9,2022-10-15,Leverkusen,H,W,5,1,3,3.0,0.0,0.0
+2223,Ein Frankfurt,10,2022-10-22,M'gladbach,A,W,1,3,3,3.0,0.0,0.0
+2223,Ein Frankfurt,11,2022-10-29,Dortmund,H,L,1,2,0,0.0,0.0,0.0
+2223,Ein Frankfurt,12,2022-11-05,Augsburg,A,W,1,2,3,1.0,2.0,2.0
+2223,Ein Frankfurt,13,2022-11-09,Hoffenheim,H,W,4,2,3,1.0,2.0,4.0
+2223,Ein Frankfurt,14,2022-11-13,Mainz,A,D,1,1,1,1.0,0.0,4.0
+2223,Ein Frankfurt,15,2023-01-25,Freiburg,A,D,1,1,1,3.0,-2.0,2.0
+2223,Ein Frankfurt,16,2023-01-28,Bayern Munich,A,D,1,1,1,3.0,-2.0,0.0
+2223,Ein Frankfurt,17,2023-02-04,Hertha,H,W,3,0,3,0.0,3.0,3.0
+2223,Ein Frankfurt,18,2023-02-12,FC Koln,A,L,3,0,0,0.0,0.0,3.0
+2223,Ein Frankfurt,19,2023-02-25,RB Leipzig,A,L,2,1,0,1.0,-1.0,2.0
+2223,Ein Frankfurt,20,2023-03-05,Wolfsburg,A,D,2,2,1,1.0,0.0,2.0
+2223,Ein Frankfurt,21,2023-03-11,Stuttgart,H,D,1,1,1,1.0,0.0,2.0
+2223,Ein Frankfurt,22,2023-03-19,Union Berlin,A,L,2,0,0,0.0,0.0,2.0
+2223,Ein Frankfurt,23,2023-03-31,Bochum,H,D,1,1,1,3.0,-2.0,0.0
+2223,Ein Frankfurt,24,2023-04-08,Leverkusen,A,L,3,1,0,0.0,0.0,0.0
+2223,Ein Frankfurt,25,2023-04-15,M'gladbach,H,D,1,1,1,1.0,0.0,0.0
+2223,Ein Frankfurt,26,2023-04-22,Dortmund,A,L,4,0,0,0.0,0.0,0.0
+2223,Ein Frankfurt,27,2023-04-29,Augsburg,H,D,1,1,1,1.0,0.0,0.0
+2223,Ein Frankfurt,28,2023-05-06,Hoffenheim,A,L,3,1,0,0.0,0.0,0.0
+2223,Ein Frankfurt,29,2023-05-13,Mainz,H,W,3,0,3,3.0,0.0,0.0
+2223,Ein Frankfurt,30,2023-05-27,Freiburg,H,W,2,1,3,0.0,3.0,3.0
+2223,FC Koln,1,2022-08-13,RB Leipzig,A,D,2,2,1,0.0,1.0,1.0
+2223,FC Koln,2,2022-08-21,Ein Frankfurt,A,D,1,1,1,1.0,0.0,1.0
+2223,FC Koln,3,2022-08-28,Stuttgart,H,D,0,0,1,3.0,-2.0,-1.0
+2223,FC Koln,4,2022-09-03,Wolfsburg,A,W,2,4,3,3.0,0.0,-1.0
+2223,FC Koln,5,2022-09-11,Union Berlin,H,L,0,1,0,1.0,-1.0,-2.0
+2223,FC Koln,6,2022-09-18,Bochum,A,D,1,1,1,1.0,0.0,-2.0
+2223,FC Koln,7,2022-10-01,Dortmund,H,W,3,2,3,1.0,2.0,0.0
+2223,FC Koln,8,2022-10-09,M'gladbach,A,L,5,2,0,3.0,-3.0,-3.0
+2223,FC Koln,9,2022-10-16,Augsburg,H,W,3,2,3,0.0,3.0,0.0
+2223,FC Koln,10,2022-10-21,Mainz,A,L,5,0,0,1.0,-1.0,-1.0
+2223,FC Koln,11,2022-10-30,Hoffenheim,H,D,1,1,1,0.0,1.0,0.0
+2223,FC Koln,12,2022-11-06,Freiburg,A,L,2,0,0,1.0,-1.0,-1.0
+2223,FC Koln,13,2022-11-09,Leverkusen,H,L,1,2,0,1.0,-1.0,-2.0
+2223,FC Koln,14,2022-11-12,Hertha,A,L,2,0,0,3.0,-3.0,-5.0
+2223,FC Koln,15,2023-01-24,Bayern Munich,A,D,1,1,1,0.0,1.0,-4.0
+2223,FC Koln,16,2023-02-04,RB Leipzig,H,D,0,0,1,1.0,0.0,-4.0
+2223,FC Koln,17,2023-02-12,Ein Frankfurt,H,W,3,0,3,3.0,0.0,-4.0
+2223,FC Koln,18,2023-02-18,Stuttgart,A,L,3,0,0,0.0,0.0,-4.0
+2223,FC Koln,19,2023-02-25,Wolfsburg,H,L,0,2,0,0.0,0.0,-4.0
+2223,FC Koln,20,2023-03-04,Union Berlin,A,D,0,0,1,0.0,1.0,-3.0
+2223,FC Koln,21,2023-03-10,Bochum,H,L,0,2,0,3.0,-3.0,-6.0
+2223,FC Koln,22,2023-03-18,Dortmund,A,L,6,1,0,0.0,0.0,-6.0
+2223,FC Koln,23,2023-04-02,M'gladbach,H,D,0,0,1,3.0,-2.0,-8.0
+2223,FC Koln,24,2023-04-08,Augsburg,A,W,1,3,3,3.0,0.0,-8.0
+2223,FC Koln,25,2023-04-15,Mainz,H,D,1,1,1,3.0,-2.0,-10.0
+2223,FC Koln,26,2023-04-22,Hoffenheim,A,W,1,3,3,0.0,3.0,-7.0
+2223,FC Koln,27,2023-04-29,Freiburg,H,L,0,1,0,3.0,-3.0,-10.0
+2223,FC Koln,28,2023-05-05,Leverkusen,A,W,1,2,3,3.0,0.0,-10.0
+2223,FC Koln,29,2023-05-12,Hertha,H,W,5,2,3,3.0,0.0,-10.0
+2223,FC Koln,30,2023-05-27,Bayern Munich,H,L,1,2,0,0.0,0.0,-10.0
+2223,Freiburg,1,2022-08-06,Augsburg,A,W,0,4,3,3.0,0.0,0.0
+2223,Freiburg,2,2022-08-12,Dortmund,H,L,1,3,0,3.0,-3.0,-3.0
+2223,Freiburg,3,2022-08-20,Stuttgart,A,W,0,1,3,3.0,0.0,-3.0
+2223,Freiburg,4,2022-08-26,Bochum,H,W,1,0,3,3.0,0.0,-3.0
+2223,Freiburg,5,2022-09-03,Leverkusen,A,W,2,3,3,0.0,3.0,0.0
+2223,Freiburg,6,2022-09-11,M'gladbach,H,D,0,0,1,1.0,0.0,0.0
+2223,Freiburg,7,2022-09-18,Hoffenheim,A,D,0,0,1,3.0,-2.0,-2.0
+2223,Freiburg,8,2022-10-01,Mainz,H,W,2,1,3,1.0,2.0,0.0
+2223,Freiburg,9,2022-10-09,Hertha,A,D,2,2,1,3.0,-2.0,-2.0
+2223,Freiburg,10,2022-10-16,Bayern Munich,A,L,5,0,0,0.0,0.0,-2.0
+2223,Freiburg,11,2022-11-06,FC Koln,H,W,2,0,3,1.0,2.0,0.0
+2223,Freiburg,12,2022-11-09,RB Leipzig,A,L,3,1,0,1.0,-1.0,-1.0
+2223,Freiburg,13,2022-11-13,Union Berlin,H,W,4,1,3,0.0,3.0,2.0
+2223,Freiburg,14,2023-01-21,Wolfsburg,A,L,6,0,0,3.0,-3.0,-1.0
+2223,Freiburg,15,2023-01-25,Ein Frankfurt,H,D,1,1,1,0.0,1.0,0.0
+2223,Freiburg,16,2023-01-28,Augsburg,H,W,3,1,3,3.0,0.0,0.0
+2223,Freiburg,17,2023-02-04,Dortmund,A,L,5,1,0,0.0,0.0,0.0
+2223,Freiburg,18,2023-02-11,Stuttgart,H,W,2,1,3,3.0,0.0,0.0
+2223,Freiburg,19,2023-02-18,Bochum,A,W,0,2,3,0.0,3.0,3.0
+2223,Freiburg,20,2023-02-26,Leverkusen,H,D,1,1,1,3.0,-2.0,1.0
+2223,Freiburg,21,2023-03-04,M'gladbach,A,D,0,0,1,3.0,-2.0,-1.0
+2223,Freiburg,22,2023-03-12,Hoffenheim,H,W,2,1,3,0.0,3.0,2.0
+2223,Freiburg,23,2023-03-19,Mainz,A,D,1,1,1,1.0,0.0,2.0
+2223,Freiburg,24,2023-04-01,Hertha,H,D,1,1,1,3.0,-2.0,0.0
+2223,Freiburg,25,2023-04-08,Bayern Munich,H,L,0,1,0,0.0,0.0,0.0
+2223,Freiburg,26,2023-04-29,FC Koln,A,W,0,1,3,0.0,3.0,3.0
+2223,Freiburg,27,2023-05-06,RB Leipzig,H,L,0,1,0,1.0,-1.0,2.0
+2223,Freiburg,28,2023-05-13,Union Berlin,A,L,4,2,0,1.0,-1.0,1.0
+2223,Freiburg,29,2023-05-19,Wolfsburg,H,W,2,0,3,3.0,0.0,1.0
+2223,Freiburg,30,2023-05-27,Ein Frankfurt,A,L,2,1,0,3.0,-3.0,-2.0
+2223,Hertha,1,2022-08-06,Union Berlin,A,L,3,1,0,0.0,0.0,0.0
+2223,Hertha,2,2022-08-13,Ein Frankfurt,H,D,1,1,1,0.0,1.0,1.0
+2223,Hertha,3,2022-08-19,M'gladbach,A,L,1,0,0,0.0,0.0,1.0
+2223,Hertha,4,2022-08-27,Dortmund,H,L,0,1,0,3.0,-3.0,-2.0
+2223,Hertha,5,2022-09-04,Augsburg,A,W,0,2,3,3.0,0.0,-2.0
+2223,Hertha,6,2022-09-10,Leverkusen,H,D,2,2,1,1.0,0.0,-2.0
+2223,Hertha,7,2022-09-16,Mainz,A,D,1,1,1,0.0,1.0,-1.0
+2223,Hertha,8,2022-10-02,Hoffenheim,H,D,1,1,1,3.0,-2.0,-3.0
+2223,Hertha,9,2022-10-09,Freiburg,H,D,2,2,1,0.0,1.0,-2.0
+2223,Hertha,10,2022-10-15,RB Leipzig,A,L,3,2,0,0.0,0.0,-2.0
+2223,Hertha,11,2022-11-05,Bayern Munich,H,L,2,3,0,0.0,0.0,-2.0
+2223,Hertha,12,2022-11-08,Stuttgart,A,L,2,1,0,1.0,-1.0,-3.0
+2223,Hertha,13,2022-11-12,FC Koln,H,W,2,0,3,0.0,3.0,0.0
+2223,Hertha,14,2023-01-21,Bochum,A,L,3,1,0,3.0,-3.0,-3.0
+2223,Hertha,15,2023-01-24,Wolfsburg,H,L,0,5,0,0.0,0.0,-3.0
+2223,Hertha,16,2023-01-28,Union Berlin,H,L,0,2,0,0.0,0.0,-3.0
+2223,Hertha,17,2023-02-04,Ein Frankfurt,A,L,3,0,0,3.0,-3.0,-6.0
+2223,Hertha,18,2023-02-12,M'gladbach,H,W,4,1,3,3.0,0.0,-6.0
+2223,Hertha,19,2023-02-19,Dortmund,A,L,4,1,0,0.0,0.0,-6.0
+2223,Hertha,20,2023-02-25,Augsburg,H,W,2,0,3,1.0,2.0,-4.0
+2223,Hertha,21,2023-03-05,Leverkusen,A,L,4,1,0,0.0,0.0,-4.0
+2223,Hertha,22,2023-03-11,Mainz,H,D,1,1,1,0.0,1.0,-3.0
+2223,Hertha,23,2023-03-18,Hoffenheim,A,L,3,1,0,0.0,0.0,-3.0
+2223,Hertha,24,2023-04-01,Freiburg,A,D,1,1,1,0.0,1.0,-2.0
+2223,Hertha,25,2023-04-08,RB Leipzig,H,L,0,1,0,0.0,0.0,-2.0
+2223,Hertha,26,2023-04-30,Bayern Munich,A,L,2,0,0,0.0,0.0,-2.0
+2223,Hertha,27,2023-05-06,Stuttgart,H,W,2,1,3,3.0,0.0,-2.0
+2223,Hertha,28,2023-05-12,FC Koln,A,L,5,2,0,0.0,0.0,-2.0
+2223,Hertha,29,2023-05-20,Bochum,H,D,1,1,1,1.0,0.0,-2.0
+2223,Hertha,30,2023-05-27,Wolfsburg,A,W,1,2,3,1.0,2.0,0.0
+2223,Hoffenheim,1,2022-08-06,M'gladbach,A,L,3,1,0,0.0,0.0,0.0
+2223,Hoffenheim,2,2022-08-13,Bochum,H,W,3,2,3,0.0,3.0,3.0
+2223,Hoffenheim,3,2022-08-20,Leverkusen,A,W,0,3,3,1.0,2.0,5.0
+2223,Hoffenheim,4,2022-08-27,Augsburg,H,W,1,0,3,3.0,0.0,5.0
+2223,Hoffenheim,5,2022-09-02,Dortmund,A,L,1,0,0,0.0,0.0,5.0
+2223,Hoffenheim,6,2022-09-10,Mainz,H,W,4,1,3,0.0,3.0,8.0
+2223,Hoffenheim,7,2022-09-18,Freiburg,H,D,0,0,1,0.0,1.0,9.0
+2223,Hoffenheim,8,2022-10-02,Hertha,A,D,1,1,1,0.0,1.0,10.0
+2223,Hoffenheim,9,2022-10-22,Bayern Munich,H,L,0,2,0,1.0,-1.0,9.0
+2223,Hoffenheim,10,2022-10-30,FC Koln,A,D,1,1,1,3.0,-2.0,7.0
+2223,Hoffenheim,11,2022-11-05,RB Leipzig,H,L,1,3,0,3.0,-3.0,4.0
+2223,Hoffenheim,12,2022-11-09,Ein Frankfurt,A,L,4,2,0,1.0,-1.0,3.0
+2223,Hoffenheim,13,2022-11-12,Wolfsburg,H,L,1,2,0,3.0,-3.0,0.0
+2223,Hoffenheim,14,2023-01-21,Union Berlin,A,L,3,1,0,0.0,0.0,0.0
+2223,Hoffenheim,15,2023-01-24,Stuttgart,H,D,2,2,1,3.0,-2.0,-2.0
+2223,Hoffenheim,16,2023-01-28,M'gladbach,H,L,1,4,0,1.0,-1.0,-3.0
+2223,Hoffenheim,17,2023-02-04,Bochum,A,L,5,2,0,0.0,0.0,-3.0
+2223,Hoffenheim,18,2023-02-11,Leverkusen,H,L,1,3,0,0.0,0.0,-3.0
+2223,Hoffenheim,19,2023-02-17,Augsburg,A,L,1,0,0,3.0,-3.0,-6.0
+2223,Hoffenheim,20,2023-02-25,Dortmund,H,L,0,1,0,0.0,0.0,-6.0
+2223,Hoffenheim,21,2023-03-04,Mainz,A,L,1,0,0,0.0,0.0,-6.0
+2223,Hoffenheim,22,2023-03-12,Freiburg,A,L,2,1,0,3.0,-3.0,-9.0
+2223,Hoffenheim,23,2023-03-18,Hertha,H,W,3,1,3,3.0,0.0,-9.0
+2223,Hoffenheim,24,2023-04-15,Bayern Munich,A,D,1,1,1,0.0,1.0,-8.0
+2223,Hoffenheim,25,2023-04-22,FC Koln,H,L,1,3,0,3.0,-3.0,-11.0
+2223,Hoffenheim,26,2023-04-29,RB Leipzig,A,L,1,0,0,0.0,0.0,-11.0
+2223,Hoffenheim,27,2023-05-06,Ein Frankfurt,H,W,3,1,3,3.0,0.0,-11.0
+2223,Hoffenheim,28,2023-05-13,Wolfsburg,A,L,2,1,0,3.0,-3.0,-14.0
+2223,Hoffenheim,29,2023-05-20,Union Berlin,H,W,4,2,3,1.0,2.0,-12.0
+2223,Hoffenheim,30,2023-05-27,Stuttgart,A,D,1,1,1,0.0,1.0,-11.0
+2223,Leverkusen,1,2022-08-06,Dortmund,A,L,1,0,0,3.0,-3.0,-3.0
+2223,Leverkusen,2,2022-08-13,Augsburg,H,L,1,2,0,3.0,-3.0,-6.0
+2223,Leverkusen,3,2022-08-20,Hoffenheim,H,L,0,3,0,1.0,-1.0,-7.0
+2223,Leverkusen,4,2022-08-27,Mainz,A,W,0,3,3,0.0,3.0,-4.0
+2223,Leverkusen,5,2022-09-03,Freiburg,H,L,2,3,0,3.0,-3.0,-7.0
+2223,Leverkusen,6,2022-09-10,Hertha,A,D,2,2,1,1.0,0.0,-7.0
+2223,Leverkusen,7,2022-09-30,Bayern Munich,A,L,4,0,0,1.0,-1.0,-8.0
+2223,Leverkusen,8,2022-10-15,Ein Frankfurt,A,L,5,1,0,0.0,0.0,-8.0
+2223,Leverkusen,9,2022-10-22,Wolfsburg,H,D,2,2,1,0.0,1.0,-7.0
+2223,Leverkusen,10,2022-10-29,RB Leipzig,A,L,2,0,0,3.0,-3.0,-10.0
+2223,Leverkusen,11,2022-11-06,Union Berlin,H,W,5,0,3,1.0,2.0,-8.0
+2223,Leverkusen,12,2022-11-09,FC Koln,A,W,1,2,3,1.0,2.0,-6.0
+2223,Leverkusen,13,2022-11-12,Stuttgart,H,W,2,0,3,3.0,0.0,-6.0
+2223,Leverkusen,14,2023-01-22,M'gladbach,A,W,2,3,3,3.0,0.0,-6.0
+2223,Leverkusen,15,2023-01-25,Bochum,H,W,2,0,3,3.0,0.0,-6.0
+2223,Leverkusen,16,2023-01-29,Dortmund,H,L,0,2,0,0.0,0.0,-6.0
+2223,Leverkusen,17,2023-02-03,Augsburg,A,L,1,0,0,3.0,-3.0,-9.0
+2223,Leverkusen,18,2023-02-11,Hoffenheim,A,W,1,3,3,3.0,0.0,-9.0
+2223,Leverkusen,19,2023-02-19,Mainz,H,L,2,3,0,3.0,-3.0,-12.0
+2223,Leverkusen,20,2023-02-26,Freiburg,A,D,1,1,1,0.0,1.0,-11.0
+2223,Leverkusen,21,2023-03-05,Hertha,H,W,4,1,3,3.0,0.0,-11.0
+2223,Leverkusen,22,2023-03-19,Bayern Munich,H,W,2,1,3,0.0,3.0,-8.0
+2223,Leverkusen,23,2023-04-08,Ein Frankfurt,H,W,3,1,3,3.0,0.0,-8.0
+2223,Leverkusen,24,2023-04-16,Wolfsburg,A,D,0,0,1,3.0,-2.0,-10.0
+2223,Leverkusen,25,2023-04-23,RB Leipzig,H,W,2,0,3,0.0,3.0,-7.0
+2223,Leverkusen,26,2023-04-29,Union Berlin,A,D,0,0,1,1.0,0.0,-7.0
+2223,Leverkusen,27,2023-05-05,FC Koln,H,L,1,2,0,0.0,0.0,-7.0
+2223,Leverkusen,28,2023-05-14,Stuttgart,A,D,1,1,1,3.0,-2.0,-9.0
+2223,Leverkusen,29,2023-05-21,M'gladbach,H,D,2,2,1,3.0,-2.0,-11.0
+2223,Leverkusen,30,2023-05-27,Bochum,A,L,3,0,0,1.0,-1.0,-12.0
+2223,M'gladbach,1,2022-08-06,Hoffenheim,H,W,3,1,3,3.0,0.0,0.0
+2223,M'gladbach,2,2022-08-19,Hertha,H,W,1,0,3,3.0,0.0,0.0
+2223,M'gladbach,3,2022-08-27,Bayern Munich,A,D,1,1,1,3.0,-2.0,-2.0
+2223,M'gladbach,4,2022-09-04,Mainz,H,L,0,1,0,1.0,-1.0,-3.0
+2223,M'gladbach,5,2022-09-11,Freiburg,A,D,0,0,1,1.0,0.0,-3.0
+2223,M'gladbach,6,2022-09-17,RB Leipzig,H,W,3,0,3,3.0,0.0,-3.0
+2223,M'gladbach,7,2022-10-09,FC Koln,H,W,5,2,3,0.0,3.0,0.0
+2223,M'gladbach,8,2022-10-15,Wolfsburg,A,D,2,2,1,3.0,-2.0,-2.0
+2223,M'gladbach,9,2022-10-22,Ein Frankfurt,H,L,1,3,0,0.0,0.0,-2.0
+2223,M'gladbach,10,2022-10-30,Union Berlin,A,L,2,1,0,0.0,0.0,-2.0
+2223,M'gladbach,11,2022-11-04,Stuttgart,H,W,3,1,3,1.0,2.0,0.0
+2223,M'gladbach,12,2022-11-08,Bochum,A,L,2,1,0,3.0,-3.0,-3.0
+2223,M'gladbach,13,2022-11-11,Dortmund,H,W,4,2,3,3.0,0.0,-3.0
+2223,M'gladbach,14,2023-01-22,Leverkusen,H,L,2,3,0,0.0,0.0,-3.0
+2223,M'gladbach,15,2023-01-25,Augsburg,A,L,1,0,0,0.0,0.0,-3.0
+2223,M'gladbach,16,2023-01-28,Hoffenheim,A,W,1,4,3,1.0,2.0,-1.0
+2223,M'gladbach,17,2023-02-12,Hertha,A,L,4,1,0,0.0,0.0,-1.0
+2223,M'gladbach,18,2023-02-18,Bayern Munich,H,W,3,2,3,1.0,2.0,1.0
+2223,M'gladbach,19,2023-02-24,Mainz,A,L,4,0,0,1.0,-1.0,0.0
+2223,M'gladbach,20,2023-03-04,Freiburg,H,D,0,0,1,0.0,1.0,1.0
+2223,M'gladbach,21,2023-03-11,RB Leipzig,A,L,3,0,0,0.0,0.0,1.0
+2223,M'gladbach,22,2023-04-02,FC Koln,A,D,0,0,1,0.0,1.0,2.0
+2223,M'gladbach,23,2023-04-09,Wolfsburg,H,W,2,0,3,1.0,2.0,4.0
+2223,M'gladbach,24,2023-04-15,Ein Frankfurt,A,D,1,1,1,1.0,0.0,4.0
+2223,M'gladbach,25,2023-04-23,Union Berlin,H,L,0,1,0,0.0,0.0,4.0
+2223,M'gladbach,26,2023-04-29,Stuttgart,A,L,2,1,0,0.0,0.0,4.0
+2223,M'gladbach,27,2023-05-06,Bochum,H,W,2,0,3,3.0,0.0,4.0
+2223,M'gladbach,28,2023-05-13,Dortmund,A,L,5,2,0,0.0,0.0,4.0
+2223,M'gladbach,29,2023-05-21,Leverkusen,A,D,2,2,1,0.0,1.0,5.0
+2223,M'gladbach,30,2023-05-27,Augsburg,H,W,2,0,3,3.0,0.0,5.0
+2223,Mainz,1,2022-08-06,Bochum,A,W,1,2,3,0.0,3.0,3.0
+2223,Mainz,2,2022-08-14,Union Berlin,H,D,0,0,1,0.0,1.0,4.0
+2223,Mainz,3,2022-08-20,Augsburg,A,W,1,2,3,0.0,3.0,7.0
+2223,Mainz,4,2022-08-27,Leverkusen,H,L,0,3,0,3.0,-3.0,4.0
+2223,Mainz,5,2022-09-04,M'gladbach,A,W,0,1,3,1.0,2.0,6.0
+2223,Mainz,6,2022-09-10,Hoffenheim,A,L,4,1,0,3.0,-3.0,3.0
+2223,Mainz,7,2022-09-16,Hertha,H,D,1,1,1,3.0,-2.0,1.0
+2223,Mainz,8,2022-10-01,Freiburg,A,L,2,1,0,1.0,-1.0,0.0
+2223,Mainz,9,2022-10-08,RB Leipzig,H,D,1,1,1,3.0,-2.0,-2.0
+2223,Mainz,10,2022-10-21,FC Koln,H,W,5,0,3,1.0,2.0,0.0
+2223,Mainz,11,2022-10-29,Bayern Munich,A,L,6,2,0,0.0,0.0,0.0
+2223,Mainz,12,2022-11-05,Wolfsburg,H,L,0,3,0,3.0,-3.0,-3.0
+2223,Mainz,13,2022-11-13,Ein Frankfurt,H,D,1,1,1,1.0,0.0,-3.0
+2223,Mainz,14,2023-01-21,Stuttgart,A,D,1,1,1,0.0,1.0,-2.0
+2223,Mainz,15,2023-01-25,Dortmund,H,L,1,2,0,0.0,0.0,-2.0
+2223,Mainz,16,2023-01-28,Bochum,H,W,5,2,3,3.0,0.0,-2.0
+2223,Mainz,17,2023-02-04,Union Berlin,A,L,2,1,0,0.0,0.0,-2.0
+2223,Mainz,18,2023-02-11,Augsburg,H,W,3,1,3,3.0,0.0,-2.0
+2223,Mainz,19,2023-02-19,Leverkusen,A,W,2,3,3,0.0,3.0,1.0
+2223,Mainz,20,2023-02-24,M'gladbach,H,W,4,0,3,1.0,2.0,3.0
+2223,Mainz,21,2023-03-04,Hoffenheim,H,W,1,0,3,3.0,0.0,3.0
+2223,Mainz,22,2023-03-11,Hertha,A,D,1,1,1,3.0,-2.0,1.0
+2223,Mainz,23,2023-03-19,Freiburg,H,D,1,1,1,1.0,0.0,1.0
+2223,Mainz,24,2023-04-01,RB Leipzig,A,W,0,3,3,0.0,3.0,4.0
+2223,Mainz,25,2023-04-15,FC Koln,A,D,1,1,1,0.0,1.0,5.0
+2223,Mainz,26,2023-04-22,Bayern Munich,H,W,3,1,3,3.0,0.0,5.0
+2223,Mainz,27,2023-04-30,Wolfsburg,A,L,3,0,0,0.0,0.0,5.0
+2223,Mainz,28,2023-05-13,Ein Frankfurt,A,L,3,0,0,0.0,0.0,5.0
+2223,Mainz,29,2023-05-21,Stuttgart,H,L,1,4,0,1.0,-1.0,4.0
+2223,Mainz,30,2023-05-27,Dortmund,A,D,2,2,1,0.0,1.0,5.0
+2223,RB Leipzig,1,2022-08-07,Stuttgart,A,D,1,1,1,3.0,-2.0,-2.0
+2223,RB Leipzig,2,2022-08-13,FC Koln,H,D,2,2,1,3.0,-2.0,-4.0
+2223,RB Leipzig,3,2022-08-20,Union Berlin,A,L,2,1,0,0.0,0.0,-4.0
+2223,RB Leipzig,4,2022-08-27,Wolfsburg,H,W,2,0,3,3.0,0.0,-4.0
+2223,RB Leipzig,5,2022-09-03,Ein Frankfurt,A,L,4,0,0,1.0,-1.0,-5.0
+2223,RB Leipzig,6,2022-09-10,Dortmund,H,W,3,0,3,3.0,0.0,-5.0
+2223,RB Leipzig,7,2022-09-17,M'gladbach,A,L,3,0,0,0.0,0.0,-5.0
+2223,RB Leipzig,8,2022-10-01,Bochum,H,W,4,0,3,3.0,0.0,-5.0
+2223,RB Leipzig,9,2022-10-08,Mainz,A,D,1,1,1,0.0,1.0,-4.0
+2223,RB Leipzig,10,2022-10-15,Hertha,H,W,3,2,3,3.0,0.0,-4.0
+2223,RB Leipzig,11,2022-10-22,Augsburg,A,D,3,3,1,1.0,0.0,-4.0
+2223,RB Leipzig,12,2022-10-29,Leverkusen,H,W,2,0,3,0.0,3.0,-1.0
+2223,RB Leipzig,13,2022-11-05,Hoffenheim,A,W,1,3,3,0.0,3.0,2.0
+2223,RB Leipzig,14,2022-11-09,Freiburg,H,W,3,1,3,1.0,2.0,4.0
+2223,RB Leipzig,15,2023-01-20,Bayern Munich,H,D,1,1,1,0.0,1.0,5.0
+2223,RB Leipzig,16,2023-01-27,Stuttgart,H,W,2,1,3,3.0,0.0,5.0
+2223,RB Leipzig,17,2023-02-04,FC Koln,A,D,0,0,1,1.0,0.0,5.0
+2223,RB Leipzig,18,2023-02-11,Union Berlin,H,L,1,2,0,0.0,0.0,5.0
+2223,RB Leipzig,19,2023-02-18,Wolfsburg,A,W,0,3,3,0.0,3.0,8.0
+2223,RB Leipzig,20,2023-02-25,Ein Frankfurt,H,W,2,1,3,1.0,2.0,10.0
+2223,RB Leipzig,21,2023-03-03,Dortmund,A,L,2,1,0,3.0,-3.0,7.0
+2223,RB Leipzig,22,2023-03-11,M'gladbach,H,W,3,0,3,3.0,0.0,7.0
+2223,RB Leipzig,23,2023-03-18,Bochum,A,L,1,0,0,3.0,-3.0,4.0
+2223,RB Leipzig,24,2023-04-01,Mainz,H,L,0,3,0,3.0,-3.0,1.0
+2223,RB Leipzig,25,2023-04-08,Hertha,A,W,0,1,3,3.0,0.0,1.0
+2223,RB Leipzig,26,2023-04-15,Augsburg,H,W,3,2,3,3.0,0.0,1.0
+2223,RB Leipzig,27,2023-04-23,Leverkusen,A,L,2,0,0,3.0,-3.0,-2.0
+2223,RB Leipzig,28,2023-04-29,Hoffenheim,H,W,1,0,3,3.0,0.0,-2.0
+2223,RB Leipzig,29,2023-05-06,Freiburg,A,W,0,1,3,1.0,2.0,0.0
+2223,RB Leipzig,30,2023-05-20,Bayern Munich,A,W,1,3,3,0.0,3.0,3.0
+2223,Stuttgart,1,2022-08-07,RB Leipzig,H,D,1,1,1,0.0,1.0,1.0
+2223,Stuttgart,2,2022-08-20,Freiburg,H,L,0,1,0,0.0,0.0,1.0
+2223,Stuttgart,3,2022-08-28,FC Koln,A,D,0,0,1,0.0,1.0,2.0
+2223,Stuttgart,4,2022-09-10,Bayern Munich,A,D,2,2,1,1.0,0.0,2.0
+2223,Stuttgart,5,2022-09-17,Ein Frankfurt,H,L,1,3,0,0.0,0.0,2.0
+2223,Stuttgart,6,2022-10-01,Wolfsburg,A,L,3,2,0,3.0,-3.0,-1.0
+2223,Stuttgart,7,2022-10-09,Union Berlin,H,L,0,1,0,1.0,-1.0,-2.0
+2223,Stuttgart,8,2022-10-15,Bochum,H,W,4,1,3,1.0,2.0,0.0
+2223,Stuttgart,9,2022-10-22,Dortmund,A,L,5,0,0,0.0,0.0,0.0
+2223,Stuttgart,10,2022-10-29,Augsburg,H,W,2,1,3,3.0,0.0,0.0
+2223,Stuttgart,11,2022-11-04,M'gladbach,A,L,3,1,0,1.0,-1.0,-1.0
+2223,Stuttgart,12,2022-11-08,Hertha,H,W,2,1,3,1.0,2.0,1.0
+2223,Stuttgart,13,2022-11-12,Leverkusen,A,L,2,0,0,0.0,0.0,1.0
+2223,Stuttgart,14,2023-01-21,Mainz,H,D,1,1,1,3.0,-2.0,-1.0
+2223,Stuttgart,15,2023-01-24,Hoffenheim,A,D,2,2,1,0.0,1.0,0.0
+2223,Stuttgart,16,2023-01-27,RB Leipzig,A,L,2,1,0,0.0,0.0,0.0
+2223,Stuttgart,17,2023-02-11,Freiburg,A,L,2,1,0,0.0,0.0,0.0
+2223,Stuttgart,18,2023-02-18,FC Koln,H,W,3,0,3,3.0,0.0,0.0
+2223,Stuttgart,19,2023-03-04,Bayern Munich,H,L,1,2,0,0.0,0.0,0.0
+2223,Stuttgart,20,2023-03-11,Ein Frankfurt,A,D,1,1,1,1.0,0.0,0.0
+2223,Stuttgart,21,2023-03-18,Wolfsburg,H,L,0,1,0,1.0,-1.0,-1.0
+2223,Stuttgart,22,2023-04-01,Union Berlin,A,L,3,0,0,1.0,-1.0,-2.0
+2223,Stuttgart,23,2023-04-09,Bochum,A,W,2,3,3,1.0,2.0,0.0
+2223,Stuttgart,24,2023-04-15,Dortmund,H,D,3,3,1,0.0,1.0,1.0
+2223,Stuttgart,25,2023-04-21,Augsburg,A,D,1,1,1,0.0,1.0,2.0
+2223,Stuttgart,26,2023-04-29,M'gladbach,H,W,2,1,3,3.0,0.0,2.0
+2223,Stuttgart,27,2023-05-06,Hertha,A,L,2,1,0,0.0,0.0,2.0
+2223,Stuttgart,28,2023-05-14,Leverkusen,H,D,1,1,1,0.0,1.0,3.0
+2223,Stuttgart,29,2023-05-21,Mainz,A,W,1,4,3,1.0,2.0,5.0
+2223,Stuttgart,30,2023-05-27,Hoffenheim,H,D,1,1,1,3.0,-2.0,3.0
+2223,Union Berlin,1,2022-08-06,Hertha,H,W,3,1,3,3.0,0.0,0.0
+2223,Union Berlin,2,2022-08-14,Mainz,A,D,0,0,1,3.0,-2.0,-2.0
+2223,Union Berlin,3,2022-08-20,RB Leipzig,H,W,2,1,3,3.0,0.0,-2.0
+2223,Union Berlin,4,2022-09-03,Bayern Munich,H,D,1,1,1,0.0,1.0,-1.0
+2223,Union Berlin,5,2022-09-11,FC Koln,A,W,0,1,3,1.0,2.0,1.0
+2223,Union Berlin,6,2022-09-18,Wolfsburg,H,W,2,0,3,3.0,0.0,1.0
+2223,Union Berlin,7,2022-10-01,Ein Frankfurt,A,L,2,0,0,0.0,0.0,1.0
+2223,Union Berlin,8,2022-10-09,Stuttgart,A,W,0,1,3,1.0,2.0,3.0
+2223,Union Berlin,9,2022-10-16,Dortmund,H,W,2,0,3,0.0,3.0,6.0
+2223,Union Berlin,10,2022-10-23,Bochum,A,L,2,1,0,3.0,-3.0,3.0
+2223,Union Berlin,11,2022-10-30,M'gladbach,H,W,2,1,3,3.0,0.0,3.0
+2223,Union Berlin,12,2022-11-06,Leverkusen,A,L,5,0,0,1.0,-1.0,2.0
+2223,Union Berlin,13,2022-11-09,Augsburg,H,D,2,2,1,1.0,0.0,2.0
+2223,Union Berlin,14,2022-11-13,Freiburg,A,L,4,1,0,3.0,-3.0,-1.0
+2223,Union Berlin,15,2023-01-21,Hoffenheim,H,W,3,1,3,3.0,0.0,-1.0
+2223,Union Berlin,16,2023-01-28,Hertha,A,W,0,2,3,3.0,0.0,-1.0
+2223,Union Berlin,17,2023-02-04,Mainz,H,W,2,1,3,3.0,0.0,-1.0
+2223,Union Berlin,18,2023-02-11,RB Leipzig,A,W,1,2,3,3.0,0.0,-1.0
+2223,Union Berlin,19,2023-02-26,Bayern Munich,A,L,3,0,0,0.0,0.0,-1.0
+2223,Union Berlin,20,2023-03-04,FC Koln,H,D,0,0,1,3.0,-2.0,-3.0
+2223,Union Berlin,21,2023-03-12,Wolfsburg,A,D,1,1,1,0.0,1.0,-2.0
+2223,Union Berlin,22,2023-03-19,Ein Frankfurt,H,W,2,0,3,3.0,0.0,-2.0
+2223,Union Berlin,23,2023-04-01,Stuttgart,H,W,3,0,3,1.0,2.0,0.0
+2223,Union Berlin,24,2023-04-08,Dortmund,A,L,2,1,0,0.0,0.0,0.0
+2223,Union Berlin,25,2023-04-16,Bochum,H,D,1,1,1,3.0,-2.0,-2.0
+2223,Union Berlin,26,2023-04-23,M'gladbach,A,W,0,1,3,3.0,0.0,-2.0
+2223,Union Berlin,27,2023-04-29,Leverkusen,H,D,0,0,1,1.0,0.0,-2.0
+2223,Union Berlin,28,2023-05-06,Augsburg,A,L,1,0,0,0.0,0.0,-2.0
+2223,Union Berlin,29,2023-05-13,Freiburg,H,W,4,2,3,1.0,2.0,0.0
+2223,Union Berlin,30,2023-05-20,Hoffenheim,A,L,4,2,0,1.0,-1.0,-1.0
+2223,Wolfsburg,1,2022-08-14,Bayern Munich,A,L,2,0,0,0.0,0.0,0.0
+2223,Wolfsburg,2,2022-08-27,RB Leipzig,A,L,2,0,0,0.0,0.0,0.0
+2223,Wolfsburg,3,2022-09-03,FC Koln,H,L,2,4,0,0.0,0.0,0.0
+2223,Wolfsburg,4,2022-09-10,Ein Frankfurt,A,W,0,1,3,3.0,0.0,0.0
+2223,Wolfsburg,5,2022-09-18,Union Berlin,A,L,2,0,0,0.0,0.0,0.0
+2223,Wolfsburg,6,2022-10-01,Stuttgart,H,W,3,2,3,0.0,3.0,3.0
+2223,Wolfsburg,7,2022-10-08,Augsburg,A,D,1,1,1,0.0,1.0,4.0
+2223,Wolfsburg,8,2022-10-15,M'gladbach,H,D,2,2,1,0.0,1.0,5.0
+2223,Wolfsburg,9,2022-10-22,Leverkusen,A,D,2,2,1,3.0,-2.0,3.0
+2223,Wolfsburg,10,2022-10-29,Bochum,H,W,4,0,3,3.0,0.0,3.0
+2223,Wolfsburg,11,2022-11-05,Mainz,A,W,0,3,3,0.0,3.0,6.0
+2223,Wolfsburg,12,2022-11-08,Dortmund,H,W,2,0,3,0.0,3.0,9.0
+2223,Wolfsburg,13,2022-11-12,Hoffenheim,A,W,1,2,3,0.0,3.0,12.0
+2223,Wolfsburg,14,2023-01-21,Freiburg,H,W,6,0,3,0.0,3.0,15.0
+2223,Wolfsburg,15,2023-01-24,Hertha,A,W,0,5,3,3.0,0.0,15.0
+2223,Wolfsburg,16,2023-02-05,Bayern Munich,H,L,2,4,0,1.0,-1.0,14.0
+2223,Wolfsburg,17,2023-02-18,RB Leipzig,H,L,0,3,0,3.0,-3.0,11.0
+2223,Wolfsburg,18,2023-02-25,FC Koln,A,W,0,2,3,3.0,0.0,11.0
+2223,Wolfsburg,19,2023-03-05,Ein Frankfurt,H,D,2,2,1,1.0,0.0,11.0
+2223,Wolfsburg,20,2023-03-12,Union Berlin,H,D,1,1,1,3.0,-2.0,9.0
+2223,Wolfsburg,21,2023-03-18,Stuttgart,A,W,0,1,3,1.0,2.0,11.0
+2223,Wolfsburg,22,2023-04-01,Augsburg,H,D,2,2,1,3.0,-2.0,9.0
+2223,Wolfsburg,23,2023-04-09,M'gladbach,A,L,2,0,0,1.0,-1.0,8.0
+2223,Wolfsburg,24,2023-04-16,Leverkusen,H,D,0,0,1,0.0,1.0,9.0
+2223,Wolfsburg,25,2023-04-22,Bochum,A,W,1,5,3,0.0,3.0,12.0
+2223,Wolfsburg,26,2023-04-30,Mainz,H,W,3,0,3,3.0,0.0,12.0
+2223,Wolfsburg,27,2023-05-07,Dortmund,A,L,6,0,0,0.0,0.0,12.0
+2223,Wolfsburg,28,2023-05-13,Hoffenheim,H,W,2,1,3,0.0,3.0,15.0
+2223,Wolfsburg,29,2023-05-19,Freiburg,A,L,2,0,0,0.0,0.0,15.0
+2223,Wolfsburg,30,2023-05-27,Hertha,H,L,1,2,0,1.0,-1.0,14.0

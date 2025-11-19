@@ -1,0 +1,545 @@
+Season,Team,Match_Number,Date,Opponent,Venue,Result,FTHG,FTAG,Points_cur,Points_prev,Differential,Cumulative
+2324,Arsenal,1,2023-08-12,Nott'm Forest,H,W,2,1,3,3.0,0.0,0.0
+2324,Arsenal,2,2023-08-21,Crystal Palace,A,W,0,1,3,3.0,0.0,0.0
+2324,Arsenal,3,2023-08-26,Fulham,H,D,2,2,1,3.0,-2.0,-2.0
+2324,Arsenal,4,2023-09-03,Man United,H,W,3,1,3,3.0,0.0,-2.0
+2324,Arsenal,5,2023-09-17,Everton,A,W,0,1,3,0.0,3.0,1.0
+2324,Arsenal,6,2023-09-24,Tottenham,H,D,2,2,1,3.0,-2.0,-1.0
+2324,Arsenal,7,2023-09-30,Bournemouth,A,W,0,4,3,3.0,0.0,-1.0
+2324,Arsenal,8,2023-10-08,Man City,H,W,1,0,3,0.0,3.0,2.0
+2324,Arsenal,9,2023-10-21,Chelsea,A,D,2,2,1,3.0,-2.0,0.0
+2324,Arsenal,10,2023-11-04,Newcastle,A,L,1,0,0,3.0,-3.0,-3.0
+2324,Arsenal,11,2023-11-25,Brentford,A,W,0,1,3,3.0,0.0,-3.0
+2324,Arsenal,12,2023-12-02,Wolves,H,W,2,1,3,3.0,0.0,-3.0
+2324,Arsenal,13,2023-12-09,Aston Villa,A,L,1,0,0,3.0,-3.0,-6.0
+2324,Arsenal,14,2023-12-17,Brighton,H,W,2,0,3,0.0,3.0,-3.0
+2324,Arsenal,15,2023-12-23,Liverpool,A,D,1,1,1,1.0,0.0,-3.0
+2324,Arsenal,16,2023-12-28,West Ham,H,L,0,2,0,3.0,-3.0,-6.0
+2324,Arsenal,17,2023-12-31,Fulham,A,L,2,1,0,3.0,-3.0,-9.0
+2324,Arsenal,18,2024-01-20,Crystal Palace,H,W,5,0,3,3.0,0.0,-9.0
+2324,Arsenal,19,2024-01-30,Nott'm Forest,A,W,1,2,3,0.0,3.0,-6.0
+2324,Arsenal,20,2024-02-04,Liverpool,H,W,3,1,3,3.0,0.0,-6.0
+2324,Arsenal,21,2024-02-11,West Ham,A,W,0,6,3,1.0,2.0,-4.0
+2324,Arsenal,22,2024-02-24,Newcastle,H,W,4,1,3,1.0,2.0,-2.0
+2324,Arsenal,23,2024-03-09,Brentford,H,W,2,1,3,1.0,2.0,0.0
+2324,Arsenal,24,2024-03-31,Man City,A,D,0,0,1,0.0,1.0,1.0
+2324,Arsenal,25,2024-04-06,Brighton,A,W,0,3,3,3.0,0.0,1.0
+2324,Arsenal,26,2024-04-14,Aston Villa,H,L,0,2,0,3.0,-3.0,-2.0
+2324,Arsenal,27,2024-04-20,Wolves,A,W,0,2,3,3.0,0.0,-2.0
+2324,Arsenal,28,2024-04-23,Chelsea,H,W,5,0,3,3.0,0.0,-2.0
+2324,Arsenal,29,2024-04-28,Tottenham,A,W,2,3,3,3.0,0.0,-2.0
+2324,Arsenal,30,2024-05-04,Bournemouth,H,W,3,0,3,3.0,0.0,-2.0
+2324,Arsenal,31,2024-05-12,Man United,A,W,0,1,3,0.0,3.0,1.0
+2324,Arsenal,32,2024-05-19,Everton,H,W,2,1,3,3.0,0.0,1.0
+2324,Aston Villa,1,2023-08-12,Newcastle,A,L,5,1,0,0.0,0.0,0.0
+2324,Aston Villa,2,2023-08-20,Everton,H,W,4,0,3,3.0,0.0,0.0
+2324,Aston Villa,3,2023-09-03,Liverpool,A,L,3,0,0,1.0,-1.0,-1.0
+2324,Aston Villa,4,2023-09-16,Crystal Palace,H,W,3,1,3,3.0,0.0,-1.0
+2324,Aston Villa,5,2023-09-24,Chelsea,A,W,0,1,3,3.0,0.0,-1.0
+2324,Aston Villa,6,2023-09-30,Brighton,H,W,6,1,3,3.0,0.0,-1.0
+2324,Aston Villa,7,2023-10-08,Wolves,A,D,1,1,1,0.0,1.0,0.0
+2324,Aston Villa,8,2023-10-22,West Ham,H,W,4,1,3,0.0,3.0,3.0
+2324,Aston Villa,9,2023-11-05,Nott'm Forest,A,L,2,0,0,1.0,-1.0,2.0
+2324,Aston Villa,10,2023-11-12,Fulham,H,W,3,1,3,3.0,0.0,2.0
+2324,Aston Villa,11,2023-11-26,Tottenham,A,W,1,2,3,3.0,0.0,2.0
+2324,Aston Villa,12,2023-12-03,Bournemouth,A,D,2,2,1,0.0,1.0,3.0
+2324,Aston Villa,13,2023-12-06,Man City,H,W,1,0,3,1.0,2.0,5.0
+2324,Aston Villa,14,2023-12-09,Arsenal,H,W,1,0,3,0.0,3.0,8.0
+2324,Aston Villa,15,2023-12-17,Brentford,A,W,1,2,3,1.0,2.0,10.0
+2324,Aston Villa,16,2023-12-26,Man United,A,L,3,2,0,0.0,0.0,10.0
+2324,Aston Villa,17,2024-01-14,Everton,A,D,0,0,1,3.0,-2.0,8.0
+2324,Aston Villa,18,2024-01-30,Newcastle,H,L,1,3,0,3.0,-3.0,5.0
+2324,Aston Villa,19,2024-02-11,Man United,H,L,1,2,0,3.0,-3.0,2.0
+2324,Aston Villa,20,2024-02-17,Fulham,A,W,1,2,3,0.0,3.0,5.0
+2324,Aston Villa,21,2024-02-24,Nott'm Forest,H,W,4,2,3,3.0,0.0,5.0
+2324,Aston Villa,22,2024-03-10,Tottenham,H,L,0,4,0,3.0,-3.0,2.0
+2324,Aston Villa,23,2024-03-17,West Ham,A,D,1,1,1,1.0,0.0,2.0
+2324,Aston Villa,24,2024-03-30,Wolves,H,W,2,0,3,1.0,2.0,4.0
+2324,Aston Villa,25,2024-04-03,Man City,A,L,4,1,0,0.0,0.0,4.0
+2324,Aston Villa,26,2024-04-06,Brentford,H,D,3,3,1,3.0,-2.0,2.0
+2324,Aston Villa,27,2024-04-14,Arsenal,A,W,0,2,3,0.0,3.0,5.0
+2324,Aston Villa,28,2024-04-21,Bournemouth,H,W,3,1,3,3.0,0.0,5.0
+2324,Aston Villa,29,2024-04-27,Chelsea,H,D,2,2,1,0.0,1.0,6.0
+2324,Aston Villa,30,2024-05-05,Brighton,A,L,1,0,0,3.0,-3.0,3.0
+2324,Aston Villa,31,2024-05-13,Liverpool,H,D,3,3,1,0.0,1.0,4.0
+2324,Aston Villa,32,2024-05-19,Crystal Palace,A,L,5,0,0,0.0,0.0,4.0
+2324,Bournemouth,1,2023-08-12,West Ham,H,D,1,1,1,0.0,1.0,1.0
+2324,Bournemouth,2,2023-08-19,Liverpool,A,L,3,1,0,0.0,0.0,1.0
+2324,Bournemouth,3,2023-08-26,Tottenham,H,L,0,2,0,0.0,0.0,1.0
+2324,Bournemouth,4,2023-09-02,Brentford,A,D,2,2,1,0.0,1.0,2.0
+2324,Bournemouth,5,2023-09-17,Chelsea,H,D,0,0,1,0.0,1.0,3.0
+2324,Bournemouth,6,2023-09-24,Brighton,A,L,3,1,0,0.0,0.0,3.0
+2324,Bournemouth,7,2023-09-30,Arsenal,H,L,0,4,0,0.0,0.0,3.0
+2324,Bournemouth,8,2023-10-07,Everton,A,L,3,0,0,0.0,0.0,3.0
+2324,Bournemouth,9,2023-10-21,Wolves,H,L,1,2,0,1.0,-1.0,2.0
+2324,Bournemouth,10,2023-11-04,Man City,A,L,6,1,0,0.0,0.0,2.0
+2324,Bournemouth,11,2023-11-11,Newcastle,H,W,2,0,3,1.0,2.0,4.0
+2324,Bournemouth,12,2023-12-03,Aston Villa,H,D,2,2,1,3.0,-2.0,2.0
+2324,Bournemouth,13,2023-12-06,Crystal Palace,A,W,0,2,3,0.0,3.0,5.0
+2324,Bournemouth,14,2023-12-09,Man United,A,W,0,3,3,0.0,3.0,8.0
+2324,Bournemouth,15,2023-12-23,Nott'm Forest,A,W,2,3,3,3.0,0.0,8.0
+2324,Bournemouth,16,2023-12-26,Fulham,H,W,3,0,3,3.0,0.0,8.0
+2324,Bournemouth,17,2023-12-31,Tottenham,A,L,3,1,0,3.0,-3.0,5.0
+2324,Bournemouth,18,2024-01-21,Liverpool,H,L,0,4,0,3.0,-3.0,2.0
+2324,Bournemouth,19,2024-02-01,West Ham,A,D,1,1,1,0.0,1.0,3.0
+2324,Bournemouth,20,2024-02-04,Nott'm Forest,H,D,1,1,1,1.0,0.0,3.0
+2324,Bournemouth,21,2024-02-10,Fulham,A,L,3,1,0,1.0,-1.0,2.0
+2324,Bournemouth,22,2024-02-17,Newcastle,A,D,2,2,1,1.0,0.0,2.0
+2324,Bournemouth,23,2024-02-24,Man City,H,L,0,1,0,0.0,0.0,2.0
+2324,Bournemouth,24,2024-03-30,Everton,H,W,2,1,3,3.0,0.0,2.0
+2324,Bournemouth,25,2024-04-02,Crystal Palace,H,W,1,0,3,0.0,3.0,5.0
+2324,Bournemouth,26,2024-04-13,Man United,H,D,2,2,1,0.0,1.0,6.0
+2324,Bournemouth,27,2024-04-21,Aston Villa,A,L,3,1,0,0.0,0.0,6.0
+2324,Bournemouth,28,2024-04-24,Wolves,A,W,0,1,3,3.0,0.0,6.0
+2324,Bournemouth,29,2024-04-28,Brighton,H,W,3,0,3,0.0,3.0,9.0
+2324,Bournemouth,30,2024-05-04,Arsenal,A,L,3,0,0,0.0,0.0,9.0
+2324,Bournemouth,31,2024-05-11,Brentford,H,L,1,2,0,1.0,-1.0,8.0
+2324,Bournemouth,32,2024-05-19,Chelsea,A,L,2,1,0,0.0,0.0,8.0
+2324,Brentford,1,2023-08-13,Tottenham,H,D,2,2,1,1.0,0.0,0.0
+2324,Brentford,2,2023-08-19,Fulham,A,W,0,3,3,0.0,3.0,3.0
+2324,Brentford,3,2023-08-26,Crystal Palace,H,D,1,1,1,1.0,0.0,3.0
+2324,Brentford,4,2023-09-02,Bournemouth,H,D,2,2,1,3.0,-2.0,1.0
+2324,Brentford,5,2023-09-16,Newcastle,A,L,1,0,0,0.0,0.0,1.0
+2324,Brentford,6,2023-09-23,Everton,H,L,1,3,0,1.0,-1.0,0.0
+2324,Brentford,7,2023-10-01,Nott'm Forest,A,D,1,1,1,1.0,0.0,0.0
+2324,Brentford,8,2023-10-07,Man United,A,L,2,1,0,0.0,0.0,0.0
+2324,Brentford,9,2023-10-28,Chelsea,A,W,0,2,3,3.0,0.0,0.0
+2324,Brentford,10,2023-11-04,West Ham,H,W,3,2,3,3.0,0.0,0.0
+2324,Brentford,11,2023-11-12,Liverpool,A,L,3,0,0,0.0,0.0,0.0
+2324,Brentford,12,2023-11-25,Arsenal,H,L,0,1,0,0.0,0.0,0.0
+2324,Brentford,13,2023-12-06,Brighton,A,L,2,1,0,1.0,-1.0,-1.0
+2324,Brentford,14,2023-12-17,Aston Villa,H,L,1,2,0,1.0,-1.0,-2.0
+2324,Brentford,15,2023-12-27,Wolves,H,L,1,4,0,1.0,-1.0,-3.0
+2324,Brentford,16,2023-12-30,Crystal Palace,A,L,3,1,0,1.0,-1.0,-4.0
+2324,Brentford,17,2024-01-20,Nott'm Forest,H,W,3,2,3,3.0,0.0,-4.0
+2324,Brentford,18,2024-01-31,Tottenham,A,L,3,2,0,3.0,-3.0,-7.0
+2324,Brentford,19,2024-02-05,Man City,H,L,1,3,0,3.0,-3.0,-10.0
+2324,Brentford,20,2024-02-10,Wolves,A,W,0,2,3,0.0,3.0,-7.0
+2324,Brentford,21,2024-02-17,Liverpool,H,L,1,4,0,3.0,-3.0,-10.0
+2324,Brentford,22,2024-02-20,Man City,A,L,1,0,0,3.0,-3.0,-13.0
+2324,Brentford,23,2024-02-26,West Ham,A,L,4,2,0,3.0,-3.0,-16.0
+2324,Brentford,24,2024-03-02,Chelsea,H,D,2,2,1,1.0,0.0,-16.0
+2324,Brentford,25,2024-03-09,Arsenal,A,L,2,1,0,1.0,-1.0,-17.0
+2324,Brentford,26,2024-03-30,Man United,H,D,1,1,1,3.0,-2.0,-19.0
+2324,Brentford,27,2024-04-03,Brighton,H,D,0,0,1,3.0,-2.0,-21.0
+2324,Brentford,28,2024-04-06,Aston Villa,A,D,3,3,1,0.0,1.0,-20.0
+2324,Brentford,29,2024-04-27,Everton,A,L,1,0,0,0.0,0.0,-20.0
+2324,Brentford,30,2024-05-04,Fulham,H,D,0,0,1,3.0,-2.0,-22.0
+2324,Brentford,31,2024-05-11,Bournemouth,A,W,1,2,3,1.0,2.0,-20.0
+2324,Brentford,32,2024-05-19,Newcastle,H,L,2,4,0,0.0,0.0,-20.0
+2324,Brighton,1,2023-08-19,Wolves,A,W,1,4,3,3.0,0.0,0.0
+2324,Brighton,2,2023-08-26,West Ham,H,L,1,3,0,3.0,-3.0,-3.0
+2324,Brighton,3,2023-09-02,Newcastle,H,W,3,1,3,1.0,2.0,-1.0
+2324,Brighton,4,2023-09-16,Man United,A,W,1,3,3,3.0,0.0,-1.0
+2324,Brighton,5,2023-09-24,Bournemouth,H,W,3,1,3,3.0,0.0,-1.0
+2324,Brighton,6,2023-09-30,Aston Villa,A,L,6,1,0,0.0,0.0,-1.0
+2324,Brighton,7,2023-10-08,Liverpool,H,D,2,2,1,3.0,-2.0,-3.0
+2324,Brighton,8,2023-10-21,Man City,A,L,2,1,0,0.0,0.0,-3.0
+2324,Brighton,9,2023-10-29,Fulham,H,D,1,1,1,0.0,1.0,-2.0
+2324,Brighton,10,2023-11-04,Everton,A,D,1,1,1,3.0,-2.0,-4.0
+2324,Brighton,11,2023-11-25,Nott'm Forest,A,W,2,3,3,0.0,3.0,-1.0
+2324,Brighton,12,2023-12-03,Chelsea,A,L,3,2,0,3.0,-3.0,-4.0
+2324,Brighton,13,2023-12-06,Brentford,H,W,2,1,3,1.0,2.0,-2.0
+2324,Brighton,14,2023-12-17,Arsenal,A,L,2,0,0,3.0,-3.0,-5.0
+2324,Brighton,15,2023-12-21,Crystal Palace,A,D,1,1,1,1.0,0.0,-5.0
+2324,Brighton,16,2023-12-28,Tottenham,H,W,4,2,3,0.0,3.0,-2.0
+2324,Brighton,17,2024-01-02,West Ham,A,D,0,0,1,3.0,-2.0,-4.0
+2324,Brighton,18,2024-01-22,Wolves,H,D,0,0,1,3.0,-2.0,-6.0
+2324,Brighton,19,2024-02-03,Crystal Palace,H,W,4,1,3,3.0,0.0,-6.0
+2324,Brighton,20,2024-02-10,Tottenham,A,L,2,1,0,0.0,0.0,-6.0
+2324,Brighton,21,2024-02-24,Everton,H,D,1,1,1,0.0,1.0,-5.0
+2324,Brighton,22,2024-03-02,Fulham,A,L,3,0,0,0.0,0.0,-5.0
+2324,Brighton,23,2024-03-10,Nott'm Forest,H,W,1,0,3,1.0,2.0,-3.0
+2324,Brighton,24,2024-03-31,Liverpool,A,L,2,1,0,1.0,-1.0,-4.0
+2324,Brighton,25,2024-04-03,Brentford,A,D,0,0,1,0.0,1.0,-3.0
+2324,Brighton,26,2024-04-06,Arsenal,H,L,0,3,0,0.0,0.0,-3.0
+2324,Brighton,27,2024-04-25,Man City,H,L,0,4,0,1.0,-1.0,-4.0
+2324,Brighton,28,2024-04-28,Bournemouth,A,L,3,0,0,3.0,-3.0,-7.0
+2324,Brighton,29,2024-05-05,Aston Villa,H,W,1,0,3,0.0,3.0,-4.0
+2324,Brighton,30,2024-05-11,Newcastle,A,D,1,1,1,0.0,1.0,-3.0
+2324,Brighton,31,2024-05-15,Chelsea,H,L,1,2,0,3.0,-3.0,-6.0
+2324,Brighton,32,2024-05-19,Man United,H,L,0,2,0,3.0,-3.0,-9.0
+2324,Chelsea,1,2023-08-13,Liverpool,H,D,1,1,1,1.0,0.0,0.0
+2324,Chelsea,2,2023-08-20,West Ham,A,L,3,1,0,1.0,-1.0,-1.0
+2324,Chelsea,3,2023-09-02,Nott'm Forest,H,L,0,1,0,1.0,-1.0,-2.0
+2324,Chelsea,4,2023-09-17,Bournemouth,A,D,0,0,1,3.0,-2.0,-4.0
+2324,Chelsea,5,2023-09-24,Aston Villa,H,L,0,1,0,0.0,0.0,-4.0
+2324,Chelsea,6,2023-10-02,Fulham,A,W,0,2,3,0.0,3.0,-1.0
+2324,Chelsea,7,2023-10-21,Arsenal,H,D,2,2,1,0.0,1.0,0.0
+2324,Chelsea,8,2023-10-28,Brentford,H,L,0,2,0,0.0,0.0,0.0
+2324,Chelsea,9,2023-11-06,Tottenham,A,W,1,4,3,0.0,3.0,3.0
+2324,Chelsea,10,2023-11-12,Man City,H,D,4,4,1,0.0,1.0,4.0
+2324,Chelsea,11,2023-11-25,Newcastle,A,L,4,1,0,0.0,0.0,4.0
+2324,Chelsea,12,2023-12-03,Brighton,H,W,3,2,3,0.0,3.0,7.0
+2324,Chelsea,13,2023-12-06,Man United,A,L,2,1,0,0.0,0.0,7.0
+2324,Chelsea,14,2023-12-10,Everton,A,L,2,0,0,3.0,-3.0,4.0
+2324,Chelsea,15,2023-12-24,Wolves,A,L,2,1,0,0.0,0.0,4.0
+2324,Chelsea,16,2023-12-27,Crystal Palace,H,W,2,1,3,3.0,0.0,4.0
+2324,Chelsea,17,2024-01-13,Fulham,H,W,1,0,3,1.0,2.0,6.0
+2324,Chelsea,18,2024-01-31,Liverpool,A,L,4,1,0,1.0,-1.0,5.0
+2324,Chelsea,19,2024-02-04,Wolves,H,L,2,4,0,3.0,-3.0,2.0
+2324,Chelsea,20,2024-02-12,Crystal Palace,A,W,1,3,3,3.0,0.0,2.0
+2324,Chelsea,21,2024-02-17,Man City,A,D,1,1,1,0.0,1.0,3.0
+2324,Chelsea,22,2024-03-02,Brentford,A,D,2,2,1,1.0,0.0,3.0
+2324,Chelsea,23,2024-03-11,Newcastle,H,W,3,2,3,1.0,2.0,5.0
+2324,Chelsea,24,2024-04-04,Man United,H,W,4,3,3,1.0,2.0,7.0
+2324,Chelsea,25,2024-04-15,Everton,H,W,6,0,3,1.0,2.0,9.0
+2324,Chelsea,26,2024-04-23,Arsenal,A,L,5,0,0,0.0,0.0,9.0
+2324,Chelsea,27,2024-04-27,Aston Villa,A,D,2,2,1,3.0,-2.0,7.0
+2324,Chelsea,28,2024-05-02,Tottenham,H,W,2,0,3,1.0,2.0,9.0
+2324,Chelsea,29,2024-05-05,West Ham,H,W,5,0,3,3.0,0.0,9.0
+2324,Chelsea,30,2024-05-11,Nott'm Forest,A,W,2,3,3,1.0,2.0,11.0
+2324,Chelsea,31,2024-05-15,Brighton,A,W,1,2,3,0.0,3.0,14.0
+2324,Chelsea,32,2024-05-19,Bournemouth,H,W,2,1,3,3.0,0.0,14.0
+2324,Crystal Palace,1,2023-08-21,Arsenal,H,L,0,1,0,0.0,0.0,0.0
+2324,Crystal Palace,2,2023-08-26,Brentford,A,D,1,1,1,1.0,0.0,0.0
+2324,Crystal Palace,3,2023-09-03,Wolves,H,W,3,2,3,3.0,0.0,0.0
+2324,Crystal Palace,4,2023-09-16,Aston Villa,A,L,3,1,0,0.0,0.0,0.0
+2324,Crystal Palace,5,2023-09-23,Fulham,H,D,0,0,1,0.0,1.0,1.0
+2324,Crystal Palace,6,2023-09-30,Man United,A,W,0,1,3,0.0,3.0,4.0
+2324,Crystal Palace,7,2023-10-07,Nott'm Forest,H,D,0,0,1,1.0,0.0,4.0
+2324,Crystal Palace,8,2023-10-21,Newcastle,A,L,4,0,0,1.0,-1.0,3.0
+2324,Crystal Palace,9,2023-10-27,Tottenham,H,L,1,2,0,0.0,0.0,3.0
+2324,Crystal Palace,10,2023-11-11,Everton,H,L,2,3,0,1.0,-1.0,2.0
+2324,Crystal Palace,11,2023-12-03,West Ham,A,D,1,1,1,3.0,-2.0,0.0
+2324,Crystal Palace,12,2023-12-06,Bournemouth,H,L,0,2,0,3.0,-3.0,-3.0
+2324,Crystal Palace,13,2023-12-09,Liverpool,H,L,1,2,0,1.0,-1.0,-4.0
+2324,Crystal Palace,14,2023-12-16,Man City,A,D,2,2,1,0.0,1.0,-3.0
+2324,Crystal Palace,15,2023-12-21,Brighton,H,D,1,1,1,1.0,0.0,-3.0
+2324,Crystal Palace,16,2023-12-27,Chelsea,A,L,2,1,0,0.0,0.0,-3.0
+2324,Crystal Palace,17,2023-12-30,Brentford,H,W,3,1,3,1.0,2.0,-1.0
+2324,Crystal Palace,18,2024-01-20,Arsenal,A,L,5,0,0,0.0,0.0,-1.0
+2324,Crystal Palace,19,2024-02-03,Brighton,A,L,4,1,0,0.0,0.0,-1.0
+2324,Crystal Palace,20,2024-02-12,Chelsea,H,L,1,3,0,0.0,0.0,-1.0
+2324,Crystal Palace,21,2024-02-19,Everton,A,D,1,1,1,0.0,1.0,0.0
+2324,Crystal Palace,22,2024-03-02,Tottenham,A,L,3,1,0,0.0,0.0,0.0
+2324,Crystal Palace,23,2024-03-30,Nott'm Forest,A,D,1,1,1,0.0,1.0,1.0
+2324,Crystal Palace,24,2024-04-02,Bournemouth,A,L,1,0,0,3.0,-3.0,-2.0
+2324,Crystal Palace,25,2024-04-06,Man City,H,L,2,4,0,0.0,0.0,-2.0
+2324,Crystal Palace,26,2024-04-14,Liverpool,A,W,0,1,3,1.0,2.0,0.0
+2324,Crystal Palace,27,2024-04-21,West Ham,H,W,5,2,3,3.0,0.0,0.0
+2324,Crystal Palace,28,2024-04-24,Newcastle,H,W,2,0,3,1.0,2.0,2.0
+2324,Crystal Palace,29,2024-04-27,Fulham,A,D,1,1,1,1.0,0.0,2.0
+2324,Crystal Palace,30,2024-05-06,Man United,H,W,4,0,3,1.0,2.0,4.0
+2324,Crystal Palace,31,2024-05-11,Wolves,A,W,1,3,3,0.0,3.0,7.0
+2324,Crystal Palace,32,2024-05-19,Aston Villa,H,W,5,0,3,3.0,0.0,7.0
+2324,Everton,1,2023-08-12,Fulham,H,L,0,1,0,0.0,0.0,0.0
+2324,Everton,2,2023-08-20,Aston Villa,A,L,4,0,0,0.0,0.0,0.0
+2324,Everton,3,2023-08-26,Wolves,H,L,0,1,0,0.0,0.0,0.0
+2324,Everton,4,2023-09-17,Arsenal,H,L,0,1,0,3.0,-3.0,-3.0
+2324,Everton,5,2023-09-23,Brentford,A,W,1,3,3,1.0,2.0,-1.0
+2324,Everton,6,2023-10-07,Bournemouth,H,W,3,0,3,3.0,0.0,-1.0
+2324,Everton,7,2023-10-21,Liverpool,A,L,2,0,0,0.0,0.0,-1.0
+2324,Everton,8,2023-10-29,West Ham,A,W,0,1,3,0.0,3.0,2.0
+2324,Everton,9,2023-11-04,Brighton,H,D,1,1,1,0.0,1.0,3.0
+2324,Everton,10,2023-11-11,Crystal Palace,A,W,2,3,3,1.0,2.0,5.0
+2324,Everton,11,2023-11-26,Man United,H,L,0,3,0,0.0,0.0,5.0
+2324,Everton,12,2023-12-02,Nott'm Forest,A,W,0,1,3,1.0,2.0,7.0
+2324,Everton,13,2023-12-07,Newcastle,H,W,3,0,3,0.0,3.0,10.0
+2324,Everton,14,2023-12-10,Chelsea,H,W,2,0,3,0.0,3.0,13.0
+2324,Everton,15,2023-12-23,Tottenham,A,L,2,1,0,0.0,0.0,13.0
+2324,Everton,16,2023-12-27,Man City,H,L,1,3,0,0.0,0.0,13.0
+2324,Everton,17,2023-12-30,Wolves,A,L,3,0,0,1.0,-1.0,12.0
+2324,Everton,18,2024-01-14,Aston Villa,H,D,0,0,1,0.0,1.0,13.0
+2324,Everton,19,2024-01-30,Fulham,A,D,0,0,1,1.0,0.0,13.0
+2324,Everton,20,2024-02-03,Tottenham,H,D,2,2,1,1.0,0.0,13.0
+2324,Everton,21,2024-02-10,Man City,A,L,2,0,0,1.0,-1.0,12.0
+2324,Everton,22,2024-02-19,Crystal Palace,H,D,1,1,1,3.0,-2.0,10.0
+2324,Everton,23,2024-02-24,Brighton,A,D,1,1,1,3.0,-2.0,8.0
+2324,Everton,24,2024-03-02,West Ham,H,L,1,3,0,3.0,-3.0,5.0
+2324,Everton,25,2024-03-09,Man United,A,L,2,0,0,0.0,0.0,5.0
+2324,Everton,26,2024-03-30,Bournemouth,A,L,2,1,0,0.0,0.0,5.0
+2324,Everton,27,2024-04-02,Newcastle,A,D,1,1,1,0.0,1.0,6.0
+2324,Everton,28,2024-04-15,Chelsea,A,L,6,0,0,1.0,-1.0,5.0
+2324,Everton,29,2024-04-21,Nott'm Forest,H,W,2,0,3,1.0,2.0,7.0
+2324,Everton,30,2024-04-24,Liverpool,H,W,2,0,3,1.0,2.0,9.0
+2324,Everton,31,2024-04-27,Brentford,H,W,1,0,3,3.0,0.0,9.0
+2324,Everton,32,2024-05-19,Arsenal,A,L,2,1,0,0.0,0.0,9.0
+2324,Fulham,1,2023-08-12,Everton,A,W,0,1,3,3.0,0.0,0.0
+2324,Fulham,2,2023-08-19,Brentford,H,L,0,3,0,3.0,-3.0,-3.0
+2324,Fulham,3,2023-08-26,Arsenal,A,D,2,2,1,0.0,1.0,-2.0
+2324,Fulham,4,2023-09-02,Man City,A,L,5,1,0,0.0,0.0,-2.0
+2324,Fulham,5,2023-09-23,Crystal Palace,A,D,0,0,1,3.0,-2.0,-4.0
+2324,Fulham,6,2023-10-02,Chelsea,H,L,0,2,0,3.0,-3.0,-7.0
+2324,Fulham,7,2023-10-23,Tottenham,A,L,2,0,0,0.0,0.0,-7.0
+2324,Fulham,8,2023-10-29,Brighton,A,D,1,1,1,3.0,-2.0,-9.0
+2324,Fulham,9,2023-11-04,Man United,H,L,0,1,0,0.0,0.0,-9.0
+2324,Fulham,10,2023-11-12,Aston Villa,A,L,3,1,0,0.0,0.0,-9.0
+2324,Fulham,11,2023-11-27,Wolves,H,W,3,2,3,1.0,2.0,-7.0
+2324,Fulham,12,2023-12-03,Liverpool,A,L,4,3,0,0.0,0.0,-7.0
+2324,Fulham,13,2023-12-06,Nott'm Forest,H,W,5,0,3,3.0,0.0,-7.0
+2324,Fulham,14,2023-12-10,West Ham,H,W,5,0,3,0.0,3.0,-4.0
+2324,Fulham,15,2023-12-16,Newcastle,A,L,3,0,0,0.0,0.0,-4.0
+2324,Fulham,16,2023-12-26,Bournemouth,A,L,3,0,0,0.0,0.0,-4.0
+2324,Fulham,17,2023-12-31,Arsenal,H,W,2,1,3,0.0,3.0,-1.0
+2324,Fulham,18,2024-01-13,Chelsea,A,L,1,0,0,1.0,-1.0,-2.0
+2324,Fulham,19,2024-01-30,Everton,H,D,0,0,1,1.0,0.0,-2.0
+2324,Fulham,20,2024-02-10,Bournemouth,H,W,3,1,3,1.0,2.0,0.0
+2324,Fulham,21,2024-02-17,Aston Villa,H,L,1,2,0,3.0,-3.0,-3.0
+2324,Fulham,22,2024-02-24,Man United,A,W,1,2,3,0.0,3.0,0.0
+2324,Fulham,23,2024-03-02,Brighton,H,W,3,0,3,3.0,0.0,0.0
+2324,Fulham,24,2024-03-09,Wolves,A,L,2,1,0,1.0,-1.0,-1.0
+2324,Fulham,25,2024-03-16,Tottenham,H,W,3,0,3,0.0,3.0,2.0
+2324,Fulham,26,2024-04-02,Nott'm Forest,A,L,3,1,0,3.0,-3.0,-1.0
+2324,Fulham,27,2024-04-06,Newcastle,H,L,0,1,0,0.0,0.0,-1.0
+2324,Fulham,28,2024-04-14,West Ham,A,W,0,2,3,0.0,3.0,2.0
+2324,Fulham,29,2024-04-21,Liverpool,H,L,1,3,0,1.0,-1.0,1.0
+2324,Fulham,30,2024-04-27,Crystal Palace,H,D,1,1,1,1.0,0.0,1.0
+2324,Fulham,31,2024-05-04,Brentford,A,D,0,0,1,0.0,1.0,2.0
+2324,Fulham,32,2024-05-11,Man City,H,L,0,4,0,0.0,0.0,2.0
+2324,Liverpool,1,2023-08-13,Chelsea,A,D,1,1,1,1.0,0.0,0.0
+2324,Liverpool,2,2023-08-19,Bournemouth,H,W,3,1,3,3.0,0.0,0.0
+2324,Liverpool,3,2023-08-27,Newcastle,A,W,1,2,3,3.0,0.0,0.0
+2324,Liverpool,4,2023-09-03,Aston Villa,H,W,3,0,3,1.0,2.0,2.0
+2324,Liverpool,5,2023-09-16,Wolves,A,W,1,3,3,0.0,3.0,5.0
+2324,Liverpool,6,2023-09-24,West Ham,H,W,3,1,3,3.0,0.0,5.0
+2324,Liverpool,7,2023-09-30,Tottenham,A,L,2,1,0,3.0,-3.0,2.0
+2324,Liverpool,8,2023-10-08,Brighton,A,D,2,2,1,0.0,1.0,3.0
+2324,Liverpool,9,2023-10-21,Everton,H,W,2,0,3,3.0,0.0,3.0
+2324,Liverpool,10,2023-10-29,Nott'm Forest,H,W,3,0,3,3.0,0.0,3.0
+2324,Liverpool,11,2023-11-12,Brentford,H,W,3,0,3,3.0,0.0,3.0
+2324,Liverpool,12,2023-11-25,Man City,A,D,1,1,1,0.0,1.0,4.0
+2324,Liverpool,13,2023-12-03,Fulham,H,W,4,3,3,3.0,0.0,4.0
+2324,Liverpool,14,2023-12-09,Crystal Palace,A,W,1,2,3,1.0,2.0,6.0
+2324,Liverpool,15,2023-12-17,Man United,H,D,0,0,1,3.0,-2.0,4.0
+2324,Liverpool,16,2023-12-23,Arsenal,H,D,1,1,1,1.0,0.0,4.0
+2324,Liverpool,17,2024-01-01,Newcastle,H,W,4,2,3,3.0,0.0,4.0
+2324,Liverpool,18,2024-01-21,Bournemouth,A,W,0,4,3,0.0,3.0,7.0
+2324,Liverpool,19,2024-01-31,Chelsea,H,W,4,1,3,1.0,2.0,9.0
+2324,Liverpool,20,2024-02-04,Arsenal,A,L,3,1,0,0.0,0.0,9.0
+2324,Liverpool,21,2024-02-17,Brentford,A,W,1,4,3,0.0,3.0,12.0
+2324,Liverpool,22,2024-03-02,Nott'm Forest,A,W,0,1,3,0.0,3.0,15.0
+2324,Liverpool,23,2024-03-10,Man City,H,D,1,1,1,3.0,-2.0,13.0
+2324,Liverpool,24,2024-03-31,Brighton,H,W,2,1,3,1.0,2.0,15.0
+2324,Liverpool,25,2024-04-07,Man United,A,D,2,2,1,0.0,1.0,16.0
+2324,Liverpool,26,2024-04-14,Crystal Palace,H,L,0,1,0,1.0,-1.0,15.0
+2324,Liverpool,27,2024-04-21,Fulham,A,W,1,3,3,1.0,2.0,17.0
+2324,Liverpool,28,2024-04-24,Everton,A,L,2,0,0,1.0,-1.0,16.0
+2324,Liverpool,29,2024-04-27,West Ham,A,D,2,2,1,3.0,-2.0,14.0
+2324,Liverpool,30,2024-05-05,Tottenham,H,W,4,2,3,3.0,0.0,14.0
+2324,Liverpool,31,2024-05-13,Aston Villa,A,D,3,3,1,3.0,-2.0,12.0
+2324,Liverpool,32,2024-05-19,Wolves,H,W,2,0,3,3.0,0.0,12.0
+2324,Man City,1,2023-08-19,Newcastle,H,W,1,0,3,3.0,0.0,0.0
+2324,Man City,2,2023-09-02,Fulham,H,W,5,1,3,3.0,0.0,0.0
+2324,Man City,3,2023-09-16,West Ham,A,W,1,3,3,3.0,0.0,0.0
+2324,Man City,4,2023-09-23,Nott'm Forest,H,W,2,0,3,3.0,0.0,0.0
+2324,Man City,5,2023-09-30,Wolves,A,L,2,1,0,3.0,-3.0,-3.0
+2324,Man City,6,2023-10-08,Arsenal,A,L,1,0,0,3.0,-3.0,-6.0
+2324,Man City,7,2023-10-21,Brighton,H,W,2,1,3,3.0,0.0,-6.0
+2324,Man City,8,2023-10-29,Man United,A,W,0,3,3,0.0,3.0,-3.0
+2324,Man City,9,2023-11-04,Bournemouth,H,W,6,1,3,3.0,0.0,-3.0
+2324,Man City,10,2023-11-12,Chelsea,A,D,4,4,1,3.0,-2.0,-5.0
+2324,Man City,11,2023-11-25,Liverpool,H,D,1,1,1,3.0,-2.0,-7.0
+2324,Man City,12,2023-12-03,Tottenham,H,D,3,3,1,3.0,-2.0,-9.0
+2324,Man City,13,2023-12-06,Aston Villa,A,L,1,0,0,1.0,-1.0,-10.0
+2324,Man City,14,2023-12-16,Crystal Palace,H,D,2,2,1,3.0,-2.0,-12.0
+2324,Man City,15,2023-12-27,Everton,A,W,1,3,3,3.0,0.0,-12.0
+2324,Man City,16,2024-01-13,Newcastle,A,W,2,3,3,1.0,2.0,-10.0
+2324,Man City,17,2024-02-05,Brentford,A,W,1,3,3,0.0,3.0,-7.0
+2324,Man City,18,2024-02-10,Everton,H,W,2,0,3,1.0,2.0,-5.0
+2324,Man City,19,2024-02-17,Chelsea,H,D,1,1,1,3.0,-2.0,-7.0
+2324,Man City,20,2024-02-20,Brentford,H,W,1,0,3,0.0,3.0,-4.0
+2324,Man City,21,2024-02-24,Bournemouth,A,W,0,1,3,3.0,0.0,-4.0
+2324,Man City,22,2024-03-03,Man United,H,W,3,1,3,3.0,0.0,-4.0
+2324,Man City,23,2024-03-10,Liverpool,A,D,1,1,1,0.0,1.0,-3.0
+2324,Man City,24,2024-03-31,Arsenal,H,D,0,0,1,3.0,-2.0,-5.0
+2324,Man City,25,2024-04-03,Aston Villa,H,W,4,1,3,3.0,0.0,-5.0
+2324,Man City,26,2024-04-06,Crystal Palace,A,W,2,4,3,3.0,0.0,-5.0
+2324,Man City,27,2024-04-25,Brighton,A,W,0,4,3,1.0,2.0,-3.0
+2324,Man City,28,2024-04-28,Nott'm Forest,A,W,0,2,3,1.0,2.0,-1.0
+2324,Man City,29,2024-05-04,Wolves,H,W,5,1,3,3.0,0.0,-1.0
+2324,Man City,30,2024-05-11,Fulham,A,W,0,4,3,3.0,0.0,-1.0
+2324,Man City,31,2024-05-14,Tottenham,A,W,0,2,3,0.0,3.0,2.0
+2324,Man City,32,2024-05-19,West Ham,H,W,3,1,3,3.0,0.0,2.0
+2324,Man United,1,2023-08-14,Wolves,H,W,1,0,3,3.0,0.0,0.0
+2324,Man United,2,2023-08-19,Tottenham,A,L,2,0,0,1.0,-1.0,-1.0
+2324,Man United,3,2023-08-26,Nott'm Forest,H,W,3,2,3,3.0,0.0,-1.0
+2324,Man United,4,2023-09-03,Arsenal,A,L,3,1,0,0.0,0.0,-1.0
+2324,Man United,5,2023-09-16,Brighton,H,L,1,3,0,0.0,0.0,-1.0
+2324,Man United,6,2023-09-30,Crystal Palace,H,L,0,1,0,3.0,-3.0,-4.0
+2324,Man United,7,2023-10-07,Brentford,H,W,2,1,3,3.0,0.0,-4.0
+2324,Man United,8,2023-10-29,Man City,H,L,0,3,0,3.0,-3.0,-7.0
+2324,Man United,9,2023-11-04,Fulham,A,W,0,1,3,3.0,0.0,-7.0
+2324,Man United,10,2023-11-26,Everton,A,W,0,3,3,3.0,0.0,-7.0
+2324,Man United,11,2023-12-02,Newcastle,A,L,1,0,0,0.0,0.0,-7.0
+2324,Man United,12,2023-12-06,Chelsea,H,W,2,1,3,3.0,0.0,-7.0
+2324,Man United,13,2023-12-09,Bournemouth,H,L,0,3,0,3.0,-3.0,-10.0
+2324,Man United,14,2023-12-17,Liverpool,A,D,0,0,1,0.0,1.0,-9.0
+2324,Man United,15,2023-12-23,West Ham,A,L,2,0,0,0.0,0.0,-9.0
+2324,Man United,16,2023-12-26,Aston Villa,H,W,3,2,3,3.0,0.0,-9.0
+2324,Man United,17,2023-12-30,Nott'm Forest,A,L,2,1,0,3.0,-3.0,-12.0
+2324,Man United,18,2024-01-14,Tottenham,H,D,2,2,1,3.0,-2.0,-14.0
+2324,Man United,19,2024-02-01,Wolves,A,W,3,4,3,3.0,0.0,-14.0
+2324,Man United,20,2024-02-04,West Ham,H,W,3,0,3,3.0,0.0,-14.0
+2324,Man United,21,2024-02-11,Aston Villa,A,W,1,2,3,0.0,3.0,-11.0
+2324,Man United,22,2024-02-24,Fulham,H,L,1,2,0,3.0,-3.0,-14.0
+2324,Man United,23,2024-03-03,Man City,A,L,3,1,0,0.0,0.0,-14.0
+2324,Man United,24,2024-03-09,Everton,H,W,2,0,3,3.0,0.0,-14.0
+2324,Man United,25,2024-03-30,Brentford,A,D,1,1,1,0.0,1.0,-13.0
+2324,Man United,26,2024-04-04,Chelsea,A,L,4,3,0,1.0,-1.0,-14.0
+2324,Man United,27,2024-04-07,Liverpool,H,D,2,2,1,3.0,-2.0,-16.0
+2324,Man United,28,2024-04-13,Bournemouth,A,D,2,2,1,3.0,-2.0,-18.0
+2324,Man United,29,2024-05-06,Crystal Palace,A,L,4,0,0,1.0,-1.0,-19.0
+2324,Man United,30,2024-05-12,Arsenal,H,L,0,1,0,3.0,-3.0,-22.0
+2324,Man United,31,2024-05-15,Newcastle,H,W,3,2,3,1.0,2.0,-20.0
+2324,Man United,32,2024-05-19,Brighton,A,W,0,2,3,0.0,3.0,-17.0
+2324,Newcastle,1,2023-08-12,Aston Villa,H,W,5,1,3,3.0,0.0,0.0
+2324,Newcastle,2,2023-08-19,Man City,A,L,1,0,0,0.0,0.0,0.0
+2324,Newcastle,3,2023-08-27,Liverpool,H,L,1,2,0,0.0,0.0,0.0
+2324,Newcastle,4,2023-09-02,Brighton,A,L,3,1,0,1.0,-1.0,-1.0
+2324,Newcastle,5,2023-09-16,Brentford,H,W,1,0,3,3.0,0.0,-1.0
+2324,Newcastle,6,2023-10-08,West Ham,A,D,2,2,1,3.0,-2.0,-3.0
+2324,Newcastle,7,2023-10-21,Crystal Palace,H,W,4,0,3,1.0,2.0,-1.0
+2324,Newcastle,8,2023-10-28,Wolves,A,D,2,2,1,1.0,0.0,-1.0
+2324,Newcastle,9,2023-11-04,Arsenal,H,W,1,0,3,0.0,3.0,2.0
+2324,Newcastle,10,2023-11-11,Bournemouth,A,L,2,0,0,1.0,-1.0,1.0
+2324,Newcastle,11,2023-11-25,Chelsea,H,W,4,1,3,3.0,0.0,1.0
+2324,Newcastle,12,2023-12-02,Man United,H,W,1,0,3,3.0,0.0,1.0
+2324,Newcastle,13,2023-12-07,Everton,A,L,3,0,0,3.0,-3.0,-2.0
+2324,Newcastle,14,2023-12-10,Tottenham,A,L,4,1,0,3.0,-3.0,-5.0
+2324,Newcastle,15,2023-12-16,Fulham,H,W,3,0,3,3.0,0.0,-5.0
+2324,Newcastle,16,2023-12-26,Nott'm Forest,H,L,1,3,0,3.0,-3.0,-8.0
+2324,Newcastle,17,2024-01-01,Liverpool,A,L,4,2,0,0.0,0.0,-8.0
+2324,Newcastle,18,2024-01-13,Man City,H,L,2,3,0,1.0,-1.0,-9.0
+2324,Newcastle,19,2024-01-30,Aston Villa,A,W,1,3,3,0.0,3.0,-6.0
+2324,Newcastle,20,2024-02-10,Nott'm Forest,A,W,2,3,3,3.0,0.0,-6.0
+2324,Newcastle,21,2024-02-17,Bournemouth,H,D,2,2,1,1.0,0.0,-6.0
+2324,Newcastle,22,2024-02-24,Arsenal,A,L,4,1,0,1.0,-1.0,-7.0
+2324,Newcastle,23,2024-03-02,Wolves,H,W,3,0,3,3.0,0.0,-7.0
+2324,Newcastle,24,2024-03-11,Chelsea,A,L,3,2,0,1.0,-1.0,-8.0
+2324,Newcastle,25,2024-03-30,West Ham,H,W,4,3,3,1.0,2.0,-6.0
+2324,Newcastle,26,2024-04-02,Everton,H,D,1,1,1,3.0,-2.0,-8.0
+2324,Newcastle,27,2024-04-06,Fulham,A,W,0,1,3,3.0,0.0,-8.0
+2324,Newcastle,28,2024-04-13,Tottenham,H,W,4,0,3,3.0,0.0,-8.0
+2324,Newcastle,29,2024-04-24,Crystal Palace,A,L,2,0,0,1.0,-1.0,-9.0
+2324,Newcastle,30,2024-05-11,Brighton,H,D,1,1,1,3.0,-2.0,-11.0
+2324,Newcastle,31,2024-05-15,Man United,A,L,3,2,0,1.0,-1.0,-12.0
+2324,Newcastle,32,2024-05-19,Brentford,A,W,2,4,3,3.0,0.0,-12.0
+2324,Nott'm Forest,1,2023-08-12,Arsenal,A,L,2,1,0,0.0,0.0,0.0
+2324,Nott'm Forest,2,2023-08-26,Man United,A,L,3,2,0,0.0,0.0,0.0
+2324,Nott'm Forest,3,2023-09-02,Chelsea,A,W,0,1,3,1.0,2.0,2.0
+2324,Nott'm Forest,4,2023-09-23,Man City,A,L,2,0,0,0.0,0.0,2.0
+2324,Nott'm Forest,5,2023-10-01,Brentford,H,D,1,1,1,1.0,0.0,2.0
+2324,Nott'm Forest,6,2023-10-07,Crystal Palace,A,D,0,0,1,1.0,0.0,2.0
+2324,Nott'm Forest,7,2023-10-29,Liverpool,A,L,3,0,0,0.0,0.0,2.0
+2324,Nott'm Forest,8,2023-11-05,Aston Villa,H,W,2,0,3,1.0,2.0,4.0
+2324,Nott'm Forest,9,2023-11-12,West Ham,A,L,3,2,0,0.0,0.0,4.0
+2324,Nott'm Forest,10,2023-11-25,Brighton,H,L,2,3,0,3.0,-3.0,1.0
+2324,Nott'm Forest,11,2023-12-02,Everton,H,L,0,1,0,1.0,-1.0,0.0
+2324,Nott'm Forest,12,2023-12-06,Fulham,A,L,5,0,0,0.0,0.0,0.0
+2324,Nott'm Forest,13,2023-12-09,Wolves,A,D,1,1,1,0.0,1.0,1.0
+2324,Nott'm Forest,14,2023-12-15,Tottenham,H,L,0,2,0,0.0,0.0,1.0
+2324,Nott'm Forest,15,2023-12-23,Bournemouth,H,L,2,3,0,0.0,0.0,1.0
+2324,Nott'm Forest,16,2023-12-26,Newcastle,A,W,1,3,3,0.0,3.0,4.0
+2324,Nott'm Forest,17,2023-12-30,Man United,H,W,2,1,3,0.0,3.0,7.0
+2324,Nott'm Forest,18,2024-01-20,Brentford,A,L,3,2,0,0.0,0.0,7.0
+2324,Nott'm Forest,19,2024-01-30,Arsenal,H,L,1,2,0,3.0,-3.0,4.0
+2324,Nott'm Forest,20,2024-02-04,Bournemouth,A,D,1,1,1,1.0,0.0,4.0
+2324,Nott'm Forest,21,2024-02-10,Newcastle,H,L,2,3,0,0.0,0.0,4.0
+2324,Nott'm Forest,22,2024-02-17,West Ham,H,W,2,0,3,3.0,0.0,4.0
+2324,Nott'm Forest,23,2024-02-24,Aston Villa,A,L,4,2,0,0.0,0.0,4.0
+2324,Nott'm Forest,24,2024-03-02,Liverpool,H,L,0,1,0,3.0,-3.0,1.0
+2324,Nott'm Forest,25,2024-03-10,Brighton,A,L,1,0,0,1.0,-1.0,0.0
+2324,Nott'm Forest,26,2024-03-30,Crystal Palace,H,D,1,1,1,3.0,-2.0,-2.0
+2324,Nott'm Forest,27,2024-04-02,Fulham,H,W,3,1,3,0.0,3.0,1.0
+2324,Nott'm Forest,28,2024-04-07,Tottenham,A,L,3,1,0,0.0,0.0,1.0
+2324,Nott'm Forest,29,2024-04-13,Wolves,H,D,2,2,1,1.0,0.0,1.0
+2324,Nott'm Forest,30,2024-04-21,Everton,A,L,2,0,0,1.0,-1.0,0.0
+2324,Nott'm Forest,31,2024-04-28,Man City,H,L,0,2,0,1.0,-1.0,-1.0
+2324,Nott'm Forest,32,2024-05-11,Chelsea,H,L,2,3,0,1.0,-1.0,-2.0
+2324,Tottenham,1,2023-08-13,Brentford,A,D,2,2,1,1.0,0.0,0.0
+2324,Tottenham,2,2023-08-19,Man United,H,W,2,0,3,1.0,2.0,2.0
+2324,Tottenham,3,2023-08-26,Bournemouth,A,W,0,2,3,3.0,0.0,2.0
+2324,Tottenham,4,2023-09-24,Arsenal,A,D,2,2,1,0.0,1.0,3.0
+2324,Tottenham,5,2023-09-30,Liverpool,H,W,2,1,3,0.0,3.0,6.0
+2324,Tottenham,6,2023-10-23,Fulham,H,W,2,0,3,3.0,0.0,6.0
+2324,Tottenham,7,2023-10-27,Crystal Palace,A,W,1,2,3,3.0,0.0,6.0
+2324,Tottenham,8,2023-11-06,Chelsea,H,L,1,4,0,3.0,-3.0,3.0
+2324,Tottenham,9,2023-11-11,Wolves,A,L,2,1,0,0.0,0.0,3.0
+2324,Tottenham,10,2023-11-26,Aston Villa,H,L,1,2,0,0.0,0.0,3.0
+2324,Tottenham,11,2023-12-03,Man City,A,D,3,3,1,0.0,1.0,4.0
+2324,Tottenham,12,2023-12-07,West Ham,H,L,1,2,0,3.0,-3.0,1.0
+2324,Tottenham,13,2023-12-10,Newcastle,H,W,4,1,3,0.0,3.0,4.0
+2324,Tottenham,14,2023-12-15,Nott'm Forest,A,W,0,2,3,3.0,0.0,4.0
+2324,Tottenham,15,2023-12-23,Everton,H,W,2,1,3,3.0,0.0,4.0
+2324,Tottenham,16,2023-12-28,Brighton,A,L,4,2,0,3.0,-3.0,1.0
+2324,Tottenham,17,2023-12-31,Bournemouth,H,W,3,1,3,0.0,3.0,4.0
+2324,Tottenham,18,2024-01-14,Man United,A,D,2,2,1,0.0,1.0,5.0
+2324,Tottenham,19,2024-01-31,Brentford,H,W,3,2,3,0.0,3.0,8.0
+2324,Tottenham,20,2024-02-03,Everton,A,D,2,2,1,1.0,0.0,8.0
+2324,Tottenham,21,2024-02-10,Brighton,H,W,2,1,3,3.0,0.0,8.0
+2324,Tottenham,22,2024-02-17,Wolves,H,L,1,2,0,3.0,-3.0,5.0
+2324,Tottenham,23,2024-03-02,Crystal Palace,H,W,3,1,3,3.0,0.0,5.0
+2324,Tottenham,24,2024-03-10,Aston Villa,A,W,0,4,3,0.0,3.0,8.0
+2324,Tottenham,25,2024-03-16,Fulham,A,L,3,0,0,3.0,-3.0,5.0
+2324,Tottenham,26,2024-04-02,West Ham,A,D,1,1,1,1.0,0.0,5.0
+2324,Tottenham,27,2024-04-07,Nott'm Forest,H,W,3,1,3,3.0,0.0,5.0
+2324,Tottenham,28,2024-04-13,Newcastle,A,L,4,0,0,0.0,0.0,5.0
+2324,Tottenham,29,2024-04-28,Arsenal,H,L,2,3,0,0.0,0.0,5.0
+2324,Tottenham,30,2024-05-02,Chelsea,A,L,2,0,0,1.0,-1.0,4.0
+2324,Tottenham,31,2024-05-05,Liverpool,A,L,4,2,0,0.0,0.0,4.0
+2324,Tottenham,32,2024-05-14,Man City,H,L,0,2,0,3.0,-3.0,1.0
+2324,West Ham,1,2023-08-12,Bournemouth,A,D,1,1,1,3.0,-2.0,-2.0
+2324,West Ham,2,2023-08-20,Chelsea,H,W,3,1,3,1.0,2.0,0.0
+2324,West Ham,3,2023-08-26,Brighton,A,W,1,3,3,0.0,3.0,3.0
+2324,West Ham,4,2023-09-16,Man City,H,L,1,3,0,0.0,0.0,3.0
+2324,West Ham,5,2023-09-24,Liverpool,A,L,3,1,0,0.0,0.0,3.0
+2324,West Ham,6,2023-10-08,Newcastle,H,D,2,2,1,0.0,1.0,4.0
+2324,West Ham,7,2023-10-22,Aston Villa,A,L,4,1,0,3.0,-3.0,1.0
+2324,West Ham,8,2023-10-29,Everton,H,L,0,1,0,3.0,-3.0,-2.0
+2324,West Ham,9,2023-11-04,Brentford,A,L,3,2,0,0.0,0.0,-2.0
+2324,West Ham,10,2023-11-12,Nott'm Forest,H,W,3,2,3,3.0,0.0,-2.0
+2324,West Ham,11,2023-12-03,Crystal Palace,H,D,1,1,1,0.0,1.0,-1.0
+2324,West Ham,12,2023-12-07,Tottenham,A,W,1,2,3,0.0,3.0,2.0
+2324,West Ham,13,2023-12-10,Fulham,A,L,5,0,0,3.0,-3.0,-1.0
+2324,West Ham,14,2023-12-17,Wolves,H,W,3,0,3,3.0,0.0,-1.0
+2324,West Ham,15,2023-12-23,Man United,H,W,2,0,3,3.0,0.0,-1.0
+2324,West Ham,16,2023-12-28,Arsenal,A,W,0,2,3,0.0,3.0,2.0
+2324,West Ham,17,2024-01-02,Brighton,H,D,0,0,1,0.0,1.0,3.0
+2324,West Ham,18,2024-02-01,Bournemouth,H,D,1,1,1,3.0,-2.0,1.0
+2324,West Ham,19,2024-02-04,Man United,A,L,3,0,0,0.0,0.0,1.0
+2324,West Ham,20,2024-02-11,Arsenal,H,L,0,6,0,1.0,-1.0,0.0
+2324,West Ham,21,2024-02-17,Nott'm Forest,A,L,2,0,0,0.0,0.0,0.0
+2324,West Ham,22,2024-02-26,Brentford,H,W,4,2,3,0.0,3.0,3.0
+2324,West Ham,23,2024-03-02,Everton,A,W,1,3,3,0.0,3.0,6.0
+2324,West Ham,24,2024-03-17,Aston Villa,H,D,1,1,1,1.0,0.0,6.0
+2324,West Ham,25,2024-03-30,Newcastle,A,L,4,3,0,1.0,-1.0,5.0
+2324,West Ham,26,2024-04-02,Tottenham,H,D,1,1,1,1.0,0.0,5.0
+2324,West Ham,27,2024-04-06,Wolves,A,W,1,2,3,0.0,3.0,8.0
+2324,West Ham,28,2024-04-14,Fulham,H,L,0,2,0,3.0,-3.0,5.0
+2324,West Ham,29,2024-04-21,Crystal Palace,A,L,5,2,0,0.0,0.0,5.0
+2324,West Ham,30,2024-04-27,Liverpool,H,D,2,2,1,0.0,1.0,6.0
+2324,West Ham,31,2024-05-05,Chelsea,A,L,5,0,0,0.0,0.0,6.0
+2324,West Ham,32,2024-05-19,Man City,A,L,3,1,0,0.0,0.0,6.0
+2324,Wolves,1,2023-08-14,Man United,A,L,1,0,0,0.0,0.0,0.0
+2324,Wolves,2,2023-08-19,Brighton,H,L,1,4,0,0.0,0.0,0.0
+2324,Wolves,3,2023-08-26,Everton,A,W,0,1,3,3.0,0.0,0.0
+2324,Wolves,4,2023-09-03,Crystal Palace,A,L,3,2,0,0.0,0.0,0.0
+2324,Wolves,5,2023-09-16,Liverpool,H,L,1,3,0,3.0,-3.0,-3.0
+2324,Wolves,6,2023-09-30,Man City,H,W,2,1,3,0.0,3.0,0.0
+2324,Wolves,7,2023-10-08,Aston Villa,H,D,1,1,1,3.0,-2.0,-2.0
+2324,Wolves,8,2023-10-21,Bournemouth,A,W,1,2,3,1.0,2.0,0.0
+2324,Wolves,9,2023-10-28,Newcastle,H,D,2,2,1,1.0,0.0,0.0
+2324,Wolves,10,2023-11-11,Tottenham,H,W,2,1,3,3.0,0.0,0.0
+2324,Wolves,11,2023-11-27,Fulham,A,L,3,2,0,1.0,-1.0,-1.0
+2324,Wolves,12,2023-12-02,Arsenal,A,L,2,1,0,0.0,0.0,-1.0
+2324,Wolves,13,2023-12-09,Nott'm Forest,H,D,1,1,1,3.0,-2.0,-3.0
+2324,Wolves,14,2023-12-17,West Ham,A,L,3,0,0,0.0,0.0,-3.0
+2324,Wolves,15,2023-12-24,Chelsea,H,W,2,1,3,3.0,0.0,-3.0
+2324,Wolves,16,2023-12-27,Brentford,A,W,1,4,3,1.0,2.0,-1.0
+2324,Wolves,17,2023-12-30,Everton,H,W,3,0,3,1.0,2.0,1.0
+2324,Wolves,18,2024-01-22,Brighton,A,D,0,0,1,0.0,1.0,2.0
+2324,Wolves,19,2024-02-01,Man United,H,L,3,4,0,0.0,0.0,2.0
+2324,Wolves,20,2024-02-04,Chelsea,A,W,2,4,3,0.0,3.0,5.0
+2324,Wolves,21,2024-02-10,Brentford,H,L,0,2,0,3.0,-3.0,2.0
+2324,Wolves,22,2024-02-17,Tottenham,A,W,1,2,3,0.0,3.0,5.0
+2324,Wolves,23,2024-03-02,Newcastle,A,L,3,0,0,0.0,0.0,5.0
+2324,Wolves,24,2024-03-09,Fulham,H,W,2,1,3,1.0,2.0,7.0
+2324,Wolves,25,2024-03-30,Aston Villa,A,L,2,0,0,1.0,-1.0,6.0
+2324,Wolves,26,2024-04-06,West Ham,H,L,1,2,0,3.0,-3.0,3.0
+2324,Wolves,27,2024-04-13,Nott'm Forest,A,D,2,2,1,1.0,0.0,3.0
+2324,Wolves,28,2024-04-20,Arsenal,H,L,0,2,0,0.0,0.0,3.0
+2324,Wolves,29,2024-04-24,Bournemouth,H,L,0,1,0,0.0,0.0,3.0
+2324,Wolves,30,2024-05-04,Man City,A,L,5,1,0,0.0,0.0,3.0
+2324,Wolves,31,2024-05-11,Crystal Palace,H,L,1,3,0,3.0,-3.0,0.0
+2324,Wolves,32,2024-05-19,Liverpool,A,L,2,0,0,0.0,0.0,0.0

@@ -1,0 +1,500 @@
+player,team,goals,assists,contributions,contribution_pct,goals_pct,assists_pct,games,season
+Branimir Hrgota,Greuther Fuerth,9,5,14,50.0,32.1,17.9,34,2122
+Christopher Nkunku,RasenBallsport Leipzig,20,13,33,45.8,27.8,18.1,34,2122
+Anthony Modeste,FC Cologne,20,3,23,44.2,38.5,5.8,32,2122
+Robert Lewandowski,Bayern Munich,35,3,38,39.2,36.1,3.1,34,2122
+Erling Haaland,Borussia Dortmund,22,7,29,34.1,25.9,8.2,24,2122
+Patrik Schick,Bayer Leverkusen,24,3,27,33.8,30.0,3.8,27,2122
+Masaya Okugawa,Arminia Bielefeld,8,1,9,33.3,29.6,3.7,33,2122
+Patrick Wimmer,Arminia Bielefeld,3,6,9,33.3,11.1,22.2,31,2122
+Taiwo Awoniyi,Union Berlin,15,1,16,32.0,30.0,2.0,31,2122
+Jonas Hofmann,Borussia M.Gladbach,12,5,17,31.5,22.2,9.3,26,2122
+Moussa Diaby,Bayer Leverkusen,13,12,25,31.2,16.2,15.0,32,2122
+Alassane Pléa,Borussia M.Gladbach,10,6,16,29.6,18.5,11.1,33,2122
+Sebastian Polter,Bochum,10,1,11,28.9,26.3,2.6,33,2122
+Filip Kostic,Eintracht Frankfurt,4,9,13,28.9,8.9,20.0,31,2122
+Jonathan Burkardt,Mainz 05,11,3,14,28.0,22.0,6.0,34,2122
+Vincenzo Grifo,Freiburg,9,7,16,27.6,15.5,12.1,34,2122
+Thomas Müller,Bayern Munich,8,18,26,26.8,8.2,18.6,32,2122
+Santos Borré,Eintracht Frankfurt,8,4,12,26.7,17.8,8.9,31,2122
+Karim Onisiwo,Mainz 05,5,8,13,26.0,10.0,16.0,31,2122
+Marco Reus,Borussia Dortmund,9,13,22,25.9,10.6,15.3,29,2122
+Andrej Kramaric,Hoffenheim,6,9,15,25.9,10.3,15.5,32,2122
+Mark Uth,FC Cologne,5,8,13,25.0,9.6,15.4,30,2122
+David Raum,Hoffenheim,3,11,14,24.1,5.2,19.0,32,2122
+Gerrit Holtmann,Bochum,5,4,9,23.7,13.2,10.5,29,2122
+Michael Gregoritsch,Augsburg,9,0,9,23.1,23.1,0.0,25,2122
+Breel Embolo,Borussia M.Gladbach,9,3,12,22.2,16.7,5.6,29,2122
+Borna Sosa,VfB Stuttgart,1,8,9,22.0,2.4,19.5,28,2122
+Jamie Leweling,Greuther Fuerth,5,1,6,21.4,17.9,3.6,33,2122
+Florian Wirtz,Bayer Leverkusen,7,10,17,21.2,8.8,12.5,24,2122
+Florian Niederlechner,Augsburg,5,3,8,20.5,12.8,7.7,26,2122
+Julian Brandt,Borussia Dortmund,9,8,17,20.0,10.6,9.4,31,2122
+Jesper Lindstrom,Eintracht Frankfurt,5,4,9,20.0,11.1,8.9,29,2122
+Sheraldo Becker,Union Berlin,4,6,10,20.0,8.0,12.0,28,2122
+Serge Gnabry,Bayern Munich,14,5,19,19.6,14.4,5.2,34,2122
+André Silva,RasenBallsport Leipzig,11,3,14,19.4,15.3,4.2,33,2122
+Dominik Szoboszlai,RasenBallsport Leipzig,6,8,14,19.4,8.3,11.1,31,2122
+Christian Günter,Freiburg,2,9,11,19.0,3.4,15.5,34,2122
+Stevan Jovetic,Hertha Berlin,6,1,7,18.9,16.2,2.7,18,2122
+Ishak Belfodil,Hertha Berlin,5,2,7,18.9,13.5,5.4,26,2122
+Vladimir Darida,Hertha Berlin,2,5,7,18.9,5.4,13.5,25,2122
+Lukas Nmecha,Wolfsburg,8,0,8,18.6,18.6,0.0,25,2122
+Bote Baku,Wolfsburg,3,5,8,18.6,7.0,11.6,34,2122
+Janni Serra,Arminia Bielefeld,3,2,5,18.5,11.1,7.4,26,2122
+Milos Pantovic,Bochum,4,3,7,18.4,10.5,7.9,28,2122
+Takuma Asano,Bochum,3,4,7,18.4,7.9,10.5,27,2122
+Grischa Prömel,Union Berlin,8,1,9,18.0,16.0,2.0,29,2122
+Silvan Widmer,Mainz 05,4,5,9,18.0,8.0,10.0,33,2122
+Niko Gießelmann,Union Berlin,3,6,9,18.0,6.0,12.0,28,2122
+André Hahn,Augsburg,5,2,7,17.9,12.8,5.1,32,2122
+Iago,Augsburg,2,5,7,17.9,5.1,12.8,28,2122
+Arne Maier,Augsburg,1,6,7,17.9,2.6,15.4,29,2122
+Evan Ndicka,Eintracht Frankfurt,4,4,8,17.8,8.9,8.9,32,2122
+Georginio Rutter,Hoffenheim,8,2,10,17.2,13.8,3.4,33,2122
+Sasa Kalajdzic,VfB Stuttgart,6,1,7,17.1,14.6,2.4,15,2122
+Lars Stindl,Borussia M.Gladbach,4,5,9,16.7,7.4,9.3,26,2122
+Wout Weghorst,Wolfsburg,6,1,7,16.3,14.0,2.3,18,2122
+Marco Richter,Hertha Berlin,5,1,6,16.2,13.5,2.7,30,2122
+Genki Haraguchi,Union Berlin,2,6,8,16.0,4.0,12.0,30,2122
+Daichi Kamada,Eintracht Frankfurt,4,3,7,15.6,8.9,6.7,32,2122
+Ihlas Bebou,Hoffenheim,7,2,9,15.5,12.1,3.4,28,2122
+Lucas Höler,Freiburg,7,2,9,15.5,12.1,3.4,34,2122
+Christoph Baumgartner,Hoffenheim,7,2,9,15.5,12.1,3.4,29,2122
+Daniel Caligiuri,Augsburg,4,2,6,15.4,10.3,5.1,28,2122
+Florian Kainz,FC Cologne,4,4,8,15.4,7.7,7.7,32,2122
+Florian Neuhaus,Borussia M.Gladbach,4,4,8,14.8,7.4,7.4,29,2122
+Fabian Klos,Arminia Bielefeld,3,1,4,14.8,11.1,3.7,25,2122
+Wataru Endo,VfB Stuttgart,4,2,6,14.6,9.8,4.9,33,2122
+Leroy Sané,Bayern Munich,7,7,14,14.4,7.2,7.2,32,2122
+Joshua Kimmich,Bayern Munich,3,11,14,14.4,3.1,11.3,28,2122
+Jonas Wind,Wolfsburg,5,1,6,14.0,11.6,2.3,14,2122
+Maximilian Arnold,Wolfsburg,4,2,6,14.0,9.3,4.7,34,2122
+Jae-Sung Lee,Mainz 05,4,3,7,14.0,8.0,6.0,27,2122
+Anton Stach,Mainz 05,1,6,7,14.0,2.0,12.0,29,2122
+Roland Sallai,Freiburg,4,4,8,13.8,6.9,6.9,31,2122
+Maximilian Mittelstädt,Hertha Berlin,0,5,5,13.5,0.0,13.5,24,2122
+Simon Zoller,Bochum,3,2,5,13.2,7.9,5.3,10,2122
+Jude Bellingham,Borussia Dortmund,3,8,11,12.9,3.5,9.4,32,2122
+Chris Führich,VfB Stuttgart,3,2,5,12.2,7.3,4.9,25,2122
+Woo-Yeong Jeong,Freiburg,5,2,7,12.1,8.6,3.4,32,2122
+Munas Dabbur,Hoffenheim,3,4,7,12.1,5.2,6.9,27,2122
+Maximilian Philipp,Wolfsburg,1,4,5,11.6,2.3,9.3,22,2122
+Jan Thielmann,FC Cologne,3,3,6,11.5,5.8,5.8,29,2122
+Jonas Hector,FC Cologne,0,6,6,11.5,0.0,11.5,30,2122
+Emil Forsberg,RasenBallsport Leipzig,6,2,8,11.1,8.3,2.8,31,2122
+Konrad Laimer,RasenBallsport Leipzig,4,4,8,11.1,5.6,5.6,26,2122
+Djibril Sow,Eintracht Frankfurt,2,3,5,11.1,4.4,6.7,31,2122
+Florian Krüger,Arminia Bielefeld,1,2,3,11.1,3.7,7.4,27,2122
+Robin Hack,Arminia Bielefeld,0,3,3,11.1,0.0,11.1,30,2122
+Davie Selke,Hertha Berlin,4,0,4,10.8,10.8,0.0,25,2122
+Jessic Ngankam,Greuther Fuerth,2,1,3,10.7,7.1,3.6,6,2122
+Timothy Tillman,Greuther Fuerth,1,2,3,10.7,3.6,7.1,29,2122
+Paul Seguin,Greuther Fuerth,0,3,3,10.7,0.0,10.7,27,2122
+Eduard Löwen,Bochum,2,2,4,10.5,5.3,5.3,26,2122
+Nils Petersen,Freiburg,5,1,6,10.3,8.6,1.7,22,2122
+Jamal Musiala,Bayern Munich,5,5,10,10.3,5.2,5.2,30,2122
+Nicolas Höfler,Freiburg,2,4,6,10.3,3.4,6.9,30,2122
+Ruben Vargas,Augsburg,1,3,4,10.3,2.6,7.7,29,2122
+Konstantinos Mavropanos,VfB Stuttgart,4,0,4,9.8,9.8,0.0,31,2122
+Tiago Tomás,VfB Stuttgart,4,0,4,9.8,9.8,0.0,14,2122
+Hamadi Al Ghaddioui,VfB Stuttgart,2,2,4,9.8,4.9,4.9,10,2122
+Orel Mangala,VfB Stuttgart,1,3,4,9.8,2.4,7.3,28,2122
+Angelino,RasenBallsport Leipzig,2,5,7,9.7,2.8,6.9,29,2122
+Ellyes Skhiri,FC Cologne,4,1,5,9.6,7.7,1.9,22,2122
+Benno Schmitz,FC Cologne,0,5,5,9.6,0.0,9.6,31,2122
+Donyell Malen,Borussia Dortmund,5,3,8,9.4,5.9,3.5,27,2122
+Kingsley Coman,Bayern Munich,6,3,9,9.3,6.2,3.1,21,2122
+Ramy Bensebaini,Borussia M.Gladbach,4,1,5,9.3,7.4,1.9,23,2122
+Yannick Gerhardt,Wolfsburg,1,3,4,9.3,2.3,7.0,27,2122
+Tuta,Eintracht Frankfurt,4,0,4,8.9,8.9,0.0,26,2122
+Jens Petter Hauge,Eintracht Frankfurt,2,2,4,8.9,4.4,4.4,26,2122
+Jeremie Frimpong,Bayer Leverkusen,1,6,7,8.8,1.2,7.5,25,2122
+Philipp Lienhart,Freiburg,5,0,5,8.6,8.6,0.0,32,2122
+Nico Schlotterbeck,Freiburg,4,1,5,8.6,6.9,1.7,32,2122
+Kevin Schade,Freiburg,4,1,5,8.6,6.9,1.7,21,2122
+Kevin Akpoguma,Hoffenheim,2,3,5,8.6,3.4,5.2,26,2122
+Ermedin Demirovic,Freiburg,2,3,5,8.6,3.4,5.2,31,2122
+Yussuf Poulsen,RasenBallsport Leipzig,6,0,6,8.3,8.3,0.0,25,2122
+Benjamin Henrichs,RasenBallsport Leipzig,3,3,6,8.3,4.2,4.2,22,2122
+Dani Olmo,RasenBallsport Leipzig,3,3,6,8.3,4.2,4.2,19,2122
+Suat Serdar,Hertha Berlin,3,0,3,8.1,8.1,0.0,30,2122
+Jurgen Ekkelenkamp,Hertha Berlin,3,0,3,8.1,8.1,0.0,21,2122
+Marvin Plattenhardt,Hertha Berlin,0,3,3,8.1,0.0,8.1,21,2122
+Moussa Niakhate,Mainz 05,4,0,4,8.0,8.0,0.0,30,2122
+Alexander Hack,Mainz 05,3,1,4,8.0,6.0,2.0,28,2122
+Sven Michel,Union Berlin,3,1,4,8.0,6.0,2.0,13,2122
+Jean-Paul Boëtius,Mainz 05,2,2,4,8.0,4.0,4.0,33,2122
+Kevin Behrens,Union Berlin,2,2,4,8.0,4.0,4.0,24,2122
+Jürgen Locadia,Bochum,2,1,3,7.9,5.3,2.6,11,2122
+Sebastian Andersson,FC Cologne,3,1,4,7.7,5.8,1.9,26,2122
+Dejan Ljubicic,FC Cologne,3,1,4,7.7,5.8,1.9,30,2122
+Reece Oxford,Augsburg,2,1,3,7.7,5.1,2.6,30,2122
+Alfred Finnbogason,Augsburg,2,1,3,7.7,5.1,2.6,10,2122
+Mads Pedersen,Augsburg,2,1,3,7.7,5.1,2.6,29,2122
+Andi Zeqiri,Augsburg,2,1,3,7.7,5.1,2.6,22,2122
+Lucas Alario,Bayer Leverkusen,6,0,6,7.5,7.5,0.0,27,2122
+Robert Andrich,Bayer Leverkusen,4,2,6,7.5,5.0,2.5,26,2122
+Jacob Laursen,Arminia Bielefeld,2,0,2,7.4,7.4,0.0,24,2122
+Joakim Nilsson,Arminia Bielefeld,2,0,2,7.4,7.4,0.0,31,2122
+Bryan Lasme,Arminia Bielefeld,2,0,2,7.4,7.4,0.0,23,2122
+Gonzalo Castro,Arminia Bielefeld,1,1,2,7.4,3.7,3.7,12,2122
+Patrick Herrmann,Borussia M.Gladbach,0,4,4,7.4,0.0,7.4,23,2122
+Luca Netz,Borussia M.Gladbach,0,4,4,7.4,0.0,7.4,24,2122
+Waldemar Anton,VfB Stuttgart,2,1,3,7.3,4.9,2.4,29,2122
+Philipp Förster,VfB Stuttgart,2,1,3,7.3,4.9,2.4,20,2122
+Dayotchanculle Upamecano,Bayern Munich,1,6,7,7.2,1.0,6.2,28,2122
+Emre Can,Borussia Dortmund,5,1,6,7.1,5.9,1.2,24,2122
+Raphael Guerreiro,Borussia Dortmund,4,2,6,7.1,4.7,2.4,23,2122
+Jeremy Dudziak,Greuther Fuerth,2,0,2,7.1,7.1,0.0,22,2122
+Håvard Nielsen,Greuther Fuerth,2,0,2,7.1,7.1,0.0,26,2122
+Thomas Meunier,Borussia Dortmund,2,4,6,7.1,2.4,4.7,17,2122
+Cedric Itten,Greuther Fuerth,2,0,2,7.1,7.1,0.0,12,2122
+Jacob Bruun Larsen,Hoffenheim,4,0,4,6.9,6.9,0.0,25,2122
+Sebastian Rudy,Hoffenheim,3,1,4,6.9,5.2,1.7,21,2122
+Dennis Geiger,Hoffenheim,2,2,4,6.9,3.4,3.4,20,2122
+Gonçalo Paciência,Eintracht Frankfurt,3,0,3,6.7,6.7,0.0,18,2122
+Eric Maxim Choupo-Moting,Bayern Munich,4,2,6,6.2,4.1,2.1,20,2122
+Paulinho,Bayer Leverkusen,4,1,5,6.2,5.0,1.2,24,2122
+Karim Bellarabi,Bayer Leverkusen,3,2,5,6.2,3.8,2.5,16,2122
+Leon Goretzka,Bayern Munich,3,3,6,6.2,3.1,3.1,19,2122
+Amine Adli,Bayer Leverkusen,3,2,5,6.2,3.8,2.5,25,2122
+Charles Aránguiz,Bayer Leverkusen,1,4,5,6.2,1.2,5.0,26,2122
+Kerem Demirbay,Bayer Leverkusen,1,4,5,6.2,1.2,5.0,29,2122
+Andreas Voglsammer,Union Berlin,2,1,3,6.0,4.0,2.0,32,2122
+Timo Baumgartl,Union Berlin,1,2,3,6.0,2.0,4.0,25,2122
+Leandro Barreiro Martins,Mainz 05,1,2,3,6.0,2.0,4.0,31,2122
+Dominik Kohr,Mainz 05,0,3,3,6.0,0.0,6.0,22,2122
+Thorgan Hazard,Borussia Dortmund,4,1,5,5.9,4.7,1.2,23,2122
+Mahmoud Dahoud,Borussia Dortmund,2,3,5,5.9,2.4,3.5,22,2122
+Kingsley Schindler,FC Cologne,1,2,3,5.8,1.9,3.8,18,2122
+Louis Schaub,FC Cologne,1,2,3,5.8,1.9,3.8,28,2122
+Marcus Thuram,Borussia M.Gladbach,3,0,3,5.6,5.6,0.0,21,2122
+Amadou Haidara,RasenBallsport Leipzig,3,1,4,5.6,4.2,1.4,20,2122
+Denis Zakaria,Borussia M.Gladbach,2,1,3,5.6,3.7,1.9,16,2122
+Josko Gvardiol,RasenBallsport Leipzig,2,2,4,5.6,2.8,2.8,29,2122
+Nordi Mukiele,RasenBallsport Leipzig,1,3,4,5.6,1.4,4.2,28,2122
+Stefan Lainer,Borussia M.Gladbach,1,2,3,5.6,1.9,3.7,21,2122
+Joe Scally,Borussia M.Gladbach,1,2,3,5.6,1.9,3.7,30,2122
+Lucas Tousart,Hertha Berlin,2,0,2,5.4,5.4,0.0,30,2122
+Myziane Maolida,Hertha Berlin,1,1,2,5.4,2.7,2.7,14,2122
+Danny Blum,Bochum,2,0,2,5.3,5.3,0.0,13,2122
+Anthony Losilla,Bochum,2,0,2,5.3,5.3,0.0,33,2122
+Christopher Antwi-Adjei,Bochum,1,1,2,5.3,2.6,2.6,25,2122
+Janik Haberer,Freiburg,3,0,3,5.2,5.2,0.0,26,2122
+Angelo Stiller,Hoffenheim,2,1,3,5.2,3.4,1.7,26,2122
+Pavel Kaderábek,Hoffenheim,1,2,3,5.2,1.7,3.4,19,2122
+Maximilian Eggestein,Freiburg,1,2,3,5.2,1.7,3.4,31,2122
+Jeffrey Gouweleeuw,Augsburg,2,0,2,5.1,5.1,0.0,29,2122
+Jonathan Tah,Bayer Leverkusen,2,2,4,5.0,2.5,2.5,33,2122
+Exequiel Palacios,Bayer Leverkusen,2,2,4,5.0,2.5,2.5,23,2122
+Mitchel Bakker,Bayer Leverkusen,0,4,4,5.0,0.0,5.0,25,2122
+Roberto Massimo,VfB Stuttgart,2,0,2,4.9,4.9,0.0,19,2122
+Hiroki Ito,VfB Stuttgart,1,1,2,4.9,2.4,2.4,29,2122
+Marius Wolf,Borussia Dortmund,3,1,4,4.7,3.5,1.2,27,2122
+Aster Vranckx,Wolfsburg,2,0,2,4.7,4.7,0.0,24,2122
+Ajdin Hrustic,Eintracht Frankfurt,2,0,2,4.4,4.4,0.0,23,2122
+Willi Orban,RasenBallsport Leipzig,2,1,3,4.2,2.8,1.4,30,2122
+Stefan Bell,Mainz 05,2,0,2,4.0,4.0,0.0,33,2122
+Christopher Trimmel,Union Berlin,2,0,2,4.0,4.0,0.0,25,2122
+Julian Ryerson,Union Berlin,2,0,2,4.0,4.0,0.0,28,2122
+Aarón Martín,Mainz 05,1,1,2,4.0,2.0,2.0,28,2122
+Kevin Stöger,Mainz 05,1,1,2,4.0,2.0,2.0,23,2122
+Andras Schafer,Union Berlin,1,1,2,4.0,2.0,2.0,8,2122
+Ondrej Duda,FC Cologne,2,0,2,3.8,3.8,0.0,31,2122
+Salih Özcan,FC Cologne,2,0,2,3.8,3.8,0.0,31,2122
+Tim Lemperle,FC Cologne,2,0,2,3.8,3.8,0.0,13,2122
+Piero Hincapié,Bayer Leverkusen,1,2,3,3.8,1.2,2.5,27,2122
+Kouadio Kone,Borussia M.Gladbach,2,0,2,3.7,3.7,0.0,27,2122
+Alessandro Schöpf,Arminia Bielefeld,1,0,1,3.7,3.7,0.0,31,2122
+Manuel Prietl,Arminia Bielefeld,0,1,1,3.7,0.0,3.7,26,2122
+Cédric Brunner,Arminia Bielefeld,0,1,1,3.7,0.0,3.7,27,2122
+Jetro Willems,Greuther Fuerth,1,0,1,3.6,3.6,0.0,24,2122
+Marco Meyerhöfer,Greuther Fuerth,1,0,1,3.6,3.6,0.0,26,2122
+Gian-Luca Itter,Greuther Fuerth,0,1,1,3.6,0.0,3.6,24,2122
+Tobias Raschl,Greuther Fuerth,0,1,1,3.6,0.0,3.6,10,2122
+Dickson Abiama,Greuther Fuerth,0,1,1,3.6,0.0,3.6,24,2122
+Steffen Tigges,Borussia Dortmund,3,0,3,3.5,3.5,0.0,9,2122
+Giovanni Reyna,Borussia Dortmund,2,1,3,3.5,2.4,1.2,10,2122
+Mats Hummels,Borussia Dortmund,1,2,3,3.5,1.2,2.4,23,2122
+Lukas Kübler,Freiburg,2,0,2,3.4,3.4,0.0,29,2122
+Stefan Posch,Hoffenheim,2,0,2,3.4,3.4,0.0,28,2122
+Diadie Samassékou,Hoffenheim,2,0,2,3.4,3.4,0.0,24,2122
+Kevin Vogt,Hoffenheim,0,2,2,3.4,0.0,3.4,30,2122
+Corentin Tolisso,Bayern Munich,2,1,3,3.1,2.1,1.0,15,2122
+Niklas Süle,Bayern Munich,1,2,3,3.1,1.0,2.1,28,2122
+Alphonso Davies,Bayern Munich,0,3,3,3.1,0.0,3.1,22,2122
+Brian Brobbey,RasenBallsport Leipzig,0,2,2,2.8,0.0,2.8,9,2122
+Niklas Stark,Hertha Berlin,1,0,1,2.7,2.7,0.0,26,2122
+Krzysztof Piatek,Hertha Berlin,1,0,1,2.7,2.7,0.0,9,2122
+Linus Gechter,Hertha Berlin,1,0,1,2.7,2.7,0.0,13,2122
+Jordan Torunarigha,Hertha Berlin,0,1,1,2.7,0.0,2.7,7,2122
+Santiago Ascacibar,Hertha Berlin,0,1,1,2.7,0.0,2.7,28,2122
+Matheus Cunha,Hertha Berlin,0,1,1,2.7,0.0,2.7,1,2122
+Márton Dárdai,Hertha Berlin,0,1,1,2.7,0.0,2.7,12,2122
+Cristian Gamboa,Bochum,1,0,1,2.6,2.6,0.0,23,2122
+Noah Joel Sarenren Bazee,Augsburg,1,0,1,2.6,2.6,0.0,14,2122
+Niklas Dorsch,Augsburg,1,0,1,2.6,2.6,0.0,30,2122
+Maxim Leitsch,Bochum,1,0,1,2.6,2.6,0.0,19,2122
+Soma Novothny,Bochum,1,0,1,2.6,2.6,0.0,6,2122
+Danilo Soares,Bochum,0,1,1,2.6,0.0,2.6,30,2122
+Konstantinos Stafylidis,Bochum,0,1,1,2.6,0.0,2.6,24,2122
+Fredrik Jensen,Augsburg,0,1,1,2.6,0.0,2.6,12,2122
+Manuel Riemann,Bochum,0,1,1,2.6,0.0,2.6,31,2122
+Patrick Osterhage,Bochum,0,1,1,2.6,0.0,2.6,13,2122
+Sardar Azmoun,Bayer Leverkusen,1,1,2,2.5,1.2,1.2,9,2122
+Axel Witsel,Borussia Dortmund,2,0,2,2.4,2.4,0.0,29,2122
+Youssoufa Moukoko,Borussia Dortmund,2,0,2,2.4,2.4,0.0,16,2122
+Philipp Klement,VfB Stuttgart,1,0,1,2.4,2.4,0.0,6,2122
+Wahidullah Faghir,VfB Stuttgart,1,0,1,2.4,2.4,0.0,6,2122
+Daniel Didavi,VfB Stuttgart,0,1,1,2.4,0.0,2.4,10,2122
+Nico Schulz,Borussia Dortmund,0,2,2,2.4,0.0,2.4,16,2122
+Enzo Millot,VfB Stuttgart,0,1,1,2.4,0.0,2.4,6,2122
+Mateo Klimowicz,VfB Stuttgart,0,1,1,2.4,0.0,2.4,15,2122
+Tanguy Coulibaly,VfB Stuttgart,0,1,1,2.4,0.0,2.4,21,2122
+Atakan Karazor,VfB Stuttgart,0,1,1,2.4,0.0,2.4,24,2122
+John Brooks,Wolfsburg,1,0,1,2.3,2.3,0.0,31,2122
+Gian-Luca Waldschmidt,Wolfsburg,1,0,1,2.3,2.3,0.0,14,2122
+Jérôme Roussillon,Wolfsburg,1,0,1,2.3,2.3,0.0,26,2122
+Sebastiaan Bornauw,Wolfsburg,1,0,1,2.3,2.3,0.0,27,2122
+Josip Brekalo,Wolfsburg,0,1,1,2.3,0.0,2.3,1,2122
+Renato Steffen,Wolfsburg,0,1,1,2.3,0.0,2.3,20,2122
+Xaver Schlager,Wolfsburg,0,1,1,2.3,0.0,2.3,14,2122
+Paulo Otávio,Wolfsburg,0,1,1,2.3,0.0,2.3,7,2122
+Micky van de Ven,Wolfsburg,0,1,1,2.3,0.0,2.3,5,2122
+Sebastian Rode,Eintracht Frankfurt,1,0,1,2.2,2.2,0.0,17,2122
+Martin Hinteregger,Eintracht Frankfurt,1,0,1,2.2,2.2,0.0,27,2122
+Sam Lammers,Eintracht Frankfurt,1,0,1,2.2,2.2,0.0,15,2122
+Kristijan Jakic,Eintracht Frankfurt,1,0,1,2.2,2.2,0.0,26,2122
+Erik Durm,Eintracht Frankfurt,0,1,1,2.2,0.0,2.2,7,2122
+Christopher Lenz,Eintracht Frankfurt,0,1,1,2.2,0.0,2.2,15,2122
+Ragnar Ache,Eintracht Frankfurt,0,1,1,2.2,0.0,2.2,13,2122
+Nianzou Kouassi,Bayern Munich,1,1,2,2.1,1.0,1.0,17,2122
+Ádám Szalai,Mainz 05,1,0,1,2.0,2.0,0.0,12,2122
+Jeremiah St. Juste,Mainz 05,1,0,1,2.0,2.0,0.0,8,2122
+Anderson-Lenda Lucoqui,Mainz 05,1,0,1,2.0,2.0,0.0,13,2122
+Delano Burgzorg,Mainz 05,1,0,1,2.0,2.0,0.0,3,2122
+Bastian Oczipka,Union Berlin,0,1,1,2.0,0.0,2.0,18,2122
+Rani Khedira,Union Berlin,0,1,1,2.0,0.0,2.0,32,2122
+Paul Nebel,Mainz 05,0,1,1,2.0,0.0,2.0,10,2122
+Nico Elvedi,Borussia M.Gladbach,1,0,1,1.9,1.9,0.0,28,2122
+Matthias Ginter,Borussia M.Gladbach,1,0,1,1.9,1.9,0.0,28,2122
+Timo Hübers,FC Cologne,1,0,1,1.9,1.9,0.0,20,2122
+Yann Sommer,Borussia M.Gladbach,0,1,1,1.9,0.0,1.9,33,2122
+Kingsley Ehizibue,FC Cologne,0,1,1,1.9,0.0,1.9,16,2122
+Rafael Czichos,FC Cologne,0,1,1,1.9,0.0,1.9,17,2122
+Tomás Ostrák,FC Cologne,0,1,1,1.9,0.0,1.9,5,2122
+Benjamin Hübner,Hoffenheim,1,0,1,1.7,1.7,0.0,5,2122
+Sargis Adamyan,Hoffenheim,1,0,1,1.7,1.7,0.0,13,2122
+Jonathan Schmid,Freiburg,0,1,1,1.7,0.0,1.7,13,2122
+Robert Skov,Hoffenheim,0,1,1,1.7,0.0,1.7,12,2122
+Marcel Halstenberg,RasenBallsport Leipzig,1,0,1,1.4,1.4,0.0,8,2122
+Mohamed Simakan,RasenBallsport Leipzig,1,0,1,1.4,1.4,0.0,28,2122
+Hugo Novoa Ramos,RasenBallsport Leipzig,1,0,1,1.4,1.4,0.0,8,2122
+Kevin Kampl,RasenBallsport Leipzig,0,1,1,1.4,0.0,1.4,27,2122
+Lukas Klostermann,RasenBallsport Leipzig,0,1,1,1.4,0.0,1.4,23,2122
+Tyler Adams,RasenBallsport Leipzig,0,1,1,1.4,0.0,1.4,24,2122
+Nadiem Amiri,Bayer Leverkusen,1,0,1,1.2,1.2,0.0,13,2122
+Felix Passlack,Borussia Dortmund,1,0,1,1.2,1.2,0.0,10,2122
+Manuel Akanji,Borussia Dortmund,1,0,1,1.2,1.2,0.0,26,2122
+Edmond Tapsoba,Bayer Leverkusen,1,0,1,1.2,1.2,0.0,22,2122
+Tom Rothe,Borussia Dortmund,1,0,1,1.2,1.2,0.0,2,2122
+Odilon Kossounou,Bayer Leverkusen,0,1,1,1.2,0.0,1.2,27,2122
+Josip Stanisic,Bayern Munich,1,0,1,1.0,1.0,0.0,13,2122
+Lucas Hernández,Bayern Munich,0,1,1,1.0,0.0,1.0,25,2122
+Benjamin Pavard,Bayern Munich,0,1,1,1.0,0.0,1.0,25,2122
+Daniel Brosinski,Mainz 05,0,0,0,0.0,0.0,0.0,11,2122
+Julian Baumgartlinger,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,6,2122
+Carlos Gruezo,Augsburg,0,0,0,0.0,0.0,0.0,17,2122
+Benjamin Uphoff,Freiburg,0,0,0,0.0,0.0,0.0,2,2122
+Oliver Baumann,Hoffenheim,0,0,0,0.0,0.0,0.0,33,2122
+Tobias Strobl,Augsburg,0,0,0,0.0,0.0,0.0,5,2122
+Ermin Bicakcic,Hoffenheim,0,0,0,0.0,0.0,0.0,1,2122
+Philipp Tschauner,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,1,2122
+Florian Grillitsch,Hoffenheim,0,0,0,0.0,0.0,0.0,18,2122
+Levin Öztunali,Union Berlin,0,0,0,0.0,0.0,0.0,18,2122
+Anthony Ujah,Union Berlin,0,0,0,0.0,0.0,0.0,3,2122
+Timo Horn,FC Cologne,0,0,0,0.0,0.0,0.0,13,2122
+Josuha Guilavogui,Wolfsburg,0,0,0,0.0,0.0,0.0,15,2122
+Koen Casteels,Wolfsburg,0,0,0,0.0,0.0,0.0,28,2122
+Robin Knoche,Union Berlin,0,0,0,0.0,0.0,0.0,33,2122
+Gideon Jung,Greuther Fuerth,0,0,0,0.0,0.0,0.0,5,2122
+Christoph Kramer,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,18,2122
+Admir Mehmedi,Wolfsburg,0,0,0,0.0,0.0,0.0,1,2122
+Tony Jantschke,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,3,2122
+Håvard Nordtveit,Hoffenheim,0,0,0,0.0,0.0,0.0,11,2122
+Tobias Sippel,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,1,2122
+Manuel Neuer,Bayern Munich,0,0,0,0.0,0.0,0.0,28,2122
+Sven Ulreich,Bayern Munich,0,0,0,0.0,0.0,0.0,6,2122
+Max Christiansen,Greuther Fuerth,0,0,0,0.0,0.0,0.0,27,2122
+Danny da Costa,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,11,2122
+Jens Grahl,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,1,2122
+Marwin Hitz,Borussia Dortmund,0,0,0,0.0,0.0,0.0,5,2122
+Lukas Hradecky,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,32,2122
+Makoto Hasebe,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,18,2122
+Mijat Gacinovic,Hoffenheim,0,0,0,0.0,0.0,0.0,4,2122
+Roman Bürki,Borussia Dortmund,0,0,0,0.0,0.0,0.0,1,2122
+Pascal Stenzel,VfB Stuttgart,0,0,0,0.0,0.0,0.0,16,2122
+Timothy Chandler,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,17,2122
+Jan Morávek,Augsburg,0,0,0,0.0,0.0,0.0,17,2122
+Lukas Klünter,Hertha Berlin,0,0,0,0.0,0.0,0.0,5,2122
+Daniel Ginczek,Wolfsburg,0,0,0,0.0,0.0,0.0,2,2122
+Peter Pekarík,Hertha Berlin,0,0,0,0.0,0.0,0.0,27,2122
+Robin Zentner,Mainz 05,0,0,0,0.0,0.0,0.0,32,2122
+Timothy Fosu-Mensah,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,6,2122
+Kevin Mbabu,Wolfsburg,0,0,0,0.0,0.0,0.0,24,2122
+Edimilson Fernandes,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,7,2122
+Mike van der Hoorn,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,1,2122
+Kevin-Prince Boateng,Hertha Berlin,0,0,0,0.0,0.0,0.0,18,2122
+Jorge Meré,FC Cologne,0,0,0,0.0,0.0,0.0,8,2122
+Jannes Horn,FC Cologne,0,0,0,0.0,0.0,0.0,11,2122
+Sascha Burchert,Greuther Fuerth,0,0,0,0.0,0.0,0.0,14,2122
+Erik Thommy,VfB Stuttgart,0,0,0,0.0,0.0,0.0,11,2122
+Andrey Lunev,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,1,2122
+Kevin Trapp,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,32,2122
+Bouna Sarr,Bayern Munich,0,0,0,0.0,0.0,0.0,5,2122
+Almamy Touré,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,10,2122
+Stefanos Kapino,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,1,2122
+Julian Green,Greuther Fuerth,0,0,0,0.0,0.0,0.0,24,2122
+Raphael Framberger,Augsburg,0,0,0,0.0,0.0,0.0,23,2122
+Marvin Schwäbe,FC Cologne,0,0,0,0.0,0.0,0.0,21,2122
+Dedryck Boyata,Hertha Berlin,0,0,0,0.0,0.0,0.0,23,2122
+Marc Roca,Bayern Munich,0,0,0,0.0,0.0,0.0,9,2122
+Joel Pohjanpalo,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,2,2122
+Thomas Delaney,Borussia Dortmund,0,0,0,0.0,0.0,0.0,1,2122
+Aymen Barkok,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,5,2122
+Péter Gulácsi,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,33,2122
+Stefan Ilsanker,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,12,2122
+László Bénes,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,13,2122
+Andreas Luthe,Union Berlin,0,0,0,0.0,0.0,0.0,27,2122
+Alexander Schwolow,Hertha Berlin,0,0,0,0.0,0.0,0.0,25,2122
+Michael Esser,Bochum,0,0,0,0.0,0.0,0.0,3,2122
+Gregor Kobel,Borussia Dortmund,0,0,0,0.0,0.0,0.0,29,2122
+Manuel Gulde,Freiburg,0,0,0,0.0,0.0,0.0,20,2122
+Rafal Gikiewicz,Augsburg,0,0,0,0.0,0.0,0.0,34,2122
+Florian Müller,VfB Stuttgart,0,0,0,0.0,0.0,0.0,30,2122
+Baptiste Santamaria,Freiburg,0,0,0,0.0,0.0,0.0,1,2122
+Christian Früchtl,Bayern Munich,0,0,0,0.0,0.0,0.0,1,2122
+Sergio Córdova,Augsburg,0,0,0,0.0,0.0,0.0,13,2122
+Felix Uduokhai,Augsburg,0,0,0,0.0,0.0,0.0,13,2122
+Dan-Axel Zagadou,Borussia Dortmund,0,0,0,0.0,0.0,0.0,15,2122
+Michaël Cuisance,Bayern Munich,0,0,0,0.0,0.0,0.0,1,2122
+Panagiotis Retsos,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,4,2122
+Nikolas Nartey,VfB Stuttgart,0,0,0,0.0,0.0,0.0,8,2122
+Elvis Rexhbecaj,Bochum,0,0,0,0.0,0.0,0.0,32,2122
+Cedric Teuchert,Union Berlin,0,0,0,0.0,0.0,0.0,6,2122
+Louis Beyer,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,17,2122
+Paul Jäckel,Union Berlin,0,0,0,0.0,0.0,0.0,24,2122
+Finn Dahmen,Mainz 05,0,0,0,0.0,0.0,0.0,2,2122
+Simon Asta,Greuther Fuerth,0,0,0,0.0,0.0,0.0,13,2122
+Justin Hoogma,Greuther Fuerth,0,0,0,0.0,0.0,0.0,3,2122
+Romario Rösch,Mainz 05,0,0,0,0.0,0.0,0.0,1,2122
+Kasim Nuhu,Hoffenheim,0,0,0,0.0,0.0,0.0,3,2122
+Dennis Jastrzembski,Hertha Berlin,0,0,0,0.0,0.0,0.0,8,2122
+Fabian Bredlow,VfB Stuttgart,0,0,0,0.0,0.0,0.0,4,2122
+Kevin Möhwald,Union Berlin,0,0,0,0.0,0.0,0.0,16,2122
+Mark Flekken,Freiburg,0,0,0,0.0,0.0,0.0,32,2122
+Frederik Rönnow,Union Berlin,0,0,0,0.0,0.0,0.0,7,2122
+Pavao Pervan,Wolfsburg,0,0,0,0.0,0.0,0.0,6,2122
+Javairo Dilrosun,Hertha Berlin,0,0,0,0.0,0.0,0.0,2,2122
+Hans Nunoo Sarpei,Greuther Fuerth,0,0,0,0.0,0.0,0.0,8,2122
+Torben Müsel,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,1,2122
+Amos Pieper,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,27,2122
+Keven Schlotterbeck,Freiburg,0,0,0,0.0,0.0,0.0,12,2122
+Sebastian Vasiliadis,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,19,2122
+Keanan Bennetts,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,4,2122
+Philipp Pentke,Hoffenheim,0,0,0,0.0,0.0,0.0,1,2122
+Daley Sinkgraven,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,12,2122
+Julian Chabot,FC Cologne,0,0,0,0.0,0.0,0.0,4,2122
+Noah Katterbach,FC Cologne,0,0,0,0.0,0.0,0.0,1,2122
+Conor Noß,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,3,2122
+Hannes Wolf,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,7,2122
+Yannik Keitel,Freiburg,0,0,0,0.0,0.0,0.0,12,2122
+Lennart Czyborra,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,4,2122
+Marin Pongracic,Borussia Dortmund,0,0,0,0.0,0.0,0.0,17,2122
+Immanuel Pherai,Borussia Dortmund,0,0,0,0.0,0.0,0.0,1,2122
+Stefan Ortega Moreno,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,33,2122
+Nathan de Medina,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,19,2122
+Fabian Kunze,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,22,2122
+Nils Seufert,Greuther Fuerth,0,0,0,0.0,0.0,0.0,4,2122
+Robert Gumny,Augsburg,0,0,0,0.0,0.0,0.0,28,2122
+Deyovaisio Zeefuik,Hertha Berlin,0,0,0,0.0,0.0,0.0,11,2122
+Silas Wamangituka,VfB Stuttgart,0,0,0,0.0,0.0,0.0,9,2122
+Reinier,Borussia Dortmund,0,0,0,0.0,0.0,0.0,13,2122
+Hee-Chan Hwang,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,2,2122
+Niklas Tauer,Mainz 05,0,0,0,0.0,0.0,0.0,11,2122
+Maxence Lacroix,Wolfsburg,0,0,0,0.0,0.0,0.0,29,2122
+Bartosz Bialek,Wolfsburg,0,0,0,0.0,0.0,0.0,12,2122
+Keita Endo,Union Berlin,0,0,0,0.0,0.0,0.0,4,2122
+Joscha Wosz,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,1,2122
+Adrian Fein,Greuther Fuerth,0,0,0,0.0,0.0,0.0,3,2122
+Lilian Egloff,VfB Stuttgart,0,0,0,0.0,0.0,0.0,4,2122
+Josep Martínez,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,1,2122
+Marco John,Hoffenheim,0,0,0,0.0,0.0,0.0,2,2122
+Lennart Grill,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,1,2122
+Merveille Papela,Mainz 05,0,0,0,0.0,0.0,0.0,5,2122
+Felix Nmecha,Wolfsburg,0,0,0,0.0,0.0,0.0,16,2122
+Ilaix Moriba,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,2,2122
+Kiliann Sildillia,Freiburg,0,0,0,0.0,0.0,0.0,7,2122
+Naouirou Ahamada,VfB Stuttgart,0,0,0,0.0,0.0,0.0,3,2122
+Clinton Mola,VfB Stuttgart,0,0,0,0.0,0.0,0.0,3,2122
+Mohamed Sankoh,VfB Stuttgart,0,0,0,0.0,0.0,0.0,1,2122
+Sidney Raebiger,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,1,2122
+Marcel Laurenz Lotka,Hertha Berlin,0,0,0,0.0,0.0,0.0,10,2122
+Omar Richards,Bayern Munich,0,0,0,0.0,0.0,0.0,12,2122
+Vasilios Lampropoulos,Bochum,0,0,0,0.0,0.0,0.0,13,2122
+Robert Tesche,Bochum,0,0,0,0.0,0.0,0.0,11,2122
+Silvère Ganvoula,Bochum,0,0,0,0.0,0.0,0.0,9,2122
+Herbert Bockhorn,Bochum,0,0,0,0.0,0.0,0.0,18,2122
+Erhan Masovic,Bochum,0,0,0,0.0,0.0,0.0,20,2122
+Armel Bella Kotchap,Bochum,0,0,0,0.0,0.0,0.0,22,2122
+Maximilian Bauer,Greuther Fuerth,0,0,0,0.0,0.0,0.0,26,2122
+Abdourahmane Barry,Greuther Fuerth,0,0,0,0.0,0.0,0.0,8,2122
+Marius Funk,Greuther Fuerth,0,0,0,0.0,0.0,0.0,8,2122
+Frederik Winther,Augsburg,0,0,0,0.0,0.0,0.0,4,2122
+Guilherme Ramos,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,13,2122
+Noah Weißhaupt,Freiburg,0,0,0,0.0,0.0,0.0,10,2122
+Antonios Papadopoulos,Borussia Dortmund,0,0,0,0.0,0.0,0.0,2,2122
+Diant Ramaj,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,1,2122
+Stephan Fürstner,Mainz 05,0,0,0,0.0,0.0,0.0,1,2122
+Saulo Decarli,Bochum,0,0,0,0.0,0.0,0.0,1,2122
+Malik Tillman,Bayern Munich,0,0,0,0.0,0.0,0.0,4,2122
+Nick Viergever,Greuther Fuerth,0,0,0,0.0,0.0,0.0,24,2122
+Lasse Günther,Augsburg,0,0,0,0.0,0.0,0.0,5,2122
+Omer Faruk Beyaz,VfB Stuttgart,0,0,0,0.0,0.0,0.0,4,2122
+Andrés Andrade,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,17,2122
+David Nemeth,Mainz 05,0,0,0,0.0,0.0,0.0,6,2122
+Cimo Röcker,Hertha Berlin,0,0,0,0.0,0.0,0.0,1,2122
+Zidan Sertdemir,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,3,2122
+Lennard Maloney,Borussia Dortmund,0,0,0,0.0,0.0,0.0,2,2122
+Iker Bravo,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,1,2122
+Matej Maglica,VfB Stuttgart,0,0,0,0.0,0.0,0.0,1,2122
+Alexis Tibidi,VfB Stuttgart,0,0,0,0.0,0.0,0.0,13,2122
+Tarsis Bonga,Bochum,0,0,0,0.0,0.0,0.0,3,2122
+Fisnik Asllani,Hoffenheim,0,0,0,0.0,0.0,0.0,2,2122
+Solomon Bonnah,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,1,2122
+Mathias Olesen,FC Cologne,0,0,0,0.0,0.0,0.0,3,2122
+Luis Hartwig,Bochum,0,0,0,0.0,0.0,0.0,1,2122
+Lucas Copado,Bayern Munich,0,0,0,0.0,0.0,0.0,1,2122
+Paul Wanner,Bayern Munich,0,0,0,0.0,0.0,0.0,4,2122
+Afimico Pululu,Greuther Fuerth,0,0,0,0.0,0.0,0.0,8,2122
+Ricardo Pepi,Augsburg,0,0,0,0.0,0.0,0.0,11,2122
+Hugo Siquet,Freiburg,0,0,0,0.0,0.0,0.0,1,2122
+Anton Kade,Hertha Berlin,0,0,0,0.0,0.0,0.0,4,2122
+Tom Bischof,Hoffenheim,0,0,0,0.0,0.0,0.0,1,2122
+Andreas Linde,Greuther Fuerth,0,0,0,0.0,0.0,0.0,12,2122
+Fredrik Bjørkan,Hertha Berlin,0,0,0,0.0,0.0,0.0,9,2122
+Dong-Jun Lee,Hertha Berlin,0,0,0,0.0,0.0,0.0,4,2122
+George Bello,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,10,2122
+Burak Ince,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,5,2122
+Kevin Paredes,Wolfsburg,0,0,0,0.0,0.0,0.0,2,2122
+Justin Che,Hoffenheim,0,0,0,0.0,0.0,0.0,2,2122
+Vincent Vermeij,Freiburg,0,0,0,0.0,0.0,0.0,1,2122
+Marten Winkler,Hertha Berlin,0,0,0,0.0,0.0,0.0,1,2122
+Jamie Bynoe-Gittens,Borussia Dortmund,0,0,0,0.0,0.0,0.0,4,2122
+Julian Eitschberger,Hertha Berlin,0,0,0,0.0,0.0,0.0,1,2122
+Lion Semic,Borussia Dortmund,0,0,0,0.0,0.0,0.0,1,2122
+Gabriel Vidovic,Bayern Munich,0,0,0,0.0,0.0,0.0,3,2122
+Luca Wollschläger,Hertha Berlin,0,0,0,0.0,0.0,0.0,2,2122
+Nick Proschwitz,Hoffenheim,0,0,0,0.0,0.0,0.0,1,2122
+Umut Tohumcu,Hoffenheim,0,0,0,0.0,0.0,0.0,1,2122

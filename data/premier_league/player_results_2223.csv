@@ -1,0 +1,540 @@
+player,team,goals,assists,contributions,contribution_pct,goals_pct,assists_pct,games,season
+Harry Kane,Tottenham,30,3,33,47.1,42.9,4.3,38,2223
+Erling Haaland,Manchester City,36,8,44,46.8,38.3,8.5,35,2223
+Ivan Toney,Brentford,20,4,24,41.4,34.5,6.9,33,2223
+Mohamed Salah,Liverpool,19,12,31,41.3,25.3,16.0,38,2223
+Ollie Watkins,Aston Villa,15,6,21,41.2,29.4,11.8,37,2223
+Marcus Rashford,Manchester United,17,5,22,37.9,29.3,8.6,35,2223
+James Maddison,Leicester,10,9,19,37.3,19.6,17.6,30,2223
+James Ward-Prowse,Southampton,9,4,13,36.1,25.0,11.1,38,2223
+Dominic Solanke,Bournemouth,6,7,13,35.1,16.2,18.9,33,2223
+Eberechi Eze,Crystal Palace,10,4,14,35.0,25.0,10.0,38,2223
+Callum Wilson,Newcastle United,18,5,23,33.8,26.5,7.4,31,2223
+Michael Olise,Crystal Palace,2,11,13,32.5,5.0,27.5,37,2223
+Dwight McNeil,Everton,7,3,10,29.4,20.6,8.8,36,2223
+Bryan Mbeumo,Brentford,9,8,17,29.3,15.5,13.8,38,2223
+Rodrigo,Leeds,13,1,14,29.2,27.1,2.1,31,2223
+Taiwo Awoniyi,Nottingham Forest,10,1,11,28.9,26.3,2.6,27,2223
+Brennan Johnson,Nottingham Forest,8,3,11,28.9,21.1,7.9,38,2223
+Bukayo Saka,Arsenal,14,11,25,28.4,15.9,12.5,38,2223
+Bruno Fernandes,Manchester United,8,8,16,27.6,13.8,13.8,37,2223
+Harvey Barnes,Leicester,13,1,14,27.5,25.5,2.0,34,2223
+Aleksandar Mitrovic,Fulham,14,1,15,27.3,25.5,1.8,24,2223
+Alex Iwobi,Everton,2,7,9,26.5,5.9,20.6,38,2223
+Jarrod Bowen,West Ham,6,5,11,26.2,14.3,11.9,38,2223
+Jacob Ramsey,Aston Villa,6,7,13,25.5,11.8,13.7,35,2223
+Martin Odegaard,Arsenal,15,7,22,25.0,17.0,8.0,37,2223
+Jack Harrison,Leeds,5,7,12,25.0,10.4,14.6,36,2223
+Kevin De Bruyne,Manchester City,7,16,23,24.5,7.4,17.0,32,2223
+Marcus Tavernier,Bournemouth,5,4,9,24.3,13.5,10.8,23,2223
+Raheem Sterling,Chelsea,6,3,9,23.7,15.8,7.9,28,2223
+Pascal Groß,Brighton,9,8,17,23.6,12.5,11.1,37,2223
+Douglas Luiz,Aston Villa,6,6,12,23.5,11.8,11.8,37,2223
+Son Heung-Min,Tottenham,10,6,16,22.9,14.3,8.6,36,2223
+Gabriel Martinelli,Arsenal,15,5,20,22.7,17.0,5.7,36,2223
+Rúben Neves,Wolverhampton Wanderers,6,1,7,22.6,19.4,3.2,35,2223
+Wilfried Zaha,Crystal Palace,7,2,9,22.5,17.5,5.0,27,2223
+Che Adams,Southampton,5,3,8,22.2,13.9,8.3,28,2223
+Philip Billing,Bournemouth,7,1,8,21.6,18.9,2.7,36,2223
+Said Benrahma,West Ham,6,3,9,21.4,14.3,7.1,35,2223
+Kai Havertz,Chelsea,7,1,8,21.1,18.4,2.6,35,2223
+Abdoulaye Doucouré,Everton,5,2,7,20.6,14.7,5.9,25,2223
+Roberto Firmino,Liverpool,11,4,15,20.0,14.7,5.3,25,2223
+Kelechi Iheanacho,Leicester,5,5,10,19.6,9.8,9.8,28,2223
+Daniel Podence,Wolverhampton Wanderers,6,0,6,19.4,19.4,0.0,32,2223
+Gabriel Jesus,Arsenal,11,6,17,19.3,12.5,6.8,26,2223
+Miguel Almirón,Newcastle United,11,2,13,19.1,16.2,2.9,34,2223
+Michail Antonio,West Ham,5,3,8,19.0,11.9,7.1,33,2223
+Mathias Jensen,Brentford,5,6,11,19.0,8.6,10.3,37,2223
+Willian,Fulham,5,5,10,18.2,9.1,9.1,27,2223
+Andreas Pereira,Fulham,4,6,10,18.2,7.3,10.9,33,2223
+Phil Foden,Manchester City,11,6,17,18.1,11.7,6.4,32,2223
+Solly March,Brighton,6,7,13,18.1,8.3,9.7,33,2223
+Odsonne Edouard,Crystal Palace,5,2,7,17.5,12.5,5.0,35,2223
+Jordan Ayew,Crystal Palace,4,3,7,17.5,10.0,7.5,38,2223
+Yoane Wissa,Brentford,7,3,10,17.2,12.1,5.2,38,2223
+Alexis Mac Allister,Brighton,10,2,12,16.7,13.9,2.8,35,2223
+Kaoru Mitoma,Brighton,7,5,12,16.7,9.7,6.9,33,2223
+Lucas Paquetá,West Ham,4,3,7,16.7,9.5,7.1,28,2223
+Carlos Alcaraz,Southampton,4,2,6,16.7,11.1,5.6,18,2223
+Alexander Isak,Newcastle United,10,1,11,16.2,14.7,1.5,22,2223
+Darwin Núñez,Liverpool,9,3,12,16.0,12.0,4.0,29,2223
+Riyad Mahrez,Manchester City,5,10,15,16.0,5.3,10.6,30,2223
+Granit Xhaka,Arsenal,7,7,14,15.9,8.0,8.0,37,2223
+Leon Bailey,Aston Villa,4,4,8,15.7,7.8,7.8,33,2223
+Patson Daka,Leicester,4,4,8,15.7,7.8,7.8,30,2223
+Jadon Sancho,Manchester United,6,3,9,15.5,10.3,5.2,26,2223
+Christian Eriksen,Manchester United,1,8,9,15.5,1.7,13.8,28,2223
+Diogo Jota,Liverpool,7,4,11,14.7,9.3,5.3,22,2223
+Demarai Gray,Everton,4,1,5,14.7,11.8,2.9,33,2223
+Trent Alexander-Arnold,Liverpool,2,9,11,14.7,2.7,12.0,37,2223
+Anthony Martial,Manchester United,6,2,8,13.8,10.3,3.4,21,2223
+Emiliano Buendía,Aston Villa,5,2,7,13.7,9.8,3.9,38,2223
+Jamie Vardy,Leicester,3,4,7,13.7,5.9,7.8,37,2223
+Jefferson Lerma,Bournemouth,5,0,5,13.5,13.5,0.0,37,2223
+Bruno Guimarães,Newcastle United,4,5,9,13.2,5.9,7.4,32,2223
+Joe Willock,Newcastle United,3,6,9,13.2,4.4,8.8,35,2223
+Mason Mount,Chelsea,3,2,5,13.2,7.9,5.3,24,2223
+Danilo,Nottingham Forest,3,2,5,13.2,7.9,5.3,13,2223
+Pierre-Emile Højbjerg,Tottenham,4,5,9,12.9,5.7,7.1,35,2223
+Hee-Chan Hwang,Wolverhampton Wanderers,3,1,4,12.9,9.7,3.2,27,2223
+Dejan Kulusevski,Tottenham,2,7,9,12.9,2.9,10.0,30,2223
+Ivan Perisic,Tottenham,1,8,9,12.9,1.4,11.4,34,2223
+Ilkay Gündogan,Manchester City,8,4,12,12.8,8.5,4.3,31,2223
+Jack Grealish,Manchester City,5,7,12,12.8,5.3,7.4,28,2223
+Carlos Vinicius,Fulham,5,2,7,12.7,9.1,3.6,28,2223
+Harrison Reed,Fulham,3,4,7,12.7,5.5,7.3,37,2223
+Danny Welbeck,Brighton,6,3,9,12.5,8.3,4.2,31,2223
+Patrick Bamford,Leeds,4,2,6,12.5,8.3,4.2,28,2223
+Crysencio Summerville,Leeds,4,2,6,12.5,8.3,4.2,28,2223
+Wilfried Gnonto,Leeds,2,4,6,12.5,4.2,8.3,24,2223
+Casemiro,Manchester United,4,3,7,12.1,6.9,5.2,28,2223
+Cody Gakpo,Liverpool,7,2,9,12.0,9.3,2.7,21,2223
+Declan Rice,West Ham,4,1,5,11.9,9.5,2.4,37,2223
+Tomas Soucek,West Ham,2,3,5,11.9,4.8,7.1,36,2223
+Kieran Trippier,Newcastle United,1,7,8,11.8,1.5,10.3,38,2223
+Evan Ferguson,Brighton,6,2,8,11.1,8.3,2.8,19,2223
+Theo Walcott,Southampton,2,2,4,11.1,5.6,5.6,20,2223
+Romain Perraud,Southampton,2,2,4,11.1,5.6,5.6,29,2223
+Kenny Tete,Fulham,1,5,6,10.9,1.8,9.1,31,2223
+Kieffer Moore,Bournemouth,4,0,4,10.8,10.8,0.0,27,2223
+Jaidon Anthony,Bournemouth,3,1,4,10.8,8.1,2.7,30,2223
+Dango Ouattara,Bournemouth,1,3,4,10.8,2.7,8.1,19,2223
+Andrew Robertson,Liverpool,0,8,8,10.7,0.0,10.7,34,2223
+João Félix,Chelsea,4,0,4,10.5,10.5,0.0,16,2223
+Conor Gallagher,Chelsea,3,1,4,10.5,7.9,2.6,35,2223
+Ben Chilwell,Chelsea,2,2,4,10.5,5.3,5.3,23,2223
+Emmanuel Dennis,Nottingham Forest,2,2,4,10.5,5.3,5.3,19,2223
+Luis Sinisterra,Leeds,5,0,5,10.4,10.4,0.0,19,2223
+Joelinton,Newcastle United,6,1,7,10.3,8.8,1.5,32,2223
+Josh Dasilva,Brentford,4,2,6,10.3,6.9,3.4,36,2223
+Antony,Manchester United,4,2,6,10.3,6.9,3.4,25,2223
+Rodrigo Bentancur,Tottenham,5,2,7,10.0,7.1,2.9,18,2223
+Jeffrey Schlupp,Crystal Palace,3,1,4,10.0,7.5,2.5,34,2223
+Youri Tielemans,Leicester,3,2,5,9.8,5.9,3.9,31,2223
+Timothy Castagne,Leicester,2,3,5,9.8,3.9,5.9,37,2223
+Adama Traoré,Wolverhampton Wanderers,2,1,3,9.7,6.5,3.2,34,2223
+Julián Álvarez,Manchester City,9,0,9,9.6,9.6,0.0,31,2223
+Bernardo Silva,Manchester City,4,5,9,9.6,4.3,5.3,34,2223
+Pablo Fornals,West Ham,3,1,4,9.5,7.1,2.4,32,2223
+Bobby Reid,Fulham,4,1,5,9.1,7.3,1.8,36,2223
+Harry Wilson,Fulham,2,3,5,9.1,3.6,5.5,29,2223
+Jacob Murphy,Newcastle United,4,2,6,8.8,5.9,2.9,36,2223
+Dominic Calvert-Lewin,Everton,2,1,3,8.8,5.9,2.9,17,2223
+Allan Saint-Maximin,Newcastle United,1,5,6,8.8,1.5,7.4,25,2223
+Michael Keane,Everton,1,2,3,8.8,2.9,5.9,12,2223
+Amadou Onana,Everton,1,2,3,8.8,2.9,5.9,33,2223
+Pedro Porro,Tottenham,3,3,6,8.6,4.3,4.3,15,2223
+Alejandro Garnacho,Manchester United,3,2,5,8.6,5.2,3.4,19,2223
+Rodri,Manchester City,2,6,8,8.5,2.1,6.4,36,2223
+Julio Enciso,Brighton,4,2,6,8.3,5.6,2.8,20,2223
+Rasmus Kristensen,Leeds,3,1,4,8.3,6.2,2.1,26,2223
+Adam Armstrong,Southampton,2,1,3,8.3,5.6,2.8,30,2223
+Stuart Armstrong,Southampton,2,1,3,8.3,5.6,2.8,32,2223
+Kamaldeen Sulemana,Southampton,2,1,3,8.3,5.6,2.8,18,2223
+Estupiñán,Brighton,1,5,6,8.3,1.4,6.9,35,2223
+Sékou Mara,Southampton,1,2,3,8.3,2.8,5.6,22,2223
+Brenden Aaronson,Leeds,1,3,4,8.3,2.1,6.2,36,2223
+Luis Díaz,Liverpool,4,2,6,8.0,5.3,2.7,17,2223
+Ben White,Arsenal,2,5,7,8.0,2.3,5.7,38,2223
+Kalidou Koulibaly,Chelsea,2,1,3,7.9,5.3,2.6,23,2223
+Mateo Kovacic,Chelsea,1,2,3,7.9,2.6,5.3,27,2223
+Hakim Ziyech,Chelsea,0,3,3,7.9,0.0,7.9,18,2223
+Kiernan Dewsbury-Hall,Leicester,2,2,4,7.8,3.9,3.9,31,2223
+John McGinn,Aston Villa,1,3,4,7.8,2.0,5.9,34,2223
+Cheick Oumar Doucoure,Crystal Palace,0,3,3,7.5,0.0,7.5,34,2223
+Sean Longstaff,Newcastle United,1,4,5,7.4,1.5,5.9,33,2223
+Manor Solomon,Fulham,4,0,4,7.3,7.3,0.0,19,2223
+Gianluca Scamacca,West Ham,3,0,3,7.1,7.1,0.0,16,2223
+Deniz Undav,Brighton,5,0,5,6.9,6.9,0.0,22,2223
+Ben Mee,Brentford,3,1,4,6.9,5.2,1.7,37,2223
+Vitaly Janelt,Brentford,3,1,4,6.9,5.2,1.7,35,2223
+Fred,Manchester United,2,2,4,6.9,3.4,3.4,35,2223
+Christian Nørgaard,Brentford,1,3,4,6.9,1.7,5.2,22,2223
+Matheus Cunha,Wolverhampton Wanderers,2,0,2,6.5,6.5,0.0,17,2223
+Gonçalo Guedes,Wolverhampton Wanderers,1,1,2,6.5,3.2,3.2,13,2223
+Matheus Nunes,Wolverhampton Wanderers,1,1,2,6.5,3.2,3.2,34,2223
+João Moutinho,Wolverhampton Wanderers,0,2,2,6.5,0.0,6.5,31,2223
+Luke Ayling,Leeds,2,1,3,6.2,4.2,2.1,29,2223
+Pascal Struijk,Leeds,2,1,3,6.2,4.2,2.1,29,2223
+Marc Roca,Leeds,1,2,3,6.2,2.1,4.2,32,2223
+Sam Greenwood,Leeds,1,2,3,6.2,2.1,4.2,18,2223
+Yerry Mina,Everton,2,0,2,5.9,5.9,0.0,7,2223
+Fabian Schär,Newcastle United,1,3,4,5.9,1.5,4.4,36,2223
+Tyrone Mings,Aston Villa,1,2,3,5.9,2.0,3.9,35,2223
+James Tarkowski,Everton,1,1,2,5.9,2.9,2.9,38,2223
+Conor Coady,Everton,1,1,2,5.9,2.9,2.9,24,2223
+Wout Faes,Leicester,1,2,3,5.9,2.0,3.9,31,2223
+Álex Moreno,Aston Villa,0,3,3,5.9,0.0,5.9,19,2223
+Eddie Nketiah,Arsenal,4,1,5,5.7,4.5,1.1,30,2223
+Reiss Nelson,Arsenal,3,2,5,5.7,3.4,2.3,11,2223
+Ben Davies,Tottenham,2,2,4,5.7,2.9,2.9,31,2223
+Richarlison,Tottenham,1,3,4,5.7,1.4,4.3,27,2223
+Joe Ayodele-Aribo,Southampton,2,0,2,5.6,5.6,0.0,21,2223
+Lyanco,Southampton,1,1,2,5.6,2.8,2.8,21,2223
+Mohamed Elyounoussi,Southampton,1,1,2,5.6,2.8,2.8,33,2223
+Moussa Djenepo,Southampton,0,2,2,5.6,0.0,5.6,16,2223
+Armel Bella Kotchap,Southampton,0,2,2,5.6,0.0,5.6,24,2223
+João Palhinha,Fulham,3,0,3,5.5,5.5,0.0,35,2223
+Neeskens Kebano,Fulham,0,3,3,5.5,0.0,5.5,17,2223
+Matias Viña,Bournemouth,2,0,2,5.4,5.4,0.0,12,2223
+Marcos Senesi,Bournemouth,2,0,2,5.4,5.4,0.0,31,2223
+Ryan Christie,Bournemouth,1,1,2,5.4,2.7,2.7,32,2223
+Lewis Cook,Bournemouth,0,2,2,5.4,0.0,5.4,28,2223
+Lloyd Kelly,Bournemouth,0,2,2,5.4,0.0,5.4,23,2223
+Virgil van Dijk,Liverpool,3,1,4,5.3,4.0,1.3,32,2223
+Curtis Jones,Liverpool,3,1,4,5.3,4.0,1.3,18,2223
+Christian Pulisic,Chelsea,1,1,2,5.3,2.6,2.6,24,2223
+Orel Mangala,Nottingham Forest,1,1,2,5.3,2.6,2.6,27,2223
+Reece James,Chelsea,1,1,2,5.3,2.6,2.6,16,2223
+Thiago Silva,Chelsea,0,2,2,5.3,0.0,5.3,27,2223
+Marc Cucurella,Chelsea,0,2,2,5.3,0.0,5.3,24,2223
+Konstantinos Tsimikas,Liverpool,0,4,4,5.3,0.0,5.3,20,2223
+Ryan Yates,Nottingham Forest,0,2,2,5.3,0.0,5.3,26,2223
+Mykhailo Mudryk,Chelsea,0,2,2,5.3,0.0,5.3,15,2223
+Enzo Fernández,Chelsea,0,2,2,5.3,0.0,5.3,18,2223
+Ethan Pinnock,Brentford,3,0,3,5.2,5.2,0.0,30,2223
+Luke Shaw,Manchester United,1,2,3,5.2,1.7,3.4,31,2223
+Diogo Dalot,Manchester United,1,2,3,5.2,1.7,3.4,26,2223
+Jean-Philippe Mateta,Crystal Palace,2,0,2,5.0,5.0,0.0,29,2223
+Will Hughes,Crystal Palace,1,1,2,5.0,2.5,2.5,27,2223
+Tyrick Mitchell,Crystal Palace,0,2,2,5.0,0.0,5.0,36,2223
+Kurt Zouma,West Ham,2,0,2,4.8,4.8,0.0,25,2223
+Naif Aguerd,West Ham,2,0,2,4.8,4.8,0.0,18,2223
+Thilo Kehrer,West Ham,0,2,2,4.8,0.0,4.8,27,2223
+John Stones,Manchester City,2,2,4,4.3,2.1,2.1,23,2223
+Eric Dier,Tottenham,2,1,3,4.3,2.9,1.4,33,2223
+Emerson,Tottenham,2,1,3,4.3,2.9,1.4,26,2223
+Adam Lallana,Brighton,2,1,3,4.2,2.8,1.4,16,2223
+Júnior Firpo,Leeds,1,1,2,4.2,2.1,2.1,19,2223
+Joe Gelhardt,Leeds,0,2,2,4.2,0.0,4.2,15,2223
+Harvey Elliott,Liverpool,1,2,3,4.0,1.3,2.7,32,2223
+Bertrand Traoré,Aston Villa,2,0,2,3.9,3.9,0.0,8,2223
+Ricardo Pereira,Leicester,1,1,2,3.9,2.0,2.0,10,2223
+Tom Cairney,Fulham,2,0,2,3.6,3.6,0.0,33,2223
+Thomas Partey,Arsenal,3,0,3,3.4,3.4,0.0,33,2223
+Gabriel,Arsenal,3,0,3,3.4,3.4,0.0,38,2223
+William Saliba,Arsenal,2,1,3,3.4,2.3,1.1,27,2223
+Oleksandr Zinchenko,Arsenal,1,2,3,3.4,1.1,2.3,27,2223
+Fábio Vieira,Arsenal,1,2,3,3.4,1.1,2.3,22,2223
+Rico Henry,Brentford,0,2,2,3.4,0.0,3.4,37,2223
+Frank Onyeka,Brentford,0,2,2,3.4,0.0,3.4,21,2223
+João Cancelo,Manchester City,2,1,3,3.2,2.1,1.1,17,2223
+Diego Costa,Wolverhampton Wanderers,1,0,1,3.2,3.2,0.0,23,2223
+Pablo Sarabia,Wolverhampton Wanderers,1,0,1,3.2,3.2,0.0,13,2223
+Jonny,Wolverhampton Wanderers,1,0,1,3.2,3.2,0.0,18,2223
+Rayan Ait Nouri,Wolverhampton Wanderers,1,0,1,3.2,3.2,0.0,21,2223
+Toti,Wolverhampton Wanderers,1,0,1,3.2,3.2,0.0,17,2223
+João Gomes,Wolverhampton Wanderers,1,0,1,3.2,3.2,0.0,11,2223
+Mario Lemina,Wolverhampton Wanderers,0,1,1,3.2,0.0,3.2,19,2223
+Raúl Jiménez,Wolverhampton Wanderers,0,1,1,3.2,0.0,3.2,15,2223
+Nélson Semedo,Wolverhampton Wanderers,0,1,1,3.2,0.0,3.2,36,2223
+Boubacar Traore,Wolverhampton Wanderers,0,1,1,3.2,0.0,3.2,10,2223
+Hugo Bueno,Wolverhampton Wanderers,0,1,1,3.2,0.0,3.2,21,2223
+Ryan Sessegnon,Tottenham,2,0,2,2.9,2.9,0.0,17,2223
+Seamus Coleman,Everton,1,0,1,2.9,2.9,0.0,23,2223
+Neal Maupay,Everton,1,0,1,2.9,2.9,0.0,27,2223
+Ellis Simms,Everton,1,0,1,2.9,2.9,0.0,11,2223
+Idrissa Gueye,Everton,0,1,1,2.9,0.0,2.9,33,2223
+Jordan Pickford,Everton,0,1,1,2.9,0.0,2.9,37,2223
+Clement Lenglet,Tottenham,0,2,2,2.9,0.0,2.9,26,2223
+James Garner,Everton,0,1,1,2.9,0.0,2.9,16,2223
+Ben Godfrey,Everton,0,1,1,2.9,0.0,2.9,13,2223
+Kyle Walker-Peters,Southampton,1,0,1,2.8,2.8,0.0,31,2223
+Duje Caleta-Car,Southampton,1,0,1,2.8,2.8,0.0,13,2223
+Joël Veltman,Brighton,1,1,2,2.8,1.4,1.4,31,2223
+Moisés Caicedo,Brighton,1,1,2,2.8,1.4,1.4,37,2223
+Romeo Lavia,Southampton,1,0,1,2.8,2.8,0.0,29,2223
+Facundo Buonanotte,Brighton,1,1,2,2.8,1.4,1.4,13,2223
+Mohammed Salisu,Southampton,0,1,1,2.8,0.0,2.8,22,2223
+Levi Colwill,Brighton,0,2,2,2.8,0.0,2.8,17,2223
+Fabio Carvalho,Liverpool,2,0,2,2.7,2.7,0.0,13,2223
+Antoine Semenyo,Bournemouth,1,0,1,2.7,2.7,0.0,11,2223
+Joe Rothwell,Bournemouth,0,1,1,2.7,0.0,2.7,20,2223
+Jordan Henderson,Liverpool,0,2,2,2.7,0.0,2.7,35,2223
+Adam Smith,Bournemouth,0,1,1,2.7,0.0,2.7,37,2223
+Fabinho,Liverpool,0,2,2,2.7,0.0,2.7,36,2223
+Jordan Zemura,Bournemouth,0,1,1,2.7,0.0,2.7,19,2223
+Pierre-Emerick Aubameyang,Chelsea,1,0,1,2.6,2.6,0.0,15,2223
+Cheikhou Kouyaté,Nottingham Forest,1,0,1,2.6,2.6,0.0,21,2223
+Serge Aurier,Nottingham Forest,1,0,1,2.6,2.6,0.0,24,2223
+Sam Surridge,Nottingham Forest,1,0,1,2.6,2.6,0.0,20,2223
+Benoit Badiashile Mukinayi,Chelsea,1,0,1,2.6,2.6,0.0,11,2223
+Neco Williams,Nottingham Forest,1,0,1,2.6,2.6,0.0,31,2223
+Armando Broja,Chelsea,1,0,1,2.6,2.6,0.0,12,2223
+Joe Worrall,Nottingham Forest,1,0,1,2.6,2.6,0.0,30,2223
+Lewis O'Brien,Nottingham Forest,1,0,1,2.6,2.6,0.0,13,2223
+Noni Madueke,Chelsea,1,0,1,2.6,2.6,0.0,12,2223
+Ruben Loftus-Cheek,Chelsea,0,1,1,2.6,0.0,2.6,25,2223
+N'Golo Kanté,Chelsea,0,1,1,2.6,0.0,2.6,7,2223
+Willy Boly,Nottingham Forest,0,1,1,2.6,0.0,2.6,11,2223
+Renan Lodi,Nottingham Forest,0,1,1,2.6,0.0,2.6,28,2223
+Felipe,Nottingham Forest,0,1,1,2.6,0.0,2.6,16,2223
+Joel Ward,Crystal Palace,1,0,1,2.5,2.5,0.0,28,2223
+James Tomkins,Crystal Palace,1,0,1,2.5,2.5,0.0,6,2223
+Joachim Andersen,Crystal Palace,1,0,1,2.5,2.5,0.0,32,2223
+Marc Guehi,Crystal Palace,1,0,1,2.5,2.5,0.0,37,2223
+Manuel Lanzini,West Ham,1,0,1,2.4,2.4,0.0,10,2223
+Emerson,West Ham,1,0,1,2.4,2.4,0.0,22,2223
+Aaron Cresswell,West Ham,0,1,1,2.4,0.0,2.4,28,2223
+Vladimir Coufal,West Ham,0,1,1,2.4,0.0,2.4,27,2223
+Emile Smith-Rowe,Arsenal,0,2,2,2.3,0.0,2.3,12,2223
+Liam Cooper,Leeds,1,0,1,2.1,2.1,0.0,18,2223
+Weston McKennie,Leeds,0,1,1,2.1,0.0,2.1,19,2223
+Georginio Rutter,Leeds,0,1,1,2.1,0.0,2.1,11,2223
+Philippe Coutinho,Aston Villa,1,0,1,2.0,2.0,0.0,20,2223
+Ashley Young,Aston Villa,1,0,1,2.0,2.0,0.0,29,2223
+Marc Albrighton,Leicester,1,0,1,2.0,2.0,0.0,6,2223
+Dennis Praet,Leicester,1,0,1,2.0,2.0,0.0,22,2223
+Nampalys Mendy,Leicester,1,0,1,2.0,2.0,0.0,19,2223
+Lucas Digne,Aston Villa,1,0,1,2.0,2.0,0.0,28,2223
+Caglar Söyüncü,Leicester,1,0,1,2.0,2.0,0.0,7,2223
+Tetê,Leicester,1,0,1,2.0,2.0,0.0,13,2223
+Ayoze Pérez,Leicester,0,1,1,2.0,0.0,2.0,8,2223
+Boubacar Kamara,Aston Villa,0,1,1,2.0,0.0,2.0,24,2223
+Harry Souttar,Leicester,0,1,1,2.0,0.0,2.0,12,2223
+Matthew Cash,Aston Villa,0,1,1,2.0,0.0,2.0,26,2223
+Victor Kristiansen,Leicester,0,1,1,2.0,0.0,2.0,12,2223
+Issa Diop,Fulham,1,0,1,1.8,1.8,0.0,25,2223
+Tosin Adarabioyo,Fulham,1,0,1,1.8,1.8,0.0,25,2223
+Tim Ream,Fulham,1,0,1,1.8,1.8,0.0,33,2223
+Kevin Mbabu,Fulham,0,1,1,1.8,0.0,1.8,6,2223
+Antonee Robinson,Fulham,0,1,1,1.8,0.0,1.8,35,2223
+Pontus Jansson,Brentford,1,0,1,1.7,1.7,0.0,12,2223
+Cristiano Ronaldo,Manchester United,1,0,1,1.7,1.7,0.0,10,2223
+Scott McTominay,Manchester United,1,0,1,1.7,1.7,0.0,24,2223
+Lisandro Martínez,Manchester United,1,0,1,1.7,1.7,0.0,27,2223
+Marcel Sabitzer,Manchester United,0,1,1,1.7,0.0,1.7,11,2223
+Wout Weghorst,Manchester United,0,1,1,1.7,0.0,1.7,17,2223
+Aaron Hickey,Brentford,0,1,1,1.7,0.0,1.7,26,2223
+Kevin Schade,Brentford,0,1,1,1.7,0.0,1.7,18,2223
+Anthony Elanga,Manchester United,0,1,1,1.7,0.0,1.7,16,2223
+Shandon Baptiste,Brentford,0,1,1,1.7,0.0,1.7,23,2223
+Keane Lewis-Potter,Brentford,0,1,1,1.7,0.0,1.7,10,2223
+Dan Burn,Newcastle United,1,0,1,1.5,1.5,0.0,38,2223
+Elliot Anderson,Newcastle United,0,1,1,1.5,0.0,1.5,22,2223
+Lucas Moura,Tottenham,1,0,1,1.4,1.4,0.0,15,2223
+Lewis Dunk,Brighton,1,0,1,1.4,1.4,0.0,36,2223
+Matt Doherty,Tottenham,1,0,1,1.4,1.4,0.0,12,2223
+Oliver Skipp,Tottenham,1,0,1,1.4,1.4,0.0,23,2223
+Arnaut Danjuma Groeneveld,Tottenham,1,0,1,1.4,1.4,0.0,9,2223
+Cristian Romero,Tottenham,0,1,1,1.4,0.0,1.4,27,2223
+Jason Steele,Brighton,0,1,1,1.4,0.0,1.4,15,2223
+Bryan Gil Salvatierra,Tottenham,0,1,1,1.4,0.0,1.4,4,2223
+Billy Gilmour,Brighton,0,1,1,1.4,0.0,1.4,14,2223
+Pape Sarr,Tottenham,0,1,1,1.4,0.0,1.4,11,2223
+Enock Mwepu,Brighton,0,1,1,1.4,0.0,1.4,6,2223
+Jeremy Sarmiento,Brighton,0,1,1,1.4,0.0,1.4,9,2223
+Joel Matip,Liverpool,1,0,1,1.3,1.3,0.0,14,2223
+Alex Oxlade-Chamberlain,Liverpool,1,0,1,1.3,1.3,0.0,9,2223
+Stefan Bajcetic,Liverpool,1,0,1,1.3,1.3,0.0,11,2223
+James Milner,Liverpool,0,1,1,1.3,0.0,1.3,31,2223
+Alisson,Liverpool,0,1,1,1.3,0.0,1.3,37,2223
+Nathan Aké,Manchester City,1,0,1,1.1,1.1,0.0,26,2223
+Rob Holding,Arsenal,1,0,1,1.1,1.1,0.0,14,2223
+Jakub Kiwior,Arsenal,1,0,1,1.1,1.1,0.0,7,2223
+Ederson,Manchester City,0,1,1,1.1,0.0,1.1,35,2223
+Manuel Akanji,Manchester City,0,1,1,1.1,0.0,1.1,29,2223
+Sergio Gómez,Manchester City,0,1,1,1.1,0.0,1.1,12,2223
+Takehiro Tomiyasu,Arsenal,0,1,1,1.1,0.0,1.1,21,2223
+Kieran Tierney,Arsenal,0,1,1,1.1,0.0,1.1,27,2223
+Cole Palmer,Manchester City,0,1,1,1.1,0.0,1.1,14,2223
+Bernd Leno,Fulham,0,0,0,0.0,0.0,0.0,36,2223
+Thiago Alcántara,Liverpool,0,0,0,0.0,0.0,0.0,18,2223
+Steve Cook,Nottingham Forest,0,0,0,0.0,0.0,0.0,12,2223
+Matt Ritchie,Newcastle United,0,0,0,0.0,0.0,0.0,7,2223
+Junior Stanislas,Bournemouth,0,0,0,0.0,0.0,0.0,4,2223
+Danny Ward,Leicester,0,0,0,0.0,0.0,0.0,26,2223
+Mohamed Elneny,Arsenal,0,0,0,0.0,0.0,0.0,5,2223
+Calum Chambers,Aston Villa,0,0,0,0.0,0.0,0.0,14,2223
+Wayne Hennessey,Nottingham Forest,0,0,0,0.0,0.0,0.0,4,2223
+Angelo Ogbonna,West Ham,0,0,0,0.0,0.0,0.0,16,2223
+David de Gea,Manchester United,0,0,0,0.0,0.0,0.0,38,2223
+Jesse Lingard,Nottingham Forest,0,0,0,0.0,0.0,0.0,17,2223
+Joel Robles,Leeds,0,0,0,0.0,0.0,0.0,4,2223
+Nathaniel Clyne,Crystal Palace,0,0,0,0.0,0.0,0.0,22,2223
+James McArthur,Crystal Palace,0,0,0,0.0,0.0,0.0,4,2223
+Alex McCarthy,Southampton,0,0,0,0.0,0.0,0.0,6,2223
+Hugo Lloris,Tottenham,0,0,0,0.0,0.0,0.0,25,2223
+Kyle Walker,Manchester City,0,0,0,0.0,0.0,0.0,27,2223
+Dele Alli,Everton,0,0,0,0.0,0.0,0.0,2,2223
+Josh Onomah,Fulham,0,0,0,0.0,0.0,0.0,2,2223
+César Azpilicueta,Chelsea,0,0,0,0.0,0.0,0.0,25,2223
+Asmir Begovic,Everton,0,0,0,0.0,0.0,0.0,1,2223
+Lukasz Fabianski,West Ham,0,0,0,0.0,0.0,0.0,36,2223
+André Ayew,Nottingham Forest,0,0,0,0.0,0.0,0.0,13,2223
+Daniel Amartey,Leicester,0,0,0,0.0,0.0,0.0,20,2223
+Jamaal Lascelles,Newcastle United,0,0,0,0.0,0.0,0.0,7,2223
+Jack Colback,Nottingham Forest,0,0,0,0.0,0.0,0.0,11,2223
+Nathan Redmond,Southampton,0,0,0,0.0,0.0,0.0,1,2223
+Jonny Evans,Leicester,0,0,0,0.0,0.0,0.0,13,2223
+Salomón Rondón,Everton,0,0,0,0.0,0.0,0.0,7,2223
+Fraser Forster,Tottenham,0,0,0,0.0,0.0,0.0,14,2223
+Oriol Romeu,Southampton,0,0,0,0.0,0.0,0.0,1,2223
+Matt Targett,Newcastle United,0,0,0,0.0,0.0,0.0,17,2223
+Sam Johnstone,Crystal Palace,0,0,0,0.0,0.0,0.0,9,2223
+Mason Holgate,Everton,0,0,0,0.0,0.0,0.0,8,2223
+Joseph Gomez,Liverpool,0,0,0,0.0,0.0,0.0,21,2223
+Tom Davies,Everton,0,0,0,0.0,0.0,0.0,19,2223
+Sergi Canos,Brentford,0,0,0,0.0,0.0,0.0,5,2223
+Neto,Bournemouth,0,0,0,0.0,0.0,0.0,27,2223
+Remo Freuler,Nottingham Forest,0,0,0,0.0,0.0,0.0,28,2223
+Sasa Lukic,Fulham,0,0,0,0.0,0.0,0.0,12,2223
+Emil Krafth,Newcastle United,0,0,0,0.0,0.0,0.0,1,2223
+Nathaniel Chalobah,Fulham,0,0,0,0.0,0.0,0.0,4,2223
+Ryan Fraser,Newcastle United,0,0,0,0.0,0.0,0.0,8,2223
+Harry Maguire,Manchester United,0,0,0,0.0,0.0,0.0,16,2223
+Adam Forshaw,Leeds,0,0,0,0.0,0.0,0.0,12,2223
+Javier Manquillo,Newcastle United,0,0,0,0.0,0.0,0.0,4,2223
+Ainsley Maitland-Niles,Southampton,0,0,0,0.0,0.0,0.0,22,2223
+Diego Llorente,Leeds,0,0,0,0.0,0.0,0.0,8,2223
+Vicente Guaita,Crystal Palace,0,0,0,0.0,0.0,0.0,27,2223
+Keylor Navas,Nottingham Forest,0,0,0,0.0,0.0,0.0,17,2223
+Raphael Varane,Manchester United,0,0,0,0.0,0.0,0.0,24,2223
+Alphonse Areola,West Ham,0,0,0,0.0,0.0,0.0,5,2223
+Aymeric Laporte,Manchester City,0,0,0,0.0,0.0,0.0,12,2223
+Maxwel Cornet,West Ham,0,0,0,0.0,0.0,0.0,14,2223
+Layvin Kurzawa,Fulham,0,0,0,0.0,0.0,0.0,3,2223
+Morgan Sanson,Aston Villa,0,0,0,0.0,0.0,0.0,2,2223
+Mateusz Klich,Leeds,0,0,0,0.0,0.0,0.0,14,2223
+Emiliano Martinez,Aston Villa,0,0,0,0.0,0.0,0.0,36,2223
+Kepa,Chelsea,0,0,0,0.0,0.0,0.0,29,2223
+Naby Keita,Liverpool,0,0,0,0.0,0.0,0.0,8,2223
+Wilfred Ndidi,Leicester,0,0,0,0.0,0.0,0.0,27,2223
+Luka Milivojevic,Crystal Palace,0,0,0,0.0,0.0,0.0,18,2223
+Nick Pope,Newcastle United,0,0,0,0.0,0.0,0.0,37,2223
+Aaron Wan-Bissaka,Manchester United,0,0,0,0.0,0.0,0.0,19,2223
+Aaron Ramsdale,Arsenal,0,0,0,0.0,0.0,0.0,38,2223
+Yves Bissouma,Tottenham,0,0,0,0.0,0.0,0.0,23,2223
+Cafú,Nottingham Forest,0,0,0,0.0,0.0,0.0,1,2223
+Diego Carlos,Aston Villa,0,0,0,0.0,0.0,0.0,3,2223
+Moussa Niakhate,Nottingham Forest,0,0,0,0.0,0.0,0.0,14,2223
+Jairo Riedewald,Crystal Palace,0,0,0,0.0,0.0,0.0,6,2223
+Zanka,Brentford,0,0,0,0.0,0.0,0.0,18,2223
+Shane Duffy,Fulham,0,0,0,0.0,0.0,0.0,5,2223
+Victor Lindelöf,Manchester United,0,0,0,0.0,0.0,0.0,20,2223
+Ludwig Augustinsson,Aston Villa,0,0,0,0.0,0.0,0.0,3,2223
+Denis Zakaria,Chelsea,0,0,0,0.0,0.0,0.0,7,2223
+Davinson Sánchez,Tottenham,0,0,0,0.0,0.0,0.0,18,2223
+Robin Koch,Leeds,0,0,0,0.0,0.0,0.0,36,2223
+Boubakary Soumare,Leicester,0,0,0,0.0,0.0,0.0,26,2223
+Ibrahima Konaté,Liverpool,0,0,0,0.0,0.0,0.0,18,2223
+Pedro Neto,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,18,2223
+Ben Johnson,West Ham,0,0,0,0.0,0.0,0.0,17,2223
+Martin Dubravka,Newcastle United,0,0,0,0.0,0.0,0.0,2,2223
+Trevoh Chalobah,Chelsea,0,0,0,0.0,0.0,0.0,25,2223
+Ibrahima Diallo,Southampton,0,0,0,0.0,0.0,0.0,18,2223
+David Brooks,Bournemouth,0,0,0,0.0,0.0,0.0,6,2223
+Rúben Vinagre,Everton,0,0,0,0.0,0.0,0.0,2,2223
+Edouard Mendy,Chelsea,0,0,0,0.0,0.0,0.0,10,2223
+Ryan Fredericks,Bournemouth,0,0,0,0.0,0.0,0.0,12,2223
+Robin Olsen,Aston Villa,0,0,0,0.0,0.0,0.0,4,2223
+Hamed Junior Traore,Bournemouth,0,0,0,0.0,0.0,0.0,7,2223
+Saman Ghoddos,Brentford,0,0,0,0.0,0.0,0.0,15,2223
+Conor Coventry,West Ham,0,0,0,0.0,0.0,0.0,1,2223
+Yan Valery,Southampton,0,0,0,0.0,0.0,0.0,1,2223
+Giulian Biancone,Nottingham Forest,0,0,0,0.0,0.0,0.0,2,2223
+Max Kilman,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,37,2223
+Tyler Adams,Leeds,0,0,0,0.0,0.0,0.0,24,2223
+Maximilian Wöber,Leeds,0,0,0,0.0,0.0,0.0,16,2223
+Chris Mepham,Bournemouth,0,0,0,0.0,0.0,0.0,26,2223
+Mark Travers,Bournemouth,0,0,0,0.0,0.0,0.0,12,2223
+Jamal Lewis,Newcastle United,0,0,0,0.0,0.0,0.0,2,2223
+Adam Webster,Brighton,0,0,0,0.0,0.0,0.0,27,2223
+Dean Henderson,Nottingham Forest,0,0,0,0.0,0.0,0.0,18,2223
+Ezri Konsa Ngoyo,Aston Villa,0,0,0,0.0,0.0,0.0,38,2223
+James Justin,Leicester,0,0,0,0.0,0.0,0.0,14,2223
+Jack Stacey,Bournemouth,0,0,0,0.0,0.0,0.0,10,2223
+Caoimhin Kelleher,Liverpool,0,0,0,0.0,0.0,0.0,1,2223
+Japhet Tanganga,Tottenham,0,0,0,0.0,0.0,0.0,4,2223
+Tariq Lamptey,Brighton,0,0,0,0.0,0.0,0.0,20,2223
+Nathaniel Phillips,Liverpool,0,0,0,0.0,0.0,0.0,2,2223
+Chris Richards,Crystal Palace,0,0,0,0.0,0.0,0.0,9,2223
+Harvey White,Tottenham,0,0,0,0.0,0.0,0.0,1,2223
+Luke Thomas,Leicester,0,0,0,0.0,0.0,0.0,17,2223
+Sven Botman,Newcastle United,0,0,0,0.0,0.0,0.0,36,2223
+Marek Rodák,Fulham,0,0,0,0.0,0.0,0.0,2,2223
+Illan Meslier,Leeds,0,0,0,0.0,0.0,0.0,34,2223
+Kalvin Phillips,Manchester City,0,0,0,0.0,0.0,0.0,12,2223
+Stefan Ortega Moreno,Manchester City,0,0,0,0.0,0.0,0.0,3,2223
+Sasa Kalajdzic,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,1,2223
+Donny van de Beek,Manchester United,0,0,0,0.0,0.0,0.0,7,2223
+Mikkel Damsgaard,Brentford,0,0,0,0.0,0.0,0.0,26,2223
+Rúben Dias,Manchester City,0,0,0,0.0,0.0,0.0,26,2223
+Robert Sánchez,Brighton,0,0,0,0.0,0.0,0.0,23,2223
+Naouirou Ahamada,Crystal Palace,0,0,0,0.0,0.0,0.0,8,2223
+Facundo Pellistri,Manchester United,0,0,0,0.0,0.0,0.0,4,2223
+Carney Chukwuemeka,Chelsea,0,0,0,0.0,0.0,0.0,14,2223
+Isaac Price,Everton,0,0,0,0.0,0.0,0.0,1,2223
+Cody Drameh,Leeds,0,0,0,0.0,0.0,0.0,1,2223
+Valentino Livramento,Southampton,0,0,0,0.0,0.0,0.0,2,2223
+Tyrese Francois,Fulham,0,0,0,0.0,0.0,0.0,1,2223
+David Raya,Brentford,0,0,0,0.0,0.0,0.0,38,2223
+Kristoffer Ajer,Brentford,0,0,0,0.0,0.0,0.0,9,2223
+Mads Bech Sørensen,Brentford,0,0,0,0.0,0.0,0.0,4,2223
+Mads Roerslev,Brentford,0,0,0,0.0,0.0,0.0,20,2223
+Halil Dervisoglu,Brentford,0,0,0,0.0,0.0,0.0,1,2223
+Nathan Collins,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,26,2223
+José Sá,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,36,2223
+Chem Campbell,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,5,2223
+Cameron Archer,Aston Villa,0,0,0,0.0,0.0,0.0,6,2223
+Samuel Edozie,Southampton,0,0,0,0.0,0.0,0.0,17,2223
+Lewis Brunt,Leicester,0,0,0,0.0,0.0,0.0,1,2223
+Lewis Hall,Chelsea,0,0,0,0.0,0.0,0.0,9,2223
+Vitalii Mykolenko,Everton,0,0,0,0.0,0.0,0.0,34,2223
+Nathan Patterson,Everton,0,0,0,0.0,0.0,0.0,19,2223
+Omari Hutchinson,Chelsea,0,0,0,0.0,0.0,0.0,1,2223
+Odeluga Offiah,Brighton,0,0,0,0.0,0.0,0.0,2,2223
+Matthew Craig,Tottenham,0,0,0,0.0,0.0,0.0,1,2223
+Malcolm Ebiowei,Crystal Palace,0,0,0,0.0,0.0,0.0,3,2223
+Jay Stansfield,Fulham,0,0,0,0.0,0.0,0.0,3,2223
+Luke Harris,Fulham,0,0,0,0.0,0.0,0.0,3,2223
+Ben Pearson,Bournemouth,0,0,0,0.0,0.0,0.0,7,2223
+Emiliano Marcondes,Bournemouth,0,0,0,0.0,0.0,0.0,1,2223
+Siriki Dembélé,Bournemouth,0,0,0,0.0,0.0,0.0,6,2223
+Darko Gyabi,Leeds,0,0,0,0.0,0.0,0.0,1,2223
+Connor Ronan,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,1,2223
+Joseph Hodge,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,6,2223
+Scott McKenna,Nottingham Forest,0,0,0,0.0,0.0,0.0,20,2223
+Harry Toffolo,Nottingham Forest,0,0,0,0.0,0.0,0.0,19,2223
+Alex Mighten,Nottingham Forest,0,0,0,0.0,0.0,0.0,1,2223
+Djed Spence,Tottenham,0,0,0,0.0,0.0,0.0,4,2223
+Gavin Bazunu,Southampton,0,0,0,0.0,0.0,0.0,32,2223
+Tyrell Malacia,Manchester United,0,0,0,0.0,0.0,0.0,22,2223
+Jan Paul van Hecke,Brighton,0,0,0,0.0,0.0,0.0,8,2223
+Daniel Iversen,Leicester,0,0,0,0.0,0.0,0.0,12,2223
+Flynn Downes,West Ham,0,0,0,0.0,0.0,0.0,21,2223
+Rico Lewis,Manchester City,0,0,0,0.0,0.0,0.0,14,2223
+Jamal Lowe,Bournemouth,0,0,0,0.0,0.0,0.0,2,2223
+Bobby Clark,Liverpool,0,0,0,0.0,0.0,0.0,1,2223
+Joseph Whitworth,Crystal Palace,0,0,0,0.0,0.0,0.0,2,2223
+Owen Bevan,Bournemouth,0,0,0,0.0,0.0,0.0,1,2223
+Marquinhos,Arsenal,0,0,0,0.0,0.0,0.0,1,2223
+Juan Larios,Southampton,0,0,0,0.0,0.0,0.0,5,2223
+Ethan Nwaneri,Arsenal,0,0,0,0.0,0.0,0.0,1,2223
+Kobbie Mainoo,Manchester United,0,0,0,0.0,0.0,0.0,1,2223
+Andrew Moran,Brighton,0,0,0,0.0,0.0,0.0,1,2223
+Mateo Joseph,Leeds,0,0,0,0.0,0.0,0.0,3,2223
+Ben Doak,Liverpool,0,0,0,0.0,0.0,0.0,2,2223
+Thomas Cannon,Everton,0,0,0,0.0,0.0,0.0,2,2223
+Dexter Lembikisa,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,1,2223
+Divin Mubama,West Ham,0,0,0,0.0,0.0,0.0,3,2223
+David Ozoh,Crystal Palace,0,0,0,0.0,0.0,0.0,1,2223
+Jack Hinshelwood,Brighton,0,0,0,0.0,0.0,0.0,1,2223
+Gustavo Scarpa,Nottingham Forest,0,0,0,0.0,0.0,0.0,6,2223
+David Datro Fofana,Chelsea,0,0,0,0.0,0.0,0.0,3,2223
+Mislav Orsic,Southampton,0,0,0,0.0,0.0,0.0,1,2223
+James Bree,Southampton,0,0,0,0.0,0.0,0.0,5,2223
+Paul Onuachu,Southampton,0,0,0,0.0,0.0,0.0,11,2223
+Daniel Bentley,Wolverhampton Wanderers,0,0,0,0.0,0.0,0.0,2,2223
+Jhon Durán,Aston Villa,0,0,0,0.0,0.0,0.0,12,2223
+Máximo Perrone,Manchester City,0,0,0,0.0,0.0,0.0,1,2223
+Yasin Ayari,Brighton,0,0,0,0.0,0.0,0.0,3,2223
+Lewis Miley,Newcastle United,0,0,0,0.0,0.0,0.0,1,2223
+Illia Zabarnyi,Bournemouth,0,0,0,0.0,0.0,0.0,5,2223
+George Abbott,Tottenham,0,0,0,0.0,0.0,0.0,1,2223
+Cameron Peupion,Brighton,0,0,0,0.0,0.0,0.0,1,2223
+Kamari Doyle,Southampton,0,0,0,0.0,0.0,0.0,1,2223
+Dominic Ballard,Southampton,0,0,0,0.0,0.0,0.0,2,2223
+Shea Charles,Manchester City,0,0,0,0.0,0.0,0.0,1,2223
+Samuel Amo-Ameyaw,Southampton,0,0,0,0.0,0.0,0.0,1,2223

@@ -1,0 +1,572 @@
+player,team,goals,assists,contributions,contribution_pct,goals_pct,assists_pct,games,season
+Enes Ünal,Getafe,14,3,17,50.0,41.2,8.8,35,2223
+Vedat Muriqi,Mallorca,15,3,18,48.6,40.5,8.1,35,2223
+Antoine Griezmann,Atletico Madrid,15,16,31,44.3,21.4,22.9,38,2223
+Robert Lewandowski,Barcelona,23,7,30,42.9,32.9,10.0,34,2223
+Borja Iglesias,Real Betis,15,3,18,39.1,32.6,6.5,35,2223
+Iago Aspas,Celta Vigo,12,3,15,34.9,27.9,7.0,37,2223
+Gabriel Veiga,Celta Vigo,11,4,15,34.9,25.6,9.3,36,2223
+Joselu,Espanyol,16,2,18,34.6,30.8,3.8,34,2223
+Cyle Larin,Real Valladolid,8,3,11,33.3,24.2,9.1,19,2223
+Lee Kang-In,Mallorca,6,6,12,32.4,16.2,16.2,36,2223
+Isi Palazón,Rayo Vallecano,9,5,14,31.1,20.0,11.1,37,2223
+Lucas Boyé,Elche,7,2,9,30.0,23.3,6.7,35,2223
+Alexander Sørloth,Real Sociedad,12,3,15,29.4,23.5,5.9,34,2223
+Borja Mayoral,Getafe,8,2,10,29.4,23.5,5.9,35,2223
+Karim Benzema,Real Madrid,19,3,22,29.3,25.3,4.0,24,2223
+Iñaki Williams,Athletic Club,10,3,13,27.7,21.3,6.4,36,2223
+Nicolas Jackson,Villarreal,12,4,16,27.1,20.3,6.8,26,2223
+Ezequiel Ávila,Osasuna,8,2,10,27.0,21.6,5.4,29,2223
+Oihan Sancet,Athletic Club,10,2,12,25.5,21.3,4.3,36,2223
+Takefusa Kubo,Real Sociedad,9,4,13,25.5,17.6,7.8,35,2223
+Vinícius Júnior,Real Madrid,10,9,19,25.3,13.3,12.0,33,2223
+Sergio Camello,Rayo Vallecano,6,5,11,24.4,13.3,11.1,38,2223
+Dani Rodríguez,Mallorca,3,6,9,24.3,8.1,16.2,35,2223
+Aimar Oroz,Osasuna,3,6,9,24.3,8.1,16.2,31,2223
+Brais Méndez,Real Sociedad,8,4,12,23.5,15.7,7.8,34,2223
+Pere Milla,Elche,6,1,7,23.3,20.0,3.3,31,2223
+Theo Bongonda,Cadiz,4,3,7,23.3,13.3,10.0,31,2223
+Gerard Gumbau,Elche,1,6,7,23.3,3.3,20.0,35,2223
+Martin Braithwaite,Espanyol,10,2,12,23.1,19.2,3.8,31,2223
+Rodrygo,Real Madrid,9,8,17,22.7,12.0,10.7,34,2223
+Valentín Castellanos,Girona,13,0,13,22.4,22.4,0.0,35,2223
+Álvaro García,Rayo Vallecano,5,5,10,22.2,11.1,11.1,35,2223
+Ante Budimir,Osasuna,8,0,8,21.6,21.6,0.0,31,2223
+Mikel Merino,Real Sociedad,2,9,11,21.6,3.9,17.6,33,2223
+Álvaro Morata,Atletico Madrid,13,2,15,21.4,18.6,2.9,36,2223
+Nico Williams,Athletic Club,6,4,10,21.3,12.8,8.5,36,2223
+Sergio León,Real Valladolid,6,1,7,21.2,18.2,3.0,29,2223
+Marco Asensio,Real Madrid,9,6,15,20.0,12.0,8.0,31,2223
+Raphinha,Barcelona,7,7,14,20.0,10.0,10.0,36,2223
+Youssef En-Nesyri,Sevilla,8,1,9,19.1,17.0,2.1,31,2223
+Kike Barja,Osasuna,1,6,7,18.9,2.7,16.2,27,2223
+Samuel Chukwueze,Villarreal,6,5,11,18.6,10.2,8.5,37,2223
+Jørgen Strand Larsen,Celta Vigo,4,4,8,18.6,9.3,9.3,32,2223
+Carles Pérez,Celta Vigo,3,5,8,18.6,7.0,11.6,35,2223
+El Bilal Touré,Almeria,7,2,9,18.4,14.3,4.1,21,2223
+Lucas Robertone,Almeria,2,7,9,18.4,4.1,14.3,37,2223
+Gonzalo Plata,Real Valladolid,1,5,6,18.2,3.0,15.2,34,2223
+Javi Puado,Espanyol,7,2,9,17.3,13.5,3.8,37,2223
+Sergi Darder,Espanyol,6,3,9,17.3,11.5,5.8,38,2223
+Ousmane Dembélé,Barcelona,5,7,12,17.1,7.1,10.0,25,2223
+Gerard Moreno,Villarreal,7,3,10,16.9,11.9,5.1,21,2223
+Samuel Lino,Valencia,6,1,7,16.7,14.3,2.4,38,2223
+Edinson Cavani,Valencia,5,2,7,16.7,11.9,4.8,25,2223
+Gonzalo Escalante,Cadiz,4,1,5,16.7,13.3,3.3,14,2223
+Fidel,Elche,3,2,5,16.7,10.0,6.7,27,2223
+Rubén Sobrino,Cadiz,3,2,5,16.7,10.0,6.7,33,2223
+Luis Suárez,Almeria,4,4,8,16.3,8.2,8.2,21,2223
+Abdessamad Ezzalzouli,Osasuna,4,2,6,16.2,10.8,5.4,28,2223
+Pablo Maffeo,Mallorca,2,4,6,16.2,5.4,10.8,35,2223
+Óscar Trejo,Rayo Vallecano,3,4,7,15.6,6.7,8.9,34,2223
+Cristhian Stuani,Girona,9,0,9,15.5,15.5,0.0,32,2223
+Viktor Tsygankov,Girona,3,6,9,15.5,5.2,10.3,19,2223
+Brian Oliván,Espanyol,1,7,8,15.4,1.9,13.5,30,2223
+Yeremi Pino,Villarreal,4,5,9,15.3,6.8,8.5,36,2223
+Sergio Canales,Real Betis,4,3,7,15.2,8.7,6.5,31,2223
+Monchu,Real Valladolid,3,2,5,15.2,9.1,6.1,33,2223
+Gorka Guruzeta,Athletic Club,6,1,7,14.9,12.8,2.1,30,2223
+De Marcos,Athletic Club,1,6,7,14.9,2.1,12.8,37,2223
+Federico Valverde,Real Madrid,7,4,11,14.7,9.3,5.3,34,2223
+Ángel Correa,Atletico Madrid,9,1,10,14.3,12.9,1.4,35,2223
+Yannick Carrasco,Atletico Madrid,7,3,10,14.3,10.0,4.3,35,2223
+Anssumane Fati,Barcelona,7,3,10,14.3,10.0,4.3,36,2223
+Justin Kluivert,Valencia,6,0,6,14.3,14.3,0.0,26,2223
+Gonzalo Melero,Almeria,4,3,7,14.3,8.2,6.1,27,2223
+André Almeida,Valencia,2,4,6,14.3,4.8,9.5,34,2223
+Rodrigo Riquelme,Girona,4,4,8,13.8,6.9,6.9,34,2223
+David Silva,Real Sociedad,2,5,7,13.7,3.9,9.8,28,2223
+Álex Baena,Villarreal,6,2,8,13.6,10.2,3.4,35,2223
+Moi Gómez,Osasuna,3,2,5,13.5,8.1,5.4,33,2223
+Raíllo,Mallorca,2,3,5,13.5,5.4,8.1,31,2223
+Ezequiel Ponce,Elche,4,0,4,13.3,13.3,0.0,33,2223
+Tete Morente,Elche,4,0,4,13.3,13.3,0.0,32,2223
+Josan,Elche,1,3,4,13.3,3.3,10.0,26,2223
+Alfonso Espino,Cadiz,0,4,4,13.3,0.0,13.3,36,2223
+Rodrigo de Paul,Atletico Madrid,2,7,9,12.9,2.9,10.0,30,2223
+Erik Lamela,Sevilla,6,0,6,12.8,12.8,0.0,32,2223
+Rafa Mir,Sevilla,6,0,6,12.8,12.8,0.0,26,2223
+Mikel Vesga,Athletic Club,3,3,6,12.8,6.4,6.4,36,2223
+Suso,Sevilla,2,4,6,12.8,4.3,8.5,25,2223
+Lázaro,Almeria,6,0,6,12.2,12.2,0.0,19,2223
+Arnau Martinez,Girona,3,4,7,12.1,5.2,6.9,33,2223
+Morales,Villarreal,7,0,7,11.9,11.9,0.0,29,2223
+Daniel Parejo,Villarreal,3,4,7,11.9,5.1,6.8,37,2223
+Hugo Guillamón,Valencia,1,4,5,11.9,2.4,9.5,25,2223
+Munir,Getafe,3,1,4,11.8,8.8,2.9,28,2223
+Carles Aleñá,Getafe,2,2,4,11.8,5.9,5.9,35,2223
+Santiago Comesaña,Rayo Vallecano,3,2,5,11.1,6.7,4.4,35,2223
+Fran García,Rayo Vallecano,2,3,5,11.1,4.4,6.7,38,2223
+Juan Miranda,Real Betis,3,2,5,10.9,6.5,4.3,21,2223
+Rodrigo Sánchez,Real Betis,2,3,5,10.9,4.3,6.5,30,2223
+Rubén García,Osasuna,2,2,4,10.8,5.4,5.4,29,2223
+Jon Moncayola,Osasuna,1,3,4,10.8,2.7,8.1,37,2223
+Alex Berenguer,Athletic Club,4,1,5,10.6,8.5,2.1,37,2223
+Marcos Acuña,Sevilla,3,2,5,10.6,6.4,4.3,30,2223
+Raúl García,Athletic Club,2,3,5,10.6,4.3,6.4,35,2223
+Iván Martín,Girona,3,3,6,10.3,5.2,5.2,24,2223
+Aleix García,Girona,1,5,6,10.3,1.7,8.6,30,2223
+Leo Baptistao,Almeria,4,1,5,10.2,8.2,2.0,28,2223
+Pedri,Barcelona,6,1,7,10.0,8.6,1.4,26,2223
+Lucas Pérez,Cadiz,3,0,3,10.0,10.0,0.0,14,2223
+Álex Fernández,Cadiz,3,0,3,10.0,10.0,0.0,28,2223
+Rubén Alcaraz,Cadiz,3,0,3,10.0,10.0,0.0,31,2223
+Álvaro Negredo,Cadiz,1,2,3,10.0,3.3,6.7,21,2223
+Álex Balde,Barcelona,1,6,7,10.0,1.4,8.6,33,2223
+Mikel Oyarzabal,Real Sociedad,4,1,5,9.8,7.8,2.0,23,2223
+Samu Castillejo,Valencia,4,0,4,9.5,9.5,0.0,25,2223
+Diego López,Valencia,3,1,4,9.5,7.1,2.4,10,2223
+José Gayá,Valencia,1,3,4,9.5,2.4,7.1,31,2223
+Luka Modric,Real Madrid,4,3,7,9.3,5.3,4.0,33,2223
+Haris Seferovic,Celta Vigo,3,1,4,9.3,7.0,2.3,18,2223
+Franco Cervi,Celta Vigo,0,4,4,9.3,0.0,9.3,36,2223
+Roque Mesa,Real Valladolid,2,1,3,9.1,6.1,3.0,29,2223
+Selim Amallah,Real Valladolid,2,1,3,9.1,6.1,3.0,7,2223
+Kike Pérez,Real Valladolid,1,2,3,9.1,3.0,6.1,36,2223
+Álvaro Aguado,Real Valladolid,1,2,3,9.1,3.0,6.1,34,2223
+Raúl de Tomás,Rayo Vallecano,4,0,4,8.9,8.9,0.0,19,2223
+Florian Lejeune,Rayo Vallecano,4,0,4,8.9,8.9,0.0,31,2223
+Portu,Getafe,0,3,3,8.8,0.0,8.8,34,2223
+Luis Milla,Getafe,0,3,3,8.8,0.0,8.8,27,2223
+Juanmi,Real Betis,4,0,4,8.7,8.7,0.0,22,2223
+Ayoze Pérez,Real Betis,3,1,4,8.7,6.5,2.2,19,2223
+Nabil Fekir,Real Betis,2,2,4,8.7,4.3,4.3,15,2223
+Luiz Henrique,Real Betis,1,3,4,8.7,2.2,6.5,33,2223
+Ferrán Torres,Barcelona,4,2,6,8.6,5.7,2.9,33,2223
+Nahuel Molina,Atletico Madrid,4,2,6,8.6,5.7,2.9,33,2223
+João Félix,Atletico Madrid,3,3,6,8.6,4.3,4.3,14,2223
+Frenkie de Jong,Barcelona,2,4,6,8.6,2.9,5.7,33,2223
+Miguel Gutiérrez,Girona,2,3,5,8.6,3.4,5.2,34,2223
+Gavi,Barcelona,2,4,6,8.6,2.9,5.7,36,2223
+Lucas Ocampos,Sevilla,4,0,4,8.5,8.5,0.0,19,2223
+Óliver Torres,Sevilla,3,1,4,8.5,6.4,2.1,32,2223
+Nemanja Gudelj,Sevilla,3,1,4,8.5,6.4,2.1,34,2223
+Giovani Lo Celso,Villarreal,2,3,5,8.5,3.4,5.1,22,2223
+Bryan Gil Salvatierra,Sevilla,2,2,4,8.5,4.3,4.3,17,2223
+Ivan Rakitic,Sevilla,1,3,4,8.5,2.1,6.4,31,2223
+Pape Alassane Gueye,Sevilla,1,3,4,8.5,2.1,6.4,16,2223
+Largie Ramazani,Almeria,3,1,4,8.2,6.1,2.0,33,2223
+Toni Kroos,Real Madrid,2,4,6,8.0,2.7,5.3,30,2223
+Ander Barrenetxea,Real Sociedad,3,1,4,7.8,5.9,2.0,23,2223
+Martín Zubimendi,Real Sociedad,1,3,4,7.8,2.0,5.9,36,2223
+Edu Expósito,Espanyol,2,2,4,7.7,3.8,3.8,28,2223
+Sergi Roberto,Barcelona,4,1,5,7.1,5.7,1.4,23,2223
+Mouctar Diakhaby,Valencia,3,0,3,7.1,7.1,0.0,29,2223
+Mario Hermoso,Atletico Madrid,3,2,5,7.1,4.3,2.9,26,2223
+Jordi Alba,Barcelona,2,3,5,7.1,2.9,4.3,24,2223
+Joseph Aidoo,Celta Vigo,3,0,3,7.0,7.0,0.0,35,2223
+Javi Galán,Celta Vigo,0,3,3,7.0,0.0,7.0,37,2223
+David López,Girona,3,1,4,6.9,5.2,1.7,20,2223
+Yangel Herrera,Girona,2,2,4,6.9,3.4,3.4,20,2223
+Eder Militão,Real Madrid,5,0,5,6.7,6.7,0.0,33,2223
+Lucas Vázquez,Real Madrid,4,1,5,6.7,5.3,1.3,23,2223
+Unai López,Rayo Vallecano,1,2,3,6.7,2.2,4.4,34,2223
+Anthony Lozano,Cadiz,1,1,2,6.7,3.3,3.3,28,2223
+Álex Collado,Elche,1,1,2,6.7,3.3,3.3,16,2223
+Brian Ocampo,Cadiz,1,1,2,6.7,3.3,3.3,18,2223
+Lautaro Blanco,Elche,0,2,2,6.7,0.0,6.7,17,2223
+William Carvalho,Real Betis,3,0,3,6.5,6.5,0.0,33,2223
+Willian José,Real Betis,2,1,3,6.5,4.3,2.2,28,2223
+Álex Moreno,Real Betis,0,3,3,6.5,0.0,6.5,15,2223
+Muniain,Athletic Club,0,3,3,6.4,0.0,6.4,30,2223
+Gonzalo Montiel,Sevilla,0,3,3,6.4,0.0,6.4,28,2223
+Srdjan Babic,Almeria,3,0,3,6.1,6.1,0.0,34,2223
+Francisco Portillo,Almeria,2,1,3,6.1,4.1,2.0,27,2223
+Iván Sánchez,Real Valladolid,1,1,2,6.1,3.0,3.0,25,2223
+Óscar Plano,Real Valladolid,1,1,2,6.1,3.0,3.0,33,2223
+Álex Centelles,Almeria,1,2,3,6.1,2.0,4.1,15,2223
+Samú Costa,Almeria,1,2,3,6.1,2.0,4.1,32,2223
+Alejandro Pozo,Almeria,0,3,3,6.1,0.0,6.1,30,2223
+Gastón Álvarez,Getafe,2,0,2,5.9,5.9,0.0,22,2223
+Damián Suárez,Getafe,1,1,2,5.9,2.9,2.9,28,2223
+Jaime Mata,Getafe,1,1,2,5.9,2.9,2.9,18,2223
+Mohamed Ali-Cho,Real Sociedad,1,2,3,5.9,2.0,3.9,19,2223
+Omar Alderete,Getafe,1,1,2,5.9,2.9,2.9,25,2223
+Domingos Duarte,Getafe,0,2,2,5.9,0.0,5.9,31,2223
+César Montes,Espanyol,3,0,3,5.8,5.8,0.0,20,2223
+Nicolás Melamed,Espanyol,1,2,3,5.8,1.9,3.8,32,2223
+Aleix Vidal,Espanyol,0,3,3,5.8,0.0,5.8,25,2223
+Thomas Lemar,Atletico Madrid,1,3,4,5.7,1.4,4.3,27,2223
+Jules Koundé,Barcelona,1,3,4,5.7,1.4,4.3,29,2223
+Sergio Busquets,Barcelona,0,4,4,5.7,0.0,5.7,30,2223
+Amath Diedhiou,Mallorca,2,0,2,5.4,5.4,0.0,28,2223
+Kike García,Osasuna,2,0,2,5.4,5.4,0.0,35,2223
+David García,Osasuna,2,0,2,5.4,5.4,0.0,32,2223
+Darko Brasanac,Osasuna,1,1,2,5.4,2.7,2.7,25,2223
+Abdón Prats,Mallorca,1,1,2,5.4,2.7,2.7,26,2223
+Manuel Sánchez,Osasuna,0,2,2,5.4,0.0,5.4,31,2223
+Giovanni González,Mallorca,0,2,2,5.4,0.0,5.4,15,2223
+David Alaba,Real Madrid,1,3,4,5.3,1.3,4.0,23,2223
+Dani Ceballos,Real Madrid,0,4,4,5.3,0.0,5.3,30,2223
+Aurelien Tchouameni,Real Madrid,0,4,4,5.3,0.0,5.3,33,2223
+Reinier,Girona,2,1,3,5.2,3.4,1.7,18,2223
+Javi Hernández,Girona,1,2,3,5.2,1.7,3.4,25,2223
+Yan Couto,Girona,1,2,3,5.2,1.7,3.4,25,2223
+Etienne Capoue,Villarreal,3,0,3,5.1,5.1,0.0,28,2223
+Alfonso,Villarreal,0,3,3,5.1,0.0,5.1,26,2223
+Hugo Duro,Valencia,1,1,2,4.8,2.4,2.4,30,2223
+Nico González,Valencia,1,1,2,4.8,2.4,2.4,26,2223
+Dimitri Foulquier,Valencia,0,2,2,4.8,0.0,4.8,30,2223
+Yunus Musah,Valencia,0,2,2,4.8,0.0,4.8,33,2223
+Ilaix Moriba,Valencia,0,2,2,4.8,0.0,4.8,24,2223
+Óscar Rodríguez,Celta Vigo,2,0,2,4.7,4.7,0.0,33,2223
+Gonçalo Paciência,Celta Vigo,2,0,2,4.7,4.7,0.0,25,2223
+Miguel Rodriguez,Celta Vigo,1,1,2,4.7,2.3,2.3,7,2223
+Fran Beltrán,Celta Vigo,0,2,2,4.7,0.0,4.7,36,2223
+Luca De La Torre,Celta Vigo,0,2,2,4.7,0.0,4.7,28,2223
+Falcao,Rayo Vallecano,2,0,2,4.4,4.4,0.0,27,2223
+Alejandro Catena,Rayo Vallecano,1,1,2,4.4,2.2,2.2,35,2223
+Pep Chavarría,Rayo Vallecano,0,2,2,4.4,0.0,4.4,15,2223
+Saúl Ñíguez,Atletico Madrid,3,0,3,4.3,4.3,0.0,31,2223
+Giménez,Atletico Madrid,2,1,3,4.3,2.9,1.4,28,2223
+Alejandro Gomez,Sevilla,1,1,2,4.3,2.1,2.1,19,2223
+Yuri,Athletic Club,1,1,2,4.3,2.1,2.1,29,2223
+Marcos Llorente,Atletico Madrid,1,2,3,4.3,1.4,2.9,22,2223
+Karim Rekik,Sevilla,1,1,2,4.3,2.1,2.1,16,2223
+Youssouf Sabaly,Real Betis,1,1,2,4.3,2.2,2.2,23,2223
+Yeray Álvarez,Athletic Club,1,1,2,4.3,2.1,2.1,28,2223
+Andrés Guardado,Real Betis,1,1,2,4.3,2.2,2.2,26,2223
+Kike Salas,Sevilla,1,1,2,4.3,2.1,2.1,6,2223
+Alex Telles,Sevilla,0,2,2,4.3,0.0,4.3,27,2223
+Dani García,Athletic Club,0,2,2,4.3,0.0,4.3,25,2223
+Joaquín,Real Betis,0,2,2,4.3,0.0,4.3,22,2223
+Isco,Sevilla,0,2,2,4.3,0.0,4.3,12,2223
+Koke,Atletico Madrid,0,3,3,4.3,0.0,4.3,33,2223
+Íñigo Eguaras,Almeria,1,1,2,4.1,2.0,2.0,25,2223
+Igor Zubeldia,Real Sociedad,1,1,2,3.9,2.0,2.0,31,2223
+Vinicius Souza,Espanyol,1,1,2,3.8,1.9,1.9,34,2223
+Rubén Sánchez,Espanyol,0,2,2,3.8,0.0,3.8,18,2223
+Oriol Romeu,Girona,2,0,2,3.4,3.4,0.0,33,2223
+Samu Sáiz,Girona,2,0,2,3.4,3.4,0.0,8,2223
+Arnaut Danjuma Groeneveld,Villarreal,2,0,2,3.4,3.4,0.0,10,2223
+Bernardo,Girona,1,1,2,3.4,1.7,1.7,20,2223
+Valery Fernández,Girona,0,2,2,3.4,0.0,3.4,25,2223
+Pol Lirola,Elche,1,0,1,3.3,3.3,0.0,12,2223
+Chris Ramos,Cadiz,1,0,1,3.3,3.3,0.0,15,2223
+Gonzalo Verdú,Elche,1,0,1,3.3,3.3,0.0,16,2223
+Victor Chust,Cadiz,1,0,1,3.3,3.3,0.0,14,2223
+Zaldúa,Cadiz,0,1,1,3.3,0.0,3.3,10,2223
+Omar Mascarell,Elche,0,1,1,3.3,0.0,3.3,28,2223
+Carlos Clerc,Elche,0,1,1,3.3,0.0,3.3,32,2223
+Iván Alejo,Cadiz,0,1,1,3.3,0.0,3.3,31,2223
+Fede San Emeterio,Cadiz,0,1,1,3.3,0.0,3.3,33,2223
+Isaac Carcelén,Cadiz,0,1,1,3.3,0.0,3.3,27,2223
+Nicolás Fernández Mercau,Elche,0,1,1,3.3,0.0,3.3,18,2223
+Carlos García,Cadiz,0,1,1,3.3,0.0,3.3,1,2223
+José Antonio de la Rosa,Cadiz,0,1,1,3.3,0.0,3.3,2,2223
+Sergio Escudero,Real Valladolid,1,0,1,3.0,3.0,0.0,23,2223
+Jawad El Yamiq,Real Valladolid,1,0,1,3.0,3.0,0.0,25,2223
+Anuar Mohamed,Real Valladolid,1,0,1,3.0,3.0,0.0,3,2223
+Joaquín Fernández,Real Valladolid,1,0,1,3.0,3.0,0.0,27,2223
+Javi Sánchez,Real Valladolid,1,0,1,3.0,3.0,0.0,32,2223
+Shon Weissman,Real Valladolid,1,0,1,3.0,3.0,0.0,15,2223
+Kenedy,Real Valladolid,0,1,1,3.0,0.0,3.0,12,2223
+Darwin Machís,Real Valladolid,0,1,1,3.0,0.0,3.0,11,2223
+Lucas Olaza,Real Valladolid,0,1,1,3.0,0.0,3.0,23,2223
+Luis Pérez,Real Valladolid,0,1,1,3.0,0.0,3.0,18,2223
+Lucas Rosa,Real Valladolid,0,1,1,3.0,0.0,3.0,17,2223
+Andreas Christensen,Barcelona,1,1,2,2.9,1.4,1.4,23,2223
+Franck Kessié,Barcelona,1,1,2,2.9,1.4,1.4,28,2223
+Juan Iglesias,Getafe,1,0,1,2.9,2.9,0.0,32,2223
+Juan Latasa,Getafe,1,0,1,2.9,2.9,0.0,18,2223
+Geoffrey Kondogbia,Atletico Madrid,0,2,2,2.9,0.0,2.9,20,2223
+Mauro Arambarri,Getafe,0,1,1,2.9,0.0,2.9,13,2223
+Djené Dakonam,Getafe,0,1,1,2.9,0.0,2.9,33,2223
+Matheus Cunha,Atletico Madrid,0,2,2,2.9,0.0,2.9,11,2223
+Ronald Araújo,Barcelona,0,2,2,2.9,0.0,2.9,22,2223
+Matija Nastasic,Mallorca,1,0,1,2.7,2.7,0.0,14,2223
+Nacho,Real Madrid,1,1,2,2.7,1.3,1.3,27,2223
+Ángel,Mallorca,1,0,1,2.7,2.7,0.0,17,2223
+Lucas Torró,Osasuna,1,0,1,2.7,2.7,0.0,33,2223
+Tinotenda Kadewere,Mallorca,1,0,1,2.7,2.7,0.0,15,2223
+Copete,Mallorca,1,0,1,2.7,2.7,0.0,28,2223
+Alvaro Rodríguez,Real Madrid,1,1,2,2.7,1.3,1.3,6,2223
+Daniel Carvajal,Real Madrid,0,2,2,2.7,0.0,2.7,27,2223
+Jaume Costa,Mallorca,0,1,1,2.7,0.0,2.7,32,2223
+Rubén Peña,Osasuna,0,1,1,2.7,0.0,2.7,20,2223
+Unai García,Osasuna,0,1,1,2.7,0.0,2.7,21,2223
+Aridane Hernández,Osasuna,0,1,1,2.7,0.0,2.7,23,2223
+Inigo Ruiz de Galarreta,Mallorca,0,1,1,2.7,0.0,2.7,30,2223
+Pablo Ibáñez,Osasuna,0,1,1,2.7,0.0,2.7,25,2223
+Gabriel,Valencia,1,0,1,2.4,2.4,0.0,21,2223
+Carlos Soler,Valencia,1,0,1,2.4,2.4,0.0,3,2223
+Toni Lato,Valencia,1,0,1,2.4,2.4,0.0,24,2223
+Marcos de Sousa,Valencia,1,0,1,2.4,2.4,0.0,17,2223
+Javier Guerra,Valencia,1,0,1,2.4,2.4,0.0,10,2223
+Eray Cömert,Valencia,1,0,1,2.4,2.4,0.0,23,2223
+Alberto Mari,Valencia,1,0,1,2.4,2.4,0.0,5,2223
+Hugo Mallo,Celta Vigo,0,1,1,2.3,0.0,2.3,26,2223
+Augusto Solari,Celta Vigo,0,1,1,2.3,0.0,2.3,12,2223
+Juan Cruz,Real Betis,1,0,1,2.2,2.2,0.0,6,2223
+Guido Rodríguez,Real Betis,1,0,1,2.2,2.2,0.0,34,2223
+Pathé Ciss,Rayo Vallecano,1,0,1,2.2,2.2,0.0,32,2223
+Iñigo Martínez,Athletic Club,1,0,1,2.1,2.1,0.0,15,2223
+Dani Vivian,Athletic Club,1,0,1,2.1,2.1,0.0,29,2223
+Nianzou Kouassi,Sevilla,1,0,1,2.1,2.1,0.0,19,2223
+Loic Bade,Sevilla,1,0,1,2.1,2.1,0.0,19,2223
+Jesús Corona,Sevilla,1,0,1,2.1,2.1,0.0,4,2223
+Ander Herrera,Athletic Club,0,1,1,2.1,0.0,2.1,17,2223
+Fernando,Sevilla,0,1,1,2.1,0.0,2.1,22,2223
+Joan Jordán,Sevilla,0,1,1,2.1,0.0,2.1,23,2223
+Íñigo Lekue,Athletic Club,0,1,1,2.1,0.0,2.1,20,2223
+Kasper Dolberg,Sevilla,0,1,1,2.1,0.0,2.1,4,2223
+Jon Morcillo,Athletic Club,0,1,1,2.1,0.0,2.1,10,2223
+Carlos Fernández,Real Sociedad,1,0,1,2.0,2.0,0.0,24,2223
+Asier Illarramendi,Real Sociedad,1,0,1,2.0,2.0,0.0,24,2223
+Sergio Akieme,Almeria,1,0,1,2.0,2.0,0.0,29,2223
+Alexander Isak,Real Sociedad,1,0,1,2.0,2.0,0.0,2,2223
+Chumi,Almeria,1,0,1,2.0,2.0,0.0,21,2223
+Arnau Puigmal,Almeria,1,0,1,2.0,2.0,0.0,22,2223
+César De la Hoz,Almeria,1,0,1,2.0,2.0,0.0,25,2223
+Rodrigo Ely,Almeria,0,1,1,2.0,0.0,2.0,36,2223
+Aritz Elustondo,Real Sociedad,0,1,1,2.0,0.0,2.0,25,2223
+Aihen Muñoz,Real Sociedad,0,1,1,2.0,0.0,2.0,23,2223
+Jon Pacheco Dozagarat,Real Sociedad,0,1,1,2.0,0.0,2.0,17,2223
+Houboulang Mendes,Almeria,0,1,1,2.0,0.0,2.0,14,2223
+Dyego Sousa,Almeria,0,1,1,2.0,0.0,2.0,20,2223
+Ronael Pierre Gabriel,Espanyol,1,0,1,1.9,1.9,0.0,8,2223
+Luca Koleosho,Espanyol,1,0,1,1.9,1.9,0.0,4,2223
+José Gragera,Espanyol,1,0,1,1.9,1.9,0.0,9,2223
+Keidi Bare,Espanyol,0,1,1,1.9,0.0,1.9,18,2223
+Leandro Cabrera,Espanyol,0,1,1,1.9,0.0,1.9,32,2223
+Fernando Calero,Espanyol,0,1,1,1.9,0.0,1.9,27,2223
+Óscar Gil,Espanyol,0,1,1,1.9,0.0,1.9,33,2223
+Francis Coquelin,Villarreal,1,0,1,1.7,1.7,0.0,16,2223
+Borja,Girona,1,0,1,1.7,1.7,0.0,11,2223
+Juanpe,Girona,1,0,1,1.7,1.7,0.0,19,2223
+Pau Torres,Villarreal,1,0,1,1.7,1.7,0.0,34,2223
+Juan Foyth,Villarreal,1,0,1,1.7,1.7,0.0,24,2223
+Jorge Pascual,Villarreal,1,0,1,1.7,1.7,0.0,2,2223
+Alberto Moreno,Villarreal,0,1,1,1.7,0.0,1.7,24,2223
+Manu Trigueros,Villarreal,0,1,1,1.7,0.0,1.7,23,2223
+Manu Vallejo,Girona,0,1,1,1.7,0.0,1.7,7,2223
+Santiago Bueno,Girona,0,1,1,1.7,0.0,1.7,34,2223
+Marcos Alonso,Barcelona,1,0,1,1.4,1.4,0.0,24,2223
+Eric Garcia,Barcelona,1,0,1,1.4,1.4,0.0,24,2223
+Pablo Barrios Rivas,Atletico Madrid,0,1,1,1.4,0.0,1.4,21,2223
+Antonio Rüdiger,Real Madrid,1,0,1,1.3,1.3,0.0,33,2223
+Eden Hazard,Real Madrid,0,1,1,1.3,0.0,1.3,6,2223
+Ferland Mendy,Real Madrid,0,1,1,1.3,0.0,1.3,18,2223
+Eduardo Camavinga,Real Madrid,0,1,1,1.3,0.0,1.3,37,2223
+Pierre-Emerick Aubameyang,Barcelona,0,0,0,0.0,0.0,0.0,1,2223
+Adnan Januzaj,Sevilla,0,0,0,0.0,0.0,0.0,2,2223
+Héctor Bellerín,Barcelona,0,0,0,0.0,0.0,0.0,3,2223
+Mario Suárez,Rayo Vallecano,0,0,0,0.0,0.0,0.0,2,2223
+Jesús Navas,Sevilla,0,0,0,0.0,0.0,0.0,32,2223
+Thibaut Courtois,Real Madrid,0,0,0,0.0,0.0,0.0,31,2223
+Federico Fernández,Elche,0,0,0,0.0,0.0,0.0,1,2223
+Jordan Amavi,Getafe,0,0,0,0.0,0.0,0.0,5,2223
+Paulo Gazzaniga,Girona,0,0,0,0.0,0.0,0.0,28,2223
+José Reina,Villarreal,0,0,0,0.0,0.0,0.0,22,2223
+Raúl Albiol,Villarreal,0,0,0,0.0,0.0,0.0,25,2223
+Diego López,Rayo Vallecano,0,0,0,0.0,0.0,0.0,2,2223
+Luis Hernández,Cadiz,0,0,0,0.0,0.0,0.0,35,2223
+Claudio Bravo,Real Betis,0,0,0,0.0,0.0,0.0,12,2223
+Martín Montoya,Real Betis,0,0,0,0.0,0.0,0.0,6,2223
+Curro,Almeria,0,0,0,0.0,0.0,0.0,2,2223
+Diego González,Elche,0,0,0,0.0,0.0,0.0,16,2223
+Marc-André ter Stegen,Barcelona,0,0,0,0.0,0.0,0.0,38,2223
+Gerard Piqué,Barcelona,0,0,0,0.0,0.0,0.0,6,2223
+Jordi Masip,Real Valladolid,0,0,0,0.0,0.0,0.0,28,2223
+Enzo Roco,Elche,0,0,0,0.0,0.0,0.0,22,2223
+Ander Capa,Athletic Club,0,0,0,0.0,0.0,0.0,7,2223
+Germán Pezzella,Real Betis,0,0,0,0.0,0.0,0.0,31,2223
+Bebé,Rayo Vallecano,0,0,0,0.0,0.0,0.0,4,2223
+Juan Carlos,Girona,0,0,0,0.0,0.0,0.0,10,2223
+Diego Mariño,Almeria,0,0,0,0.0,0.0,0.0,1,2223
+Cala,Cadiz,0,0,0,0.0,0.0,0.0,3,2223
+Jorge Meré,Cadiz,0,0,0,0.0,0.0,0.0,10,2223
+Gerónimo Rulli,Villarreal,0,0,0,0.0,0.0,0.0,14,2223
+Casemiro,Real Madrid,0,0,0,0.0,0.0,0.0,1,2223
+Jan Oblak,Atletico Madrid,0,0,0,0.0,0.0,0.0,28,2223
+Stefan Savic,Atletico Madrid,0,0,0,0.0,0.0,0.0,22,2223
+Sergi Gómez,Espanyol,0,0,0,0.0,0.0,0.0,29,2223
+Pape Cheikh,Elche,0,0,0,0.0,0.0,0.0,2,2223
+Víctor Ruiz,Real Betis,0,0,0,0.0,0.0,0.0,10,2223
+Denis Suárez,Espanyol,0,0,0,0.0,0.0,0.0,18,2223
+Pedro Bigas,Elche,0,0,0,0.0,0.0,0.0,28,2223
+Zouhair Feddal,Real Valladolid,0,0,0,0.0,0.0,0.0,8,2223
+José Mari,Cadiz,0,0,0,0.0,0.0,0.0,18,2223
+Balenziaga,Athletic Club,0,0,0,0.0,0.0,0.0,3,2223
+David Soria,Getafe,0,0,0,0.0,0.0,0.0,38,2223
+Álvaro Odriozola,Real Madrid,0,0,0,0.0,0.0,0.0,3,2223
+Sergio Asenjo,Real Valladolid,0,0,0,0.0,0.0,0.0,10,2223
+Remiro,Real Sociedad,0,0,0,0.0,0.0,0.0,38,2223
+Stole Dimitrievski,Rayo Vallecano,0,0,0,0.0,0.0,0.0,37,2223
+Axel Witsel,Atletico Madrid,0,0,0,0.0,0.0,0.0,33,2223
+Aissa Mandi,Villarreal,0,0,0,0.0,0.0,0.0,21,2223
+Javier Pastore,Elche,0,0,0,0.0,0.0,0.0,1,2223
+Benjamin Lecomte,Espanyol,0,0,0,0.0,0.0,0.0,10,2223
+Clément Grenier,Mallorca,0,0,0,0.0,0.0,0.0,21,2223
+Álvaro,Cadiz,0,0,0,0.0,0.0,0.0,1,2223
+Aitor Fernández,Osasuna,0,0,0,0.0,0.0,0.0,21,2223
+Kevin,Celta Vigo,0,0,0,0.0,0.0,0.0,10,2223
+Stefan Mitrovic,Getafe,0,0,0,0.0,0.0,0.0,22,2223
+José Pozo,Rayo Vallecano,0,0,0,0.0,0.0,0.0,8,2223
+Iván Villar,Celta Vigo,0,0,0,0.0,0.0,0.0,19,2223
+Kiko Femenía,Villarreal,0,0,0,0.0,0.0,0.0,20,2223
+Diego Rico,Real Sociedad,0,0,0,0.0,0.0,0.0,20,2223
+Roberto Torres,Osasuna,0,0,0,0.0,0.0,0.0,2,2223
+Martin Hongla,Real Valladolid,0,0,0,0.0,0.0,0.0,16,2223
+Rui Silva,Real Betis,0,0,0,0.0,0.0,0.0,26,2223
+Mariano,Real Madrid,0,0,0,0.0,0.0,0.0,9,2223
+Nacho Vidal,Osasuna,0,0,0,0.0,0.0,0.0,20,2223
+Asier Villalibre,Athletic Club,0,0,0,0.0,0.0,0.0,5,2223
+Unai Simón,Athletic Club,0,0,0,0.0,0.0,0.0,31,2223
+Álvaro Fernández,Espanyol,0,0,0,0.0,0.0,0.0,11,2223
+Thomas Delaney,Sevilla,0,0,0,0.0,0.0,0.0,8,2223
+Jesús Vallejo,Real Madrid,0,0,0,0.0,0.0,0.0,1,2223
+Domingos Quina,Elche,0,0,0,0.0,0.0,0.0,10,2223
+Iván Balliu,Rayo Vallecano,0,0,0,0.0,0.0,0.0,37,2223
+Nemanja Maksimovic,Getafe,0,0,0,0.0,0.0,0.0,29,2223
+Ludwig Augustinsson,Mallorca,0,0,0,0.0,0.0,0.0,4,2223
+Bono,Sevilla,0,0,0,0.0,0.0,0.0,25,2223
+Maxi Gómez,Valencia,0,0,0,0.0,0.0,0.0,3,2223
+Ander Guevara,Real Sociedad,0,0,0,0.0,0.0,0.0,8,2223
+Unai Núñez,Celta Vigo,0,0,0,0.0,0.0,0.0,36,2223
+Juanjo Narváez,Real Valladolid,0,0,0,0.0,0.0,0.0,5,2223
+Luiz Felipe,Real Betis,0,0,0,0.0,0.0,0.0,23,2223
+Marko Dmitrovic,Sevilla,0,0,0,0.0,0.0,0.0,15,2223
+Andoni Gorosabel,Real Sociedad,0,0,0,0.0,0.0,0.0,27,2223
+Aitor Ruibal,Real Betis,0,0,0,0.0,0.0,0.0,26,2223
+Loren Morón,Real Betis,0,0,0,0.0,0.0,0.0,2,2223
+Axel Werner,Elche,0,0,0,0.0,0.0,0.0,2,2223
+Gonzalo Villar,Getafe,0,0,0,0.0,0.0,0.0,16,2223
+Matt Doherty,Atletico Madrid,0,0,0,0.0,0.0,0.0,2,2223
+Dennis Hadzikadunic,Mallorca,0,0,0,0.0,0.0,0.0,8,2223
+Adrià Pedrosa,Espanyol,0,0,0,0.0,0.0,0.0,7,2223
+Sergio Reguilón,Atletico Madrid,0,0,0,0.0,0.0,0.0,11,2223
+Andriy Lunin,Real Madrid,0,0,0,0.0,0.0,0.0,7,2223
+Robert,Real Betis,0,0,0,0.0,0.0,0.0,2,2223
+Robin Le Normand,Real Sociedad,0,0,0,0.0,0.0,0.0,33,2223
+Iñaki Peña,Barcelona,0,0,0,0.0,0.0,0.0,2,2223
+Paul Akouokou,Real Betis,0,0,0,0.0,0.0,0.0,12,2223
+Alex Sola,Real Sociedad,0,0,0,0.0,0.0,0.0,10,2223
+Reinildo,Atletico Madrid,0,0,0,0.0,0.0,0.0,22,2223
+Jaime Seoane,Getafe,0,0,0,0.0,0.0,0.0,16,2223
+Predrag Rajkovic,Mallorca,0,0,0,0.0,0.0,0.0,36,2223
+Martin Valjent,Mallorca,0,0,0,0.0,0.0,0.0,30,2223
+Iddrisu Baba,Mallorca,0,0,0,0.0,0.0,0.0,29,2223
+Lago Junior,Mallorca,0,0,0,0.0,0.0,0.0,5,2223
+Sergio Herrera,Osasuna,0,0,0,0.0,0.0,0.0,17,2223
+Pol Lozano,Espanyol,0,0,0,0.0,0.0,0.0,4,2223
+Felipe,Atletico Madrid,0,0,0,0.0,0.0,0.0,3,2223
+Lisandro Magallán,Elche,0,0,0,0.0,0.0,0.0,14,2223
+Thierry Correia,Valencia,0,0,0,0.0,0.0,0.0,27,2223
+Edgar González,Real Betis,0,0,0,0.0,0.0,0.0,25,2223
+Fernando Niño,Villarreal,0,0,0,0.0,0.0,0.0,3,2223
+Unai Vencedor,Athletic Club,0,0,0,0.0,0.0,0.0,10,2223
+Jorge Cuenca,Villarreal,0,0,0,0.0,0.0,0.0,10,2223
+Renato Tapia,Celta Vigo,0,0,0,0.0,0.0,0.0,28,2223
+Oier Zarraga,Athletic Club,0,0,0,0.0,0.0,0.0,26,2223
+David Gil,Cadiz,0,0,0,0.0,0.0,0.0,4,2223
+Salvi Sánchez,Rayo Vallecano,0,0,0,0.0,0.0,0.0,24,2223
+Fali,Cadiz,0,0,0,0.0,0.0,0.0,25,2223
+Juan Cruz,Osasuna,0,0,0,0.0,0.0,0.0,27,2223
+Rodrigo Battaglia,Mallorca,0,0,0,0.0,0.0,0.0,15,2223
+Fran Delgado,Real Betis,0,0,0,0.0,0.0,0.0,1,2223
+Roberto Navarro,Real Sociedad,0,0,0,0.0,0.0,0.0,17,2223
+Dani Gómez,Espanyol,0,0,0,0.0,0.0,0.0,8,2223
+Alberto Perea,Cadiz,0,0,0,0.0,0.0,0.0,1,2223
+Sergio Arribas,Real Madrid,0,0,0,0.0,0.0,0.0,2,2223
+Edgar Badía,Elche,0,0,0,0.0,0.0,0.0,36,2223
+Raúl Guti,Elche,0,0,0,0.0,0.0,0.0,28,2223
+Mickaël Malsa,Real Valladolid,0,0,0,0.0,0.0,0.0,5,2223
+Ivo Grbic,Atletico Madrid,0,0,0,0.0,0.0,0.0,12,2223
+Aitor Paredes,Athletic Club,0,0,0,0.0,0.0,0.0,16,2223
+Jeremías Ledesma,Cadiz,0,0,0,0.0,0.0,0.0,34,2223
+Óscar Mingueza,Celta Vigo,0,0,0,0.0,0.0,0.0,21,2223
+Cenk Özkacar,Valencia,0,0,0,0.0,0.0,0.0,17,2223
+John Donald,Elche,0,0,0,0.0,0.0,0.0,14,2223
+Jesús Vázquez,Valencia,0,0,0,0.0,0.0,0.0,10,2223
+Momo Mbaye,Cadiz,0,0,0,0.0,0.0,0.0,14,2223
+Filip Jorgensen,Villarreal,0,0,0,0.0,0.0,0.0,2,2223
+Iván Romero,Sevilla,0,0,0,0.0,0.0,0.0,1,2223
+Antonio Blanco,Cadiz,0,0,0,0.0,0.0,0.0,3,2223
+Helibelton Palacios,Elche,0,0,0,0.0,0.0,0.0,24,2223
+Beñat Turrientes,Real Sociedad,0,0,0,0.0,0.0,0.0,6,2223
+Jon Ander Olasagasti,Real Sociedad,0,0,0,0.0,0.0,0.0,3,2223
+Carlos Domínguez,Celta Vigo,0,0,0,0.0,0.0,0.0,3,2223
+Hugo Sotelo,Celta Vigo,0,0,0,0.0,0.0,0.0,1,2223
+Mamady Diarra,Cadiz,0,0,0,0.0,0.0,0.0,2,2223
+Giorgi Mamardashvili,Valencia,0,0,0,0.0,0.0,0.0,38,2223
+Dominik Greif,Mallorca,0,0,0,0.0,0.0,0.0,1,2223
+Franco Russo,Mallorca,0,0,0,0.0,0.0,0.0,3,2223
+Tomás Alarcón,Cadiz,0,0,0,0.0,0.0,0.0,4,2223
+Joan García,Espanyol,0,0,0,0.0,0.0,0.0,1,2223
+Pedro Ortiz,Sevilla,0,0,0,0.0,0.0,0.0,1,2223
+Óscar Valentín,Rayo Vallecano,0,0,0,0.0,0.0,0.0,34,2223
+Andrés Martín,Rayo Vallecano,0,0,0,0.0,0.0,0.0,9,2223
+Esteban Saveljich,Rayo Vallecano,0,0,0,0.0,0.0,0.0,1,2223
+Mario Hernández,Rayo Vallecano,0,0,0,0.0,0.0,0.0,3,2223
+Julen Agirrezabala,Athletic Club,0,0,0,0.0,0.0,0.0,8,2223
+Josep Gayá,Mallorca,0,0,0,0.0,0.0,0.0,2,2223
+Leo Román,Mallorca,0,0,0,0.0,0.0,0.0,1,2223
+Fernando Medrano,Celta Vigo,0,0,0,0.0,0.0,0.0,1,2223
+Jon Karrikaburu,Real Sociedad,0,0,0,0.0,0.0,0.0,6,2223
+Santiago Arzamendia,Cadiz,0,0,0,0.0,0.0,0.0,12,2223
+Antonio Sánchez,Mallorca,0,0,0,0.0,0.0,0.0,32,2223
+Cristhian Mosquera,Valencia,0,0,0,0.0,0.0,0.0,3,2223
+Raúl Parra,Cadiz,0,0,0,0.0,0.0,0.0,6,2223
+Carlos Martín,Atletico Madrid,0,0,0,0.0,0.0,0.0,4,2223
+Javi Llabrés,Mallorca,0,0,0,0.0,0.0,0.0,1,2223
+Ángel Algobia,Getafe,0,0,0,0.0,0.0,0.0,26,2223
+Roger Martínez,Espanyol,0,0,0,0.0,0.0,0.0,1,2223
+Iker Benito,Osasuna,0,0,0,0.0,0.0,0.0,4,2223
+Antonio Gomis,Atletico Madrid,0,0,0,0.0,0.0,0.0,1,2223
+Ander Martín,Real Sociedad,0,0,0,0.0,0.0,0.0,3,2223
+Jorge Herrando,Osasuna,0,0,0,0.0,0.0,0.0,1,2223
+Agustín Marchesín,Celta Vigo,0,0,0,0.0,0.0,0.0,19,2223
+Williot Swedberg,Celta Vigo,0,0,0,0.0,0.0,0.0,4,2223
+Nabili Zoubdi Touaizi,Espanyol,0,0,0,0.0,0.0,0.0,1,2223
+Omar El Hilali,Espanyol,0,0,0,0.0,0.0,0.0,5,2223
+Simo,Espanyol,0,0,0,0.0,0.0,0.0,7,2223
+Sekou Gassama,Real Valladolid,0,0,0,0.0,0.0,0.0,1,2223
+Iván Fresneda,Real Valladolid,0,0,0,0.0,0.0,0.0,22,2223
+Álvaro Aceves,Real Valladolid,0,0,0,0.0,0.0,0.0,1,2223
+David Torres,Real Valladolid,0,0,0,0.0,0.0,0.0,7,2223
+Roberto Arroyo,Real Valladolid,0,0,0,0.0,0.0,0.0,1,2223
+Diego Méndez,Rayo Vallecano,0,0,0,0.0,0.0,0.0,1,2223
+Pablo Muñoz,Rayo Vallecano,0,0,0,0.0,0.0,0.0,2,2223
+Awer Mabil,Cadiz,0,0,0,0.0,0.0,0.0,5,2223
+Fran Pérez,Valencia,0,0,0,0.0,0.0,0.0,7,2223
+Oscar Ureña,Girona,0,0,0,0.0,0.0,0.0,3,2223
+Joel Roca,Girona,0,0,0,0.0,0.0,0.0,5,2223
+Ricard Artero,Girona,0,0,0,0.0,0.0,0.0,7,2223
+Fernando Martínez,Almeria,0,0,0,0.0,0.0,0.0,37,2223
+Kaiky,Almeria,0,0,0,0.0,0.0,0.0,13,2223
+Malcom Adu,Athletic Club,0,0,0,0.0,0.0,0.0,8,2223
+Braian Cufré,Mallorca,0,0,0,0.0,0.0,0.0,5,2223
+Fabrizio Angileri,Getafe,0,0,0,0.0,0.0,0.0,15,2223
+Moi Parra,Getafe,0,0,0,0.0,0.0,0.0,1,2223
+Álex Revuelta,Getafe,0,0,0,0.0,0.0,0.0,1,2223
+Alejandro Alfaro,Elche,0,0,0,0.0,0.0,0.0,1,2223
+Marcão,Sevilla,0,0,0,0.0,0.0,0.0,5,2223
+Pablo Torre,Barcelona,0,0,0,0.0,0.0,0.0,8,2223
+Marko Milovanovic,Almeria,0,0,0,0.0,0.0,0.0,2,2223
+Abdul Mumin,Rayo Vallecano,0,0,0,0.0,0.0,0.0,16,2223
+Pablo Durán,Celta Vigo,0,0,0,0.0,0.0,0.0,4,2223
+Chadi Riad,Barcelona,0,0,0,0.0,0.0,0.0,1,2223
+Pablo Marín,Real Sociedad,0,0,0,0.0,0.0,0.0,10,2223
+Alberto del Moral,Villarreal,0,0,0,0.0,0.0,0.0,1,2223
+Jon Magunacelaya,Real Sociedad,0,0,0,0.0,0.0,0.0,2,2223
+Félix Garreta,Real Betis,0,0,0,0.0,0.0,0.0,1,2223
+Carlos Álvarez,Sevilla,0,0,0,0.0,0.0,0.0,1,2223
+Diego Hormigo,Sevilla,0,0,0,0.0,0.0,0.0,1,2223
+Manu Bueno,Sevilla,0,0,0,0.0,0.0,0.0,2,2223
+Youba Diarra,Cadiz,0,0,0,0.0,0.0,0.0,5,2223
+Diego Moreno,Osasuna,0,0,0,0.0,0.0,0.0,11,2223
+Abner,Real Betis,0,0,0,0.0,0.0,0.0,13,2223
+Mamadou Mbacke,Villarreal,0,0,0,0.0,0.0,0.0,1,2223
+Diego Collado,Villarreal,0,0,0,0.0,0.0,0.0,2,2223
+Ángel Alarcón,Barcelona,0,0,0,0.0,0.0,0.0,3,2223
+Alexander Callens,Girona,0,0,0,0.0,0.0,0.0,6,2223
+Iker Muñoz,Osasuna,0,0,0,0.0,0.0,0.0,8,2223
+Haissem Hassan,Villarreal,0,0,0,0.0,0.0,0.0,2,2223
+Manuel Pozo,Real Valladolid,0,0,0,0.0,0.0,0.0,1,2223
+Ángel Alarcón,Barcelona,0,0,0,0.0,0.0,0.0,1,2223
+Aleix Garrido,Barcelona,0,0,0,0.0,0.0,0.0,1,2223
+Babatunde Akinsola,Real Valladolid,0,0,0,0.0,0.0,0.0,1,2223
+Lamine Yamal,Barcelona,0,0,0,0.0,0.0,0.0,1,2223
+Francisco Mwepu,Cadiz,0,0,0,0.0,0.0,0.0,1,2223
+Rubén Quintanilla,Mallorca,0,0,0,0.0,0.0,0.0,1,2223

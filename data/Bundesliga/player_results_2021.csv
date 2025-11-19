@@ -1,0 +1,488 @@
+player,team,goals,assists,contributions,contribution_pct,goals_pct,assists_pct,games,season
+Robert Lewandowski,Bayern Munich,41,7,48,48.5,41.4,7.1,29,2021
+Andrej Kramaric,Hoffenheim,20,5,25,48.1,38.5,9.6,28,2021
+André Silva,Eintracht Frankfurt,28,5,33,47.8,40.6,7.2,32,2021
+Wout Weghorst,Wolfsburg,20,8,28,45.9,32.8,13.1,34,2021
+Erling Haaland,Borussia Dortmund,27,6,33,44.0,36.0,8.0,28,2021
+Vincenzo Grifo,Freiburg,9,11,20,38.5,17.3,21.2,31,2021
+Sasa Kalajdzic,VfB Stuttgart,16,5,21,37.5,28.6,8.9,33,2021
+Lars Stindl,Borussia M.Gladbach,14,8,22,34.4,21.9,12.5,30,2021
+Ondrej Duda,FC Cologne,7,4,11,32.4,20.6,11.8,32,2021
+Leon Bailey,Bayer Leverkusen,9,8,17,32.1,17.0,15.1,30,2021
+Max Kruse,Union Berlin,11,5,16,32.0,22.0,10.0,22,2021
+Ihlas Bebou,Hoffenheim,9,7,16,30.8,17.3,13.5,32,2021
+André Hahn,Augsburg,8,3,11,30.6,22.2,8.3,29,2021
+Thomas Müller,Bayern Munich,11,18,29,29.3,11.1,18.2,32,2021
+Matthew Hoppe,Schalke 04,6,1,7,28.0,24.0,4.0,22,2021
+Amine Harit,Schalke 04,2,5,7,28.0,8.0,20.0,28,2021
+Daniel Caligiuri,Augsburg,6,4,10,27.8,16.7,11.1,33,2021
+Filip Kostic,Eintracht Frankfurt,4,15,19,27.5,5.8,21.7,30,2021
+Ritsu Doan,Arminia Bielefeld,5,2,7,26.9,19.2,7.7,34,2021
+Fabian Klos,Arminia Bielefeld,5,2,7,26.9,19.2,7.7,34,2021
+Silas Wamangituka,VfB Stuttgart,11,4,15,26.8,19.6,7.1,25,2021
+Matheus Cunha,Hertha Berlin,7,4,11,26.8,17.1,9.8,27,2021
+Jonas Hofmann,Borussia M.Gladbach,6,11,17,26.6,9.4,17.2,24,2021
+Moussa Diaby,Bayer Leverkusen,4,10,14,26.4,7.5,18.9,32,2021
+Jadon Sancho,Borussia Dortmund,8,11,19,25.3,10.7,14.7,26,2021
+Ruben Vargas,Augsburg,6,3,9,25.0,16.7,8.3,30,2021
+Florian Niederlechner,Augsburg,5,4,9,25.0,13.9,11.1,28,2021
+Daichi Kamada,Eintracht Frankfurt,5,12,17,24.6,7.2,17.4,32,2021
+Lucas Alario,Bayer Leverkusen,11,2,13,24.5,20.8,3.8,25,2021
+Dodi Lukebakio,Hertha Berlin,5,5,10,24.4,12.2,12.2,29,2021
+Dani Olmo,RasenBallsport Leipzig,5,9,14,23.3,8.3,15.0,32,2021
+Roland Sallai,Freiburg,8,3,11,21.2,15.4,5.8,28,2021
+Ermedin Demirovic,Freiburg,5,6,11,21.2,9.6,11.5,30,2021
+Florian Wirtz,Bayer Leverkusen,5,6,11,20.8,9.4,11.3,29,2021
+Ellyes Skhiri,FC Cologne,5,2,7,20.6,14.7,5.9,32,2021
+Elvis Rexhbecaj,FC Cologne,5,2,7,20.6,14.7,5.9,30,2021
+Jean-Philippe Mateta,Mainz 05,7,1,8,20.5,17.9,2.6,15,2021
+Robin Quaison,Mainz 05,6,2,8,20.5,15.4,5.1,28,2021
+Christopher Nkunku,RasenBallsport Leipzig,6,6,12,20.0,10.0,10.0,28,2021
+Raphael Guerreiro,Borussia Dortmund,5,10,15,20.0,6.7,13.3,27,2021
+Christopher Trimmel,Union Berlin,1,9,10,20.0,2.0,18.0,31,2021
+Jhon Córdoba,Hertha Berlin,7,1,8,19.5,17.1,2.4,21,2021
+Krzysztof Piatek,Hertha Berlin,7,1,8,19.5,17.1,2.4,32,2021
+Joshua Sargent,Werder Bremen,5,2,7,19.4,13.9,5.6,32,2021
+Maximilian Eggestein,Werder Bremen,2,5,7,19.4,5.6,13.9,33,2021
+Patrik Schick,Bayer Leverkusen,9,1,10,18.9,17.0,1.9,29,2021
+Marco Reus,Borussia Dortmund,8,6,14,18.7,10.7,8.0,32,2021
+Marcel Sabitzer,RasenBallsport Leipzig,8,3,11,18.3,13.3,5.0,27,2021
+Emil Forsberg,RasenBallsport Leipzig,7,4,11,18.3,11.7,6.7,29,2021
+Christoph Baumgartner,Hoffenheim,6,3,9,17.3,11.5,5.8,31,2021
+Marcus Thuram,Borussia M.Gladbach,8,3,11,17.2,12.5,4.7,29,2021
+Florian Neuhaus,Borussia M.Gladbach,6,5,11,17.2,9.4,7.8,33,2021
+Vladimir Darida,Hertha Berlin,1,6,7,17.1,2.4,14.6,27,2021
+Niclas Füllkrug,Werder Bremen,6,0,6,16.7,16.7,0.0,19,2021
+Kevin Möhwald,Werder Bremen,5,1,6,16.7,13.9,2.8,27,2021
+Josip Brekalo,Wolfsburg,7,3,10,16.4,11.5,4.9,29,2021
+Borna Sosa,VfB Stuttgart,0,9,9,16.1,0.0,16.1,26,2021
+Mark Uth,Schalke 04,3,1,4,16.0,12.0,4.0,20,2021
+Marcus Ingvartsen,Union Berlin,3,5,8,16.0,6.0,10.0,30,2021
+Suat Serdar,Schalke 04,1,3,4,16.0,4.0,12.0,25,2021
+Nils Petersen,Freiburg,8,0,8,15.4,15.4,0.0,32,2021
+Lucas Höler,Freiburg,4,4,8,15.4,7.7,7.7,33,2021
+Jean-Paul Boëtius,Mainz 05,2,4,6,15.4,5.1,10.3,31,2021
+Andreas Voglsammer,Arminia Bielefeld,2,2,4,15.4,7.7,7.7,18,2021
+Leroy Sané,Bayern Munich,6,9,15,15.2,6.1,9.1,32,2021
+Kingsley Coman,Bayern Munich,5,10,15,15.2,5.1,10.1,29,2021
+Nadiem Amiri,Bayer Leverkusen,2,6,8,15.1,3.8,11.3,29,2021
+Yussuf Poulsen,RasenBallsport Leipzig,5,4,9,15.0,8.3,6.7,27,2021
+Renato Steffen,Wolfsburg,5,4,9,14.8,8.2,6.6,21,2021
+Maximilian Arnold,Wolfsburg,3,6,9,14.8,4.9,9.8,30,2021
+Jan Thielmann,FC Cologne,2,3,5,14.7,5.9,8.8,24,2021
+Nicolás González,VfB Stuttgart,6,2,8,14.3,10.7,3.6,15,2021
+Joshua Kimmich,Bayern Munich,4,10,14,14.1,4.0,10.1,27,2021
+Taiwo Awoniyi,Union Berlin,5,2,7,14.0,10.0,4.0,21,2021
+Robert Andrich,Union Berlin,5,2,7,14.0,10.0,4.0,29,2021
+Leonardo Bittencourt,Werder Bremen,4,1,5,13.9,11.1,2.8,27,2021
+Angelino,RasenBallsport Leipzig,4,4,8,13.3,6.7,6.7,26,2021
+Kerem Demirbay,Bayer Leverkusen,4,3,7,13.2,7.5,5.7,29,2021
+Maximilian Philipp,Wolfsburg,6,2,8,13.1,9.8,3.3,24,2021
+Daniel Didavi,VfB Stuttgart,4,3,7,12.5,7.1,5.4,23,2021
+Serge Gnabry,Bayern Munich,10,2,12,12.1,10.1,2.0,27,2021
+Marvin Friedrich,Union Berlin,5,1,6,12.0,10.0,2.0,34,2021
+Giovanni Reyna,Borussia Dortmund,4,5,9,12.0,5.3,6.7,32,2021
+Sheraldo Becker,Union Berlin,3,3,6,12.0,6.0,6.0,18,2021
+Klaas-Jan Huntelaar,Schalke 04,2,1,3,12.0,8.0,4.0,9,2021
+Jonas Hector,FC Cologne,3,1,4,11.8,8.8,2.9,19,2021
+Marius Wolf,FC Cologne,2,2,4,11.8,5.9,5.9,31,2021
+Alexander Sørloth,RasenBallsport Leipzig,5,2,7,11.7,8.3,3.3,29,2021
+Christian Günter,Freiburg,3,3,6,11.5,5.8,5.8,34,2021
+Sergio Córdova,Arminia Bielefeld,2,1,3,11.5,7.7,3.8,23,2021
+Theodor Gebre Selassie,Werder Bremen,3,1,4,11.1,8.3,2.8,34,2021
+Marco Richter,Augsburg,3,1,4,11.1,8.3,2.8,29,2021
+Milot Rashica,Werder Bremen,3,1,4,11.1,8.3,2.8,24,2021
+Ludwig Augustinsson,Werder Bremen,0,4,4,11.1,0.0,11.1,23,2021
+Alassane Pléa,Borussia M.Gladbach,6,1,7,10.9,9.4,1.6,29,2021
+Breel Embolo,Borussia M.Gladbach,5,2,7,10.9,7.8,3.1,31,2021
+Gonzalo Castro,VfB Stuttgart,4,2,6,10.7,7.1,3.6,26,2021
+Wataru Endo,VfB Stuttgart,3,3,6,10.7,5.4,5.4,33,2021
+Karim Onisiwo,Mainz 05,4,0,4,10.3,10.3,0.0,31,2021
+Moussa Niakhate,Mainz 05,3,1,4,10.3,7.7,2.6,32,2021
+Leandro Barreiro Martins,Mainz 05,2,2,4,10.3,5.1,5.1,29,2021
+Leon Goretzka,Bayern Munich,5,5,10,10.1,5.1,5.1,24,2021
+Peter Pekarík,Hertha Berlin,3,1,4,9.8,7.3,2.4,23,2021
+Yannick Gerhardt,Wolfsburg,2,4,6,9.8,3.3,6.6,29,2021
+Xaver Schlager,Wolfsburg,2,4,6,9.8,3.3,6.6,32,2021
+Ryan Sessegnon,Hoffenheim,2,3,5,9.6,3.8,5.8,23,2021
+Sargis Adamyan,Hoffenheim,2,3,5,9.6,3.8,5.8,18,2021
+Sebastian Andersson,FC Cologne,3,0,3,8.8,8.8,0.0,16,2021
+Dominick Drexler,FC Cologne,2,1,3,8.8,5.9,2.9,27,2021
+Bas Dost,Eintracht Frankfurt,4,2,6,8.7,5.8,2.9,12,2021
+Amin Younes,Eintracht Frankfurt,3,3,6,8.7,4.3,4.3,26,2021
+Willi Orban,RasenBallsport Leipzig,4,1,5,8.3,6.7,1.7,29,2021
+Davie Selke,Werder Bremen,3,0,3,8.3,8.3,0.0,23,2021
+Marcel Halstenberg,RasenBallsport Leipzig,2,3,5,8.3,3.3,5.0,24,2021
+Michael Gregoritsch,Augsburg,1,2,3,8.3,2.8,5.6,24,2021
+Romano Schmid,Werder Bremen,0,3,3,8.3,0.0,8.3,22,2021
+Grischa Prömel,Union Berlin,3,1,4,8.0,6.0,2.0,24,2021
+Cedric Teuchert,Union Berlin,3,1,4,8.0,6.0,2.0,24,2021
+Benito Raman,Schalke 04,2,0,2,8.0,8.0,0.0,25,2021
+Sead Kolasinac,Schalke 04,1,1,2,8.0,4.0,4.0,17,2021
+Omar Mascarell,Schalke 04,1,1,2,8.0,4.0,4.0,24,2021
+Gonçalo Paciência,Schalke 04,1,1,2,8.0,4.0,4.0,15,2021
+Petar Musa,Union Berlin,1,3,4,8.0,2.0,6.0,14,2021
+Bastian Oczipka,Schalke 04,0,2,2,8.0,0.0,8.0,27,2021
+Benjamin Stambouli,Schalke 04,0,2,2,8.0,0.0,8.0,24,2021
+Hannes Wolf,Borussia M.Gladbach,3,2,5,7.8,4.7,3.1,32,2021
+Philipp Lienhart,Freiburg,4,0,4,7.7,7.7,0.0,34,2021
+Woo-Yeong Jeong,Freiburg,4,0,4,7.7,7.7,0.0,26,2021
+Munas Dabbur,Hoffenheim,4,0,4,7.7,7.7,0.0,22,2021
+Kevin Stöger,Mainz 05,3,0,3,7.7,7.7,0.0,19,2021
+Daniel Brosinski,Mainz 05,2,1,3,7.7,5.1,2.6,21,2021
+Jonathan Schmid,Freiburg,2,2,4,7.7,3.8,3.8,31,2021
+Levin Öztunali,Mainz 05,1,2,3,7.7,2.6,5.1,17,2021
+Nicolas Höfler,Freiburg,1,3,4,7.7,1.9,5.8,31,2021
+Philipp Mwene,Mainz 05,1,2,3,7.7,2.6,5.1,20,2021
+Amos Pieper,Arminia Bielefeld,1,1,2,7.7,3.8,3.8,30,2021
+Manuel Prietl,Arminia Bielefeld,1,1,2,7.7,3.8,3.8,28,2021
+Christian Gebauer,Arminia Bielefeld,1,1,2,7.7,3.8,3.8,23,2021
+Michel Vlap,Arminia Bielefeld,1,1,2,7.7,3.8,3.8,7,2021
+Matteo Guendouzi,Hertha Berlin,2,1,3,7.3,4.9,2.4,24,2021
+Nemanja Radonjic,Hertha Berlin,1,2,3,7.3,2.4,4.9,12,2021
+Aymen Barkok,Eintracht Frankfurt,2,3,5,7.2,2.9,4.3,26,2021
+Jamal Musiala,Bayern Munich,6,1,7,7.1,6.1,1.0,26,2021
+Philipp Förster,VfB Stuttgart,3,1,4,7.1,5.4,1.8,25,2021
+Orel Mangala,VfB Stuttgart,1,3,4,7.1,1.8,5.4,24,2021
+Mats Hummels,Borussia Dortmund,5,0,5,6.7,6.7,0.0,33,2021
+Julian Brandt,Borussia Dortmund,3,2,5,6.7,4.0,2.7,31,2021
+Nordi Mukiele,RasenBallsport Leipzig,3,1,4,6.7,5.0,1.7,28,2021
+Amadou Haidara,RasenBallsport Leipzig,3,1,4,6.7,5.0,1.7,31,2021
+Emre Can,Borussia Dortmund,1,4,5,6.7,1.3,5.3,28,2021
+Ramy Bensebaini,Borussia M.Gladbach,4,0,4,6.2,6.2,0.0,25,2021
+Stefan Lainer,Borussia M.Gladbach,2,2,4,6.2,3.1,3.1,33,2021
+Christopher Lenz,Union Berlin,0,3,3,6.0,0.0,6.0,27,2021
+Sebastiaan Bornauw,FC Cologne,1,1,2,5.9,2.9,2.9,24,2021
+Ismail Jakobs,FC Cologne,1,1,2,5.9,2.9,2.9,23,2021
+Luka Jovic,Eintracht Frankfurt,4,0,4,5.8,5.8,0.0,18,2021
+Evan Ndicka,Eintracht Frankfurt,3,1,4,5.8,4.3,1.4,23,2021
+Florian Grillitsch,Hoffenheim,2,1,3,5.8,3.8,1.9,26,2021
+Pavel Kaderábek,Hoffenheim,0,3,3,5.8,0.0,5.8,20,2021
+Lars Bender,Bayer Leverkusen,1,2,3,5.7,1.9,3.8,14,2021
+Demarai Gray,Bayer Leverkusen,1,2,3,5.7,1.9,3.8,10,2021
+Ömer Toprak,Werder Bremen,2,0,2,5.6,5.6,0.0,26,2021
+Iago,Augsburg,1,1,2,5.6,2.8,2.8,18,2021
+Marc-Oliver Kempf,VfB Stuttgart,2,1,3,5.4,3.6,1.8,32,2021
+Tanguy Coulibaly,VfB Stuttgart,2,1,3,5.4,3.6,1.8,31,2021
+Philipp Klement,VfB Stuttgart,1,2,3,5.4,1.8,3.6,18,2021
+Thorgan Hazard,Borussia Dortmund,1,3,4,5.3,1.3,4.0,16,2021
+Jude Bellingham,Borussia Dortmund,1,3,4,5.3,1.3,4.0,29,2021
+David Alaba,Bayern Munich,2,3,5,5.1,2.0,3.0,32,2021
+Jonathan Burkardt,Mainz 05,2,0,2,5.1,5.1,0.0,29,2021
+Robert Glatzel,Mainz 05,2,0,2,5.1,5.1,0.0,13,2021
+Stefan Bell,Mainz 05,1,1,2,5.1,2.6,2.6,16,2021
+Danny Latza,Mainz 05,0,2,2,5.1,0.0,5.1,29,2021
+Justin Kluivert,RasenBallsport Leipzig,3,0,3,5.0,5.0,0.0,19,2021
+Jessic Ngankam,Hertha Berlin,2,0,2,4.9,4.9,0.0,15,2021
+Marvin Plattenhardt,Hertha Berlin,0,2,2,4.9,0.0,4.9,16,2021
+Maximilian Mittelstädt,Hertha Berlin,0,2,2,4.9,0.0,4.9,27,2021
+Nico Elvedi,Borussia M.Gladbach,3,0,3,4.7,4.7,0.0,29,2021
+Matthias Ginter,Borussia M.Gladbach,2,1,3,4.7,3.1,1.6,34,2021
+Patrick Herrmann,Borussia M.Gladbach,0,3,3,4.7,0.0,4.7,27,2021
+Martin Hinteregger,Eintracht Frankfurt,2,1,3,4.3,2.9,1.4,29,2021
+Erik Durm,Eintracht Frankfurt,1,2,3,4.3,1.4,2.9,21,2021
+Steven Zuber,Eintracht Frankfurt,0,3,3,4.3,0.0,4.3,20,2021
+Youssoufa Moukoko,Borussia Dortmund,3,0,3,4.0,4.0,0.0,14,2021
+Shkodran Mustafi,Schalke 04,1,0,1,4.0,4.0,0.0,13,2021
+Nassim Boujellab,Schalke 04,1,0,1,4.0,4.0,0.0,12,2021
+Malick Thiaw,Schalke 04,1,0,1,4.0,4.0,0.0,19,2021
+Florian Flick,Schalke 04,1,0,1,4.0,4.0,0.0,4,2021
+Blendi Idrizi,Schalke 04,1,0,1,4.0,4.0,0.0,3,2021
+Can Bozdogan,Schalke 04,0,1,1,4.0,0.0,4.0,14,2021
+Julian Baumgartlinger,Bayer Leverkusen,2,0,2,3.8,3.8,0.0,17,2021
+Manuel Gulde,Freiburg,2,0,2,3.8,3.8,0.0,27,2021
+Sven Schipplock,Arminia Bielefeld,1,0,1,3.8,3.8,0.0,32,2021
+Baptiste Santamaria,Freiburg,1,1,2,3.8,1.9,1.9,30,2021
+Dennis Geiger,Hoffenheim,1,1,2,3.8,1.9,1.9,9,2021
+Cebio Soukou,Arminia Bielefeld,1,0,1,3.8,3.8,0.0,14,2021
+Jóan Símun Edmundsson,Arminia Bielefeld,1,0,1,3.8,3.8,0.0,5,2021
+Reinhold Yabo,Arminia Bielefeld,1,0,1,3.8,3.8,0.0,13,2021
+Masaya Okugawa,Arminia Bielefeld,1,0,1,3.8,3.8,0.0,13,2021
+Mijat Gacinovic,Hoffenheim,0,2,2,3.8,0.0,3.8,23,2021
+Diadie Samassékou,Hoffenheim,0,2,2,3.8,0.0,3.8,31,2021
+Stefan Ortega Moreno,Arminia Bielefeld,0,1,1,3.8,0.0,3.8,34,2021
+Nathan de Medina,Arminia Bielefeld,0,1,1,3.8,0.0,3.8,16,2021
+Cédric Brunner,Arminia Bielefeld,0,1,1,3.8,0.0,3.8,31,2021
+Jacob Laursen,Arminia Bielefeld,0,1,1,3.8,0.0,3.8,16,2021
+Nils Seufert,Arminia Bielefeld,0,1,1,3.8,0.0,3.8,13,2021
+Mateo Klimowicz,VfB Stuttgart,1,1,2,3.6,1.8,1.8,25,2021
+Erik Thommy,VfB Stuttgart,0,2,2,3.6,0.0,3.6,8,2021
+John Brooks,Wolfsburg,2,0,2,3.3,3.3,0.0,32,2021
+Bartosz Bialek,Wolfsburg,2,0,2,3.3,3.3,0.0,19,2021
+Tyler Adams,RasenBallsport Leipzig,1,1,2,3.3,1.7,1.7,27,2021
+Joao Victor,Wolfsburg,1,1,2,3.3,1.6,1.6,21,2021
+Maxence Lacroix,Wolfsburg,1,1,2,3.3,1.6,1.6,30,2021
+Admir Mehmedi,Wolfsburg,0,2,2,3.3,0.0,3.3,18,2021
+Jérôme Roussillon,Wolfsburg,0,2,2,3.3,0.0,3.3,20,2021
+Paulo Otávio,Wolfsburg,0,2,2,3.3,0.0,3.3,23,2021
+Valentino Lazaro,Borussia M.Gladbach,2,0,2,3.1,3.1,0.0,22,2021
+Oscar Wendt,Borussia M.Gladbach,1,1,2,3.1,1.6,1.6,22,2021
+Denis Zakaria,Borussia M.Gladbach,1,1,2,3.1,1.6,1.6,25,2021
+Christoph Kramer,Borussia M.Gladbach,0,2,2,3.1,0.0,3.1,28,2021
+Eric Maxim Choupo-Moting,Bayern Munich,3,0,3,3.0,3.0,0.0,22,2021
+Alphonso Davies,Bayern Munich,1,2,3,3.0,1.0,2.0,23,2021
+Almamy Touré,Eintracht Frankfurt,1,1,2,2.9,1.4,1.4,17,2021
+Florian Kainz,FC Cologne,1,0,1,2.9,2.9,0.0,8,2021
+Rafael Czichos,FC Cologne,1,0,1,2.9,2.9,0.0,28,2021
+Djibril Sow,Eintracht Frankfurt,0,2,2,2.9,0.0,2.9,28,2021
+Jannes Horn,FC Cologne,0,1,1,2.9,0.0,2.9,29,2021
+Benno Schmitz,FC Cologne,0,1,1,2.9,0.0,2.9,12,2021
+Salih Özcan,FC Cologne,0,1,1,2.9,0.0,2.9,28,2021
+Kingsley Ehizibue,FC Cologne,0,1,1,2.9,0.0,2.9,21,2021
+Emmanuel Dennis,FC Cologne,0,1,1,2.9,0.0,2.9,9,2021
+Jeffrey Gouweleeuw,Augsburg,1,0,1,2.8,2.8,0.0,32,2021
+Rani Khedira,Augsburg,1,0,1,2.8,2.8,0.0,27,2021
+Felix Uduokhai,Augsburg,1,0,1,2.8,2.8,0.0,29,2021
+Robert Gumny,Augsburg,1,0,1,2.8,2.8,0.0,24,2021
+Felix Agu,Werder Bremen,1,0,1,2.8,2.8,0.0,15,2021
+Eren Sami Dinkci,Werder Bremen,1,0,1,2.8,2.8,0.0,8,2021
+Yuya Osako,Werder Bremen,0,1,1,2.8,0.0,2.8,24,2021
+Alfred Finnbogason,Augsburg,0,1,1,2.8,0.0,2.8,17,2021
+Noah Joel Sarenren Bazee,Augsburg,0,1,1,2.8,0.0,2.8,5,2021
+Raphael Framberger,Augsburg,0,1,1,2.8,0.0,2.8,21,2021
+Fredrik Jensen,Augsburg,0,1,1,2.8,0.0,2.8,13,2021
+Jean-Manuel Mbom,Werder Bremen,0,1,1,2.8,0.0,2.8,21,2021
+Tahith Chong,Werder Bremen,0,1,1,2.8,0.0,2.8,13,2021
+Christian Groß,Werder Bremen,0,1,1,2.8,0.0,2.8,23,2021
+Manuel Akanji,Borussia Dortmund,2,0,2,2.7,2.7,0.0,28,2021
+Mahmoud Dahoud,Borussia Dortmund,1,1,2,2.7,1.3,1.3,21,2021
+Thomas Delaney,Borussia Dortmund,1,1,2,2.7,1.3,1.3,20,2021
+Thomas Meunier,Borussia Dortmund,1,1,2,2.7,1.3,1.3,21,2021
+Reinier,Borussia Dortmund,1,1,2,2.7,1.3,1.3,14,2021
+Ansgar Knauff,Borussia Dortmund,1,1,2,2.7,1.3,1.3,4,2021
+Mateu Morey,Borussia Dortmund,0,2,2,2.7,0.0,2.7,13,2021
+Alexander Hack,Mainz 05,1,0,1,2.6,2.6,0.0,21,2021
+Ádám Szalai,Mainz 05,1,0,1,2.6,2.6,0.0,18,2021
+Edimilson Fernandes,Mainz 05,0,1,1,2.6,0.0,2.6,14,2021
+Jeremiah St. Juste,Mainz 05,0,1,1,2.6,0.0,2.6,32,2021
+Lucas Tousart,Hertha Berlin,1,0,1,2.4,2.4,0.0,26,2021
+Dedryck Boyata,Hertha Berlin,1,0,1,2.4,2.4,0.0,19,2021
+Santiago Ascacibar,Hertha Berlin,1,0,1,2.4,2.4,0.0,13,2021
+Luca Netz,Hertha Berlin,1,0,1,2.4,2.4,0.0,11,2021
+Deyovaisio Zeefuik,Hertha Berlin,1,0,1,2.4,2.4,0.0,22,2021
+Mathew Leckie,Hertha Berlin,0,1,1,2.4,0.0,2.4,17,2021
+Sami Khedira,Hertha Berlin,0,1,1,2.4,0.0,2.4,9,2021
+Javairo Dilrosun,Hertha Berlin,0,1,1,2.4,0.0,2.4,12,2021
+Márton Dárdai,Hertha Berlin,0,1,1,2.4,0.0,2.4,12,2021
+Robin Knoche,Union Berlin,1,0,1,2.0,2.0,0.0,34,2021
+Jérôme Boateng,Bayern Munich,1,1,2,2.0,1.0,1.0,29,2021
+Douglas Costa,Bayern Munich,1,1,2,2.0,1.0,1.0,11,2021
+Nico Schlotterbeck,Union Berlin,1,0,1,2.0,2.0,0.0,16,2021
+Marius Bülter,Union Berlin,1,0,1,2.0,2.0,0.0,26,2021
+Keita Endo,Union Berlin,1,0,1,2.0,2.0,0.0,16,2021
+Lucas Hernández,Bayern Munich,0,2,2,2.0,0.0,2.0,23,2021
+Akaki Gogia,Union Berlin,0,1,1,2.0,0.0,2.0,7,2021
+Julian Ryerson,Union Berlin,0,1,1,2.0,0.0,2.0,24,2021
+Mitchell Weiser,Bayer Leverkusen,1,0,1,1.9,1.9,0.0,5,2021
+Ermin Bicakcic,Hoffenheim,1,0,1,1.9,1.9,0.0,2,2021
+Jonathan Tah,Bayer Leverkusen,1,0,1,1.9,1.9,0.0,27,2021
+Aleksandar Dragovic,Bayer Leverkusen,1,0,1,1.9,1.9,0.0,18,2021
+Kevin Akpoguma,Hoffenheim,1,0,1,1.9,1.9,0.0,16,2021
+Georginio Rutter,Hoffenheim,1,0,1,1.9,1.9,0.0,9,2021
+Robert Skov,Hoffenheim,1,0,1,1.9,1.9,0.0,23,2021
+Edmond Tapsoba,Bayer Leverkusen,1,0,1,1.9,1.9,0.0,31,2021
+Kevin Vogt,Hoffenheim,0,1,1,1.9,0.0,1.9,24,2021
+Ishak Belfodil,Hoffenheim,0,1,1,1.9,0.0,1.9,14,2021
+Lukas Kübler,Freiburg,0,1,1,1.9,0.0,1.9,19,2021
+Melayro Bogarde,Hoffenheim,0,1,1,1.9,0.0,1.9,9,2021
+Waldemar Anton,VfB Stuttgart,0,1,1,1.8,0.0,1.8,31,2021
+Pascal Stenzel,VfB Stuttgart,0,1,1,1.8,0.0,1.8,23,2021
+Darko Churlinov,VfB Stuttgart,0,1,1,1.8,0.0,1.8,14,2021
+Dayotchanculle Upamecano,RasenBallsport Leipzig,1,0,1,1.7,1.7,0.0,29,2021
+Lukas Klostermann,RasenBallsport Leipzig,1,0,1,1.7,1.7,0.0,23,2021
+Ibrahima Konaté,RasenBallsport Leipzig,1,0,1,1.7,1.7,0.0,14,2021
+Kevin Kampl,RasenBallsport Leipzig,0,1,1,1.7,0.0,1.7,27,2021
+Benjamin Henrichs,RasenBallsport Leipzig,0,1,1,1.7,0.0,1.7,13,2021
+Lazar Samardzic,RasenBallsport Leipzig,0,1,1,1.7,0.0,1.7,7,2021
+Hee-Chan Hwang,RasenBallsport Leipzig,0,1,1,1.7,0.0,1.7,18,2021
+Kevin Mbabu,Wolfsburg,0,1,1,1.6,0.0,1.6,22,2021
+Sebastian Rode,Eintracht Frankfurt,1,0,1,1.4,1.4,0.0,27,2021
+David Abraham,Eintracht Frankfurt,1,0,1,1.4,1.4,0.0,14,2021
+Timothy Chandler,Eintracht Frankfurt,1,0,1,1.4,1.4,0.0,15,2021
+Stefan Ilsanker,Eintracht Frankfurt,1,0,1,1.4,1.4,0.0,27,2021
+Ragnar Ache,Eintracht Frankfurt,1,0,1,1.4,1.4,0.0,7,2021
+Ajdin Hrustic,Eintracht Frankfurt,1,0,1,1.4,1.4,0.0,11,2021
+Felix Passlack,Borussia Dortmund,1,0,1,1.3,1.3,0.0,7,2021
+Niklas Süle,Bayern Munich,1,0,1,1.0,1.0,0.0,20,2021
+Corentin Tolisso,Bayern Munich,1,0,1,1.0,1.0,0.0,16,2021
+Bouna Sarr,Bayern Munich,0,1,1,1.0,0.0,1.0,8,2021
+Rune Jarstein,Hertha Berlin,0,0,0,0.0,0.0,0.0,8,2021
+Vedad Ibisevic,Schalke 04,0,0,0,0.0,0.0,0.0,4,2021
+Loris Karius,Union Berlin,0,0,0,0.0,0.0,0.0,4,2021
+Yunus Malli,Wolfsburg,0,0,0,0.0,0.0,0.0,1,2021
+Christian Gentner,Union Berlin,0,0,0,0.0,0.0,0.0,22,2021
+Carlos Gruezo,Augsburg,0,0,0,0.0,0.0,0.0,28,2021
+Oliver Baumann,Hoffenheim,0,0,0,0.0,0.0,0.0,31,2021
+Tobias Strobl,Augsburg,0,0,0,0.0,0.0,0.0,29,2021
+Ron-Robert Zieler,FC Cologne,0,0,0,0.0,0.0,0.0,1,2021
+Salif Sané,Schalke 04,0,0,0,0.0,0.0,0.0,14,2021
+Philipp Bargfrede,Werder Bremen,0,0,0,0.0,0.0,0.0,1,2021
+Timo Horn,FC Cologne,0,0,0,0.0,0.0,0.0,34,2021
+Dominique Heintz,Freiburg,0,0,0,0.0,0.0,0.0,21,2021
+Anthony Modeste,FC Cologne,0,0,0,0.0,0.0,0.0,8,2021
+Frederik Sörensen,FC Cologne,0,0,0,0.0,0.0,0.0,3,2021
+Josuha Guilavogui,Wolfsburg,0,0,0,0.0,0.0,0.0,20,2021
+Koen Casteels,Wolfsburg,0,0,0,0.0,0.0,0.0,32,2021
+Wendell,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,22,2021
+Karim Bellarabi,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,22,2021
+Yann Sommer,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,31,2021
+Tony Jantschke,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,8,2021
+Håvard Nordtveit,Hoffenheim,0,0,0,0.0,0.0,0.0,12,2021
+Ibrahima Traoré,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,7,2021
+Tobias Sippel,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,4,2021
+Manuel Neuer,Bayern Munich,0,0,0,0.0,0.0,0.0,33,2021
+Javi Martínez,Bayern Munich,0,0,0,0.0,0.0,0.0,19,2021
+Marwin Hitz,Borussia Dortmund,0,0,0,0.0,0.0,0.0,16,2021
+Dong-Won Ji,Mainz 05,0,0,0,0.0,0.0,0.0,6,2021
+Lukas Hradecky,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,29,2021
+Makoto Hasebe,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,29,2021
+Roman Bürki,Borussia Dortmund,0,0,0,0.0,0.0,0.0,19,2021
+Lukasz Piszczek,Borussia Dortmund,0,0,0,0.0,0.0,0.0,11,2021
+Sven Bender,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,18,2021
+Ralf Fährmann,Schalke 04,0,0,0,0.0,0.0,0.0,22,2021
+Max Meyer,FC Cologne,0,0,0,0.0,0.0,0.0,10,2021
+Felix Klaus,Wolfsburg,0,0,0,0.0,0.0,0.0,6,2021
+Jan Morávek,Augsburg,0,0,0,0.0,0.0,0.0,5,2021
+Lukas Klünter,Hertha Berlin,0,0,0,0.0,0.0,0.0,11,2021
+Tin Jedvaj,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,3,2021
+Niklas Stark,Hertha Berlin,0,0,0,0.0,0.0,0.0,33,2021
+Daniel Ginczek,Wolfsburg,0,0,0,0.0,0.0,0.0,11,2021
+Marco Höger,FC Cologne,0,0,0,0.0,0.0,0.0,3,2021
+Nico Schulz,Borussia Dortmund,0,0,0,0.0,0.0,0.0,13,2021
+Robin Zentner,Mainz 05,0,0,0,0.0,0.0,0.0,31,2021
+Matija Nastasic,Schalke 04,0,0,0,0.0,0.0,0.0,15,2021
+Charles Aránguiz,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,21,2021
+Reece Oxford,Augsburg,0,0,0,0.0,0.0,0.0,24,2021
+Timothy Fosu-Mensah,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,6,2021
+Nabil Bentaleb,Schalke 04,0,0,0,0.0,0.0,0.0,9,2021
+Mike van der Hoorn,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,22,2021
+Niklas Moisander,Werder Bremen,0,0,0,0.0,0.0,0.0,18,2021
+Jorge Meré,FC Cologne,0,0,0,0.0,0.0,0.0,16,2021
+Alessandro Schöpf,Schalke 04,0,0,0,0.0,0.0,0.0,19,2021
+Alexander Nübel,Bayern Munich,0,0,0,0.0,0.0,0.0,1,2021
+Marcel Hartel,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,22,2021
+Milos Veljkovic,Werder Bremen,0,0,0,0.0,0.0,0.0,23,2021
+Axel Witsel,Borussia Dortmund,0,0,0,0.0,0.0,0.0,15,2021
+Kevin Trapp,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,33,2021
+Benjamin Pavard,Bayern Munich,0,0,0,0.0,0.0,0.0,24,2021
+Janik Haberer,Freiburg,0,0,0,0.0,0.0,0.0,14,2021
+Marc Roca,Bayern Munich,0,0,0,0.0,0.0,0.0,6,2021
+Aarón Martín,Mainz 05,0,0,0,0.0,0.0,0.0,5,2021
+Jordan Torunarigha,Hertha Berlin,0,0,0,0.0,0.0,0.0,14,2021
+Péter Gulácsi,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,33,2021
+Andreas Luthe,Union Berlin,0,0,0,0.0,0.0,0.0,31,2021
+Alexander Schwolow,Hertha Berlin,0,0,0,0.0,0.0,0.0,26,2021
+Amir Abrashi,Freiburg,0,0,0,0.0,0.0,0.0,5,2021
+Gregor Kobel,VfB Stuttgart,0,0,0,0.0,0.0,0.0,33,2021
+Rafal Gikiewicz,Augsburg,0,0,0,0.0,0.0,0.0,34,2021
+Florian Müller,Freiburg,0,0,0,0.0,0.0,0.0,31,2021
+Stefan Posch,Hoffenheim,0,0,0,0.0,0.0,0.0,26,2021
+Marco Friedl,Werder Bremen,0,0,0,0.0,0.0,0.0,32,2021
+Jacob Bruun Larsen,Hoffenheim,0,0,0,0.0,0.0,0.0,2,2021
+Kwon Chang-Hoon,Freiburg,0,0,0,0.0,0.0,0.0,12,2021
+Hamza Mendyl,Schalke 04,0,0,0,0.0,0.0,0.0,3,2021
+Davy Klaassen,Werder Bremen,0,0,0,0.0,0.0,0.0,3,2021
+Jiri Pavlenka,Werder Bremen,0,0,0,0.0,0.0,0.0,34,2021
+Johannes Eggestein,Werder Bremen,0,0,0,0.0,0.0,0.0,2,2021
+Marcin Kaminski,VfB Stuttgart,0,0,0,0.0,0.0,0.0,5,2021
+Florian Hübner,Union Berlin,0,0,0,0.0,0.0,0.0,6,2021
+Dan-Axel Zagadou,Borussia Dortmund,0,0,0,0.0,0.0,0.0,9,2021
+Konrad Laimer,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,3,2021
+Michaël Cuisance,Bayern Munich,0,0,0,0.0,0.0,0.0,1,2021
+Niklas Lomb,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,2,2021
+Louis Beyer,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,4,2021
+Finn Dahmen,Mainz 05,0,0,0,0.0,0.0,0.0,3,2021
+Konstantinos Mavropanos,VfB Stuttgart,0,0,0,0.0,0.0,0.0,21,2021
+Kasim Nuhu,Hoffenheim,0,0,0,0.0,0.0,0.0,12,2021
+Joshua Brenet,Hoffenheim,0,0,0,0.0,0.0,0.0,1,2021
+Fabian Bredlow,VfB Stuttgart,0,0,0,0.0,0.0,0.0,1,2021
+Patrick Erras,Werder Bremen,0,0,0,0.0,0.0,0.0,4,2021
+Eduard Löwen,Hertha Berlin,0,0,0,0.0,0.0,0.0,7,2021
+Mark Flekken,Freiburg,0,0,0,0.0,0.0,0.0,3,2021
+Frederik Rönnow,Schalke 04,0,0,0,0.0,0.0,0.0,11,2021
+Pavao Pervan,Wolfsburg,0,0,0,0.0,0.0,0.0,2,2021
+Steven Skrzybski,Schalke 04,0,0,0,0.0,0.0,0.0,13,2021
+Niko Gießelmann,Union Berlin,0,0,0,0.0,0.0,0.0,13,2021
+Paulinho,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,1,2021
+Pierre Kunde,Mainz 05,0,0,0,0.0,0.0,0.0,11,2021
+Santiago Arias,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,1,2021
+Issah Abass,Mainz 05,0,0,0,0.0,0.0,0.0,2,2021
+Michael Langer,Schalke 04,0,0,0,0.0,0.0,0.0,3,2021
+Leon Dajaku,Union Berlin,0,0,0,0.0,0.0,0.0,2,2021
+Ahmed Kutucu,Schalke 04,0,0,0,0.0,0.0,0.0,7,2021
+Ozan Kabak,Schalke 04,0,0,0,0.0,0.0,0.0,14,2021
+Rabbi Matondo,Schalke 04,0,0,0,0.0,0.0,0.0,3,2021
+Keven Schlotterbeck,Freiburg,0,0,0,0.0,0.0,0.0,24,2021
+Tuta,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,19,2021
+Guus Til,Freiburg,0,0,0,0.0,0.0,0.0,7,2021
+Luca Kilian,Mainz 05,0,0,0,0.0,0.0,0.0,6,2021
+Marek Suchy,Augsburg,0,0,0,0.0,0.0,0.0,5,2021
+Mads Pedersen,Augsburg,0,0,0,0.0,0.0,0.0,15,2021
+Lino Tempelmann,Freiburg,0,0,0,0.0,0.0,0.0,10,2021
+Münir Mercan,Schalke 04,0,0,0,0.0,0.0,0.0,1,2021
+Philipp Pentke,Hoffenheim,0,0,0,0.0,0.0,0.0,3,2021
+Joshua Mees,Union Berlin,0,0,0,0.0,0.0,0.0,1,2021
+Daley Sinkgraven,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,22,2021
+Daishawn Redan,Hertha Berlin,0,0,0,0.0,0.0,0.0,7,2021
+Nianzou Kouassi,Bayern Munich,0,0,0,0.0,0.0,0.0,6,2021
+Ilia Gruev,Werder Bremen,0,0,0,0.0,0.0,0.0,1,2021
+Joshua Zirkzee,Bayern Munich,0,0,0,0.0,0.0,0.0,3,2021
+Noah Katterbach,FC Cologne,0,0,0,0.0,0.0,0.0,21,2021
+Nick Woltemade,Werder Bremen,0,0,0,0.0,0.0,0.0,6,2021
+Maximilian Beier,Hoffenheim,0,0,0,0.0,0.0,0.0,3,2021
+Timo Becker,Schalke 04,0,0,0,0.0,0.0,0.0,20,2021
+Yannik Keitel,Freiburg,0,0,0,0.0,0.0,0.0,12,2021
+Marin Pongracic,Wolfsburg,0,0,0,0.0,0.0,0.0,10,2021
+Exequiel Palacios,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,9,2021
+Omar Marmoush,Wolfsburg,0,0,0,0.0,0.0,0.0,1,2021
+Dennis Borkowski,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,2,2021
+Anderson-Lenda Lucoqui,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,21,2021
+Fabian Kunze,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,26,2021
+Joakim Nilsson,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,25,2021
+Sebastian Griesbeck,Union Berlin,0,0,0,0.0,0.0,0.0,24,2021
+Roberto Massimo,VfB Stuttgart,0,0,0,0.0,0.0,0.0,18,2021
+Hamadi Al Ghaddioui,VfB Stuttgart,0,0,0,0.0,0.0,0.0,6,2021
+Alkhaly Momo Cissé,VfB Stuttgart,0,0,0,0.0,0.0,0.0,5,2021
+Klauss,Hoffenheim,0,0,0,0.0,0.0,0.0,4,2021
+Rocco Reitz,Borussia M.Gladbach,0,0,0,0.0,0.0,0.0,2,2021
+Paul Nebel,Mainz 05,0,0,0,0.0,0.0,0.0,4,2021
+Niklas Tauer,Mainz 05,0,0,0,0.0,0.0,0.0,5,2021
+Tim Siersleben,Wolfsburg,0,0,0,0.0,0.0,0.0,1,2021
+Tolu Arokodare,FC Cologne,0,0,0,0.0,0.0,0.0,10,2021
+Dimitris Limnios,FC Cologne,0,0,0,0.0,0.0,0.0,12,2021
+Sava-Arangel Cestic,FC Cologne,0,0,0,0.0,0.0,0.0,11,2021
+Atakan Karazor,VfB Stuttgart,0,0,0,0.0,0.0,0.0,19,2021
+Joscha Wosz,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,2,2021
+Omar Alderete,Hertha Berlin,0,0,0,0.0,0.0,0.0,17,2021
+Lilian Egloff,VfB Stuttgart,0,0,0,0.0,0.0,0.0,2,2021
+Luca Mack,VfB Stuttgart,0,0,0,0.0,0.0,0.0,1,2021
+Emrehan Gedikli,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,1,2021
+Brian Behrendt,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,3,2021
+Kilian Ludewig,Schalke 04,0,0,0,0.0,0.0,0.0,6,2021
+Josep Martínez,RasenBallsport Leipzig,0,0,0,0.0,0.0,0.0,1,2021
+Tim Maciejewski,Union Berlin,0,0,0,0.0,0.0,0.0,1,2021
+Marco John,Hoffenheim,0,0,0,0.0,0.0,0.0,14,2021
+Lukas Petkov,Augsburg,0,0,0,0.0,0.0,0.0,1,2021
+Lennart Grill,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,4,2021
+Jan-Luca Schuler,Schalke 04,0,0,0,0.0,0.0,0.0,2,2021
+Kerim Çalhanoglu,Schalke 04,0,0,0,0.0,0.0,0.0,4,2021
+Merveille Papela,Mainz 05,0,0,0,0.0,0.0,0.0,1,2021
+Tim Civeja,Augsburg,0,0,0,0.0,0.0,0.0,3,2021
+Sebastian Müller,Arminia Bielefeld,0,0,0,0.0,0.0,0.0,2,2021
+Steffen Tigges,Borussia Dortmund,0,0,0,0.0,0.0,0.0,6,2021
+Tiago Dantas,Bayern Munich,0,0,0,0.0,0.0,0.0,2,2021
+Nishan Burkart,Freiburg,0,0,0,0.0,0.0,0.0,1,2021
+Naouirou Ahamada,VfB Stuttgart,0,0,0,0.0,0.0,0.0,6,2021
+Elias Bördner,Eintracht Frankfurt,0,0,0,0.0,0.0,0.0,1,2021
+Jeremie Frimpong,Bayer Leverkusen,0,0,0,0.0,0.0,0.0,10,2021
+Mikail Maden,Schalke 04,0,0,0,0.0,0.0,0.0,1,2021
+Mehmet Can Aydin,Schalke 04,0,0,0,0.0,0.0,0.0,6,2021
+Jonas Michelbrink,Hertha Berlin,0,0,0,0.0,0.0,0.0,2,2021
+Vasilis Pavlidis,Schalke 04,0,0,0,0.0,0.0,0.0,1,2021
+Christopher Scott,Bayern Munich,0,0,0,0.0,0.0,0.0,2,2021
+Josip Stanisic,Bayern Munich,0,0,0,0.0,0.0,0.0,1,2021
+Mohamed Sankoh,VfB Stuttgart,0,0,0,0.0,0.0,0.0,1,2021
+Jimmy Adrian Kaparos,Schalke 04,0,0,0,0.0,0.0,0.0,1,2021
+Marten Winkler,Hertha Berlin,0,0,0,0.0,0.0,0.0,1,2021
+Henning Matriciani,Schalke 04,0,0,0,0.0,0.0,0.0,1,2021
+Jonas Michel Dirkner,Hertha Berlin,0,0,0,0.0,0.0,0.0,1,2021

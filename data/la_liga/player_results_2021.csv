@@ -1,0 +1,559 @@
+player,team,goals,assists,contributions,contribution_pct,goals_pct,assists_pct,games,season
+Gerard Moreno,Villarreal,23,7,30,50.0,38.3,11.7,33,2021
+Iago Aspas,Celta Vigo,14,13,27,49.1,25.5,23.6,33,2021
+Kike García,Eibar,12,2,14,48.3,41.4,6.9,37,2021
+Karim Benzema,Real Madrid,23,9,32,47.8,34.3,13.4,34,2021
+Lionel Messi,Barcelona,30,9,39,45.9,35.3,10.6,35,2021
+Rafa Mir,SD Huesca,13,1,14,41.2,38.2,2.9,38,2021
+Joselu,Alaves,11,3,14,38.9,30.6,8.3,37,2021
+Carlos Soler,Valencia,11,8,19,38.0,22.0,16.0,32,2021
+Morales,Levante,14,3,17,37.0,30.4,6.5,38,2021
+Luis Suárez,Atletico Madrid,21,3,24,35.8,31.3,4.5,32,2021
+Roger,Levante,12,4,16,34.8,26.1,8.7,33,2021
+Marcos Llorente,Atletico Madrid,12,11,23,34.3,17.9,16.4,37,2021
+Youssef En-Nesyri,Sevilla,18,0,18,34.0,34.0,0.0,38,2021
+Álvaro Negredo,Cadiz,8,4,12,33.3,22.2,11.1,35,2021
+Mikel Oyarzabal,Real Sociedad,11,8,19,32.2,18.6,13.6,33,2021
+Alexander Isak,Real Sociedad,16,2,18,30.5,27.1,3.4,34,2021
+Ante Budimir,Osasuna,11,0,11,29.7,29.7,0.0,30,2021
+Óscar Plano,Real Valladolid,5,5,10,29.4,14.7,14.7,36,2021
+Jorge De Frutos,Levante,4,9,13,28.3,8.7,19.6,37,2021
+Sergio Canales,Real Betis,8,6,14,28.0,16.0,12.0,31,2021
+Santi Mina,Celta Vigo,12,3,15,27.3,21.8,5.5,34,2021
+Lucas Boyé,Elche,7,2,9,26.5,20.6,5.9,34,2021
+Fidel,Elche,6,3,9,26.5,17.6,8.8,30,2021
+Alex Berenguer,Athletic Club,8,4,12,26.1,17.4,8.7,35,2021
+Iñaki Williams,Athletic Club,6,6,12,26.1,13.0,13.0,38,2021
+Ángel Correa,Atletico Madrid,9,8,17,25.4,13.4,11.9,38,2021
+Yannick Carrasco,Atletico Madrid,6,10,16,23.9,9.0,14.9,30,2021
+Antoine Griezmann,Barcelona,13,7,20,23.5,15.3,8.2,36,2021
+Fabián Orellana,Real Valladolid,6,2,8,23.5,17.6,5.9,30,2021
+Lucas Pérez,Alaves,4,4,8,22.2,11.1,11.1,28,2021
+Borja Iglesias,Real Betis,11,0,11,22.0,22.0,0.0,28,2021
+Nolito,Celta Vigo,7,5,12,21.8,12.7,9.1,36,2021
+Roberto Torres,Osasuna,7,1,8,21.6,18.9,2.7,35,2021
+Rubén García,Osasuna,3,5,8,21.6,8.1,13.5,37,2021
+Enes Ünal,Getafe,4,2,6,21.4,14.3,7.1,28,2021
+Jorge Molina,Granada,8,2,10,21.3,17.0,4.3,33,2021
+Sandro Ramírez,SD Huesca,6,1,7,20.6,17.6,2.9,20,2021
+Shon Weissman,Real Valladolid,6,1,7,20.6,17.6,2.9,32,2021
+Pere Milla,Elche,4,3,7,20.6,11.8,8.8,32,2021
+Tete Morente,Elche,2,5,7,20.6,5.9,14.7,30,2021
+Nabil Fekir,Real Betis,5,5,10,20.0,10.0,10.0,33,2021
+Gonçalo Guedes,Valencia,5,5,10,20.0,10.0,10.0,31,2021
+Roberto Soldado,Granada,9,0,9,19.1,19.1,0.0,29,2021
+Darwin Machís,Granada,4,5,9,19.1,8.5,10.6,32,2021
+Jonathan Calleri,Osasuna,5,2,7,18.9,13.5,5.4,25,2021
+Portu,Real Sociedad,8,3,11,18.6,13.6,5.1,37,2021
+João Félix,Atletico Madrid,7,5,12,17.9,10.4,7.5,31,2021
+Ángel,Getafe,5,0,5,17.9,17.9,0.0,33,2021
+Jaime Mata,Getafe,5,0,5,17.9,17.9,0.0,33,2021
+Toni Kroos,Real Madrid,3,9,12,17.9,4.5,13.4,28,2021
+Marc Cucurella,Getafe,3,2,5,17.9,10.7,7.1,37,2021
+Juan Camilo Hernández,Getafe,2,3,5,17.9,7.1,10.7,23,2021
+Josan,Elche,4,2,6,17.6,11.8,5.9,33,2021
+David Ferreiro,SD Huesca,2,4,6,17.6,5.9,11.8,37,2021
+Gonzalo Melero,Levante,7,1,8,17.4,15.2,2.2,29,2021
+Muniain,Athletic Club,5,3,8,17.4,10.9,6.5,28,2021
+Lucas Ocampos,Sevilla,5,4,9,17.0,9.4,7.5,34,2021
+Antonio Puertas,Granada,3,5,8,17.0,6.4,10.6,35,2021
+Paco Alcácer,Villarreal,6,4,10,16.7,10.0,6.7,27,2021
+Edgar Méndez,Alaves,5,1,6,16.7,13.9,2.8,33,2021
+Luis Rioja,Alaves,4,2,6,16.7,11.1,5.6,35,2021
+Brais Méndez,Celta Vigo,9,0,9,16.4,16.4,0.0,34,2021
+Denis Suárez,Celta Vigo,0,9,9,16.4,0.0,16.4,35,2021
+Maxi Gómez,Valencia,7,1,8,16.0,14.0,2.0,31,2021
+Cristian Tello,Real Betis,5,3,8,16.0,10.0,6.0,29,2021
+José Gayá,Valencia,1,7,8,16.0,2.0,14.0,33,2021
+Casemiro,Real Madrid,6,4,10,14.9,9.0,6.0,34,2021
+Kenedy,Granada,4,3,7,14.9,8.5,6.4,28,2021
+Marcos de Sousa,Real Valladolid,4,1,5,14.7,11.8,2.9,23,2021
+Guido Carrillo,Elche,3,2,5,14.7,8.8,5.9,21,2021
+Pablo Maffeo,SD Huesca,1,4,5,14.7,2.9,11.8,25,2021
+Mikel Rico,SD Huesca,1,4,5,14.7,2.9,11.8,32,2021
+Pablo Hervías,Real Valladolid,0,5,5,14.7,0.0,14.7,27,2021
+Joaquín,Real Betis,2,5,7,14.0,4.0,10.0,27,2021
+Álex Fernández,Cadiz,4,1,5,13.9,11.1,2.8,25,2021
+Alberto Perea,Cadiz,2,3,5,13.9,5.6,8.3,27,2021
+Esteban Burgos,Eibar,3,1,4,13.8,10.3,3.4,14,2021
+Adnan Januzaj,Real Sociedad,4,4,8,13.6,6.8,6.8,27,2021
+Kike Barja,Osasuna,2,3,5,13.5,5.4,8.1,33,2021
+Daniel Parejo,Villarreal,3,5,8,13.3,5.0,8.3,36,2021
+Fernando,Sevilla,3,4,7,13.2,5.7,7.5,31,2021
+Suso,Sevilla,3,4,7,13.2,5.7,7.5,34,2021
+Joan Jordán,Sevilla,1,6,7,13.2,1.9,11.3,35,2021
+Raúl García,Athletic Club,5,1,6,13.0,10.9,2.2,34,2021
+Asier Villalibre,Athletic Club,4,2,6,13.0,8.7,4.3,35,2021
+Luis Suárez,Granada,5,1,6,12.8,10.6,2.1,27,2021
+Luka Modric,Real Madrid,5,3,8,11.9,7.5,4.5,35,2021
+David Silva,Real Sociedad,2,5,7,11.9,3.4,8.5,21,2021
+Raúl Guti,Elche,3,1,4,11.8,8.8,2.9,36,2021
+Manu Trigueros,Villarreal,1,6,7,11.7,1.7,10.0,35,2021
+Ivan Rakitic,Sevilla,4,2,6,11.3,7.5,3.8,37,2021
+Munir,Sevilla,4,2,6,11.3,7.5,3.8,24,2021
+Jesús Navas,Sevilla,0,6,6,11.3,0.0,11.3,34,2021
+Anthony Lozano,Cadiz,3,1,4,11.1,8.3,2.8,29,2021
+Deyverson,Alaves,1,3,4,11.1,2.8,8.3,27,2021
+Mauro Arambarri,Getafe,3,0,3,10.7,10.7,0.0,34,2021
+Ousmane Dembélé,Barcelona,6,3,9,10.6,7.1,3.5,30,2021
+Marco Asensio,Real Madrid,5,2,7,10.4,7.5,3.0,35,2021
+Lucas Vázquez,Real Madrid,2,5,7,10.4,3.0,7.5,24,2021
+Rodrygo,Real Madrid,1,6,7,10.4,1.5,9.0,22,2021
+Sergi Enrich,Eibar,3,0,3,10.3,10.3,0.0,27,2021
+Pedro León,Eibar,1,2,3,10.3,3.4,6.9,24,2021
+Edu Expósito,Eibar,0,3,3,10.3,0.0,10.3,31,2021
+Mikel Merino,Real Sociedad,2,4,6,10.2,3.4,6.8,26,2021
+Manu Vallejo,Valencia,5,0,5,10.0,10.0,0.0,30,2021
+Gabriel,Valencia,4,1,5,10.0,8.0,2.0,31,2021
+Daniel Wass,Valencia,4,1,5,10.0,8.0,2.0,35,2021
+Kevin Gameiro,Valencia,4,1,5,10.0,8.0,2.0,27,2021
+Samuel Chukwueze,Villarreal,4,2,6,10.0,6.7,3.3,28,2021
+Emerson,Real Betis,1,4,5,10.0,2.0,8.0,34,2021
+Jordi Alba,Barcelona,3,5,8,9.4,3.5,5.9,35,2021
+Vinícius Júnior,Real Madrid,3,3,6,9.0,4.5,4.5,35,2021
+Kieran Trippier,Atletico Madrid,0,6,6,9.0,0.0,9.0,28,2021
+Javi Ontiveros,SD Huesca,2,1,3,8.8,5.9,2.9,20,2021
+Sergi Guardiola,Real Valladolid,1,2,3,8.8,2.9,5.9,29,2021
+Javi Galán,SD Huesca,1,2,3,8.8,2.9,5.9,37,2021
+Antonio Barragán,Elche,0,3,3,8.8,0.0,8.8,27,2021
+Oihan Sancet,Athletic Club,2,2,4,8.7,4.3,4.3,24,2021
+Jon Morcillo,Athletic Club,2,2,4,8.7,4.3,4.3,30,2021
+Dani Gómez,Levante,2,2,4,8.7,4.3,4.3,34,2021
+Yuri,Athletic Club,1,3,4,8.7,2.2,6.5,23,2021
+Yangel Herrera,Granada,3,1,4,8.5,6.4,2.1,32,2021
+Germán Sánchez,Granada,3,1,4,8.5,6.4,2.1,34,2021
+Dimitri Foulquier,Granada,0,4,4,8.5,0.0,8.5,32,2021
+Carlos Bacca,Villarreal,5,0,5,8.3,8.3,0.0,23,2021
+Cala,Cadiz,3,0,3,8.3,8.3,0.0,28,2021
+Álvaro,Cadiz,2,1,3,8.3,5.6,2.8,11,2021
+Alfonso Espino,Cadiz,0,3,3,8.3,0.0,8.3,32,2021
+Frenkie de Jong,Barcelona,3,4,7,8.2,3.5,4.7,37,2021
+Aissa Mandi,Real Betis,3,1,4,8.0,6.0,2.0,28,2021
+Aitor Ruibal,Real Betis,2,2,4,8.0,4.0,4.0,28,2021
+Lee Kang-In,Valencia,0,4,4,8.0,0.0,8.0,24,2021
+Luuk de Jong,Sevilla,4,0,4,7.5,7.5,0.0,34,2021
+Alejandro Gomez,Sevilla,3,1,4,7.5,5.7,1.9,18,2021
+Hugo Mallo,Celta Vigo,3,1,4,7.3,5.5,1.8,31,2021
+Augusto Solari,Celta Vigo,2,2,4,7.3,3.6,3.6,16,2021
+Pedri,Barcelona,3,3,6,7.1,3.5,3.5,37,2021
+Nyom,Getafe,0,2,2,7.1,0.0,7.1,31,2021
+Yoshinori Muto,Eibar,1,1,2,6.9,3.4,3.4,26,2021
+Papakouly Diop,Eibar,1,1,2,6.9,3.4,3.4,33,2021
+Kévin Rodrigues,Eibar,1,1,2,6.9,3.4,3.4,22,2021
+Rober Correa,Eibar,0,2,2,6.9,0.0,6.9,15,2021
+Willian José,Real Sociedad,3,1,4,6.8,5.1,1.7,13,2021
+Moi Gómez,Villarreal,4,0,4,6.7,6.7,0.0,35,2021
+Yeremi Pino,Villarreal,3,1,4,6.7,5.0,1.7,24,2021
+Pau Torres,Villarreal,2,2,4,6.7,3.3,3.3,33,2021
+Unai López,Athletic Club,3,0,3,6.5,6.5,0.0,26,2021
+Ander Capa,Athletic Club,2,1,3,6.5,4.3,2.2,28,2021
+De Marcos,Athletic Club,1,2,3,6.5,2.2,4.3,25,2021
+José Campaña,Levante,1,2,3,6.5,2.2,4.3,9,2021
+Enis Bardhi,Levante,1,2,3,6.5,2.2,4.3,26,2021
+Carlos Clerc,Levante,0,3,3,6.5,0.0,6.5,35,2021
+Jorge Miramón,Levante,0,3,3,6.5,0.0,6.5,26,2021
+Alberto Soro,Granada,1,2,3,6.4,2.1,4.3,15,2021
+Antonio Sanabria,Real Betis,3,0,3,6.0,6.0,0.0,16,2021
+Federico Valverde,Real Madrid,3,1,4,6.0,4.5,1.5,24,2021
+Eden Hazard,Real Madrid,2,2,4,6.0,3.0,3.0,14,2021
+Thomas Lemar,Atletico Madrid,1,3,4,6.0,1.5,4.5,27,2021
+Juan Miranda,Real Betis,1,2,3,6.0,2.0,4.0,22,2021
+Denis Cheryshev,Valencia,0,3,3,6.0,0.0,6.0,21,2021
+Trincão,Barcelona,3,2,5,5.9,3.5,2.4,28,2021
+Dani Calvo,Elche,2,0,2,5.9,5.9,0.0,23,2021
+Míchel,Real Valladolid,2,0,2,5.9,5.9,0.0,22,2021
+Dimitrios Siovas,SD Huesca,2,0,2,5.9,5.9,0.0,36,2021
+Toni Villa,Real Valladolid,2,0,2,5.9,5.9,0.0,21,2021
+Shinji Okazaki,SD Huesca,1,1,2,5.9,2.9,2.9,25,2021
+Emiliano Rigoni,Elche,1,1,2,5.9,2.9,2.9,23,2021
+Jaime Seoane,SD Huesca,1,1,2,5.9,2.9,2.9,29,2021
+Dani Escriche,SD Huesca,1,1,2,5.9,2.9,2.9,23,2021
+Sergio Busquets,Barcelona,0,5,5,5.9,0.0,5.9,36,2021
+Gonzalo Verdú,Elche,0,2,2,5.9,0.0,5.9,33,2021
+Jules Koundé,Sevilla,2,1,3,5.7,3.8,1.9,34,2021
+Marcos Acuña,Sevilla,1,2,3,5.7,1.9,3.8,30,2021
+Óliver Torres,Sevilla,0,3,3,5.7,0.0,5.7,33,2021
+Pere Pons,Alaves,2,0,2,5.6,5.6,0.0,22,2021
+Marcos Mauro,Cadiz,2,0,2,5.6,5.6,0.0,24,2021
+Salvi Sánchez,Cadiz,2,0,2,5.6,5.6,0.0,28,2021
+Rubén Duarte,Alaves,1,1,2,5.6,2.8,2.8,31,2021
+Tomás Pina,Alaves,1,1,2,5.6,2.8,2.8,33,2021
+Ximo Navarro,Alaves,1,1,2,5.6,2.8,2.8,31,2021
+Florian Lejeune,Alaves,1,1,2,5.6,2.8,2.8,34,2021
+Iván Alejo,Cadiz,1,1,2,5.6,2.8,2.8,22,2021
+Jota,Alaves,0,2,2,5.6,0.0,5.6,23,2021
+Fran Beltrán,Celta Vigo,3,0,3,5.5,5.5,0.0,32,2021
+Aarón Martín,Celta Vigo,0,3,3,5.5,0.0,5.5,19,2021
+Darko Brasanac,Osasuna,2,0,2,5.4,5.4,0.0,16,2021
+Jon Moncayola,Osasuna,2,0,2,5.4,5.4,0.0,36,2021
+Facundo Roncaglia,Osasuna,1,1,2,5.4,2.7,2.7,17,2021
+Adrián,Osasuna,1,1,2,5.4,2.7,2.7,17,2021
+Javi Martínez,Osasuna,1,1,2,5.4,2.7,2.7,13,2021
+Jony,Osasuna,0,2,2,5.4,0.0,5.4,22,2021
+Oier,Osasuna,0,2,2,5.4,0.0,5.4,32,2021
+Enric Gallego,Osasuna,0,2,2,5.4,0.0,5.4,22,2021
+Roberto López,Real Sociedad,3,0,3,5.1,5.1,0.0,17,2021
+Ander Barrenetxea,Real Sociedad,3,0,3,5.1,5.1,0.0,31,2021
+Fernando Niño,Villarreal,3,0,3,5.0,5.0,0.0,17,2021
+Alfonso,Villarreal,1,2,3,5.0,1.7,3.3,29,2021
+Anssumane Fati,Barcelona,4,0,4,4.7,4.7,0.0,7,2021
+Philippe Coutinho,Barcelona,2,2,4,4.7,2.4,2.4,12,2021
+Martin Braithwaite,Barcelona,2,2,4,4.7,2.4,2.4,29,2021
+Óscar Mingueza,Barcelona,2,2,4,4.7,2.4,2.4,27,2021
+Saúl Ñíguez,Atletico Madrid,2,1,3,4.5,3.0,1.5,33,2021
+Koke,Atletico Madrid,1,2,3,4.5,1.5,3.0,37,2021
+Renan Lodi,Atletico Madrid,1,2,3,4.5,1.5,3.0,23,2021
+Sergio León,Levante,2,0,2,4.3,4.3,0.0,28,2021
+Domingos Quina,Granada,2,0,2,4.3,4.3,0.0,8,2021
+Montoro,Granada,1,1,2,4.3,2.1,2.1,22,2021
+Unai Núñez,Athletic Club,1,1,2,4.3,2.2,2.2,25,2021
+Luis Milla,Granada,1,1,2,4.3,2.1,2.1,16,2021
+Toño,Levante,0,2,2,4.3,0.0,4.3,12,2021
+Nemanja Radoja,Levante,0,2,2,4.3,0.0,4.3,21,2021
+Víctor Díaz,Granada,0,2,2,4.3,0.0,4.3,17,2021
+Juanmi,Real Betis,2,0,2,4.0,4.0,0.0,16,2021
+Víctor Ruiz,Real Betis,2,0,2,4.0,4.0,0.0,27,2021
+William Carvalho,Real Betis,2,0,2,4.0,4.0,0.0,27,2021
+Uros Racic,Valencia,1,1,2,4.0,2.0,2.0,31,2021
+Thierry Correia,Valencia,1,1,2,4.0,2.0,2.0,29,2021
+Álex Moreno,Real Betis,0,2,2,4.0,0.0,4.0,23,2021
+Diego Lainez,Real Betis,0,2,2,4.0,0.0,4.0,21,2021
+Christian Oliva,Valencia,0,2,2,4.0,0.0,4.0,9,2021
+Jeison Murillo,Celta Vigo,2,0,2,3.6,3.6,0.0,31,2021
+Damián Suárez,Getafe,1,0,1,3.6,3.6,0.0,31,2021
+Nemanja Maksimovic,Getafe,1,0,1,3.6,3.6,0.0,35,2021
+Francisco Portillo,Getafe,0,1,1,3.6,0.0,3.6,16,2021
+Djené Dakonam,Getafe,0,1,1,3.6,0.0,3.6,34,2021
+Ronald Araújo,Barcelona,2,1,3,3.5,2.4,1.2,24,2021
+Sergiño Dest,Barcelona,2,1,3,3.5,2.4,1.2,30,2021
+Sergi Roberto,Barcelona,1,2,3,3.5,1.2,2.4,15,2021
+Ilaix Moriba,Barcelona,1,2,3,3.5,1.2,2.4,14,2021
+Takashi Inui,Eibar,1,0,1,3.4,3.4,0.0,28,2021
+Nacho Monreal,Real Sociedad,1,1,2,3.4,1.7,1.7,26,2021
+Recio,Eibar,1,0,1,3.4,3.4,0.0,17,2021
+Igor Zubeldia,Real Sociedad,1,1,2,3.4,1.7,1.7,24,2021
+Ander Guevara,Real Sociedad,1,1,2,3.4,1.7,1.7,31,2021
+Marko Dmitrovic,Eibar,1,0,1,3.4,3.4,0.0,35,2021
+Aleix García,Eibar,0,1,1,3.4,0.0,3.4,11,2021
+Anaitz Arbilla,Eibar,0,1,1,3.4,0.0,3.4,34,2021
+Paulo Oliveira,Eibar,0,1,1,3.4,0.0,3.4,31,2021
+Rafa Soares,Eibar,0,1,1,3.4,0.0,3.4,19,2021
+Rubén Peña,Villarreal,1,1,2,3.3,1.7,1.7,19,2021
+Mario,Villarreal,0,2,2,3.3,0.0,3.3,24,2021
+Diego Costa,Atletico Madrid,2,0,2,3.0,3.0,0.0,7,2021
+Raphael Varane,Real Madrid,2,0,2,3.0,3.0,0.0,31,2021
+Sergio Ramos,Real Madrid,2,0,2,3.0,3.0,0.0,15,2021
+Álvaro Odriozola,Real Madrid,2,0,2,3.0,3.0,0.0,13,2021
+Mario Hermoso,Atletico Madrid,1,1,2,3.0,1.5,1.5,31,2021
+Isco,Real Madrid,0,2,2,3.0,0.0,3.0,25,2021
+Marcelo,Real Madrid,0,2,2,3.0,0.0,3.0,16,2021
+Daniel Carvajal,Real Madrid,0,2,2,3.0,0.0,3.0,13,2021
+Diego González,Elche,1,0,1,2.9,2.9,0.0,19,2021
+Roque Mesa,Real Valladolid,1,0,1,2.9,2.9,0.0,25,2021
+Bruno,Real Valladolid,1,0,1,2.9,2.9,0.0,27,2021
+Borja,SD Huesca,1,0,1,2.9,2.9,0.0,21,2021
+Raúl García,Real Valladolid,1,0,1,2.9,2.9,0.0,8,2021
+Rubén Alcaraz,Real Valladolid,1,0,1,2.9,2.9,0.0,30,2021
+Jorge Pulido,SD Huesca,1,0,1,2.9,2.9,0.0,33,2021
+Joaquín Fernández,Real Valladolid,1,0,1,2.9,2.9,0.0,25,2021
+Waldo Rubio,Real Valladolid,1,0,1,2.9,2.9,0.0,10,2021
+Jota,Real Valladolid,1,0,1,2.9,2.9,0.0,17,2021
+Nacho,Real Valladolid,0,1,1,2.9,0.0,2.9,23,2021
+Pedro López,SD Huesca,0,1,1,2.9,0.0,2.9,22,2021
+Juan Carlos,SD Huesca,0,1,1,2.9,0.0,2.9,15,2021
+Saidy Janko,Real Valladolid,0,1,1,2.9,0.0,2.9,19,2021
+Jawad El Yamiq,Real Valladolid,0,1,1,2.9,0.0,2.9,19,2021
+Sergio Gómez,SD Huesca,0,1,1,2.9,0.0,2.9,29,2021
+Kuki Zalazar,Real Valladolid,0,1,1,2.9,0.0,2.9,2,2021
+Josema,Elche,0,1,1,2.9,0.0,2.9,29,2021
+Rodrigo Ely,Alaves,1,0,1,2.8,2.8,0.0,8,2021
+John Guidetti,Alaves,1,0,1,2.8,2.8,0.0,10,2021
+José Mari,Cadiz,1,0,1,2.8,2.8,0.0,22,2021
+Carlos Akapo,Cadiz,1,0,1,2.8,2.8,0.0,13,2021
+Borja Sainz,Alaves,1,0,1,2.8,2.8,0.0,21,2021
+Ivan Saponjic,Cadiz,1,0,1,2.8,2.8,0.0,9,2021
+Jorge Pombo,Cadiz,1,0,1,2.8,2.8,0.0,12,2021
+Rodrigo Battaglia,Alaves,1,0,1,2.8,2.8,0.0,32,2021
+Jairo Izquierdo,Cadiz,1,0,1,2.8,2.8,0.0,30,2021
+Víctor Laguardia,Alaves,0,1,1,2.8,0.0,2.8,32,2021
+Martín Aguirregabiria,Alaves,0,1,1,2.8,0.0,2.8,26,2021
+Isaac Carcelén,Cadiz,0,1,1,2.8,0.0,2.8,32,2021
+Filip Malbasic,Cadiz,0,1,1,2.8,0.0,2.8,28,2021
+David García,Osasuna,1,0,1,2.7,2.7,0.0,35,2021
+Lucas Torró,Osasuna,0,1,1,2.7,0.0,2.7,25,2021
+Júnior Firpo,Barcelona,1,1,2,2.4,1.2,1.2,7,2021
+Rúben Vezo,Levante,1,0,1,2.2,2.2,0.0,32,2021
+Óscar Duarte,Levante,1,0,1,2.2,2.2,0.0,29,2021
+Iñigo Martínez,Athletic Club,1,0,1,2.2,2.2,0.0,28,2021
+Yeray Álvarez,Athletic Club,1,0,1,2.2,2.2,0.0,23,2021
+Mickaël Malsa,Levante,1,0,1,2.2,2.2,0.0,35,2021
+Rubén Rochina,Levante,0,1,1,2.2,0.0,2.2,25,2021
+Dani García,Athletic Club,0,1,1,2.2,0.0,2.2,27,2021
+Rober,Levante,0,1,1,2.2,0.0,2.2,19,2021
+Balenziaga,Athletic Club,0,1,1,2.2,0.0,2.2,23,2021
+Ibai Gómez,Athletic Club,0,1,1,2.2,0.0,2.2,13,2021
+Mikel Vesga,Athletic Club,0,1,1,2.2,0.0,2.2,30,2021
+Quini,Granada,1,0,1,2.1,2.1,0.0,19,2021
+Domingos Duarte,Granada,1,0,1,2.1,2.1,0.0,29,2021
+Maxime Gonalons,Granada,0,1,1,2.1,0.0,2.1,25,2021
+Toni Lato,Valencia,1,0,1,2.0,2.0,0.0,15,2021
+Mouctar Diakhaby,Valencia,1,0,1,2.0,2.0,0.0,26,2021
+Andrés Guardado,Real Betis,1,0,1,2.0,2.0,0.0,24,2021
+Loren Morón,Real Betis,1,0,1,2.0,2.0,0.0,26,2021
+Álex Blanco,Valencia,1,0,1,2.0,2.0,0.0,13,2021
+Guido Rodríguez,Real Betis,1,0,1,2.0,2.0,0.0,35,2021
+Hugo Guillamón,Valencia,1,0,1,2.0,2.0,0.0,25,2021
+Yunus Musah,Valencia,1,0,1,2.0,2.0,0.0,32,2021
+Marc Bartra,Real Betis,0,1,1,2.0,0.0,2.0,19,2021
+Franco Vázquez,Sevilla,1,0,1,1.9,1.9,0.0,15,2021
+Sergio Escudero,Sevilla,1,0,1,1.9,1.9,0.0,9,2021
+Diego Carlos,Sevilla,1,0,1,1.9,1.9,0.0,33,2021
+Bono,Sevilla,1,0,1,1.9,1.9,0.0,33,2021
+Aleix Vidal,Sevilla,0,1,1,1.9,0.0,1.9,12,2021
+Facundo Ferreyra,Celta Vigo,1,0,1,1.8,1.8,0.0,13,2021
+Sergio Carreira,Celta Vigo,1,0,1,1.8,1.8,0.0,3,2021
+Miguel Baeza,Celta Vigo,1,0,1,1.8,1.8,0.0,22,2021
+Renato Tapia,Celta Vigo,0,1,1,1.8,0.0,1.8,32,2021
+Etienne Capoue,Villarreal,1,0,1,1.7,1.7,0.0,16,2021
+Aritz Elustondo,Real Sociedad,1,0,1,1.7,1.7,0.0,23,2021
+Jon Bautista,Real Sociedad,0,1,1,1.7,0.0,1.7,21,2021
+Jaume Costa,Villarreal,0,1,1,1.7,0.0,1.7,14,2021
+Jon Guridi,Real Sociedad,0,1,1,1.7,0.0,1.7,17,2021
+Andoni Gorosabel,Real Sociedad,0,1,1,1.7,0.0,1.7,32,2021
+Martín Merquelanz,Real Sociedad,0,1,1,1.7,0.0,1.7,13,2021
+Robin Le Normand,Real Sociedad,0,1,1,1.7,0.0,1.7,33,2021
+Aihen Muñoz,Real Sociedad,0,1,1,1.7,0.0,1.7,16,2021
+Lucas Torreira,Atletico Madrid,1,0,1,1.5,1.5,0.0,19,2021
+Nacho,Real Madrid,1,0,1,1.5,1.5,0.0,24,2021
+Stefan Savic,Atletico Madrid,1,0,1,1.5,1.5,0.0,33,2021
+Mariano,Real Madrid,1,0,1,1.5,1.5,0.0,16,2021
+Ferland Mendy,Real Madrid,1,0,1,1.5,1.5,0.0,26,2021
+Eder Militão,Real Madrid,1,0,1,1.5,1.5,0.0,14,2021
+Héctor Herrera,Atletico Madrid,0,1,1,1.5,0.0,1.5,16,2021
+Miguel Gutiérrez,Real Madrid,0,1,1,1.5,0.0,1.5,6,2021
+Marvin Park,Real Madrid,0,1,1,1.5,0.0,1.5,4,2021
+Clement Lenglet,Barcelona,1,0,1,1.2,1.2,0.0,33,2021
+Riqui Puig,Barcelona,1,0,1,1.2,1.2,0.0,14,2021
+Francis Coquelin,Villarreal,0,0,0,0.0,0.0,0.0,22,2021
+Joel Robles,Real Betis,0,0,0,0.0,0.0,0.0,18,2021
+Ramiro Funes Mori,Villarreal,0,0,0,0.0,0.0,0.0,10,2021
+Alberto Moreno,Villarreal,0,0,0,0.0,0.0,0.0,5,2021
+Eliaquim Mangala,Valencia,0,0,0,0.0,0.0,0.0,7,2021
+Thibaut Courtois,Real Madrid,0,0,0,0.0,0.0,0.0,38,2021
+Paulo Gazzaniga,Elche,0,0,0,0.0,0.0,0.0,8,2021
+Miralem Pjanic,Barcelona,0,0,0,0.0,0.0,0.0,19,2021
+Neto,Barcelona,0,0,0,0.0,0.0,0.0,7,2021
+Raúl Albiol,Villarreal,0,0,0,0.0,0.0,0.0,35,2021
+Claudio Bravo,Real Betis,0,0,0,0.0,0.0,0.0,20,2021
+Gastón Silva,SD Huesca,0,0,0,0.0,0.0,0.0,12,2021
+Martín Montoya,Real Betis,0,0,0,0.0,0.0,0.0,5,2021
+Sime Vrsaljko,Atletico Madrid,0,0,0,0.0,0.0,0.0,9,2021
+Vicente Iborra,Villarreal,0,0,0,0.0,0.0,0.0,13,2021
+Coke,Levante,0,0,0,0.0,0.0,0.0,17,2021
+Andrés Fernández,SD Huesca,0,0,0,0.0,0.0,0.0,16,2021
+Marc-André ter Stegen,Barcelona,0,0,0,0.0,0.0,0.0,31,2021
+Gerard Piqué,Barcelona,0,0,0,0.0,0.0,0.0,18,2021
+Jordi Masip,Real Valladolid,0,0,0,0.0,0.0,0.0,25,2021
+Yoel,Eibar,0,0,0,0.0,0.0,0.0,4,2021
+Diego Llorente,Real Sociedad,0,0,0,0.0,0.0,0.0,1,2021
+Rubén Martínez,Osasuna,0,0,0,0.0,0.0,0.0,3,2021
+Sergio Álvarez,Eibar,0,0,0,0.0,0.0,0.0,27,2021
+Gerónimo Rulli,Villarreal,0,0,0,0.0,0.0,0.0,2,2021
+Zaldúa,Real Sociedad,0,0,0,0.0,0.0,0.0,12,2021
+Asier Illarramendi,Real Sociedad,0,0,0,0.0,0.0,0.0,6,2021
+Borja Mayoral,Real Madrid,0,0,0,0.0,0.0,0.0,2,2021
+Jan Oblak,Atletico Madrid,0,0,0,0.0,0.0,0.0,38,2021
+Augusto Fernández,Cadiz,0,0,0,0.0,0.0,0.0,12,2021
+Giménez,Atletico Madrid,0,0,0,0.0,0.0,0.0,21,2021
+Sergi Gómez,Sevilla,0,0,0,0.0,0.0,0.0,9,2021
+Rubén Blanco,Celta Vigo,0,0,0,0.0,0.0,0.0,19,2021
+Sidnei,Real Betis,0,0,0,0.0,0.0,0.0,11,2021
+Pedro Mosquera,SD Huesca,0,0,0,0.0,0.0,0.0,27,2021
+Thomas Partey,Atletico Madrid,0,0,0,0.0,0.0,0.0,3,2021
+Aarón,Granada,0,0,0,0.0,0.0,0.0,5,2021
+Cifuentes,Elche,0,0,0,0.0,0.0,0.0,11,2021
+Pedro Bigas,Eibar,0,0,0,0.0,0.0,0.0,21,2021
+Rubén Yáñez,Getafe,0,0,0,0.0,0.0,0.0,10,2021
+Pablo Piatti,Elche,0,0,0,0.0,0.0,0.0,9,2021
+Etxeita,Getafe,0,0,0,0.0,0.0,0.0,11,2021
+Íñigo Lekue,Athletic Club,0,0,0,0.0,0.0,0.0,18,2021
+David Soria,Getafe,0,0,0,0.0,0.0,0.0,28,2021
+Burgui,Alaves,0,0,0,0.0,0.0,0.0,1,2021
+Sergio Asenjo,Villarreal,0,0,0,0.0,0.0,0.0,36,2021
+Víctor Rodríguez,Elche,0,0,0,0.0,0.0,0.0,16,2021
+Jaume,Valencia,0,0,0,0.0,0.0,0.0,28,2021
+Luisinho,SD Huesca,0,0,0,0.0,0.0,0.0,5,2021
+Vitolo,Atletico Madrid,0,0,0,0.0,0.0,0.0,10,2021
+Martin Odegaard,Real Madrid,0,0,0,0.0,0.0,0.0,7,2021
+Tejero,Eibar,0,0,0,0.0,0.0,0.0,2,2021
+Remiro,Real Sociedad,0,0,0,0.0,0.0,0.0,38,2021
+Cristiano Piccini,Valencia,0,0,0,0.0,0.0,0.0,3,2021
+Luismi,Elche,0,0,0,0.0,0.0,0.0,11,2021
+Yann Bodiger,Cadiz,0,0,0,0.0,0.0,0.0,9,2021
+Omenuke Mfulu,Elche,0,0,0,0.0,0.0,0.0,20,2021
+Youssouf Kone,Elche,0,0,0,0.0,0.0,0.0,3,2021
+Karim Rekik,Sevilla,0,0,0,0.0,0.0,0.0,11,2021
+Samuel Umtiti,Barcelona,0,0,0,0.0,0.0,0.0,13,2021
+Juan Sánchez Miño,Elche,0,0,0,0.0,0.0,0.0,9,2021
+Pablo Insúa,SD Huesca,0,0,0,0.0,0.0,0.0,20,2021
+Ramón Azeez,Granada,0,0,0,0.0,0.0,0.0,2,2021
+Fede Vico,Granada,0,0,0,0.0,0.0,0.0,20,2021
+Jason,Valencia,0,0,0,0.0,0.0,0.0,17,2021
+Raúl Navas,Osasuna,0,0,0,0.0,0.0,0.0,2,2021
+Quique González,Eibar,0,0,0,0.0,0.0,0.0,12,2021
+Aitor Fernández,Levante,0,0,0,0.0,0.0,0.0,29,2021
+Kevin,Celta Vigo,0,0,0,0.0,0.0,0.0,8,2021
+Cheick Doukoure,Levante,0,0,0,0.0,0.0,0.0,7,2021
+Abdoulaye Diaby,Getafe,0,0,0,0.0,0.0,0.0,1,2021
+Patrick Cutrone,Valencia,0,0,0,0.0,0.0,0.0,7,2021
+Iván Villar,Celta Vigo,0,0,0,0.0,0.0,0.0,21,2021
+Fernando Pacheco,Alaves,0,0,0,0.0,0.0,0.0,38,2021
+Manu García,Alaves,0,0,0,0.0,0.0,0.0,25,2021
+Jasper Cillessen,Valencia,0,0,0,0.0,0.0,0.0,10,2021
+David Timor,Getafe,0,0,0,0.0,0.0,0.0,30,2021
+Roberto Jiménez,Real Valladolid,0,0,0,0.0,0.0,0.0,13,2021
+Rui Silva,Granada,0,0,0,0.0,0.0,0.0,32,2021
+Nano,Cadiz,0,0,0,0.0,0.0,0.0,1,2021
+Alberto Rodríguez,Alaves,0,0,0,0.0,0.0,0.0,12,2021
+José Ángel,Eibar,0,0,0,0.0,0.0,0.0,14,2021
+Eugeni,SD Huesca,0,0,0,0.0,0.0,0.0,3,2021
+Estupiñán,Villarreal,0,0,0,0.0,0.0,0.0,25,2021
+Alejandro Pozo,Eibar,0,0,0,0.0,0.0,0.0,30,2021
+Unai García,Osasuna,0,0,0,0.0,0.0,0.0,17,2021
+Marc Cardona,Osasuna,0,0,0,0.0,0.0,0.0,3,2021
+Nacho Vidal,Osasuna,0,0,0,0.0,0.0,0.0,34,2021
+Juan Pérez,Osasuna,0,0,0,0.0,0.0,0.0,3,2021
+Unai Simón,Athletic Club,0,0,0,0.0,0.0,0.0,37,2021
+Álvaro Fernández,SD Huesca,0,0,0,0.0,0.0,0.0,22,2021
+Raba,Villarreal,0,0,0,0.0,0.0,0.0,5,2021
+Darío Poveda,Getafe,0,0,0,0.0,0.0,0.0,1,2021
+Jesús Vallejo,Granada,0,0,0,0.0,0.0,0.0,21,2021
+Emre Mor,Celta Vigo,0,0,0,0.0,0.0,0.0,11,2021
+Erick Cabaco,Getafe,0,0,0,0.0,0.0,0.0,20,2021
+Antonio Sivera,Alaves,0,0,0,0.0,0.0,0.0,1,2021
+Pedro Alcalá,Cadiz,0,0,0,0.0,0.0,0.0,13,2021
+Sergio Postigo,Levante,0,0,0,0.0,0.0,0.0,22,2021
+Chema Rodríguez,Getafe,0,0,0,0.0,0.0,0.0,10,2021
+Luka Jovic,Real Madrid,0,0,0,0.0,0.0,0.0,4,2021
+Johan Mojica,Elche,0,0,0,0.0,0.0,0.0,17,2021
+Jonás Ramalho,Osasuna,0,0,0,0.0,0.0,0.0,5,2021
+Juan Foyth,Villarreal,0,0,0,0.0,0.0,0.0,16,2021
+Mathías Olivera,Getafe,0,0,0,0.0,0.0,0.0,31,2021
+Koke,Levante,0,0,0,0.0,0.0,0.0,1,2021
+Óscar Rodríguez,Sevilla,0,0,0,0.0,0.0,0.0,20,2021
+Hugo Duro,Real Madrid,0,0,0,0.0,0.0,0.0,2,2021
+Miguel Ángel Rubio,Real Valladolid,0,0,0,0.0,0.0,0.0,2,2021
+Idrissa Doumbia,SD Huesca,0,0,0,0.0,0.0,0.0,23,2021
+Javi Moyano,Real Valladolid,0,0,0,0.0,0.0,0.0,2,2021
+Kiko Olivas,Real Valladolid,0,0,0,0.0,0.0,0.0,5,2021
+Néstor Araújo,Celta Vigo,0,0,0,0.0,0.0,0.0,33,2021
+Okay Yokuslu,Celta Vigo,0,0,0,0.0,0.0,0.0,12,2021
+Ezequiel Ávila,Osasuna,0,0,0,0.0,0.0,0.0,8,2021
+Tomás Vaclik,Sevilla,0,0,0,0.0,0.0,0.0,5,2021
+Jokin Ezkieta,Athletic Club,0,0,0,0.0,0.0,0.0,1,2021
+Moussa Dembele,Atletico Madrid,0,0,0,0.0,0.0,0.0,5,2021
+Nikola Vukcevic,Levante,0,0,0,0.0,0.0,0.0,13,2021
+Javi Sánchez,Real Valladolid,0,0,0,0.0,0.0,0.0,16,2021
+Joaquín Muñoz,SD Huesca,0,0,0,0.0,0.0,0.0,3,2021
+Victor Mollejo,Getafe,0,0,0,0.0,0.0,0.0,4,2021
+Paul Akouokou,Real Betis,0,0,0,0.0,0.0,0.0,10,2021
+Nehuén Pérez,Granada,0,0,0,0.0,0.0,0.0,14,2021
+Martín Zubimendi,Real Sociedad,0,0,0,0.0,0.0,0.0,31,2021
+Joseph Aidoo,Celta Vigo,0,0,0,0.0,0.0,0.0,25,2021
+Aritz Arambarri,Real Sociedad,0,0,0,0.0,0.0,0.0,1,2021
+Aridane Hernández,Osasuna,0,0,0,0.0,0.0,0.0,24,2021
+Sergio Herrera,Osasuna,0,0,0,0.0,0.0,0.0,33,2021
+Yan Eteki,Granada,0,0,0,0.0,0.0,0.0,25,2021
+Carlos Neva,Granada,0,0,0,0.0,0.0,0.0,22,2021
+Nemanja Gudelj,Sevilla,0,0,0,0.0,0.0,0.0,30,2021
+Fede San Emeterio,Real Valladolid,0,0,0,0.0,0.0,0.0,24,2021
+Felipe,Atletico Madrid,0,0,0,0.0,0.0,0.0,31,2021
+Denis Vavro,SD Huesca,0,0,0,0.0,0.0,0.0,11,2021
+Bobby Adekanye,Cadiz,0,0,0,0.0,0.0,0.0,3,2021
+Modibo Sagnan,Real Sociedad,0,0,0,0.0,0.0,0.0,16,2021
+Daniel Cárdenas,Levante,0,0,0,0.0,0.0,0.0,8,2021
+Iñigo Pérez,Osasuna,0,0,0,0.0,0.0,0.0,22,2021
+Vicente Esquerdo,Valencia,0,0,0,0.0,0.0,0.0,4,2021
+Miguel Ángel Atienza,Eibar,0,0,0,0.0,0.0,0.0,12,2021
+Sergio Cubero,Eibar,0,0,0,0.0,0.0,0.0,1,2021
+Pepe Sanchez,Granada,0,0,0,0.0,0.0,0.0,3,2021
+Ricard Sánchez,Atletico Madrid,0,0,0,0.0,0.0,0.0,1,2021
+Unai Vencedor,Athletic Club,0,0,0,0.0,0.0,0.0,28,2021
+Rodrigo Sánchez,Real Betis,0,0,0,0.0,0.0,0.0,15,2021
+Javier López,Alaves,0,0,0,0.0,0.0,0.0,9,2021
+Mahmoud Abdallahi,Alaves,0,0,0,0.0,0.0,0.0,2,2021
+Álex Baena,Villarreal,0,0,0,0.0,0.0,0.0,6,2021
+Jon Pacheco Dozagarat,Real Sociedad,0,0,0,0.0,0.0,0.0,1,2021
+Giorgi Kochorashvili,Levante,0,0,0,0.0,0.0,0.0,3,2021
+José Manuel Fontán,Celta Vigo,0,0,0,0.0,0.0,0.0,14,2021
+Kike Pérez,Real Valladolid,0,0,0,0.0,0.0,0.0,24,2021
+Álex Blesa,Levante,0,0,0,0.0,0.0,0.0,1,2021
+Unai Dufur,Eibar,0,0,0,0.0,0.0,0.0,1,2021
+Koba Koindredi,Valencia,0,0,0,0.0,0.0,0.0,2,2021
+Damian Kadzior,Eibar,0,0,0,0.0,0.0,0.0,6,2021
+Unai Arietaleanizbeaskoa,Eibar,0,0,0,0.0,0.0,0.0,4,2021
+Eñaut Mendía,Eibar,0,0,0,0.0,0.0,0.0,1,2021
+Miguel Rodriguez,Celta Vigo,0,0,0,0.0,0.0,0.0,4,2021
+Gabriel Veiga,Celta Vigo,0,0,0,0.0,0.0,0.0,6,2021
+Oier Zarraga,Athletic Club,0,0,0,0.0,0.0,0.0,5,2021
+David Gil,Cadiz,0,0,0,0.0,0.0,0.0,4,2021
+Sergio González,Cadiz,0,0,0,0.0,0.0,0.0,1,2021
+Jens Jonsson,Cadiz,0,0,0,0.0,0.0,0.0,35,2021
+Alberto Cifuentes,Cadiz,0,0,0,0.0,0.0,0.0,2,2021
+Marc Baró,Cadiz,0,0,0,0.0,0.0,0.0,1,2021
+Fali,Cadiz,0,0,0,0.0,0.0,0.0,34,2021
+Juan Cruz,Osasuna,0,0,0,0.0,0.0,0.0,26,2021
+Sergi García,Alaves,0,0,0,0.0,0.0,0.0,2,2021
+Luis Pérez,Real Valladolid,0,0,0,0.0,0.0,0.0,22,2021
+Oriol Rey,Real Valladolid,0,0,0,0.0,0.0,0.0,1,2021
+Roberto Navarro,Real Sociedad,0,0,0,0.0,0.0,0.0,1,2021
+Kelechi Nwakali,SD Huesca,0,0,0,0.0,0.0,0.0,5,2021
+Guillem Molina,Valencia,0,0,0,0.0,0.0,0.0,2,2021
+Son,Levante,0,0,0,0.0,0.0,0.0,28,2021
+Ante Palaversa,Getafe,0,0,0,0.0,0.0,0.0,2,2021
+Urko Gonzalez,Real Sociedad,0,0,0,0.0,0.0,0.0,2,2021
+Sergio Arribas,Real Madrid,0,0,0,0.0,0.0,0.0,8,2021
+Edgar Badía,Elche,0,0,0,0.0,0.0,0.0,30,2021
+Nino,Elche,0,0,0,0.0,0.0,0.0,16,2021
+Ramón Folch,Elche,0,0,0,0.0,0.0,0.0,1,2021
+Jony Álamo,Elche,0,0,0,0.0,0.0,0.0,1,2021
+Iñigo Vicente,Athletic Club,0,0,0,0.0,0.0,0.0,3,2021
+Jon Ander Garrido,Cadiz,0,0,0,0.0,0.0,0.0,23,2021
+Jeremías Ledesma,Cadiz,0,0,0,0.0,0.0,0.0,32,2021
+Victor Chust,Real Madrid,0,0,0,0.0,0.0,0.0,2,2021
+Tomás Tavares,Alaves,0,0,0,0.0,0.0,0.0,3,2021
+Iván Marcone,Elche,0,0,0,0.0,0.0,0.0,33,2021
+Jeison Lucumí,Elche,0,0,0,0.0,0.0,0.0,2,2021
+Ángel Jiménez,Granada,0,0,0,0.0,0.0,0.0,1,2021
+Sergio Barcia,Granada,0,0,0,0.0,0.0,0.0,1,2021
+Isma Ruiz,Granada,0,0,0,0.0,0.0,0.0,1,2021
+Kingsley Fobi,Granada,0,0,0,0.0,0.0,0.0,1,2021
+Álvaro Bravo,Granada,0,0,0,0.0,0.0,0.0,1,2021
+Juan Brunet,Granada,0,0,0,0.0,0.0,0.0,2,2021
+Daniel Plomer,Granada,0,0,0,0.0,0.0,0.0,1,2021
+Oussama Idrissi,Sevilla,0,0,0,0.0,0.0,0.0,3,2021
+Manuel Nieto,Cadiz,0,0,0,0.0,0.0,0.0,2,2021
+John Finn,Getafe,0,0,0,0.0,0.0,0.0,6,2021
+Lautaro de León,Celta Vigo,0,0,0,0.0,0.0,0.0,1,2021
+Edgar Sevikyan,Levante,0,0,0,0.0,0.0,0.0,1,2021
+Sergio Benito,Real Valladolid,0,0,0,0.0,0.0,0.0,1,2021
+John Donald,Elche,0,0,0,0.0,0.0,0.0,2,2021
+Álex Millán,Villarreal,0,0,0,0.0,0.0,0.0,1,2021
+Sabit Abdulai,Getafe,0,0,0,0.0,0.0,0.0,3,2021
+Nico Williams,Athletic Club,0,0,0,0.0,0.0,0.0,2,2021
+Juan Iglesias,Getafe,0,0,0,0.0,0.0,0.0,10,2021
+Jordan Holsgrove,Celta Vigo,0,0,0,0.0,0.0,0.0,5,2021
+Alfon,Celta Vigo,0,0,0,0.0,0.0,0.0,2,2021
+Stephane Paul Keller,Alaves,0,0,0,0.0,0.0,0.0,1,2021
+Mamor Niang,Getafe,0,0,0,0.0,0.0,0.0,1,2021
+Koffi,Getafe,0,0,0,0.0,0.0,0.0,1,2021
+Antonio Blanco,Real Madrid,0,0,0,0.0,0.0,0.0,4,2021
+Facundo Pellistri,Alaves,0,0,0,0.0,0.0,0.0,12,2021
+Ferro,Valencia,0,0,0,0.0,0.0,0.0,3,2021
+Helibelton Palacios,Elche,0,0,0,0.0,0.0,0.0,11,2021
+Álex Martín,Cadiz,0,0,0,0.0,0.0,0.0,2,2021
+José Boacho,Getafe,0,0,0,0.0,0.0,0.0,4,2021
+Alejandro Cantero,Levante,0,0,0,0.0,0.0,0.0,4,2021
+Carlos Domínguez,Celta Vigo,0,0,0,0.0,0.0,0.0,4,2021
+Hugo Sotelo,Celta Vigo,0,0,0,0.0,0.0,0.0,1,2021
+Álvaro Bastida,Cadiz,0,0,0,0.0,0.0,0.0,1,2021

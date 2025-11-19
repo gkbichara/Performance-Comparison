@@ -1,0 +1,481 @@
+Season,Team,Match_Number,Date,Opponent,Venue,Result,FTHG,FTAG,Points_cur,Points_prev,Differential,Cumulative
+2122,Augsburg,1,2021-08-14,Hoffenheim,H,L,0,4,0,3.0,-3.0,-3.0
+2122,Augsburg,2,2021-08-21,Ein Frankfurt,A,D,0,0,1,0.0,1.0,-2.0
+2122,Augsburg,3,2021-08-28,Leverkusen,H,L,1,4,0,1.0,-1.0,-3.0
+2122,Augsburg,4,2021-09-11,Union Berlin,A,D,0,0,1,3.0,-2.0,-5.0
+2122,Augsburg,5,2021-09-18,M'gladbach,H,W,1,0,3,3.0,0.0,-5.0
+2122,Augsburg,6,2021-09-26,Freiburg,A,L,3,0,0,0.0,0.0,-5.0
+2122,Augsburg,7,2021-10-02,Dortmund,A,L,2,1,0,0.0,0.0,-5.0
+2122,Augsburg,8,2021-10-17,Bielefeld,H,D,1,1,1,1.0,0.0,-5.0
+2122,Augsburg,9,2021-10-22,Mainz,A,L,4,1,0,3.0,-3.0,-8.0
+2122,Augsburg,10,2021-10-31,Stuttgart,H,W,4,1,3,0.0,3.0,-5.0
+2122,Augsburg,11,2021-11-06,Wolfsburg,A,L,1,0,0,1.0,-1.0,-6.0
+2122,Augsburg,12,2021-11-19,Bayern Munich,H,W,2,1,3,0.0,3.0,-3.0
+2122,Augsburg,13,2021-11-27,Hertha,A,D,1,1,1,0.0,1.0,-2.0
+2122,Augsburg,14,2021-12-10,FC Koln,A,W,0,2,3,3.0,0.0,-2.0
+2122,Augsburg,15,2021-12-15,RB Leipzig,H,D,1,1,1,0.0,1.0,-1.0
+2122,Augsburg,16,2022-01-08,Hoffenheim,A,L,3,1,0,0.0,0.0,-1.0
+2122,Augsburg,17,2022-01-16,Ein Frankfurt,H,D,1,1,1,0.0,1.0,0.0
+2122,Augsburg,18,2022-01-22,Leverkusen,A,L,5,1,0,0.0,0.0,0.0
+2122,Augsburg,19,2022-02-05,Union Berlin,H,W,2,0,3,3.0,0.0,0.0
+2122,Augsburg,20,2022-02-12,M'gladbach,A,L,3,2,0,1.0,-1.0,-1.0
+2122,Augsburg,21,2022-02-19,Freiburg,H,L,1,2,0,1.0,-1.0,-2.0
+2122,Augsburg,22,2022-02-27,Dortmund,H,D,1,1,1,3.0,-2.0,-4.0
+2122,Augsburg,23,2022-03-04,Bielefeld,A,W,0,1,3,3.0,0.0,-4.0
+2122,Augsburg,24,2022-03-19,Stuttgart,A,L,3,2,0,0.0,0.0,-4.0
+2122,Augsburg,25,2022-04-03,Wolfsburg,H,W,3,0,3,0.0,3.0,-1.0
+2122,Augsburg,26,2022-04-06,Mainz,H,W,2,1,3,3.0,0.0,-1.0
+2122,Augsburg,27,2022-04-09,Bayern Munich,A,L,1,0,0,0.0,0.0,-1.0
+2122,Augsburg,28,2022-04-16,Hertha,H,L,0,1,0,0.0,0.0,-1.0
+2122,Augsburg,29,2022-04-30,FC Koln,H,L,1,4,0,0.0,0.0,-1.0
+2122,Augsburg,30,2022-05-08,RB Leipzig,A,L,4,0,0,0.0,0.0,-1.0
+2122,Bayern Munich,1,2021-08-13,M'gladbach,A,D,1,1,1,0.0,1.0,1.0
+2122,Bayern Munich,2,2021-08-22,FC Koln,H,W,3,2,3,3.0,0.0,1.0
+2122,Bayern Munich,3,2021-08-28,Hertha,H,W,5,0,3,3.0,0.0,1.0
+2122,Bayern Munich,4,2021-09-11,RB Leipzig,A,W,1,4,3,3.0,0.0,1.0
+2122,Bayern Munich,5,2021-10-03,Ein Frankfurt,H,L,1,2,0,3.0,-3.0,-2.0
+2122,Bayern Munich,6,2021-10-17,Leverkusen,A,W,1,5,3,3.0,0.0,-2.0
+2122,Bayern Munich,7,2021-10-23,Hoffenheim,H,W,4,0,3,3.0,0.0,-2.0
+2122,Bayern Munich,8,2021-10-30,Union Berlin,A,W,2,5,3,1.0,2.0,0.0
+2122,Bayern Munich,9,2021-11-06,Freiburg,H,W,2,1,3,3.0,0.0,0.0
+2122,Bayern Munich,10,2021-11-19,Augsburg,A,L,2,1,0,3.0,-3.0,-3.0
+2122,Bayern Munich,11,2021-11-27,Bielefeld,H,W,1,0,3,1.0,2.0,-1.0
+2122,Bayern Munich,12,2021-12-04,Dortmund,A,W,2,3,3,3.0,0.0,-1.0
+2122,Bayern Munich,13,2021-12-11,Mainz,H,W,2,1,3,3.0,0.0,-1.0
+2122,Bayern Munich,14,2021-12-14,Stuttgart,A,W,0,5,3,3.0,0.0,-1.0
+2122,Bayern Munich,15,2021-12-17,Wolfsburg,H,W,4,0,3,3.0,0.0,-1.0
+2122,Bayern Munich,16,2022-01-07,M'gladbach,H,L,1,2,0,3.0,-3.0,-4.0
+2122,Bayern Munich,17,2022-01-15,FC Koln,A,W,0,4,3,3.0,0.0,-4.0
+2122,Bayern Munich,18,2022-01-23,Hertha,A,W,1,4,3,3.0,0.0,-4.0
+2122,Bayern Munich,19,2022-02-05,RB Leipzig,H,W,3,2,3,1.0,2.0,-2.0
+2122,Bayern Munich,20,2022-02-26,Ein Frankfurt,A,W,0,1,3,0.0,3.0,1.0
+2122,Bayern Munich,21,2022-03-05,Leverkusen,H,D,1,1,1,3.0,-2.0,-1.0
+2122,Bayern Munich,22,2022-03-12,Hoffenheim,A,D,1,1,1,0.0,1.0,0.0
+2122,Bayern Munich,23,2022-03-19,Union Berlin,H,W,4,0,3,1.0,2.0,2.0
+2122,Bayern Munich,24,2022-04-02,Freiburg,A,W,1,4,3,1.0,2.0,4.0
+2122,Bayern Munich,25,2022-04-09,Augsburg,H,W,1,0,3,3.0,0.0,4.0
+2122,Bayern Munich,26,2022-04-17,Bielefeld,A,W,0,3,3,3.0,0.0,4.0
+2122,Bayern Munich,27,2022-04-23,Dortmund,H,W,3,1,3,3.0,0.0,4.0
+2122,Bayern Munich,28,2022-04-30,Mainz,A,L,3,1,0,0.0,0.0,4.0
+2122,Bayern Munich,29,2022-05-08,Stuttgart,H,D,2,2,1,3.0,-2.0,2.0
+2122,Bayern Munich,30,2022-05-14,Wolfsburg,A,D,2,2,1,3.0,-2.0,0.0
+2122,Bielefeld,1,2021-08-14,Freiburg,H,D,0,0,1,3.0,-2.0,-2.0
+2122,Bielefeld,2,2021-08-28,Ein Frankfurt,H,D,1,1,1,0.0,1.0,-1.0
+2122,Bielefeld,3,2021-09-12,M'gladbach,A,L,3,1,0,0.0,0.0,-1.0
+2122,Bielefeld,4,2021-09-18,Hoffenheim,H,D,0,0,1,1.0,0.0,-1.0
+2122,Bielefeld,5,2021-09-25,Union Berlin,A,L,1,0,0,0.0,0.0,-1.0
+2122,Bielefeld,6,2021-10-03,Leverkusen,H,L,0,4,0,0.0,0.0,-1.0
+2122,Bielefeld,7,2021-10-17,Augsburg,A,D,1,1,1,1.0,0.0,-1.0
+2122,Bielefeld,8,2021-10-23,Dortmund,H,L,1,3,0,0.0,0.0,-1.0
+2122,Bielefeld,9,2021-10-30,Mainz,H,L,1,2,0,3.0,-3.0,-4.0
+2122,Bielefeld,10,2021-11-06,Stuttgart,A,W,0,1,3,3.0,0.0,-4.0
+2122,Bielefeld,11,2021-11-20,Wolfsburg,H,D,2,2,1,0.0,1.0,-3.0
+2122,Bielefeld,12,2021-11-27,Bayern Munich,A,L,1,0,0,1.0,-1.0,-4.0
+2122,Bielefeld,13,2021-12-04,FC Koln,H,D,1,1,1,3.0,-2.0,-6.0
+2122,Bielefeld,14,2021-12-11,Hertha,A,L,2,0,0,1.0,-1.0,-7.0
+2122,Bielefeld,15,2021-12-18,RB Leipzig,A,W,0,2,3,0.0,3.0,-4.0
+2122,Bielefeld,16,2022-01-08,Freiburg,A,D,2,2,1,0.0,1.0,-3.0
+2122,Bielefeld,17,2022-01-21,Ein Frankfurt,A,W,0,2,3,1.0,2.0,-1.0
+2122,Bielefeld,18,2022-02-05,M'gladbach,H,D,1,1,1,0.0,1.0,0.0
+2122,Bielefeld,19,2022-02-13,Hoffenheim,A,L,2,0,0,1.0,-1.0,-1.0
+2122,Bielefeld,20,2022-02-19,Union Berlin,H,W,1,0,3,1.0,2.0,1.0
+2122,Bielefeld,21,2022-02-26,Leverkusen,A,L,3,0,0,3.0,-3.0,-2.0
+2122,Bielefeld,22,2022-03-04,Augsburg,H,L,0,1,0,0.0,0.0,-2.0
+2122,Bielefeld,23,2022-03-13,Dortmund,A,L,1,0,0,0.0,0.0,-2.0
+2122,Bielefeld,24,2022-03-19,Mainz,A,L,4,0,0,1.0,-1.0,-3.0
+2122,Bielefeld,25,2022-04-02,Stuttgart,H,D,1,1,1,3.0,-2.0,-5.0
+2122,Bielefeld,26,2022-04-09,Wolfsburg,A,L,4,0,0,0.0,0.0,-5.0
+2122,Bielefeld,27,2022-04-17,Bayern Munich,H,L,0,3,0,0.0,0.0,-5.0
+2122,Bielefeld,28,2022-04-23,FC Koln,A,L,3,1,0,0.0,0.0,-5.0
+2122,Bielefeld,29,2022-04-30,Hertha,H,D,1,1,1,3.0,-2.0,-7.0
+2122,Bielefeld,30,2022-05-14,RB Leipzig,H,D,1,1,1,0.0,1.0,-6.0
+2122,Dortmund,1,2021-08-14,Ein Frankfurt,H,W,5,2,3,0.0,3.0,3.0
+2122,Dortmund,2,2021-08-21,Freiburg,A,L,2,1,0,0.0,0.0,3.0
+2122,Dortmund,3,2021-08-27,Hoffenheim,H,W,3,2,3,1.0,2.0,5.0
+2122,Dortmund,4,2021-09-11,Leverkusen,A,W,3,4,3,0.0,3.0,8.0
+2122,Dortmund,5,2021-09-19,Union Berlin,H,W,4,2,3,3.0,0.0,8.0
+2122,Dortmund,6,2021-09-25,M'gladbach,A,L,1,0,0,0.0,0.0,8.0
+2122,Dortmund,7,2021-10-02,Augsburg,H,W,2,1,3,3.0,0.0,8.0
+2122,Dortmund,8,2021-10-16,Mainz,H,W,3,1,3,1.0,2.0,10.0
+2122,Dortmund,9,2021-10-23,Bielefeld,A,W,1,3,3,3.0,0.0,10.0
+2122,Dortmund,10,2021-10-30,FC Koln,H,W,2,0,3,0.0,3.0,13.0
+2122,Dortmund,11,2021-11-06,RB Leipzig,A,L,2,1,0,3.0,-3.0,10.0
+2122,Dortmund,12,2021-11-20,Stuttgart,H,W,2,1,3,0.0,3.0,13.0
+2122,Dortmund,13,2021-11-27,Wolfsburg,A,W,1,3,3,3.0,0.0,13.0
+2122,Dortmund,14,2021-12-04,Bayern Munich,H,L,2,3,0,0.0,0.0,13.0
+2122,Dortmund,15,2021-12-18,Hertha,A,L,3,2,0,3.0,-3.0,10.0
+2122,Dortmund,16,2022-01-08,Ein Frankfurt,A,W,2,3,3,1.0,2.0,12.0
+2122,Dortmund,17,2022-01-14,Freiburg,H,W,5,1,3,3.0,0.0,12.0
+2122,Dortmund,18,2022-01-22,Hoffenheim,A,W,2,3,3,3.0,0.0,12.0
+2122,Dortmund,19,2022-02-06,Leverkusen,H,L,2,5,0,3.0,-3.0,9.0
+2122,Dortmund,20,2022-02-13,Union Berlin,A,W,0,3,3,0.0,3.0,12.0
+2122,Dortmund,21,2022-02-20,M'gladbach,H,W,6,0,3,3.0,0.0,12.0
+2122,Dortmund,22,2022-02-27,Augsburg,A,D,1,1,1,0.0,1.0,13.0
+2122,Dortmund,23,2022-03-13,Bielefeld,H,W,1,0,3,3.0,0.0,13.0
+2122,Dortmund,24,2022-03-16,Mainz,A,W,0,1,3,3.0,0.0,13.0
+2122,Dortmund,25,2022-03-20,FC Koln,A,D,1,1,1,1.0,0.0,13.0
+2122,Dortmund,26,2022-04-02,RB Leipzig,H,L,1,4,0,3.0,-3.0,10.0
+2122,Dortmund,27,2022-04-08,Stuttgart,A,W,0,2,3,3.0,0.0,10.0
+2122,Dortmund,28,2022-04-16,Wolfsburg,H,W,6,1,3,3.0,0.0,10.0
+2122,Dortmund,29,2022-04-23,Bayern Munich,A,L,3,1,0,0.0,0.0,10.0
+2122,Dortmund,30,2022-05-14,Hertha,H,W,2,1,3,3.0,0.0,10.0
+2122,Ein Frankfurt,1,2021-08-14,Dortmund,A,L,5,2,0,3.0,-3.0,-3.0
+2122,Ein Frankfurt,2,2021-08-21,Augsburg,H,D,0,0,1,3.0,-2.0,-5.0
+2122,Ein Frankfurt,3,2021-08-28,Bielefeld,A,D,1,1,1,3.0,-2.0,-7.0
+2122,Ein Frankfurt,4,2021-09-12,Stuttgart,H,D,1,1,1,1.0,0.0,-7.0
+2122,Ein Frankfurt,5,2021-09-19,Wolfsburg,A,D,1,1,1,0.0,1.0,-6.0
+2122,Ein Frankfurt,6,2021-09-25,FC Koln,H,D,1,1,1,3.0,-2.0,-8.0
+2122,Ein Frankfurt,7,2021-10-03,Bayern Munich,A,W,1,2,3,0.0,3.0,-5.0
+2122,Ein Frankfurt,8,2021-10-16,Hertha,H,L,1,2,0,3.0,-3.0,-8.0
+2122,Ein Frankfurt,9,2021-10-30,RB Leipzig,H,D,1,1,1,1.0,0.0,-8.0
+2122,Ein Frankfurt,10,2021-11-21,Freiburg,A,W,0,2,3,1.0,2.0,-6.0
+2122,Ein Frankfurt,11,2021-11-28,Union Berlin,H,W,2,1,3,3.0,0.0,-6.0
+2122,Ein Frankfurt,12,2021-12-04,Hoffenheim,A,L,3,2,0,3.0,-3.0,-9.0
+2122,Ein Frankfurt,13,2021-12-12,Leverkusen,H,W,5,2,3,3.0,0.0,-9.0
+2122,Ein Frankfurt,14,2021-12-15,M'gladbach,A,W,2,3,3,0.0,3.0,-6.0
+2122,Ein Frankfurt,15,2021-12-18,Mainz,H,W,1,0,3,1.0,2.0,-4.0
+2122,Ein Frankfurt,16,2022-01-08,Dortmund,H,L,2,3,0,1.0,-1.0,-5.0
+2122,Ein Frankfurt,17,2022-01-16,Augsburg,A,D,1,1,1,3.0,-2.0,-7.0
+2122,Ein Frankfurt,18,2022-01-21,Bielefeld,H,L,0,2,0,1.0,-1.0,-8.0
+2122,Ein Frankfurt,19,2022-02-05,Stuttgart,A,W,2,3,3,1.0,2.0,-6.0
+2122,Ein Frankfurt,20,2022-02-12,Wolfsburg,H,L,0,2,0,3.0,-3.0,-9.0
+2122,Ein Frankfurt,21,2022-02-19,FC Koln,A,L,1,0,0,1.0,-1.0,-10.0
+2122,Ein Frankfurt,22,2022-02-26,Bayern Munich,H,L,0,1,0,3.0,-3.0,-13.0
+2122,Ein Frankfurt,23,2022-03-05,Hertha,A,W,1,4,3,3.0,0.0,-13.0
+2122,Ein Frankfurt,24,2022-03-20,RB Leipzig,A,D,0,0,1,1.0,0.0,-13.0
+2122,Ein Frankfurt,25,2022-04-10,Freiburg,H,L,1,2,0,3.0,-3.0,-16.0
+2122,Ein Frankfurt,26,2022-04-17,Union Berlin,A,L,2,0,0,1.0,-1.0,-17.0
+2122,Ein Frankfurt,27,2022-04-23,Hoffenheim,H,D,2,2,1,3.0,-2.0,-19.0
+2122,Ein Frankfurt,28,2022-05-02,Leverkusen,A,L,2,0,0,0.0,0.0,-19.0
+2122,Ein Frankfurt,29,2022-05-08,M'gladbach,H,D,1,1,1,1.0,0.0,-19.0
+2122,Ein Frankfurt,30,2022-05-14,Mainz,A,D,2,2,1,3.0,-2.0,-21.0
+2122,FC Koln,1,2021-08-15,Hertha,H,W,3,1,3,1.0,2.0,2.0
+2122,FC Koln,2,2021-08-22,Bayern Munich,A,L,3,2,0,0.0,0.0,2.0
+2122,FC Koln,3,2021-09-11,Freiburg,A,D,1,1,1,0.0,1.0,3.0
+2122,FC Koln,4,2021-09-18,RB Leipzig,H,D,1,1,1,3.0,-2.0,1.0
+2122,FC Koln,5,2021-09-25,Ein Frankfurt,A,D,1,1,1,0.0,1.0,2.0
+2122,FC Koln,6,2021-10-15,Hoffenheim,A,L,5,0,0,0.0,0.0,2.0
+2122,FC Koln,7,2021-10-24,Leverkusen,H,D,2,2,1,0.0,1.0,3.0
+2122,FC Koln,8,2021-10-30,Dortmund,A,L,2,0,0,3.0,-3.0,0.0
+2122,FC Koln,9,2021-11-07,Union Berlin,H,D,2,2,1,0.0,1.0,1.0
+2122,FC Koln,10,2021-11-21,Mainz,A,D,1,1,1,3.0,-2.0,-1.0
+2122,FC Koln,11,2021-11-27,M'gladbach,H,W,4,1,3,0.0,3.0,2.0
+2122,FC Koln,12,2021-12-04,Bielefeld,A,D,1,1,1,0.0,1.0,3.0
+2122,FC Koln,13,2021-12-10,Augsburg,H,L,0,2,0,0.0,0.0,3.0
+2122,FC Koln,14,2021-12-14,Wolfsburg,A,W,2,3,3,0.0,3.0,6.0
+2122,FC Koln,15,2021-12-19,Stuttgart,H,W,1,0,3,0.0,3.0,9.0
+2122,FC Koln,16,2022-01-09,Hertha,A,W,1,3,3,1.0,2.0,11.0
+2122,FC Koln,17,2022-01-15,Bayern Munich,H,L,0,4,0,0.0,0.0,11.0
+2122,FC Koln,18,2022-02-05,Freiburg,H,W,1,0,3,0.0,3.0,14.0
+2122,FC Koln,19,2022-02-11,RB Leipzig,A,L,3,1,0,1.0,-1.0,13.0
+2122,FC Koln,20,2022-02-19,Ein Frankfurt,H,W,1,0,3,1.0,2.0,15.0
+2122,FC Koln,21,2022-03-06,Hoffenheim,H,L,0,1,0,0.0,0.0,15.0
+2122,FC Koln,22,2022-03-13,Leverkusen,A,W,0,1,3,0.0,3.0,18.0
+2122,FC Koln,23,2022-03-20,Dortmund,H,D,1,1,1,1.0,0.0,18.0
+2122,FC Koln,24,2022-04-01,Union Berlin,A,L,1,0,0,0.0,0.0,18.0
+2122,FC Koln,25,2022-04-09,Mainz,H,W,3,2,3,0.0,3.0,21.0
+2122,FC Koln,26,2022-04-16,M'gladbach,A,W,1,3,3,3.0,0.0,21.0
+2122,FC Koln,27,2022-04-23,Bielefeld,H,W,3,1,3,3.0,0.0,21.0
+2122,FC Koln,28,2022-04-30,Augsburg,A,W,1,4,3,3.0,0.0,21.0
+2122,FC Koln,29,2022-05-07,Wolfsburg,H,L,0,1,0,1.0,-1.0,20.0
+2122,FC Koln,30,2022-05-14,Stuttgart,A,L,2,1,0,1.0,-1.0,19.0
+2122,Freiburg,1,2021-08-14,Bielefeld,A,D,0,0,1,0.0,1.0,1.0
+2122,Freiburg,2,2021-08-21,Dortmund,H,W,2,1,3,3.0,0.0,1.0
+2122,Freiburg,3,2021-08-28,Stuttgart,A,W,2,3,3,3.0,0.0,1.0
+2122,Freiburg,4,2021-09-11,FC Koln,H,D,1,1,1,3.0,-2.0,-1.0
+2122,Freiburg,5,2021-09-18,Mainz,A,D,0,0,1,0.0,1.0,0.0
+2122,Freiburg,6,2021-09-26,Augsburg,H,W,3,0,3,3.0,0.0,0.0
+2122,Freiburg,7,2021-10-02,Hertha,A,W,1,2,3,0.0,3.0,3.0
+2122,Freiburg,8,2021-10-16,RB Leipzig,H,D,1,1,1,0.0,1.0,4.0
+2122,Freiburg,9,2021-10-23,Wolfsburg,A,W,0,2,3,0.0,3.0,7.0
+2122,Freiburg,10,2021-11-06,Bayern Munich,A,L,2,1,0,0.0,0.0,7.0
+2122,Freiburg,11,2021-11-21,Ein Frankfurt,H,L,0,2,0,1.0,-1.0,6.0
+2122,Freiburg,12,2021-12-05,M'gladbach,A,W,0,6,3,0.0,3.0,9.0
+2122,Freiburg,13,2021-12-11,Hoffenheim,H,L,1,2,0,1.0,-1.0,8.0
+2122,Freiburg,14,2021-12-15,Union Berlin,A,D,0,0,1,1.0,0.0,8.0
+2122,Freiburg,15,2021-12-19,Leverkusen,H,W,2,1,3,0.0,3.0,11.0
+2122,Freiburg,16,2022-01-08,Bielefeld,H,D,2,2,1,3.0,-2.0,9.0
+2122,Freiburg,17,2022-01-14,Dortmund,A,L,5,1,0,0.0,0.0,9.0
+2122,Freiburg,18,2022-01-22,Stuttgart,H,W,2,0,3,3.0,0.0,9.0
+2122,Freiburg,19,2022-02-05,FC Koln,A,L,1,0,0,3.0,-3.0,6.0
+2122,Freiburg,20,2022-02-12,Mainz,H,D,1,1,1,0.0,1.0,7.0
+2122,Freiburg,21,2022-02-19,Augsburg,A,W,1,2,3,1.0,2.0,9.0
+2122,Freiburg,22,2022-02-26,Hertha,H,W,3,0,3,3.0,0.0,9.0
+2122,Freiburg,23,2022-03-05,RB Leipzig,A,D,1,1,1,0.0,1.0,10.0
+2122,Freiburg,24,2022-03-12,Wolfsburg,H,W,3,2,3,1.0,2.0,12.0
+2122,Freiburg,25,2022-04-02,Bayern Munich,H,L,1,4,0,1.0,-1.0,11.0
+2122,Freiburg,26,2022-04-10,Ein Frankfurt,A,W,1,2,3,0.0,3.0,14.0
+2122,Freiburg,27,2022-04-23,M'gladbach,H,D,3,3,1,1.0,0.0,14.0
+2122,Freiburg,28,2022-04-30,Hoffenheim,A,W,3,4,3,3.0,0.0,14.0
+2122,Freiburg,29,2022-05-07,Union Berlin,H,L,1,4,0,0.0,0.0,14.0
+2122,Freiburg,30,2022-05-14,Leverkusen,A,L,2,1,0,3.0,-3.0,11.0
+2122,Hertha,1,2021-08-15,FC Koln,A,L,3,1,0,1.0,-1.0,-1.0
+2122,Hertha,2,2021-08-21,Wolfsburg,H,L,1,2,0,1.0,-1.0,-2.0
+2122,Hertha,3,2021-08-28,Bayern Munich,A,L,5,0,0,0.0,0.0,-2.0
+2122,Hertha,4,2021-09-25,RB Leipzig,A,L,6,0,0,0.0,0.0,-2.0
+2122,Hertha,5,2021-10-02,Freiburg,H,L,1,2,0,3.0,-3.0,-5.0
+2122,Hertha,6,2021-10-16,Ein Frankfurt,A,W,1,2,3,0.0,3.0,-2.0
+2122,Hertha,7,2021-10-23,M'gladbach,H,W,1,0,3,1.0,2.0,0.0
+2122,Hertha,8,2021-10-29,Hoffenheim,A,L,2,0,0,0.0,0.0,0.0
+2122,Hertha,9,2021-11-07,Leverkusen,H,D,1,1,1,3.0,-2.0,-2.0
+2122,Hertha,10,2021-11-20,Union Berlin,A,L,2,0,0,1.0,-1.0,-3.0
+2122,Hertha,11,2021-11-27,Augsburg,H,D,1,1,1,3.0,-2.0,-5.0
+2122,Hertha,12,2021-12-05,Stuttgart,A,D,2,2,1,1.0,0.0,-5.0
+2122,Hertha,13,2021-12-11,Bielefeld,H,W,2,0,3,1.0,2.0,-3.0
+2122,Hertha,14,2021-12-14,Mainz,A,L,4,0,0,1.0,-1.0,-4.0
+2122,Hertha,15,2021-12-18,Dortmund,H,W,3,2,3,0.0,3.0,-1.0
+2122,Hertha,16,2022-01-09,FC Koln,H,L,1,3,0,1.0,-1.0,-2.0
+2122,Hertha,17,2022-01-15,Wolfsburg,A,D,0,0,1,0.0,1.0,-1.0
+2122,Hertha,18,2022-01-23,Bayern Munich,H,L,1,4,0,0.0,0.0,-1.0
+2122,Hertha,19,2022-02-20,RB Leipzig,H,L,1,6,0,0.0,0.0,-1.0
+2122,Hertha,20,2022-02-26,Freiburg,A,L,3,0,0,0.0,0.0,-1.0
+2122,Hertha,21,2022-03-05,Ein Frankfurt,H,L,1,4,0,0.0,0.0,-1.0
+2122,Hertha,22,2022-03-12,M'gladbach,A,L,2,0,0,1.0,-1.0,-2.0
+2122,Hertha,23,2022-03-19,Hoffenheim,H,W,3,0,3,0.0,3.0,1.0
+2122,Hertha,24,2022-04-02,Leverkusen,A,L,2,1,0,1.0,-1.0,0.0
+2122,Hertha,25,2022-04-09,Union Berlin,H,L,1,4,0,3.0,-3.0,-3.0
+2122,Hertha,26,2022-04-16,Augsburg,A,W,0,1,3,3.0,0.0,-3.0
+2122,Hertha,27,2022-04-24,Stuttgart,H,W,2,0,3,0.0,3.0,0.0
+2122,Hertha,28,2022-04-30,Bielefeld,A,D,1,1,1,0.0,1.0,1.0
+2122,Hertha,29,2022-05-07,Mainz,H,L,1,2,0,1.0,-1.0,0.0
+2122,Hertha,30,2022-05-14,Dortmund,A,L,2,1,0,0.0,0.0,0.0
+2122,Hoffenheim,1,2021-08-14,Augsburg,A,W,0,4,3,0.0,3.0,3.0
+2122,Hoffenheim,2,2021-08-22,Union Berlin,H,D,2,2,1,0.0,1.0,4.0
+2122,Hoffenheim,3,2021-08-27,Dortmund,A,L,3,2,0,1.0,-1.0,3.0
+2122,Hoffenheim,4,2021-09-11,Mainz,H,L,0,2,0,0.0,0.0,3.0
+2122,Hoffenheim,5,2021-09-18,Bielefeld,A,D,0,0,1,1.0,0.0,3.0
+2122,Hoffenheim,6,2021-09-25,Wolfsburg,H,W,3,1,3,3.0,0.0,3.0
+2122,Hoffenheim,7,2021-10-02,Stuttgart,A,L,3,1,0,0.0,0.0,3.0
+2122,Hoffenheim,8,2021-10-15,FC Koln,H,W,5,0,3,3.0,0.0,3.0
+2122,Hoffenheim,9,2021-10-23,Bayern Munich,A,L,4,0,0,0.0,0.0,3.0
+2122,Hoffenheim,10,2021-10-29,Hertha,H,W,2,0,3,3.0,0.0,3.0
+2122,Hoffenheim,11,2021-11-20,RB Leipzig,H,W,2,0,3,0.0,3.0,6.0
+2122,Hoffenheim,12,2021-12-04,Ein Frankfurt,H,W,3,2,3,0.0,3.0,9.0
+2122,Hoffenheim,13,2021-12-11,Freiburg,A,W,1,2,3,1.0,2.0,11.0
+2122,Hoffenheim,14,2021-12-15,Leverkusen,A,D,2,2,1,0.0,1.0,12.0
+2122,Hoffenheim,15,2021-12-18,M'gladbach,H,D,1,1,1,3.0,-2.0,10.0
+2122,Hoffenheim,16,2022-01-08,Augsburg,H,W,3,1,3,3.0,0.0,10.0
+2122,Hoffenheim,17,2022-01-15,Union Berlin,A,L,2,1,0,1.0,-1.0,9.0
+2122,Hoffenheim,18,2022-01-22,Dortmund,H,L,2,3,0,0.0,0.0,9.0
+2122,Hoffenheim,19,2022-02-05,Mainz,A,L,2,0,0,1.0,-1.0,8.0
+2122,Hoffenheim,20,2022-02-13,Bielefeld,H,W,2,0,3,1.0,2.0,10.0
+2122,Hoffenheim,21,2022-02-19,Wolfsburg,A,W,1,2,3,0.0,3.0,13.0
+2122,Hoffenheim,22,2022-02-25,Stuttgart,H,W,2,1,3,1.0,2.0,15.0
+2122,Hoffenheim,23,2022-03-06,FC Koln,A,W,0,1,3,3.0,0.0,15.0
+2122,Hoffenheim,24,2022-03-12,Bayern Munich,H,D,1,1,1,3.0,-2.0,13.0
+2122,Hoffenheim,25,2022-03-19,Hertha,A,L,3,0,0,3.0,-3.0,10.0
+2122,Hoffenheim,26,2022-04-10,RB Leipzig,A,L,3,0,0,1.0,-1.0,9.0
+2122,Hoffenheim,27,2022-04-23,Ein Frankfurt,A,D,2,2,1,0.0,1.0,10.0
+2122,Hoffenheim,28,2022-04-30,Freiburg,H,L,3,4,0,0.0,0.0,10.0
+2122,Hoffenheim,29,2022-05-07,Leverkusen,H,L,2,4,0,1.0,-1.0,9.0
+2122,Hoffenheim,30,2022-05-14,M'gladbach,A,L,5,1,0,3.0,-3.0,6.0
+2122,Leverkusen,1,2021-08-14,Union Berlin,A,D,1,1,1,0.0,1.0,1.0
+2122,Leverkusen,2,2021-08-21,M'gladbach,H,W,4,0,3,3.0,0.0,1.0
+2122,Leverkusen,3,2021-08-28,Augsburg,A,W,1,4,3,1.0,2.0,3.0
+2122,Leverkusen,4,2021-09-11,Dortmund,H,L,3,4,0,3.0,-3.0,0.0
+2122,Leverkusen,5,2021-09-19,Stuttgart,A,W,1,3,3,1.0,2.0,2.0
+2122,Leverkusen,6,2021-09-25,Mainz,H,W,1,0,3,1.0,2.0,4.0
+2122,Leverkusen,7,2021-10-03,Bielefeld,A,W,0,4,3,3.0,0.0,4.0
+2122,Leverkusen,8,2021-10-17,Bayern Munich,H,L,1,5,0,0.0,0.0,4.0
+2122,Leverkusen,9,2021-10-24,FC Koln,A,D,2,2,1,3.0,-2.0,2.0
+2122,Leverkusen,10,2021-10-30,Wolfsburg,H,L,0,2,0,0.0,0.0,2.0
+2122,Leverkusen,11,2021-11-07,Hertha,A,D,1,1,1,0.0,1.0,3.0
+2122,Leverkusen,12,2021-11-28,RB Leipzig,A,W,1,3,3,0.0,3.0,6.0
+2122,Leverkusen,13,2021-12-12,Ein Frankfurt,A,L,5,2,0,0.0,0.0,6.0
+2122,Leverkusen,14,2021-12-15,Hoffenheim,H,D,2,2,1,3.0,-2.0,4.0
+2122,Leverkusen,15,2021-12-19,Freiburg,A,L,2,1,0,3.0,-3.0,1.0
+2122,Leverkusen,16,2022-01-08,Union Berlin,H,D,2,2,1,1.0,0.0,1.0
+2122,Leverkusen,17,2022-01-15,M'gladbach,A,W,1,2,3,3.0,0.0,1.0
+2122,Leverkusen,18,2022-01-22,Augsburg,H,W,5,1,3,3.0,0.0,1.0
+2122,Leverkusen,19,2022-02-06,Dortmund,A,W,2,5,3,0.0,3.0,4.0
+2122,Leverkusen,20,2022-02-12,Stuttgart,H,W,4,2,3,3.0,0.0,4.0
+2122,Leverkusen,21,2022-02-18,Mainz,A,L,3,2,0,3.0,-3.0,1.0
+2122,Leverkusen,22,2022-02-26,Bielefeld,H,W,3,0,3,0.0,3.0,4.0
+2122,Leverkusen,23,2022-03-05,Bayern Munich,A,D,1,1,1,0.0,1.0,5.0
+2122,Leverkusen,24,2022-03-13,FC Koln,H,L,0,1,0,3.0,-3.0,2.0
+2122,Leverkusen,25,2022-03-20,Wolfsburg,A,W,0,2,3,1.0,2.0,4.0
+2122,Leverkusen,26,2022-04-02,Hertha,H,W,2,1,3,1.0,2.0,6.0
+2122,Leverkusen,27,2022-04-17,RB Leipzig,H,L,0,1,0,1.0,-1.0,5.0
+2122,Leverkusen,28,2022-05-02,Ein Frankfurt,H,W,2,0,3,3.0,0.0,5.0
+2122,Leverkusen,29,2022-05-07,Hoffenheim,A,W,2,4,3,1.0,2.0,7.0
+2122,Leverkusen,30,2022-05-14,Freiburg,H,W,2,1,3,0.0,3.0,10.0
+2122,M'gladbach,1,2021-08-13,Bayern Munich,H,D,1,1,1,3.0,-2.0,-2.0
+2122,M'gladbach,2,2021-08-21,Leverkusen,A,L,4,0,0,0.0,0.0,-2.0
+2122,M'gladbach,3,2021-08-29,Union Berlin,A,L,2,1,0,1.0,-1.0,-3.0
+2122,M'gladbach,4,2021-09-12,Bielefeld,H,W,3,1,3,3.0,0.0,-3.0
+2122,M'gladbach,5,2021-09-18,Augsburg,A,L,1,0,0,0.0,0.0,-3.0
+2122,M'gladbach,6,2021-09-25,Dortmund,H,W,1,0,3,3.0,0.0,-3.0
+2122,M'gladbach,7,2021-10-02,Wolfsburg,A,W,1,3,3,1.0,2.0,-1.0
+2122,M'gladbach,8,2021-10-16,Stuttgart,H,D,1,1,1,0.0,1.0,0.0
+2122,M'gladbach,9,2021-10-23,Hertha,A,L,1,0,0,1.0,-1.0,-1.0
+2122,M'gladbach,10,2021-11-05,Mainz,A,D,1,1,1,3.0,-2.0,-3.0
+2122,M'gladbach,11,2021-11-27,FC Koln,A,L,4,1,0,3.0,-3.0,-6.0
+2122,M'gladbach,12,2021-12-05,Freiburg,H,L,0,6,0,3.0,-3.0,-9.0
+2122,M'gladbach,13,2021-12-11,RB Leipzig,A,L,4,1,0,0.0,0.0,-9.0
+2122,M'gladbach,14,2021-12-15,Ein Frankfurt,H,L,2,3,0,3.0,-3.0,-12.0
+2122,M'gladbach,15,2021-12-18,Hoffenheim,A,D,1,1,1,0.0,1.0,-11.0
+2122,M'gladbach,16,2022-01-07,Bayern Munich,A,W,1,2,3,0.0,3.0,-8.0
+2122,M'gladbach,17,2022-01-15,Leverkusen,H,L,1,2,0,0.0,0.0,-8.0
+2122,M'gladbach,18,2022-01-22,Union Berlin,H,L,1,2,0,1.0,-1.0,-9.0
+2122,M'gladbach,19,2022-02-05,Bielefeld,A,D,1,1,1,3.0,-2.0,-11.0
+2122,M'gladbach,20,2022-02-12,Augsburg,H,W,3,2,3,1.0,2.0,-9.0
+2122,M'gladbach,21,2022-02-20,Dortmund,A,L,6,0,0,0.0,0.0,-9.0
+2122,M'gladbach,22,2022-02-26,Wolfsburg,H,D,2,2,1,1.0,0.0,-9.0
+2122,M'gladbach,23,2022-03-05,Stuttgart,A,L,3,2,0,1.0,-1.0,-10.0
+2122,M'gladbach,24,2022-03-12,Hertha,H,W,2,0,3,1.0,2.0,-8.0
+2122,M'gladbach,25,2022-04-03,Mainz,H,D,1,1,1,0.0,1.0,-7.0
+2122,M'gladbach,26,2022-04-16,FC Koln,H,L,1,3,0,0.0,0.0,-7.0
+2122,M'gladbach,27,2022-04-23,Freiburg,A,D,3,3,1,1.0,0.0,-7.0
+2122,M'gladbach,28,2022-05-02,RB Leipzig,H,W,3,1,3,3.0,0.0,-7.0
+2122,M'gladbach,29,2022-05-08,Ein Frankfurt,A,D,1,1,1,1.0,0.0,-7.0
+2122,M'gladbach,30,2022-05-14,Hoffenheim,H,W,5,1,3,0.0,3.0,-4.0
+2122,Mainz,1,2021-08-15,RB Leipzig,H,W,1,0,3,3.0,0.0,0.0
+2122,Mainz,2,2021-09-11,Hoffenheim,A,W,0,2,3,3.0,0.0,0.0
+2122,Mainz,3,2021-09-18,Freiburg,H,D,0,0,1,3.0,-2.0,-2.0
+2122,Mainz,4,2021-09-25,Leverkusen,A,L,1,0,0,1.0,-1.0,-3.0
+2122,Mainz,5,2021-10-03,Union Berlin,H,L,1,2,0,3.0,-3.0,-6.0
+2122,Mainz,6,2021-10-16,Dortmund,A,L,3,1,0,1.0,-1.0,-7.0
+2122,Mainz,7,2021-10-22,Augsburg,H,W,4,1,3,0.0,3.0,-4.0
+2122,Mainz,8,2021-10-30,Bielefeld,A,W,1,2,3,0.0,3.0,-1.0
+2122,Mainz,9,2021-11-05,M'gladbach,H,D,1,1,1,0.0,1.0,0.0
+2122,Mainz,10,2021-11-21,FC Koln,H,D,1,1,1,0.0,1.0,1.0
+2122,Mainz,11,2021-11-26,Stuttgart,A,L,2,1,0,0.0,0.0,1.0
+2122,Mainz,12,2021-12-04,Wolfsburg,H,W,3,0,3,0.0,3.0,4.0
+2122,Mainz,13,2021-12-11,Bayern Munich,A,L,2,1,0,0.0,0.0,4.0
+2122,Mainz,14,2021-12-14,Hertha,H,W,4,0,3,1.0,2.0,6.0
+2122,Mainz,15,2021-12-18,Ein Frankfurt,A,L,1,0,0,1.0,-1.0,5.0
+2122,Mainz,16,2022-01-08,RB Leipzig,A,L,4,1,0,0.0,0.0,5.0
+2122,Mainz,17,2022-02-05,Hoffenheim,H,W,2,0,3,1.0,2.0,7.0
+2122,Mainz,18,2022-02-12,Freiburg,A,D,1,1,1,3.0,-2.0,5.0
+2122,Mainz,19,2022-02-18,Leverkusen,H,W,3,2,3,0.0,3.0,8.0
+2122,Mainz,20,2022-02-26,Union Berlin,A,L,3,1,0,0.0,0.0,8.0
+2122,Mainz,21,2022-03-16,Dortmund,H,L,0,1,0,0.0,0.0,8.0
+2122,Mainz,22,2022-03-19,Bielefeld,H,W,4,0,3,1.0,2.0,10.0
+2122,Mainz,23,2022-04-03,M'gladbach,A,D,1,1,1,3.0,-2.0,8.0
+2122,Mainz,24,2022-04-06,Augsburg,A,L,2,1,0,0.0,0.0,8.0
+2122,Mainz,25,2022-04-09,FC Koln,A,L,3,2,0,3.0,-3.0,5.0
+2122,Mainz,26,2022-04-16,Stuttgart,H,D,0,0,1,0.0,1.0,6.0
+2122,Mainz,27,2022-04-22,Wolfsburg,A,L,5,0,0,3.0,-3.0,3.0
+2122,Mainz,28,2022-04-30,Bayern Munich,H,W,3,1,3,3.0,0.0,3.0
+2122,Mainz,29,2022-05-07,Hertha,A,W,1,2,3,1.0,2.0,5.0
+2122,Mainz,30,2022-05-14,Ein Frankfurt,H,D,2,2,1,0.0,1.0,6.0
+2122,RB Leipzig,1,2021-08-15,Mainz,A,L,1,0,0,0.0,0.0,0.0
+2122,RB Leipzig,2,2021-08-20,Stuttgart,H,W,4,0,3,3.0,0.0,0.0
+2122,RB Leipzig,3,2021-08-29,Wolfsburg,A,L,1,0,0,1.0,-1.0,-1.0
+2122,RB Leipzig,4,2021-09-11,Bayern Munich,H,L,1,4,0,0.0,0.0,-1.0
+2122,RB Leipzig,5,2021-09-18,FC Koln,A,D,1,1,1,0.0,1.0,0.0
+2122,RB Leipzig,6,2021-09-25,Hertha,H,W,6,0,3,3.0,0.0,0.0
+2122,RB Leipzig,7,2021-10-16,Freiburg,A,D,1,1,1,3.0,-2.0,-2.0
+2122,RB Leipzig,8,2021-10-30,Ein Frankfurt,A,D,1,1,1,1.0,0.0,-2.0
+2122,RB Leipzig,9,2021-11-06,Dortmund,H,W,2,1,3,0.0,3.0,1.0
+2122,RB Leipzig,10,2021-11-20,Hoffenheim,A,L,2,0,0,3.0,-3.0,-2.0
+2122,RB Leipzig,11,2021-11-28,Leverkusen,H,L,1,3,0,3.0,-3.0,-5.0
+2122,RB Leipzig,12,2021-12-03,Union Berlin,A,L,2,1,0,0.0,0.0,-5.0
+2122,RB Leipzig,13,2021-12-11,M'gladbach,H,W,4,1,3,3.0,0.0,-5.0
+2122,RB Leipzig,14,2021-12-15,Augsburg,A,D,1,1,1,3.0,-2.0,-7.0
+2122,RB Leipzig,15,2021-12-18,Bielefeld,H,L,0,2,0,3.0,-3.0,-10.0
+2122,RB Leipzig,16,2022-01-08,Mainz,H,W,4,1,3,3.0,0.0,-10.0
+2122,RB Leipzig,17,2022-01-15,Stuttgart,A,W,0,2,3,3.0,0.0,-10.0
+2122,RB Leipzig,18,2022-01-23,Wolfsburg,H,W,2,0,3,1.0,2.0,-8.0
+2122,RB Leipzig,19,2022-02-05,Bayern Munich,A,L,3,2,0,1.0,-1.0,-9.0
+2122,RB Leipzig,20,2022-02-11,FC Koln,H,W,3,1,3,1.0,2.0,-7.0
+2122,RB Leipzig,21,2022-02-20,Hertha,A,W,1,6,3,3.0,0.0,-7.0
+2122,RB Leipzig,22,2022-03-05,Freiburg,H,D,1,1,1,3.0,-2.0,-9.0
+2122,RB Leipzig,23,2022-03-20,Ein Frankfurt,H,D,0,0,1,1.0,0.0,-9.0
+2122,RB Leipzig,24,2022-04-02,Dortmund,A,W,1,4,3,0.0,3.0,-6.0
+2122,RB Leipzig,25,2022-04-10,Hoffenheim,H,W,3,0,3,1.0,2.0,-4.0
+2122,RB Leipzig,26,2022-04-17,Leverkusen,A,W,0,1,3,1.0,2.0,-2.0
+2122,RB Leipzig,27,2022-04-23,Union Berlin,H,L,1,2,0,3.0,-3.0,-5.0
+2122,RB Leipzig,28,2022-05-02,M'gladbach,A,L,3,1,0,0.0,0.0,-5.0
+2122,RB Leipzig,29,2022-05-08,Augsburg,H,W,4,0,3,3.0,0.0,-5.0
+2122,RB Leipzig,30,2022-05-14,Bielefeld,A,D,1,1,1,3.0,-2.0,-7.0
+2122,Stuttgart,1,2021-08-20,RB Leipzig,A,L,4,0,0,0.0,0.0,0.0
+2122,Stuttgart,2,2021-08-28,Freiburg,H,L,2,3,0,0.0,0.0,0.0
+2122,Stuttgart,3,2021-09-12,Ein Frankfurt,A,D,1,1,1,1.0,0.0,0.0
+2122,Stuttgart,4,2021-09-19,Leverkusen,H,L,1,3,0,1.0,-1.0,-1.0
+2122,Stuttgart,5,2021-10-02,Hoffenheim,H,W,3,1,3,3.0,0.0,-1.0
+2122,Stuttgart,6,2021-10-16,M'gladbach,A,D,1,1,1,3.0,-2.0,-3.0
+2122,Stuttgart,7,2021-10-24,Union Berlin,H,D,1,1,1,1.0,0.0,-3.0
+2122,Stuttgart,8,2021-10-31,Augsburg,A,L,4,1,0,3.0,-3.0,-6.0
+2122,Stuttgart,9,2021-11-06,Bielefeld,H,L,0,1,0,0.0,0.0,-6.0
+2122,Stuttgart,10,2021-11-20,Dortmund,A,L,2,1,0,3.0,-3.0,-9.0
+2122,Stuttgart,11,2021-11-26,Mainz,H,W,2,1,3,3.0,0.0,-9.0
+2122,Stuttgart,12,2021-12-05,Hertha,H,D,2,2,1,1.0,0.0,-9.0
+2122,Stuttgart,13,2021-12-11,Wolfsburg,A,W,0,2,3,0.0,3.0,-6.0
+2122,Stuttgart,14,2021-12-14,Bayern Munich,H,L,0,5,0,0.0,0.0,-6.0
+2122,Stuttgart,15,2021-12-19,FC Koln,A,L,1,0,0,3.0,-3.0,-9.0
+2122,Stuttgart,16,2022-01-15,RB Leipzig,H,L,0,2,0,0.0,0.0,-9.0
+2122,Stuttgart,17,2022-01-22,Freiburg,A,L,2,0,0,0.0,0.0,-9.0
+2122,Stuttgart,18,2022-02-05,Ein Frankfurt,H,L,2,3,0,1.0,-1.0,-10.0
+2122,Stuttgart,19,2022-02-12,Leverkusen,A,L,4,2,0,0.0,0.0,-10.0
+2122,Stuttgart,20,2022-02-25,Hoffenheim,A,L,2,1,0,1.0,-1.0,-11.0
+2122,Stuttgart,21,2022-03-05,M'gladbach,H,W,3,2,3,1.0,2.0,-9.0
+2122,Stuttgart,22,2022-03-12,Union Berlin,A,D,1,1,1,0.0,1.0,-8.0
+2122,Stuttgart,23,2022-03-19,Augsburg,H,W,3,2,3,3.0,0.0,-8.0
+2122,Stuttgart,24,2022-04-02,Bielefeld,A,D,1,1,1,0.0,1.0,-7.0
+2122,Stuttgart,25,2022-04-08,Dortmund,H,L,0,2,0,0.0,0.0,-7.0
+2122,Stuttgart,26,2022-04-16,Mainz,A,D,0,0,1,3.0,-2.0,-9.0
+2122,Stuttgart,27,2022-04-24,Hertha,A,L,2,0,0,3.0,-3.0,-12.0
+2122,Stuttgart,28,2022-04-30,Wolfsburg,H,D,1,1,1,0.0,1.0,-11.0
+2122,Stuttgart,29,2022-05-08,Bayern Munich,A,D,2,2,1,0.0,1.0,-10.0
+2122,Stuttgart,30,2022-05-14,FC Koln,H,W,2,1,3,1.0,2.0,-8.0
+2122,Union Berlin,1,2021-08-14,Leverkusen,H,D,1,1,1,3.0,-2.0,-2.0
+2122,Union Berlin,2,2021-08-22,Hoffenheim,A,D,2,2,1,3.0,-2.0,-4.0
+2122,Union Berlin,3,2021-08-29,M'gladbach,H,W,2,1,3,1.0,2.0,-2.0
+2122,Union Berlin,4,2021-09-11,Augsburg,H,D,0,0,1,0.0,1.0,-1.0
+2122,Union Berlin,5,2021-09-19,Dortmund,A,L,4,2,0,0.0,0.0,-1.0
+2122,Union Berlin,6,2021-09-25,Bielefeld,H,W,1,0,3,3.0,0.0,-1.0
+2122,Union Berlin,7,2021-10-03,Mainz,A,W,1,2,3,0.0,3.0,2.0
+2122,Union Berlin,8,2021-10-16,Wolfsburg,H,W,2,0,3,1.0,2.0,4.0
+2122,Union Berlin,9,2021-10-24,Stuttgart,A,D,1,1,1,1.0,0.0,4.0
+2122,Union Berlin,10,2021-10-30,Bayern Munich,H,L,2,5,0,1.0,-1.0,3.0
+2122,Union Berlin,11,2021-11-07,FC Koln,A,D,2,2,1,3.0,-2.0,1.0
+2122,Union Berlin,12,2021-11-20,Hertha,H,W,2,0,3,1.0,2.0,3.0
+2122,Union Berlin,13,2021-11-28,Ein Frankfurt,A,L,2,1,0,0.0,0.0,3.0
+2122,Union Berlin,14,2021-12-03,RB Leipzig,H,W,2,1,3,3.0,0.0,3.0
+2122,Union Berlin,15,2021-12-15,Freiburg,H,D,0,0,1,1.0,0.0,3.0
+2122,Union Berlin,16,2022-01-08,Leverkusen,A,D,2,2,1,1.0,0.0,3.0
+2122,Union Berlin,17,2022-01-15,Hoffenheim,H,W,2,1,3,1.0,2.0,5.0
+2122,Union Berlin,18,2022-01-22,M'gladbach,A,W,1,2,3,1.0,2.0,7.0
+2122,Union Berlin,19,2022-02-05,Augsburg,A,L,2,0,0,0.0,0.0,7.0
+2122,Union Berlin,20,2022-02-13,Dortmund,H,L,0,3,0,3.0,-3.0,4.0
+2122,Union Berlin,21,2022-02-19,Bielefeld,A,L,1,0,0,1.0,-1.0,3.0
+2122,Union Berlin,22,2022-02-26,Mainz,H,W,3,1,3,3.0,0.0,3.0
+2122,Union Berlin,23,2022-03-05,Wolfsburg,A,L,1,0,0,0.0,0.0,3.0
+2122,Union Berlin,24,2022-03-12,Stuttgart,H,D,1,1,1,3.0,-2.0,1.0
+2122,Union Berlin,25,2022-03-19,Bayern Munich,A,L,4,0,0,1.0,-1.0,0.0
+2122,Union Berlin,26,2022-04-01,FC Koln,H,W,1,0,3,3.0,0.0,0.0
+2122,Union Berlin,27,2022-04-09,Hertha,A,W,1,4,3,0.0,3.0,3.0
+2122,Union Berlin,28,2022-04-17,Ein Frankfurt,H,W,2,0,3,1.0,2.0,5.0
+2122,Union Berlin,29,2022-04-23,RB Leipzig,A,W,1,2,3,0.0,3.0,8.0
+2122,Union Berlin,30,2022-05-07,Freiburg,A,W,1,4,3,3.0,0.0,8.0
+2122,Wolfsburg,1,2021-08-21,Hertha,A,W,1,2,3,1.0,2.0,2.0
+2122,Wolfsburg,2,2021-08-29,RB Leipzig,H,W,1,0,3,1.0,2.0,4.0
+2122,Wolfsburg,3,2021-09-19,Ein Frankfurt,H,D,1,1,1,3.0,-2.0,2.0
+2122,Wolfsburg,4,2021-09-25,Hoffenheim,A,L,3,1,0,0.0,0.0,2.0
+2122,Wolfsburg,5,2021-10-02,M'gladbach,H,L,1,3,0,1.0,-1.0,1.0
+2122,Wolfsburg,6,2021-10-16,Union Berlin,A,L,2,0,0,1.0,-1.0,0.0
+2122,Wolfsburg,7,2021-10-23,Freiburg,H,L,0,2,0,3.0,-3.0,-3.0
+2122,Wolfsburg,8,2021-10-30,Leverkusen,A,W,0,2,3,3.0,0.0,-3.0
+2122,Wolfsburg,9,2021-11-06,Augsburg,H,W,1,0,3,1.0,2.0,-1.0
+2122,Wolfsburg,10,2021-11-20,Bielefeld,A,D,2,2,1,3.0,-2.0,-3.0
+2122,Wolfsburg,11,2021-11-27,Dortmund,H,L,1,3,0,0.0,0.0,-3.0
+2122,Wolfsburg,12,2021-12-04,Mainz,A,L,3,0,0,3.0,-3.0,-6.0
+2122,Wolfsburg,13,2021-12-11,Stuttgart,H,L,0,2,0,3.0,-3.0,-9.0
+2122,Wolfsburg,14,2021-12-14,FC Koln,H,L,2,3,0,3.0,-3.0,-12.0
+2122,Wolfsburg,15,2021-12-17,Bayern Munich,A,L,4,0,0,0.0,0.0,-12.0
+2122,Wolfsburg,16,2022-01-15,Hertha,H,D,0,0,1,3.0,-2.0,-14.0
+2122,Wolfsburg,17,2022-01-23,RB Leipzig,A,L,2,0,0,1.0,-1.0,-15.0
+2122,Wolfsburg,18,2022-02-12,Ein Frankfurt,A,W,0,2,3,0.0,3.0,-12.0
+2122,Wolfsburg,19,2022-02-19,Hoffenheim,H,L,1,2,0,3.0,-3.0,-15.0
+2122,Wolfsburg,20,2022-02-26,M'gladbach,A,D,2,2,1,1.0,0.0,-15.0
+2122,Wolfsburg,21,2022-03-05,Union Berlin,H,W,1,0,3,3.0,0.0,-15.0
+2122,Wolfsburg,22,2022-03-12,Freiburg,A,L,3,2,0,1.0,-1.0,-16.0
+2122,Wolfsburg,23,2022-03-20,Leverkusen,H,L,0,2,0,1.0,-1.0,-17.0
+2122,Wolfsburg,24,2022-04-03,Augsburg,A,L,3,0,0,3.0,-3.0,-20.0
+2122,Wolfsburg,25,2022-04-09,Bielefeld,H,W,4,0,3,3.0,0.0,-20.0
+2122,Wolfsburg,26,2022-04-16,Dortmund,A,L,6,1,0,0.0,0.0,-20.0
+2122,Wolfsburg,27,2022-04-22,Mainz,H,W,5,0,3,0.0,3.0,-17.0
+2122,Wolfsburg,28,2022-04-30,Stuttgart,A,D,1,1,1,3.0,-2.0,-19.0
+2122,Wolfsburg,29,2022-05-07,FC Koln,A,W,0,1,3,1.0,2.0,-17.0
+2122,Wolfsburg,30,2022-05-14,Bayern Munich,H,D,2,2,1,0.0,1.0,-16.0

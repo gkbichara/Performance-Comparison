@@ -1,0 +1,576 @@
+player,team,goals,assists,contributions,contribution_pct,goals_pct,assists_pct,games,season
+Kylian Mbappe-Lottin,Paris Saint Germain,29,17,46,51.1,32.2,18.9,35,2122
+Mohamed Bayo,Clermont Foot,14,5,19,50.0,36.8,13.2,32,2122
+Wissam Ben Yedder,Monaco,25,5,30,46.2,38.5,7.7,37,2122
+Moussa Dembele,Lyon,21,4,25,37.9,31.8,6.1,30,2122
+Dimitri Payet,Marseille,12,11,23,36.5,19.0,17.5,31,2122
+Amine Gouiri,Nice,10,9,19,36.5,19.2,17.3,38,2122
+Denis Bouanga,Saint-Etienne,9,6,15,35.7,21.4,14.3,34,2122
+Terem Igobor Moffi,Lorient,8,4,12,34.3,22.9,11.4,37,2122
+Ludovic Ajorque,Strasbourg,12,8,20,33.3,20.0,13.3,36,2122
+Jonathan Christian David,Lille,15,0,15,31.2,31.2,0.0,38,2122
+Franck Honorat,Brest,11,4,15,30.6,22.4,8.2,34,2122
+Téji Savanier,Montpellier,8,7,15,30.6,16.3,14.3,29,2122
+Hugo Ekitike,Reims,10,3,13,30.2,23.3,7.0,24,2122
+Martin Terrier,Rennes,21,3,24,29.3,25.6,3.7,37,2122
+Randal Kolo Muani,Nantes,12,4,16,29.1,21.8,7.3,36,2122
+Elbasan Rashani,Clermont Foot,8,3,11,28.9,21.1,7.9,29,2122
+Benjamin Bourigeaud,Rennes,11,12,23,28.0,13.4,14.6,38,2122
+Kevin Volland,Monaco,9,9,18,27.7,13.8,13.8,34,2122
+Ludovic Blas,Nantes,10,5,15,27.3,18.2,9.1,35,2122
+Sofiane Boufal,Angers,8,4,12,27.3,18.2,9.1,29,2122
+Karl Toko Ekambi,Lyon,12,5,17,25.8,18.2,7.6,30,2122
+Jonathan Clauss,Lens,5,11,16,25.8,8.1,17.7,37,2122
+Moses Simon,Nantes,6,8,14,25.5,10.9,14.5,30,2122
+Hwang Ui-Jo,Bordeaux,11,2,13,25.0,21.2,3.8,32,2122
+Wahbi Khazri,Saint-Etienne,10,0,10,23.8,23.8,0.0,30,2122
+Kevin Gameiro,Strasbourg,11,3,14,23.3,18.3,5.0,35,2122
+Armand Lauriente,Lorient,6,2,8,22.9,17.1,5.7,35,2122
+Lucas Paquetá,Lyon,9,6,15,22.7,13.6,9.1,35,2122
+Sepe Elye Wahi,Montpellier,10,1,11,22.4,20.4,2.0,33,2122
+Steve Mounie,Brest,9,2,11,22.4,18.4,4.1,35,2122
+Stephy Mavididi,Montpellier,8,3,11,22.4,16.3,6.1,30,2122
+Neymar,Paris Saint Germain,13,6,19,21.1,14.4,6.7,22,2122
+Lionel Messi,Paris Saint Germain,6,13,19,21.1,6.7,14.4,26,2122
+Gerson,Marseille,9,4,13,20.6,14.3,6.3,35,2122
+Thomas Mangani,Angers,7,2,9,20.5,15.9,4.5,33,2122
+Angelo Fulgini,Angers,5,4,9,20.5,11.4,9.1,36,2122
+Habib Diallo,Strasbourg,11,1,12,20.0,18.3,1.7,31,2122
+Adrien Thomasson,Strasbourg,8,4,12,20.0,13.3,6.7,31,2122
+Nicolas de Preville,Metz,5,2,7,20.0,14.3,5.7,27,2122
+Alberth Elis,Bordeaux,9,1,10,19.2,17.3,1.9,20,2122
+Cengiz Ünder,Marseille,10,2,12,19.0,15.9,3.2,32,2122
+Arnaud Nordin,Saint-Etienne,4,4,8,19.0,9.5,9.5,36,2122
+Przemyslaw Frankowski,Lens,6,5,11,17.7,9.7,8.1,37,2122
+Matteo Guendouzi,Marseille,5,6,11,17.5,7.9,9.5,38,2122
+Remi Oudin,Bordeaux,4,5,9,17.3,7.7,9.6,33,2122
+Justin Kluivert,Nice,4,5,9,17.3,7.7,9.6,27,2122
+Lovro Majer,Rennes,6,8,14,17.1,7.3,9.8,29,2122
+Ibrahima Koné,Lorient,5,1,6,17.1,14.3,2.9,16,2122
+Farid Boulaya,Metz,4,2,6,17.1,11.4,5.7,24,2122
+Burak Yilmaz,Lille,5,3,8,16.7,10.4,6.2,31,2122
+Ryad Boudebouz,Saint-Etienne,3,4,7,16.7,7.1,9.5,30,2122
+Florent Mollet,Montpellier,6,2,8,16.3,12.2,4.1,35,2122
+Jeremy Le Douaron,Brest,5,3,8,16.3,10.2,6.1,32,2122
+Florian Tardieu,Troyes,4,2,6,16.2,10.8,5.4,30,2122
+Tristan Dingome,Troyes,2,4,6,16.2,5.4,10.8,25,2122
+Florian Sotoca,Lens,6,4,10,16.1,9.7,6.5,35,2122
+Hamari Traore,Rennes,3,10,13,15.9,3.7,12.2,33,2122
+Jason Berthomier,Clermont Foot,1,5,6,15.8,2.6,13.2,29,2122
+Sofiane Diop,Monaco,6,4,10,15.4,9.2,6.2,30,2122
+Kasper Dolberg,Nice,6,2,8,15.4,11.5,3.8,26,2122
+Caio Henrique,Monaco,2,8,10,15.4,3.1,12.3,34,2122
+Javairo Dilrosun,Bordeaux,2,6,8,15.4,3.8,11.5,32,2122
+Yacine Adli,Bordeaux,1,7,8,15.4,1.9,13.5,36,2122
+Houssem Aouar,Lyon,6,4,10,15.2,9.1,6.1,36,2122
+Timothy Weah,Lille,3,4,7,14.6,6.2,8.3,29,2122
+Renato Sanches,Lille,2,5,7,14.6,4.2,10.4,25,2122
+Seko Fofana,Lens,8,1,9,14.5,12.9,1.6,38,2122
+Arkadiusz Milik,Marseille,7,2,9,14.3,11.1,3.2,23,2122
+Valère Germain,Montpellier,4,3,7,14.3,8.2,6.1,34,2122
+Fabien Centonze,Metz,4,1,5,14.3,11.4,2.9,19,2122
+Thomas Monconduit,Lorient,3,2,5,14.3,8.6,5.7,34,2122
+Marshall Munetsi,Reims,5,1,6,14.0,11.6,2.3,24,2122
+El Bilal Touré,Reims,2,4,6,14.0,4.7,9.3,21,2122
+Alexis Flips,Reims,2,4,6,14.0,4.7,9.3,25,2122
+Pereira Lage,Angers,4,2,6,13.6,9.1,4.5,24,2122
+Iké Ugbo,Troyes,5,0,5,13.5,13.5,0.0,14,2122
+Mama Baldé,Troyes,3,2,5,13.5,8.1,5.4,30,2122
+Ángel Di María,Paris Saint Germain,5,7,12,13.3,5.6,7.8,26,2122
+David Pereira Da Costa,Lens,3,5,8,12.9,4.8,8.1,33,2122
+Ahmadou Bamba Dieng,Marseille,7,1,8,12.7,11.1,1.6,25,2122
+Andrei Girotto,Nantes,6,1,7,12.7,10.9,1.8,36,2122
+Amine Harit,Marseille,4,4,8,12.7,6.3,6.3,23,2122
+Irvin Cardona,Brest,4,2,6,12.2,8.2,4.1,32,2122
+Timothée Kolodziejczak,Saint-Etienne,2,3,5,11.9,4.8,7.1,30,2122
+Ibrahima Sissoko,Strasbourg,2,5,7,11.7,3.3,8.3,35,2122
+Arbër Zeneli,Reims,2,3,5,11.6,4.7,7.0,9,2122
+Ilan Kebbal,Reims,1,4,5,11.6,2.3,9.3,31,2122
+Sékou Mara,Bordeaux,6,0,6,11.5,11.5,0.0,26,2122
+Kephren Thuram,Nice,4,2,6,11.5,7.7,3.8,36,2122
+Ismael Traoré,Angers,4,1,5,11.4,9.1,2.3,37,2122
+Mohamed Ali-Cho,Angers,4,1,5,11.4,9.1,2.3,32,2122
+Ibrahima Niane,Metz,3,1,4,11.4,8.6,2.9,26,2122
+Opa Nguette,Metz,2,2,4,11.4,5.7,5.7,26,2122
+Enzo Le Fée,Lorient,1,3,4,11.4,2.9,8.6,36,2122
+Pape Sarr,Metz,1,3,4,11.4,2.9,8.6,33,2122
+Jimmy Cabot,Angers,0,5,5,11.4,0.0,11.4,24,2122
+Achraf Hakimi,Paris Saint Germain,4,6,10,11.1,4.4,6.7,32,2122
+Serhou Guirassy,Rennes,9,0,9,11.0,11.0,0.0,37,2122
+Osman Bukari,Nantes,2,4,6,10.9,3.6,7.3,24,2122
+Yoann Touzghar,Troyes,4,0,4,10.8,10.8,0.0,28,2122
+Gelson Martins,Monaco,4,3,7,10.8,6.2,4.6,32,2122
+Aleksandr Golovin,Monaco,3,4,7,10.8,4.6,6.2,27,2122
+Renaud Ripart,Troyes,2,2,4,10.8,5.4,5.4,28,2122
+Tetê,Lyon,2,5,7,10.6,3.0,7.6,9,2122
+Jodel Dossou,Clermont Foot,3,1,4,10.5,7.9,2.6,35,2122
+Vital N'Simba,Clermont Foot,1,3,4,10.5,2.6,7.9,34,2122
+Mehmet Zeki Çelik,Lille,2,3,5,10.4,4.2,6.2,32,2122
+Isaac Lihadji,Lille,1,4,5,10.4,2.1,8.3,13,2122
+Mohamed Youcef Belaïli,Brest,3,2,5,10.2,6.1,4.1,13,2122
+Flavien Tait,Rennes,5,3,8,9.8,6.1,3.7,28,2122
+Ignatius Ganago,Lens,5,1,6,9.7,8.1,1.6,28,2122
+Hichem Boudaoui,Nice,3,2,5,9.6,5.8,3.8,29,2122
+Jean Onana,Bordeaux,3,2,5,9.6,5.8,3.8,23,2122
+Adil Aouchiche,Saint-Etienne,0,4,4,9.5,0.0,9.5,35,2122
+Wout Faes,Reims,4,0,4,9.3,9.3,0.0,37,2122
+Ghislain Konan,Reims,1,3,4,9.3,2.3,7.0,28,2122
+Kalifa Coulibaly,Nantes,5,0,5,9.1,9.1,0.0,21,2122
+Stéphane Bahoken,Angers,3,1,4,9.1,6.8,2.3,29,2122
+Wylan Cyprien,Nantes,2,3,5,9.1,3.6,5.5,24,2122
+Quentin Merlin,Nantes,2,3,5,9.1,3.6,5.5,28,2122
+Sambou Soumano,Lorient,3,0,3,8.6,8.6,0.0,21,2122
+Didier Lamkel Zé,Metz,3,0,3,8.6,8.6,0.0,9,2122
+Thomas Delaine,Metz,1,2,3,8.6,2.9,5.7,29,2122
+Dylan Bronn,Metz,1,2,3,8.6,2.9,5.7,30,2122
+Dango Ouattara,Lorient,1,2,3,8.6,2.9,5.7,25,2122
+Lamine Gueye,Metz,0,3,3,8.6,0.0,8.6,14,2122
+Sven Botman,Lille,3,1,4,8.3,6.2,2.1,25,2122
+Dmitri Lienard,Strasbourg,2,3,5,8.3,3.3,5.0,33,2122
+Jean-Ricner Bellegarde,Strasbourg,2,3,5,8.3,3.3,5.0,36,2122
+Martín Satriano,Brest,4,0,4,8.2,8.2,0.0,15,2122
+Nicolas Cozza,Montpellier,2,2,4,8.2,4.1,4.1,34,2122
+Arnaud Souquet,Montpellier,1,3,4,8.2,2.0,6.1,34,2122
+Mihailo Ristic,Montpellier,1,3,4,8.2,2.0,6.1,29,2122
+Jean-Kevin Duverne,Brest,1,3,4,8.2,2.0,6.1,37,2122
+Wesley Said,Lens,5,0,5,8.1,8.1,0.0,21,2122
+Adil Rami,Troyes,3,0,3,8.1,8.1,0.0,17,2122
+Gaël Kakuta,Lens,3,2,5,8.1,4.8,3.2,29,2122
+Rominigue Kouame,Troyes,1,2,3,8.1,2.7,5.4,34,2122
+Giulian Biancone,Troyes,1,2,3,8.1,2.7,5.4,33,2122
+Cheick Oumar Doucoure,Lens,1,4,5,8.1,1.6,6.5,34,2122
+Jim Allevinah,Clermont Foot,1,2,3,7.9,2.6,5.3,30,2122
+Akim Zedadka,Clermont Foot,0,3,3,7.9,0.0,7.9,38,2122
+Myron Boadu,Monaco,4,1,5,7.7,6.2,1.5,31,2122
+M'Baye Niang,Bordeaux,3,1,4,7.7,5.8,1.9,22,2122
+Aurelien Tchouameni,Monaco,3,2,5,7.7,4.6,3.1,35,2122
+Ricardo Mangas,Bordeaux,3,1,4,7.7,5.8,1.9,29,2122
+Melvin Bard,Nice,2,2,4,7.7,3.8,3.8,33,2122
+Xherdan Shaqiri,Lyon,2,3,5,7.6,3.0,4.5,11,2122
+Kamaldeen Sulemana,Rennes,4,2,6,7.3,4.9,2.4,20,2122
+Pedro Chirivella,Nantes,3,1,4,7.3,5.5,1.8,31,2122
+Mahdi Camara,Saint-Etienne,3,0,3,7.1,7.1,0.0,35,2122
+Romain Hamouma,Saint-Etienne,2,1,3,7.1,4.8,2.4,22,2122
+Saidou Sow,Saint-Etienne,2,1,3,7.1,4.8,2.4,13,2122
+Nathanael Mbuku,Reims,2,1,3,7.0,4.7,2.3,31,2122
+Kamory Doumbia,Reims,2,1,3,7.0,4.7,2.3,8,2122
+Azz-Eddine Ounahi,Angers,2,1,3,6.8,4.5,2.3,32,2122
+Anthony Caci,Strasbourg,1,3,4,6.7,1.7,5.0,37,2122
+Frederic Guilbert,Strasbourg,0,4,4,6.7,0.0,6.7,33,2122
+Kevin Danso,Lens,2,2,4,6.5,3.2,3.2,33,2122
+Cédric Bakambu,Marseille,4,0,4,6.3,6.3,0.0,12,2122
+Xeka,Lille,3,0,3,6.2,6.2,0.0,23,2122
+Benjamin André,Lille,2,1,3,6.2,4.2,2.1,33,2122
+Edon Zhegrova,Lille,2,1,3,6.2,4.2,2.1,13,2122
+Jonathan Bamba,Lille,1,2,3,6.2,2.1,4.2,31,2122
+Youssouf Fofana,Monaco,0,4,4,6.2,0.0,6.2,33,2122
+Brendan Chardonnet,Brest,3,0,3,6.1,6.1,0.0,32,2122
+Adrien Truffert,Rennes,3,2,5,6.1,3.7,2.4,30,2122
+Malo Gusto,Lyon,0,4,4,6.1,0.0,6.1,30,2122
+Jimmy Briand,Bordeaux,2,1,3,5.8,3.8,1.9,17,2122
+Youcef Atal,Nice,2,1,3,5.8,3.8,1.9,17,2122
+Evann Guessand,Nice,1,2,3,5.8,1.9,3.8,20,2122
+Danylo Ignatenko,Bordeaux,0,3,3,5.8,0.0,5.8,11,2122
+Digbo Maiga,Metz,2,0,2,5.7,5.7,0.0,17,2122
+Julien Laporte,Lorient,2,0,2,5.7,5.7,0.0,33,2122
+Louis Mafouta,Metz,2,0,2,5.7,5.7,0.0,15,2122
+Vincent Le Goff,Lorient,1,1,2,5.7,2.9,2.9,34,2122
+Quentin Boisgard,Lorient,1,1,2,5.7,2.9,2.9,25,2122
+Boubacar Traore,Metz,1,1,2,5.7,2.9,2.9,27,2122
+Laurent Abergel,Lorient,0,2,2,5.7,0.0,5.7,34,2122
+Fali Candé,Metz,0,2,2,5.7,0.0,5.7,11,2122
+Marquinhos,Paris Saint Germain,5,0,5,5.6,5.6,0.0,32,2122
+Danilo Pereira,Paris Saint Germain,5,0,5,5.6,5.6,0.0,27,2122
+Ander Herrera,Paris Saint Germain,3,2,5,5.6,3.3,2.2,19,2122
+Willem Geubbels,Nantes,2,1,3,5.5,3.6,1.8,22,2122
+Sébastien Corchia,Nantes,0,3,3,5.5,0.0,5.5,28,2122
+Oualid El Hajjam,Troyes,1,1,2,5.4,2.7,2.7,19,2122
+Gerson Rodrigues,Troyes,1,1,2,5.4,2.7,2.7,12,2122
+Jordan Tell,Clermont Foot,1,1,2,5.3,2.6,2.6,15,2122
+Naif Aguerd,Rennes,2,2,4,4.9,2.4,2.4,31,2122
+Birger Meling,Rennes,0,4,4,4.9,0.0,4.9,31,2122
+Pol Lirola,Marseille,1,2,3,4.8,1.6,3.2,34,2122
+Jean-Phillipe Krasso,Saint-Etienne,1,1,2,4.8,2.4,2.4,16,2122
+Yunis Abdelhamid,Reims,2,0,2,4.7,4.7,0.0,34,2122
+Moreto Cassamã,Reims,2,0,2,4.7,4.7,0.0,17,2122
+Jens Cajuste,Reims,2,0,2,4.7,4.7,0.0,8,2122
+Bradley Locko,Reims,1,1,2,4.7,2.3,2.3,24,2122
+Azor Matusiwa,Reims,1,1,2,4.7,2.3,2.3,29,2122
+Vanderson,Monaco,2,1,3,4.6,3.1,1.5,17,2122
+Jason Denayer,Lyon,3,0,3,4.5,4.5,0.0,15,2122
+Romain Thomas,Angers,2,0,2,4.5,4.5,0.0,30,2122
+Thiago Mendes,Lyon,2,1,3,4.5,3.0,1.5,29,2122
+Emerson,Lyon,1,2,3,4.5,1.5,3.0,29,2122
+Batista Mendy,Angers,1,1,2,4.5,2.3,2.3,34,2122
+Bruno Guimarães,Lyon,0,3,3,4.5,0.0,4.5,20,2122
+Mauro Icardi,Paris Saint Germain,4,0,4,4.4,4.4,0.0,24,2122
+Idrissa Gueye,Paris Saint Germain,3,1,4,4.4,3.3,1.1,26,2122
+Julian Draxler,Paris Saint Germain,2,2,4,4.4,2.2,2.2,18,2122
+Georginio Wijnaldum,Paris Saint Germain,1,3,4,4.4,1.1,3.3,31,2122
+Angel Gomes,Lille,1,1,2,4.2,2.1,2.1,24,2122
+Tiago Djaló,Lille,1,1,2,4.2,2.1,2.1,28,2122
+Yusuf Yazici,Lille,1,1,2,4.2,2.1,2.1,15,2122
+José Fonte,Lille,0,2,2,4.2,0.0,4.2,38,2122
+Joris Chotard,Montpellier,1,1,2,4.1,2.0,2.0,36,2122
+Jordan Ferri,Montpellier,0,2,2,4.1,0.0,4.1,34,2122
+Nicholas Gioacchini,Montpellier,0,2,2,4.1,0.0,4.1,28,2122
+Mario Lemina,Nice,2,0,2,3.8,3.8,0.0,32,2122
+Josuha Guilavogui,Bordeaux,1,1,2,3.8,1.9,1.9,15,2122
+Samuel Kalu,Bordeaux,1,1,2,3.8,1.9,1.9,11,2122
+Timothee Pembele,Bordeaux,1,1,2,3.8,1.9,1.9,26,2122
+Calvin Stengs,Nice,1,1,2,3.8,1.9,1.9,24,2122
+Stian Rode Gregersen,Bordeaux,1,1,2,3.8,1.9,1.9,24,2122
+Alexis Claude Maurice,Nice,0,2,2,3.8,0.0,3.8,10,2122
+Pablo Rosario,Nice,0,2,2,3.8,0.0,3.8,36,2122
+Gideon Mensah,Bordeaux,0,2,2,3.8,0.0,3.8,23,2122
+Baptiste Santamaria,Rennes,2,1,3,3.7,2.4,1.2,34,2122
+Jéremy Doku,Rennes,1,2,3,3.7,1.2,2.4,14,2122
+Marcus Coco,Nantes,1,1,2,3.6,1.8,1.8,24,2122
+Fabio,Nantes,0,2,2,3.6,0.0,3.6,27,2122
+Majeed Waris,Strasbourg,2,0,2,3.3,3.3,0.0,15,2122
+Leandro Paredes,Paris Saint Germain,1,2,3,3.3,1.1,2.2,15,2122
+Maxime Le Marchand,Strasbourg,1,1,2,3.3,1.7,1.7,12,2122
+Marco Verratti,Paris Saint Germain,1,2,3,3.3,1.1,2.2,24,2122
+Jean Eudes Aholou,Strasbourg,1,1,2,3.3,1.7,1.7,25,2122
+Lucas Perrin,Strasbourg,1,1,2,3.3,1.7,1.7,31,2122
+Gerzino Nyamsi,Strasbourg,0,2,2,3.3,0.0,3.3,34,2122
+Duje Caleta-Car,Marseille,2,0,2,3.2,3.2,0.0,26,2122
+Massadio Haidara,Lens,1,1,2,3.2,1.6,1.6,20,2122
+Simon Banza,Lens,1,1,2,3.2,1.6,1.6,4,2122
+Konrad De la Fuente,Marseille,0,2,2,3.2,0.0,3.2,16,2122
+Luan Peres,Marseille,0,2,2,3.2,0.0,3.2,34,2122
+Jean Lucas,Monaco,1,1,2,3.1,1.5,1.5,28,2122
+Ruben Aguilar,Monaco,0,2,2,3.1,0.0,3.1,28,2122
+Castello Lukeba,Lyon,2,0,2,3.0,3.0,0.0,24,2122
+Islam Slimani,Lyon,1,1,2,3.0,1.5,1.5,12,2122
+Tanguy NDombele Alvaro,Lyon,0,2,2,3.0,0.0,3.0,11,2122
+Ibrahim Amadou,Metz,1,0,1,2.9,2.9,0.0,10,2122
+Vincent Pajot,Metz,1,0,1,2.9,2.9,0.0,30,2122
+Matthieu Udol,Metz,1,0,1,2.9,2.9,0.0,12,2122
+Leo Petrot,Lorient,1,0,1,2.9,2.9,0.0,22,2122
+Adrian Grbic,Lorient,1,0,1,2.9,2.9,0.0,16,2122
+Kiki Kouyate,Metz,1,0,1,2.9,2.9,0.0,30,2122
+Moritz Jenz,Lorient,1,0,1,2.9,2.9,0.0,17,2122
+Fabien Lemoine,Lorient,0,1,1,2.9,0.0,2.9,21,2122
+Lenny Lacroix,Metz,0,1,1,2.9,0.0,2.9,3,2122
+Papa Ndiaga Yade,Metz,0,1,1,2.9,0.0,2.9,18,2122
+Houboulang Mendes,Lorient,0,1,1,2.9,0.0,2.9,36,2122
+William Mikelbrencis,Metz,0,1,1,2.9,0.0,2.9,9,2122
+Brandon Domingues,Troyes,1,0,1,2.7,2.7,0.0,11,2122
+Youssouf Kone,Troyes,0,1,1,2.7,0.0,2.7,21,2122
+Yoann Salmier,Troyes,0,1,1,2.7,0.0,2.7,31,2122
+Issa Kabore,Troyes,0,1,1,2.7,0.0,2.7,31,2122
+Dylan Chambost,Troyes,0,1,1,2.7,0.0,2.7,19,2122
+Abdu Conté,Troyes,0,1,1,2.7,0.0,2.7,17,2122
+Cédric Hountondji,Clermont Foot,1,0,1,2.6,2.6,0.0,23,2122
+Saif-Eddine Khaoui,Clermont Foot,1,0,1,2.6,2.6,0.0,23,2122
+Florent Ogier,Clermont Foot,1,0,1,2.6,2.6,0.0,30,2122
+Salis Abdul Samed,Clermont Foot,1,0,1,2.6,2.6,0.0,31,2122
+Yohann Magnin,Clermont Foot,1,0,1,2.6,2.6,0.0,24,2122
+Grejohn Kyei,Clermont Foot,0,1,1,2.6,0.0,2.6,14,2122
+Johan Gastien,Clermont Foot,0,1,1,2.6,0.0,2.6,32,2122
+Eliaquim Mangala,Saint-Etienne,1,0,1,2.4,2.4,0.0,14,2122
+Jonas Martin,Rennes,1,1,2,2.4,1.2,1.2,29,2122
+Mickael Nade,Saint-Etienne,1,0,1,2.4,2.4,0.0,30,2122
+Zaydou Youssef,Saint-Etienne,1,0,1,2.4,2.4,0.0,30,2122
+Miguel Trauco,Saint-Etienne,1,0,1,2.4,2.4,0.0,17,2122
+Lucas Gourna Douath,Saint-Etienne,1,0,1,2.4,2.4,0.0,31,2122
+Lorenz Assignon,Rennes,0,2,2,2.4,0.0,2.4,20,2122
+Nabil Bentaleb,Angers,1,0,1,2.3,2.3,0.0,18,2122
+Thomas Foket,Reims,1,0,1,2.3,2.3,0.0,29,2122
+Maxime Busi,Reims,1,0,1,2.3,2.3,0.0,18,2122
+N'Dri Koffi,Reims,1,0,1,2.3,2.3,0.0,10,2122
+Pierrick Capelle,Angers,0,1,1,2.3,0.0,2.3,30,2122
+Valon Berisha,Reims,0,1,1,2.3,0.0,2.3,13,2122
+Souleyman Doumbia,Angers,0,1,1,2.3,0.0,2.3,27,2122
+Sergio Ramos,Paris Saint Germain,2,0,2,2.2,2.2,0.0,12,2122
+Thilo Kehrer,Paris Saint Germain,2,0,2,2.2,2.2,0.0,27,2122
+Jonathan Ikone,Lille,1,0,1,2.1,2.1,0.0,18,2122
+Reinildo,Lille,1,0,1,2.1,2.1,0.0,18,2122
+Amadou Onana,Lille,1,0,1,2.1,2.1,0.0,32,2122
+Gabriel Gudmundsson,Lille,1,0,1,2.1,2.1,0.0,30,2122
+Hatem Ben Arfa,Lille,0,1,1,2.1,0.0,2.1,7,2122
+Junior Sambia,Montpellier,1,0,1,2.0,2.0,0.0,30,2122
+Ambroise Oyongo,Montpellier,1,0,1,2.0,2.0,0.0,11,2122
+Lilian Brassier,Brest,1,0,1,2.0,2.0,0.0,31,2122
+Ronael Pierre Gabriel,Brest,0,1,1,2.0,0.0,2.0,30,2122
+Paul Lasne,Brest,0,1,1,2.0,0.0,2.0,15,2122
+Hugo Magnetti,Brest,0,1,1,2.0,0.0,2.0,28,2122
+Julien Faussurier,Brest,0,1,1,2.0,0.0,2.0,16,2122
+Sacha Delaye,Montpellier,0,1,1,2.0,0.0,2.0,11,2122
+Marco Bizot,Brest,0,1,1,2.0,0.0,2.0,38,2122
+Mexer,Bordeaux,1,0,1,1.9,1.9,0.0,16,2122
+Enock Kwateng,Bordeaux,1,0,1,1.9,1.9,0.0,29,2122
+Jean-Clair Todibo,Nice,1,0,1,1.9,1.9,0.0,36,2122
+Laurent Koscielny,Bordeaux,0,1,1,1.9,0.0,1.9,11,2122
+Morgan Schneiderlin,Nice,0,1,1,1.9,0.0,1.9,20,2122
+Toma Basic,Bordeaux,0,1,1,1.9,0.0,1.9,3,2122
+Dan Ndoye,Nice,0,1,1,1.9,0.0,1.9,3,2122
+Fransérgio,Bordeaux,0,1,1,1.9,0.0,1.9,26,2122
+Anel Ahmedhodzic,Bordeaux,0,1,1,1.9,0.0,1.9,15,2122
+Nicolas Pallois,Nantes,1,0,1,1.8,1.8,0.0,30,2122
+Jean-Charles Castelletto,Nantes,1,0,1,1.8,1.8,0.0,28,2122
+Samuel Moutoussamy,Nantes,0,1,1,1.8,0.0,1.8,30,2122
+Sanjin Prcic,Strasbourg,1,0,1,1.7,1.7,0.0,32,2122
+Alexander Djiku,Strasbourg,1,0,1,1.7,1.7,0.0,31,2122
+Nordine Kandil,Strasbourg,0,1,1,1.7,0.0,1.7,5,2122
+Corentin Jean,Lens,1,0,1,1.6,1.6,0.0,17,2122
+Boubacar Kamara,Marseille,1,0,1,1.6,1.6,0.0,34,2122
+Facundo Medina,Lens,1,0,1,1.6,1.6,0.0,31,2122
+Sead Kolasinac,Marseille,0,1,1,1.6,0.0,1.6,14,2122
+Pau López,Marseille,0,1,1,1.6,0.0,1.6,29,2122
+Valentin Rongier,Marseille,0,1,1,1.6,0.0,1.6,32,2122
+Pape Alassane Gueye,Marseille,0,1,1,1.6,0.0,1.6,28,2122
+Luis Henrique,Marseille,0,1,1,1.6,0.0,1.6,20,2122
+Christopher Wooh,Lens,0,1,1,1.6,0.0,1.6,14,2122
+Deiver Machado,Lens,0,1,1,1.6,0.0,1.6,22,2122
+Axel Disasi,Monaco,1,0,1,1.5,1.5,0.0,32,2122
+Benoit Badiashile Mukinayi,Monaco,1,0,1,1.5,1.5,0.0,24,2122
+Tinotenda Kadewere,Lyon,1,0,1,1.5,1.5,0.0,15,2122
+Krépin Diatta,Monaco,1,0,1,1.5,1.5,0.0,8,2122
+Jérôme Boateng,Lyon,0,1,1,1.5,0.0,1.5,24,2122
+Jeff Reine-Adelaide,Lyon,0,1,1,1.5,0.0,1.5,10,2122
+Mathis Cherki,Lyon,0,1,1,1.5,0.0,1.5,16,2122
+Ismail Jakobs,Monaco,0,1,1,1.5,0.0,1.5,28,2122
+Henrique,Lyon,0,1,1,1.5,0.0,1.5,18,2122
+Bradley Barcola,Lyon,0,1,1,1.5,0.0,1.5,11,2122
+Chimuanya Ugochukwu,Rennes,1,0,1,1.2,1.2,0.0,18,2122
+Loic Bade,Rennes,0,1,1,1.2,0.0,1.2,14,2122
+Pablo Sarabia,Paris Saint Germain,1,0,1,1.1,1.1,0.0,2,2122
+Presnel Kimpembe,Paris Saint Germain,1,0,1,1.1,1.1,0.0,30,2122
+Abdou Diallo,Paris Saint Germain,0,1,1,1.1,0.0,1.1,12,2122
+Edouard Michut,Paris Saint Germain,0,1,1,1.1,0.0,1.1,5,2122
+Nuno Mendes,Paris Saint Germain,0,1,1,1.1,0.0,1.1,27,2122
+Dante,Nice,0,0,0,0.0,0.0,0.0,34,2122
+Juan Bernat,Paris Saint Germain,0,0,0,0.0,0.0,0.0,15,2122
+Mamadou Sakho,Montpellier,0,0,0,0.0,0.0,0.0,29,2122
+Bakary Sako,Saint-Etienne,0,0,0,0.0,0.0,0.0,7,2122
+Cesc Fàbregas,Monaco,0,0,0,0.0,0.0,0.0,2,2122
+Patrick Roberts,Troyes,0,0,0,0.0,0.0,0.0,1,2122
+Gianluigi Donnarumma,Paris Saint Germain,0,0,0,0.0,0.0,0.0,17,2122
+Assane Diousse,Saint-Etienne,0,0,0,0.0,0.0,0.0,4,2122
+Alfred Gomis,Rennes,0,0,0,0.0,0.0,0.0,25,2122
+Steve Mandanda,Marseille,0,0,0,0.0,0.0,0.0,9,2122
+Jérémy Pied,Lille,0,0,0,0.0,0.0,0.0,2,2122
+Gabriel Silva,Saint-Etienne,0,0,0,0.0,0.0,0.0,13,2122
+Sergio Rico,Paris Saint Germain,0,0,0,0.0,0.0,0.0,1,2122
+Rafinha,Paris Saint Germain,0,0,0,0.0,0.0,0.0,5,2122
+Rubén Pardo,Bordeaux,0,0,0,0.0,0.0,0.0,1,2122
+Keylor Navas,Paris Saint Germain,0,0,0,0.0,0.0,0.0,21,2122
+Danilo,Nice,0,0,0,0.0,0.0,0.0,1,2122
+Álvaro González,Marseille,0,0,0,0.0,0.0,0.0,6,2122
+Alexander Nübel,Monaco,0,0,0,0.0,0.0,0.0,38,2122
+Moussa Doumbia,Reims,0,0,0,0.0,0.0,0.0,4,2122
+Alban Lafont,Nantes,0,0,0,0.0,0.0,0.0,38,2122
+Benoit Costil,Bordeaux,0,0,0,0.0,0.0,0.0,25,2122
+Pedro Mendes,Montpellier,0,0,0,0.0,0.0,0.0,1,2122
+Enzo Crivelli,Saint-Etienne,0,0,0,0.0,0.0,0.0,4,2122
+Anthony Lopes,Lyon,0,0,0,0.0,0.0,0.0,34,2122
+Jérémy Morel,Lorient,0,0,0,0.0,0.0,0.0,9,2122
+Maxwel Cornet,Lyon,0,0,0,0.0,0.0,0.0,1,2122
+Jean-Kevin Augustin,Nantes,0,0,0,0.0,0.0,0.0,7,2122
+Paul Baysse,Bordeaux,0,0,0,0.0,0.0,0.0,2,2122
+Jean-Louis Leca,Lens,0,0,0,0.0,0.0,0.0,27,2122
+Yannick Cahuzac,Lens,0,0,0,0.0,0.0,0.0,17,2122
+Casimir Ninga,Angers,0,0,0,0.0,0.0,0.0,16,2122
+Djibril Sidibe,Monaco,0,0,0,0.0,0.0,0.0,17,2122
+Rémy Cabella,Montpellier,0,0,0,0.0,0.0,0.0,5,2122
+Léo Dubois,Lyon,0,0,0,0.0,0.0,0.0,23,2122
+Paul Nardi,Lorient,0,0,0,0.0,0.0,0.0,22,2122
+Matthieu Dreyer,Lorient,0,0,0,0.0,0.0,0.0,16,2122
+Karim Azamoum,Troyes,0,0,0,0.0,0.0,0.0,7,2122
+Romain Philippoteaux,Brest,0,0,0,0.0,0.0,0.0,1,2122
+Alexandre Letellier,Paris Saint Germain,0,0,0,0.0,0.0,0.0,1,2122
+Vincent Manceau,Angers,0,0,0,0.0,0.0,0.0,28,2122
+Jessy Moulin,Troyes,0,0,0,0.0,0.0,0.0,7,2122
+Dennis Appiah,Nantes,0,0,0,0.0,0.0,0.0,32,2122
+Jean-Armel Kana-Biyik,Metz,0,0,0,0.0,0.0,0.0,10,2122
+Damien Da Silva,Lyon,0,0,0,0.0,0.0,0.0,17,2122
+Jemerson,Metz,0,0,0,0.0,0.0,0.0,15,2122
+Dimitry Bertaud,Montpellier,0,0,0,0.0,0.0,0.0,11,2122
+Charles Traore,Nantes,0,0,0,0.0,0.0,0.0,16,2122
+Kevin N'Doram,Metz,0,0,0,0.0,0.0,0.0,19,2122
+Hassane Kamara,Nice,0,0,0,0.0,0.0,0.0,11,2122
+Mathieu Cafaro,Reims,0,0,0,0.0,0.0,0.0,4,2122
+Anastasios Donis,Reims,0,0,0,0.0,0.0,0.0,13,2122
+Marc-Aurele Caillard,Metz,0,0,0,0.0,0.0,0.0,19,2122
+Roli Pereira De Sa,Nantes,0,0,0,0.0,0.0,0.0,17,2122
+Andrew Gravillon,Reims,0,0,0,0.0,0.0,0.0,26,2122
+Josh Maja,Bordeaux,0,0,0,0.0,0.0,0.0,2,2122
+Walter Benítez,Nice,0,0,0,0.0,0.0,0.0,37,2122
+Eiji Kawashima,Strasbourg,0,0,0,0.0,0.0,0.0,1,2122
+Lamine Ghezali,Saint-Etienne,0,0,0,0.0,0.0,0.0,1,2122
+Abdoulaye Bamba,Angers,0,0,0,0.0,0.0,0.0,10,2122
+Myziane Maolida,Nice,0,0,0,0.0,0.0,0.0,1,2122
+Amine Bassi,Metz,0,0,0,0.0,0.0,0.0,5,2122
+Romain Salin,Rennes,0,0,0,0.0,0.0,0.0,1,2122
+Anthony Mandrea,Angers,0,0,0,0.0,0.0,0.0,10,2122
+Alexandre Oukidja,Metz,0,0,0,0.0,0.0,0.0,21,2122
+Christophe Herelle,Brest,0,0,0,0.0,0.0,0.0,23,2122
+Jimmy Giraudon,Troyes,0,0,0,0.0,0.0,0.0,19,2122
+Otávio,Bordeaux,0,0,0,0.0,0.0,0.0,16,2122
+Guillermo Maripán,Monaco,0,0,0,0.0,0.0,0.0,26,2122
+Julian Pollersbeck,Lyon,0,0,0,0.0,0.0,0.0,6,2122
+Levi Lumeka,Troyes,0,0,0,0.0,0.0,0.0,5,2122
+Suk Hyun-Jun,Troyes,0,0,0,0.0,0.0,0.0,9,2122
+Oriol Busquets,Clermont Foot,0,0,0,0.0,0.0,0.0,9,2122
+Vágner,Metz,0,0,0,0.0,0.0,0.0,3,2122
+Jean-Claude Billong,Clermont Foot,0,0,0,0.0,0.0,0.0,15,2122
+Steven Fortes,Lens,0,0,0,0.0,0.0,0.0,1,2122
+Gaetan Poussin,Bordeaux,0,0,0,0.0,0.0,0.0,13,2122
+Sofiane Alakouch,Metz,0,0,0,0.0,0.0,0.0,4,2122
+Antonin Bobichon,Angers,0,0,0,0.0,0.0,0.0,4,2122
+Thomas Fontaine,Lorient,0,0,0,0.0,0.0,0.0,2,2122
+William Saliba,Marseille,0,0,0,0.0,0.0,0.0,36,2122
+Matz Sels,Strasbourg,0,0,0,0.0,0.0,0.0,37,2122
+Colin Dagba,Paris Saint Germain,0,0,0,0.0,0.0,0.0,3,2122
+Farid El Melali,Angers,0,0,0,0.0,0.0,0.0,2,2122
+Wilson Isidor,Monaco,0,0,0,0.0,0.0,0.0,4,2122
+Nemanja Radonjic,Marseille,0,0,0,0.0,0.0,0.0,1,2122
+Jonathan Gradit,Lens,0,0,0,0.0,0.0,0.0,35,2122
+Charles Nathan Abi,Saint-Etienne,0,0,0,0.0,0.0,0.0,1,2122
+Maxence Caqueret,Lyon,0,0,0,0.0,0.0,0.0,31,2122
+Eduardo Camavinga,Rennes,0,0,0,0.0,0.0,0.0,4,2122
+Philippe Sandler,Troyes,0,0,0,0.0,0.0,0.0,2,2122
+Leonardo Balerdi,Marseille,0,0,0,0.0,0.0,0.0,17,2122
+Eric Junior Dina Ebimbe,Paris Saint Germain,0,0,0,0.0,0.0,0.0,10,2122
+Darío Benedetto,Marseille,0,0,0,0.0,0.0,0.0,2,2122
+Predrag Rajkovic,Reims,0,0,0,0.0,0.0,0.0,38,2122
+Sambou Sissoko,Reims,0,0,0,0.0,0.0,0.0,8,2122
+Denys Bain,Brest,0,0,0,0.0,0.0,0.0,2,2122
+Haris Belkebla,Brest,0,0,0,0.0,0.0,0.0,31,2122
+Danijel Petkovic,Angers,0,0,0,0.0,0.0,0.0,15,2122
+Loris Benito,Bordeaux,0,0,0,0.0,0.0,0.0,1,2122
+Harold Moukoudi,Saint-Etienne,0,0,0,0.0,0.0,0.0,24,2122
+Domagoj Bradaric,Lille,0,0,0,0.0,0.0,0.0,15,2122
+Léo Jardim,Lille,0,0,0,0.0,0.0,0.0,17,2122
+Cheikh Niasse,Lille,0,0,0,0.0,0.0,0.0,4,2122
+Mamadou Fofana,Metz,0,0,0,0.0,0.0,0.0,1,2122
+Marcin Bulka,Nice,0,0,0,0.0,0.0,0.0,1,2122
+Stefan Bajic,Saint-Etienne,0,0,0,0.0,0.0,0.0,7,2122
+Hianga'a M'Bock,Brest,0,0,0,0.0,0.0,0.0,14,2122
+Lucien Agoume,Brest,0,0,0,0.0,0.0,0.0,27,2122
+Mehdi Zerkane,Bordeaux,0,0,0,0.0,0.0,0.0,6,2122
+Jason Mbock,Angers,0,0,0,0.0,0.0,0.0,1,2122
+Nelson Sissoko,Saint-Etienne,0,0,0,0.0,0.0,0.0,1,2122
+Georges Mikautadze,Metz,0,0,0,0.0,0.0,0.0,1,2122
+Maxence Rivera,Saint-Etienne,0,0,0,0.0,0.0,0.0,1,2122
+Renaud Emond,Nantes,0,0,0,0.0,0.0,0.0,6,2122
+Kaj Sierhuis,Reims,0,0,0,0.0,0.0,0.0,2,2122
+Yvann Maçon,Saint-Etienne,0,0,0,0.0,0.0,0.0,22,2122
+Enzo Ebosse,Angers,0,0,0,0.0,0.0,0.0,27,2122
+Waniss Taibi,Angers,0,0,0,0.0,0.0,0.0,7,2122
+Strahinja Pavlovic,Monaco,0,0,0,0.0,0.0,0.0,7,2122
+Chrislain Matsima,Monaco,0,0,0,0.0,0.0,0.0,7,2122
+Eliot Matazo,Monaco,0,0,0,0.0,0.0,0.0,18,2122
+Fraser Hornby,Reims,0,0,0,0.0,0.0,0.0,8,2122
+Stéphane Diarra,Lorient,0,0,0,0.0,0.0,0.0,15,2122
+Mehdi Chahiri,Strasbourg,0,0,0,0.0,0.0,0.0,1,2122
+Jordan Lotomba,Nice,0,0,0,0.0,0.0,0.0,30,2122
+Flavius Daniliuc,Nice,0,0,0,0.0,0.0,0.0,24,2122
+Ismael Boura,Lens,0,0,0,0.0,0.0,0.0,5,2122
+Wuilker Fariñez,Lens,0,0,0,0.0,0.0,0.0,13,2122
+Jonas Omlin,Montpellier,0,0,0,0.0,0.0,0.0,29,2122
+Salim Ben Seghir,Marseille,0,0,0,0.0,0.0,0.0,1,2122
+Fodé Doucouré,Reims,0,0,0,0.0,0.0,0.0,3,2122
+Cheick Tidiane Sabaly,Metz,0,0,0,0.0,0.0,0.0,6,2122
+Warren Tchimbembé,Metz,0,0,0,0.0,0.0,0.0,9,2122
+Yvan Neyou,Saint-Etienne,0,0,0,0.0,0.0,0.0,16,2122
+Jerome Hergault,Lorient,0,0,0,0.0,0.0,0.0,8,2122
+Xavi Simons,Paris Saint Germain,0,0,0,0.0,0.0,0.0,6,2122
+Sinaly Diomande,Lyon,0,0,0,0.0,0.0,0.0,11,2122
+Aïmen Moueffek,Saint-Etienne,0,0,0,0.0,0.0,0.0,14,2122
+Nassim Chadli,Troyes,0,0,0,0.0,0.0,0.0,8,2122
+Dilane Bakwa,Bordeaux,0,0,0,0.0,0.0,0.0,5,2122
+Ivo Grbic,Lille,0,0,0,0.0,0.0,0.0,21,2122
+Charles Boli,Lens,0,0,0,0.0,0.0,0.0,4,2122
+Mahamé Siby,Strasbourg,0,0,0,0.0,0.0,0.0,2,2122
+Amadou Traoré,Bordeaux,0,0,0,0.0,0.0,0.0,1,2122
+Tom Lacoux,Bordeaux,0,0,0,0.0,0.0,0.0,13,2122
+Etienne Green,Saint-Etienne,0,0,0,0.0,0.0,0.0,15,2122
+Abdoulaye Bakayoko,Saint-Etienne,0,0,0,0.0,0.0,0.0,4,2122
+Oussama Targhaline,Marseille,0,0,0,0.0,0.0,0.0,2,2122
+Abdoulaye Sylla,Nantes,0,0,0,0.0,0.0,0.0,2,2122
+Issouf Sissokho,Bordeaux,0,0,0,0.0,0.0,0.0,7,2122
+Noah Fatar,Angers,0,0,0,0.0,0.0,0.0,3,2122
+Dion Moise Sahi,Strasbourg,0,0,0,0.0,0.0,0.0,8,2122
+Dion Lopy,Reims,0,0,0,0.0,0.0,0.0,26,2122
+Maxime Estève,Montpellier,0,0,0,0.0,0.0,0.0,24,2122
+Jonathan Varane,Lens,0,0,0,0.0,0.0,0.0,1,2122
+Matthis Abline,Rennes,0,0,0,0.0,0.0,0.0,7,2122
+Warmed Omari,Rennes,0,0,0,0.0,0.0,0.0,34,2122
+Habib Keita,Lyon,0,0,0,0.0,0.0,0.0,3,2122
+Andy Diouf,Rennes,0,0,0,0.0,0.0,0.0,5,2122
+Mamadou Mbow,Reims,0,0,0,0.0,0.0,0.0,1,2122
+Mathys Saban,Saint-Etienne,0,0,0,0.0,0.0,0.0,3,2122
+Yanis Lhéry,Saint-Etienne,0,0,0,0.0,0.0,0.0,5,2122
+Jere Uronen,Brest,0,0,0,0.0,0.0,0.0,15,2122
+Gauthier Gallon,Troyes,0,0,0,0.0,0.0,0.0,31,2122
+Mykola Kukharevych,Troyes,0,0,0,0.0,0.0,0.0,2,2122
+Tanguy Zoukrou,Troyes,0,0,0,0.0,0.0,0.0,4,2122
+Derek Mazou-Sacko,Troyes,0,0,0,0.0,0.0,0.0,2,2122
+Nathan Bitumazala,Paris Saint Germain,0,0,0,0.0,0.0,0.0,1,2122
+El Chadaille Bitshiabu,Paris Saint Germain,0,0,0,0.0,0.0,0.0,1,2122
+Karol Fila,Strasbourg,0,0,0,0.0,0.0,0.0,16,2122
+Abdel Jalil Zaim Idriss Medioub,Bordeaux,0,0,0,0.0,0.0,0.0,10,2122
+Arthur Desmas,Clermont Foot,0,0,0,0.0,0.0,0.0,15,2122
+Jonathan Iglesias,Clermont Foot,0,0,0,0.0,0.0,0.0,15,2122
+Josue Albert,Clermont Foot,0,0,0,0.0,0.0,0.0,2,2122
+Arial Mendy,Clermont Foot,0,0,0,0.0,0.0,0.0,18,2122
+Alidu Seidu,Clermont Foot,0,0,0,0.0,0.0,0.0,21,2122
+Ouparine Djoco,Clermont Foot,0,0,0,0.0,0.0,0.0,24,2122
+Bryan Djile Nokoue,Saint-Etienne,0,0,0,0.0,0.0,0.0,2,2122
+Igor Silva,Lorient,0,0,0,0.0,0.0,0.0,28,2122
+Samuel Loric,Lorient,0,0,0,0.0,0.0,0.0,3,2122
+Redwan Bourlès,Lorient,0,0,0,0.0,0.0,0.0,4,2122
+Lenny Joseph,Metz,0,0,0,0.0,0.0,0.0,8,2122
+Thuler,Montpellier,0,0,0,0.0,0.0,0.0,16,2122
+Léo Leroy,Montpellier,0,0,0,0.0,0.0,0.0,24,2122
+Béni Makouana,Montpellier,0,0,0,0.0,0.0,0.0,23,2122
+Ismaël Gharbi,Paris Saint Germain,0,0,0,0.0,0.0,0.0,1,2122
+Habib Diarra,Strasbourg,0,0,0,0.0,0.0,0.0,4,2122
+Rafiki Said,Brest,0,0,0,0.0,0.0,0.0,14,2122
+Mathys Tel,Rennes,0,0,0,0.0,0.0,0.0,7,2122
+Sikou Niakaté,Metz,0,0,0,0.0,0.0,0.0,12,2122
+Théo Le Bris,Lorient,0,0,0,0.0,0.0,0.0,4,2122
+Amadou Salif Mbengue,Metz,0,0,0,0.0,0.0,0.0,12,2122
+Mitchell van Bergen,Reims,0,0,0,0.0,0.0,0.0,20,2122
+Sekou Oumar Yansane,Paris Saint Germain,0,0,0,0.0,0.0,0.0,1,2122
+Yanis Guermouche,Montpellier,0,0,0,0.0,0.0,0.0,3,2122
+Ignacio Ramírez,Saint-Etienne,0,0,0,0.0,0.0,0.0,5,2122
+Loum Tchaouna,Rennes,0,0,0,0.0,0.0,0.0,10,2122
+Youssouph Badji,Brest,0,0,0,0.0,0.0,0.0,9,2122
+Yannis M'Bemba,Nantes,0,0,0,0.0,0.0,0.0,2,2122
+Erik Palmer-Brown,Troyes,0,0,0,0.0,0.0,0.0,21,2122
+Yasser Larouci,Troyes,0,0,0,0.0,0.0,0.0,12,2122
+Felix Lemarechal,Monaco,0,0,0,0.0,0.0,0.0,1,2122
+Maghnes Akliouche,Monaco,0,0,0,0.0,0.0,0.0,7,2122
+El Hadji Dieye,Saint-Etienne,0,0,0,0.0,0.0,0.0,5,2122
+Baptiste Mouazan,Lorient,0,0,0,0.0,0.0,0.0,3,2122
+Ibrahima Baldé,Lens,0,0,0,0.0,0.0,0.0,4,2122
+Lucas Calodat,Saint-Etienne,0,0,0,0.0,0.0,0.0,1,2122
+Yadaly Diaby,Clermont Foot,0,0,0,0.0,0.0,0.0,5,2122
+Aboubacar Sidibe,Clermont Foot,0,0,0,0.0,0.0,0.0,1,2122
+Brayann Pereira,Lens,0,0,0,0.0,0.0,0.0,2,2122
+Ibrahim Diakité,Reims,0,0,0,0.0,0.0,0.0,1,2122
+Martin Adeline,Reims,0,0,0,0.0,0.0,0.0,8,2122
+Patrick Berg,Lens,0,0,0,0.0,0.0,0.0,14,2122
+Dogan Alemdar,Rennes,0,0,0,0.0,0.0,0.0,12,2122
+Lohann Doucet,Nantes,0,0,0,0.0,0.0,0.0,2,2122
+Mohamed Achi,Nantes,0,0,0,0.0,0.0,0.0,1,2122
+Jeanuël Belocian,Rennes,0,0,0,0.0,0.0,0.0,1,2122
+Jerome Phojo,Clermont Foot,0,0,0,0.0,0.0,0.0,1,2122
+Mamadou Camara,Troyes,0,0,0,0.0,0.0,0.0,3,2122
+Bonke Innocent,Lorient,0,0,0,0.0,0.0,0.0,12,2122
+Johaneko Louis Jean,Bordeaux,0,0,0,0.0,0.0,0.0,1,2122
+Guédé Nadje,Angers,0,0,0,0.0,0.0,0.0,1,2122
+Tiago Ribeiro,Monaco,0,0,0,0.0,0.0,0.0,1,2122
+Falaye Sacko,Saint-Etienne,0,0,0,0.0,0.0,0.0,9,2122
+Ismaël Doukouré,Strasbourg,0,0,0,0.0,0.0,0.0,1,2122
+Thibault Klidje,Bordeaux,0,0,0,0.0,0.0,0.0,5,2122
+Marin Jakolis,Angers,0,0,0,0.0,0.0,0.0,10,2122
+Eric N'jo,Troyes,0,0,0,0.0,0.0,0.0,2,2122
+Leny Yoro,Lille,0,0,0,0.0,0.0,0.0,1,2122
+Djeidi Gassama,Paris Saint Germain,0,0,0,0.0,0.0,0.0,1,2122
+Samuel Koeberle,Reims,0,0,0,0.0,0.0,0.0,1,2122
+Junior Mwanga,Bordeaux,0,0,0,0.0,0.0,0.0,1,2122

@@ -1,0 +1,585 @@
+player,team,goals,assists,contributions,contribution_pct,goals_pct,assists_pct,games,season
+João Pedro,Cagliari,13,4,17,50.0,38.2,11.8,37,2122
+Domenico Berardi,Sassuolo,15,15,30,46.9,23.4,23.4,33,2122
+Ciro Immobile,Lazio,27,2,29,37.7,35.1,2.6,31,2122
+Mattia Destro,Genoa,9,1,10,37.0,33.3,3.7,27,2122
+Antonio Candreva,Sampdoria,7,10,17,37.0,15.2,21.7,36,2122
+Tammy Abraham,Roma,17,4,21,35.6,28.8,6.8,37,2122
+Thomas Henry,Venezia,9,3,12,35.3,26.5,8.8,33,2122
+Mattia Aramu,Venezia,7,5,12,35.3,20.6,14.7,32,2122
+Marko Arnautovic,Bologna,14,1,15,34.1,31.8,2.3,33,2122
+Daniele Verde,Spezia,8,6,14,34.1,19.5,14.6,33,2122
+Federico Bonazzoli,Salernitana,10,0,10,30.3,30.3,0.0,32,2122
+Andrea Pinamonti,Empoli,13,2,15,30.0,26.0,4.0,36,2122
+Gerard Deulofeu,Udinese,13,5,18,29.5,21.3,8.2,34,2122
+Mario Pasalic,Atalanta,13,6,19,29.2,20.0,9.2,37,2122
+Gianluca Caprari,Verona,12,7,19,29.2,18.5,10.8,35,2122
+Lautaro Martínez,Inter,21,3,24,28.6,25.0,3.6,35,2122
+Sergej Milinkovic-Savic,Lazio,11,11,22,28.6,14.3,14.3,37,2122
+Álvaro Morata,Juventus,9,7,16,28.1,15.8,12.3,35,2122
+Rafael Leão,AC Milan,11,8,19,27.5,15.9,11.6,34,2122
+Musa Barrow,Bologna,6,6,12,27.3,13.6,13.6,34,2122
+Lorenzo Insigne,Napoli,11,9,20,27.0,14.9,12.2,32,2122
+Paulo Dybala,Juventus,10,5,15,26.3,17.5,8.8,29,2122
+Luis Muriel,Atalanta,9,8,17,26.2,13.8,12.3,27,2122
+Domenico Criscito,Genoa,6,1,7,25.9,22.2,3.7,20,2122
+Gianluca Scamacca,Sassuolo,16,0,16,25.0,25.0,0.0,36,2122
+Milan Djuric,Salernitana,5,3,8,24.2,15.2,9.1,33,2122
+Lorenzo Pellegrini,Roma,9,5,14,23.7,15.3,8.5,28,2122
+Giacomo Raspadori,Sassuolo,10,5,15,23.4,15.6,7.8,36,2122
+Antonin Barak,Verona,11,4,15,23.1,16.9,6.2,29,2122
+Hakan Calhanoglu,Inter,7,12,19,22.6,8.3,14.3,34,2122
+Nicolás González,Fiorentina,7,6,13,22.0,11.9,10.2,33,2122
+Nedim Bajrami,Empoli,6,5,11,22.0,12.0,10.0,35,2122
+Victor Osimhen,Napoli,14,2,16,21.6,18.9,2.7,27,2122
+Duván Zapata,Atalanta,10,4,14,21.5,15.4,6.2,24,2122
+Edin Dzeko,Inter,13,5,18,21.4,15.5,6.0,36,2122
+David Okereke,Venezia,7,0,7,20.6,20.6,0.0,32,2122
+Riccardo Orsolini,Bologna,6,3,9,20.5,13.6,6.8,29,2122
+Olivier Giroud,AC Milan,11,3,14,20.3,15.9,4.3,29,2122
+Jordan Veretout,Roma,4,8,12,20.3,6.8,13.6,36,2122
+Andrea Belotti,Torino,8,1,9,19.6,17.4,2.2,22,2122
+Manolo Gabbiadini,Sampdoria,7,2,9,19.6,15.2,4.3,18,2122
+Josip Brekalo,Torino,7,2,9,19.6,15.2,4.3,32,2122
+Sasa Lukic,Torino,5,4,9,19.6,10.9,8.7,35,2122
+Luis Alberto,Lazio,5,10,15,19.5,6.5,13.0,34,2122
+Henrikh Mkhitaryan,Roma,5,6,11,18.6,8.5,10.2,31,2122
+Andrea Cambiaso,Genoa,1,4,5,18.5,3.7,14.8,26,2122
+Pedro,Lazio,9,5,14,18.2,11.7,6.5,32,2122
+Felipe Anderson,Lazio,6,8,14,18.2,7.8,10.4,38,2122
+Beto,Udinese,11,0,11,18.0,18.0,0.0,28,2122
+Ivan Perisic,Inter,8,7,15,17.9,9.5,8.3,35,2122
+Nicolò Barella,Inter,3,12,15,17.9,3.6,14.3,36,2122
+Leonardo Pavoletti,Cagliari,5,1,6,17.6,14.7,2.9,33,2122
+Gastón Pereiro,Cagliari,4,2,6,17.6,11.8,5.9,29,2122
+Antonio Sanabria,Torino,6,2,8,17.4,13.0,4.3,29,2122
+Dries Mertens,Napoli,11,1,12,16.2,14.9,1.4,30,2122
+Szymon Zurkowski,Empoli,6,2,8,16.0,12.0,4.0,35,2122
+Zlatan Ibrahimovic,AC Milan,8,3,11,15.9,11.6,4.3,23,2122
+Theo Hernández,AC Milan,5,6,11,15.9,7.2,8.7,32,2122
+Ruslan Malinovskiy,Atalanta,6,4,10,15.4,9.2,6.2,30,2122
+Marco Faraoni,Verona,4,6,10,15.4,6.2,9.2,32,2122
+Giacomo Bonaventura,Fiorentina,4,5,9,15.3,6.8,8.5,31,2122
+Fabio Quagliarella,Sampdoria,4,3,7,15.2,8.7,6.5,33,2122
+Tommaso Pobega,Torino,4,3,7,15.2,8.7,6.5,33,2122
+Wilfried Stephane Singo,Torino,3,4,7,15.2,6.5,8.7,35,2122
+Fabián,Napoli,7,4,11,14.9,9.5,5.4,32,2122
+Piotr Zielinski,Napoli,6,5,11,14.9,8.1,6.8,35,2122
+Nahuel Molina,Udinese,7,2,9,14.8,11.5,3.3,35,2122
+Iyenoma Destiny Udogie,Udinese,5,4,9,14.8,8.2,6.6,35,2122
+Isaac Success,Udinese,2,7,9,14.8,3.3,11.5,22,2122
+Alessandro Deiola,Cagliari,4,1,5,14.7,11.8,2.9,33,2122
+Razvan Marin,Cagliari,0,5,5,14.7,0.0,14.7,36,2122
+Emmanuel Gyasi,Spezia,6,0,6,14.6,14.6,0.0,36,2122
+Simone Bastoni,Spezia,3,3,6,14.6,7.3,7.3,31,2122
+Hamed Junior Traore,Sassuolo,7,2,9,14.1,10.9,3.1,31,2122
+Juan Cuadrado,Juventus,4,4,8,14.0,7.0,7.0,33,2122
+Aaron Hickey,Bologna,5,1,6,13.6,11.4,2.3,36,2122
+Mattias Svanberg,Bologna,3,3,6,13.6,6.8,6.8,36,2122
+Hirving Lozano,Napoli,5,5,10,13.5,6.8,6.8,30,2122
+Ignacio Pussetto,Udinese,4,4,8,13.1,6.6,6.6,28,2122
+Roberto Pereyra,Udinese,3,5,8,13.1,4.9,8.2,24,2122
+Manuel Locatelli,Juventus,3,4,7,12.3,5.3,7.0,31,2122
+Darko Lazovic,Verona,1,7,8,12.3,1.5,10.8,34,2122
+Rey Manaj,Spezia,5,0,5,12.2,12.2,0.0,30,2122
+Giulio Maggiore,Spezia,2,3,5,12.2,4.9,7.3,35,2122
+Viktor Kovalenko,Spezia,1,4,5,12.2,2.4,9.8,26,2122
+Eldor Shomurodov,Roma,3,4,7,11.9,5.1,6.8,28,2122
+Keita,Cagliari,3,1,4,11.8,8.8,2.9,26,2122
+Domen Crnigoj,Venezia,3,1,4,11.8,8.8,2.9,34,2122
+Lorenzo De Silvestri,Bologna,3,2,5,11.4,6.8,4.5,31,2122
+Nicola Sansone,Bologna,2,3,5,11.4,4.5,6.8,27,2122
+Mohamed Fares,Genoa,2,1,3,11.1,7.4,3.7,9,2122
+Caleb Ekuban,Genoa,1,2,3,11.1,3.7,7.4,30,2122
+Nicolo Rovella,Genoa,0,3,3,11.1,0.0,11.1,21,2122
+Davide Frattesi,Sassuolo,4,3,7,10.9,6.2,4.7,36,2122
+Abdelhamid Sabiri,Sampdoria,3,2,5,10.9,6.5,4.3,14,2122
+Maya Yoshida,Sampdoria,2,3,5,10.9,4.3,6.5,26,2122
+Josip Ilicic,Atalanta,3,4,7,10.8,4.6,6.2,20,2122
+Eljif Elmas,Napoli,3,5,8,10.8,4.1,6.8,37,2122
+Aleksey Miranchuk,Atalanta,2,5,7,10.8,3.1,7.7,19,2122
+Denzel Dumfries,Inter,5,4,9,10.7,6.0,4.8,33,2122
+Leonardo Bonucci,Juventus,5,1,6,10.5,8.8,1.8,24,2122
+Moise Kean,Juventus,5,1,6,10.5,8.8,1.8,32,2122
+Lucas Torreira,Fiorentina,5,1,6,10.2,8.5,1.7,31,2122
+Riccardo Saponara,Fiorentina,3,3,6,10.2,5.1,5.1,29,2122
+Sandro Tonali,AC Milan,5,2,7,10.1,7.2,2.9,36,2122
+Junior Messias,AC Milan,5,2,7,10.1,7.2,2.9,26,2122
+Federico Di Francesco,Empoli,5,0,5,10.0,10.0,0.0,26,2122
+Liam Henderson,Empoli,2,3,5,10.0,4.0,6.0,38,2122
+Filippo Bandinelli,Empoli,2,3,5,10.0,4.0,6.0,35,2122
+Kevin Agudelo,Spezia,3,1,4,9.8,7.3,2.4,23,2122
+Matteo Politano,Napoli,3,4,7,9.5,4.1,5.4,33,2122
+Adrien Tameze,Verona,4,2,6,9.2,6.2,3.1,38,2122
+Kevin Lasagna,Verona,2,4,6,9.2,3.1,6.2,28,2122
+Davide Zappacosta,Atalanta,1,5,6,9.2,1.5,7.7,34,2122
+Éderson,Salernitana,2,1,3,9.1,6.1,3.0,15,2122
+Nadir Zortea,Salernitana,1,2,3,9.1,3.0,6.1,29,2122
+Franck Ribéry,Salernitana,0,3,3,9.1,0.0,9.1,23,2122
+Roberto Soriano,Bologna,0,4,4,9.1,0.0,9.1,35,2122
+Pietro Ceccaroni,Venezia,2,1,3,8.8,5.9,2.9,35,2122
+Raoul Bellanova,Cagliari,1,2,3,8.8,2.9,5.9,31,2122
+Dennis Johnsen,Venezia,1,2,3,8.8,2.9,5.9,27,2122
+Gianluca Busio,Venezia,1,2,3,8.8,2.9,5.9,29,2122
+Ethan Ampadu,Venezia,0,3,3,8.8,0.0,8.8,29,2122
+Franck Kessié,AC Milan,6,0,6,8.7,8.7,0.0,31,2122
+Brahim Diaz,AC Milan,3,3,6,8.7,4.3,4.3,31,2122
+Bremer,Torino,3,1,4,8.7,6.5,2.2,33,2122
+Morten Thorsby,Sampdoria,3,1,4,8.7,6.5,2.2,35,2122
+Dennis Praet,Torino,2,2,4,8.7,4.3,4.3,23,2122
+Cristiano Biraghi,Fiorentina,4,1,5,8.5,6.8,1.7,37,2122
+Riccardo Sottil,Fiorentina,3,2,5,8.5,5.1,3.4,24,2122
+Youssef Maleh,Fiorentina,2,3,5,8.5,3.4,5.1,28,2122
+Joaquín Correa,Inter,6,1,7,8.3,7.1,1.2,26,2122
+Alexis Sánchez,Inter,5,2,7,8.3,6.0,2.4,27,2122
+Kalidou Koulibaly,Napoli,3,3,6,8.1,4.1,4.1,27,2122
+Giovanni Di Lorenzo,Napoli,1,5,6,8.1,1.4,6.8,33,2122
+Mário Rui,Napoli,0,6,6,8.1,0.0,8.1,34,2122
+Leo Stulac,Empoli,2,2,4,8.0,4.0,4.0,23,2122
+Manuel Lazzari,Lazio,3,3,6,7.8,3.9,3.9,31,2122
+Georgios Kyriakopoulos,Sassuolo,0,5,5,7.8,0.0,7.8,29,2122
+Nikola Kalinic,Verona,4,1,5,7.7,6.2,1.5,14,2122
+Teun Koopmeiners,Atalanta,4,1,5,7.7,6.2,1.5,30,2122
+Ivan Ilic,Verona,1,4,5,7.7,1.5,6.2,32,2122
+M'Bala Nzola,Spezia,2,1,3,7.3,4.9,2.4,21,2122
+Davide Calabria,AC Milan,2,3,5,7.2,2.9,4.3,26,2122
+Matthijs de Ligt,Juventus,3,1,4,7.0,5.3,1.8,31,2122
+Federico Chiesa,Juventus,2,2,4,7.0,3.5,3.5,14,2122
+Dejan Kulusevski,Juventus,1,3,4,7.0,1.8,5.3,20,2122
+Alfred Duncan,Fiorentina,2,2,4,6.8,3.4,3.4,33,2122
+Nicolo Zaniolo,Roma,2,2,4,6.8,3.4,3.4,28,2122
+Arthur Theate,Bologna,2,1,3,6.8,4.5,2.3,31,2122
+Arthur Cabral,Fiorentina,2,2,4,6.8,3.4,3.4,14,2122
+Nicolás Domínguez,Bologna,0,3,3,6.8,0.0,6.8,28,2122
+Lazar Samardzic,Udinese,2,2,4,6.6,3.3,3.3,22,2122
+Jean-Victor Makengo,Udinese,1,3,4,6.6,1.6,4.9,33,2122
+Marko Pjaca,Torino,3,0,3,6.5,6.5,0.0,24,2122
+Cristian Ansaldi,Torino,0,3,3,6.5,0.0,6.5,19,2122
+Bartosz Bereszynski,Sampdoria,0,3,3,6.5,0.0,6.5,35,2122
+Mergim Vojvoda,Torino,0,3,3,6.5,0.0,6.5,29,2122
+Gregoire Defrel,Sassuolo,2,2,4,6.2,3.1,3.1,38,2122
+Maxime Lopez,Sassuolo,2,2,4,6.2,3.1,3.1,35,2122
+Remo Freuler,Atalanta,1,3,4,6.2,1.5,4.6,29,2122
+Mamadou Coulibaly,Salernitana,2,0,2,6.1,6.1,0.0,12,2122
+Ivan Radovanovic,Salernitana,1,1,2,6.1,3.0,3.0,14,2122
+Simy,Salernitana,1,1,2,6.1,3.0,3.0,19,2122
+Grigoris Kastanos,Salernitana,1,1,2,6.1,3.0,3.0,27,2122
+Patrick Cutrone,Empoli,3,0,3,6.0,6.0,0.0,28,2122
+Andrea La Mantia,Empoli,2,1,3,6.0,4.0,2.0,18,2122
+Luca Ceppitelli,Cagliari,1,1,2,5.9,2.9,2.9,24,2122
+Martín Cáceres,Cagliari,1,1,2,5.9,2.9,2.9,14,2122
+Ridgeciano Haps,Venezia,1,1,2,5.9,2.9,2.9,25,2122
+Alberto Grassi,Cagliari,0,2,2,5.9,0.0,5.9,30,2122
+Dalbert,Cagliari,0,2,2,5.9,0.0,5.9,28,2122
+Nahitan Nández,Cagliari,0,2,2,5.9,0.0,5.9,21,2122
+Ante Rebic,AC Milan,2,2,4,5.8,2.9,2.9,24,2122
+Alexis Saelemaekers,AC Milan,1,3,4,5.8,1.4,4.3,36,2122
+Amir Rrahmani,Napoli,4,0,4,5.4,5.4,0.0,33,2122
+Andrea Petagna,Napoli,3,1,4,5.4,4.1,1.4,24,2122
+Weston McKennie,Juventus,3,0,3,5.3,5.3,0.0,21,2122
+Mattia De Sciglio,Juventus,1,2,3,5.3,1.8,3.5,20,2122
+Federico Bernardeschi,Juventus,1,2,3,5.3,1.8,3.5,28,2122
+Francesco Acerbi,Lazio,4,0,4,5.2,5.2,0.0,30,2122
+Chris Smalling,Roma,3,0,3,5.1,5.1,0.0,27,2122
+Stephan El Shaarawy,Roma,3,0,3,5.1,5.1,0.0,27,2122
+Krzysztof Piatek,Fiorentina,3,0,3,5.1,5.1,0.0,14,2122
+Ibañez,Roma,3,0,3,5.1,5.1,0.0,34,2122
+Sérgio Oliveira,Roma,2,1,3,5.1,3.4,1.7,14,2122
+José Callejón,Fiorentina,1,2,3,5.1,1.7,3.4,30,2122
+Fernando Forestieri,Udinese,2,1,3,4.9,3.3,1.6,4,2122
+Martin Erlic,Spezia,2,0,2,4.9,4.9,0.0,30,2122
+Rodrigo Becão,Udinese,2,1,3,4.9,3.3,1.6,35,2122
+Kelvin Adou,Spezia,1,1,2,4.9,2.4,2.4,32,2122
+Petko Hristov,Spezia,1,1,2,4.9,2.4,2.4,17,2122
+Arkadiusz Reca,Spezia,0,2,2,4.9,0.0,4.9,25,2122
+Salvador Ferrer,Spezia,0,2,2,4.9,0.0,4.9,27,2122
+Federico Dimarco,Inter,2,2,4,4.8,2.4,2.4,32,2122
+Roberto Gagliardini,Inter,2,2,4,4.8,2.4,2.4,18,2122
+Alessandro Bastoni,Inter,1,3,4,4.8,1.2,3.6,31,2122
+Filip Djuricic,Sassuolo,2,1,3,4.7,3.1,1.6,12,2122
+Marten de Roon,Atalanta,3,0,3,4.6,4.6,0.0,30,2122
+Merih Demiral,Atalanta,1,2,3,4.6,1.5,3.1,28,2122
+Miguel Veloso,Verona,0,3,3,4.6,0.0,4.6,22,2122
+Jerdy Schouten,Bologna,1,1,2,4.5,2.3,2.3,17,2122
+Andreas Skov Olsen,Bologna,0,2,2,4.5,0.0,4.5,18,2122
+Ismael Bennacer,AC Milan,2,1,3,4.3,2.9,1.4,31,2122
+Tommaso Augello,Sampdoria,1,1,2,4.3,2.2,2.2,36,2122
+Pierre Kalulu Kyatengwa,AC Milan,1,2,3,4.3,1.4,2.9,28,2122
+Rolando Mandragora,Torino,0,2,2,4.3,0.0,4.3,21,2122
+Alessandro Buongiorno,Torino,0,2,2,4.3,0.0,4.3,23,2122
+Simone Romagnoli,Empoli,2,0,2,4.0,4.0,0.0,19,2122
+Petar Stojanovic,Empoli,1,1,2,4.0,2.0,2.0,33,2122
+Kristjan Asllani,Empoli,1,1,2,4.0,2.0,2.0,23,2122
+Sebastiano Luperto,Empoli,0,2,2,4.0,0.0,4.0,24,2122
+Nicolas Haas,Empoli,0,2,2,4.0,0.0,4.0,16,2122
+Danilo Cataldi,Lazio,1,2,3,3.9,1.3,2.6,32,2122
+Milan Badelj,Genoa,1,0,1,3.7,3.7,0.0,34,2122
+Filippo Melegoni,Genoa,1,0,1,3.7,3.7,0.0,25,2122
+Manolo Portanova,Genoa,1,0,1,3.7,3.7,0.0,24,2122
+Flavio Junior Bianchi,Genoa,1,0,1,3.7,3.7,0.0,7,2122
+Johan Vásquez,Genoa,1,0,1,3.7,3.7,0.0,28,2122
+Albert Gudmundsson,Genoa,1,0,1,3.7,3.7,0.0,12,2122
+Nadiem Amiri,Genoa,0,1,1,3.7,0.0,3.7,13,2122
+Goran Pandev,Genoa,0,1,1,3.7,0.0,3.7,20,2122
+Paolo Ghiglione,Genoa,0,1,1,3.7,0.0,3.7,13,2122
+Yayah Kallon,Genoa,0,1,1,3.7,0.0,3.7,15,2122
+Kelvin Yeboah,Genoa,0,1,1,3.7,0.0,3.7,17,2122
+Milan Skriniar,Inter,3,0,3,3.6,3.6,0.0,35,2122
+Matteo Darmian,Inter,2,1,3,3.6,2.4,1.2,25,2122
+Marcelo Brozovic,Inter,2,1,3,3.6,2.4,1.2,35,2122
+Arturo Vidal,Inter,1,2,3,3.6,1.2,2.4,28,2122
+Danilo,Juventus,1,1,2,3.5,1.8,1.8,22,2122
+Denis Zakaria,Juventus,1,1,2,3.5,1.8,1.8,9,2122
+Adrien Rabiot,Juventus,0,2,2,3.5,0.0,3.5,32,2122
+Rodrigo Bentancur,Juventus,0,2,2,3.5,0.0,3.5,19,2122
+Bryan Cristante,Roma,2,0,2,3.4,3.4,0.0,34,2122
+Felix Afena-Gyan,Roma,2,0,2,3.4,3.4,0.0,17,2122
+Álvaro Odriozola,Fiorentina,1,1,2,3.4,1.7,1.7,25,2122
+Jonathan Ikone,Fiorentina,1,1,2,3.4,1.7,1.7,17,2122
+Carles Pérez,Roma,1,1,2,3.4,1.7,1.7,19,2122
+Gaetano Castrovilli,Fiorentina,1,1,2,3.4,1.7,1.7,23,2122
+Rick Karsdorp,Roma,0,2,2,3.4,0.0,3.4,36,2122
+Pablo Marí,Udinese,2,0,2,3.3,3.3,0.0,15,2122
+Ilija Nestorovski,Udinese,1,1,2,3.3,1.6,1.6,7,2122
+Tolgay Arslan,Udinese,1,1,2,3.3,1.6,1.6,30,2122
+Rafael Toloi,Atalanta,1,1,2,3.1,1.5,1.5,20,2122
+Berat Gjimshiti,Atalanta,1,1,2,3.1,1.5,1.5,31,2122
+Daniel Bessa,Verona,1,1,2,3.1,1.5,1.5,24,2122
+Matteo Pessina,Atalanta,1,1,2,3.1,1.5,1.5,27,2122
+Joakim Maehle,Atalanta,1,1,2,3.1,1.5,1.5,26,2122
+Giuseppe Pezzella,Atalanta,0,2,2,3.1,0.0,3.1,21,2122
+Nicolò Casale,Verona,0,2,2,3.1,0.0,3.1,36,2122
+Federico Fazio,Salernitana,1,0,1,3.0,3.0,0.0,16,2122
+Luca Ranieri,Salernitana,1,0,1,3.0,3.0,0.0,27,2122
+Andrea Schiavone,Salernitana,1,0,1,3.0,3.0,0.0,14,2122
+Cedric Gondo,Salernitana,1,0,1,3.0,3.0,0.0,14,2122
+Joel Obi,Salernitana,0,1,1,3.0,0.0,3.0,21,2122
+Lys Mousset,Salernitana,0,1,1,3.0,0.0,3.0,6,2122
+Riccardo Gagliolo,Salernitana,0,1,1,3.0,0.0,3.0,17,2122
+Emil Bohinen,Salernitana,0,1,1,3.0,0.0,3.0,11,2122
+Wajdi Kechrida,Salernitana,0,1,1,3.0,0.0,3.0,17,2122
+Alessandro Florenzi,AC Milan,2,0,2,2.9,2.9,0.0,24,2122
+Mattia Caldara,Venezia,1,0,1,2.9,2.9,0.0,31,2122
+Sofian Kiyine,Venezia,1,0,1,2.9,2.9,0.0,26,2122
+Giorgio Altare,Cagliari,1,0,1,2.9,2.9,0.0,19,2122
+Charalampos Lykogiannis,Cagliari,1,0,1,2.9,2.9,0.0,28,2122
+Francesco Forte,Venezia,1,0,1,2.9,2.9,0.0,12,2122
+Rade Krunic,AC Milan,0,2,2,2.9,0.0,2.9,28,2122
+Marko Rog,Cagliari,0,1,1,2.9,0.0,2.9,8,2122
+Cristian Molinaro,Venezia,0,1,1,2.9,0.0,2.9,8,2122
+Diego Godín,Cagliari,0,1,1,2.9,0.0,2.9,11,2122
+Jean-Pierre Nsamé,Venezia,0,1,1,2.9,0.0,2.9,11,2122
+Nani,Venezia,0,1,1,2.9,0.0,2.9,10,2122
+Niki Mäenpää,Venezia,0,1,1,2.9,0.0,2.9,17,2122
+Ales Mateju,Venezia,0,1,1,2.9,0.0,2.9,9,2122
+Daan Heymans,Venezia,0,1,1,2.9,0.0,2.9,7,2122
+Dor Peretz,Venezia,0,1,1,2.9,0.0,2.9,18,2122
+Antonio Vacca,Venezia,0,1,1,2.9,0.0,2.9,21,2122
+Franck Zambo,Napoli,0,2,2,2.7,0.0,2.7,25,2122
+Patric,Lazio,1,1,2,2.6,1.3,1.3,24,2122
+Adam Marusic,Lazio,1,1,2,2.6,1.3,1.3,33,2122
+Toma Basic,Lazio,0,2,2,2.6,0.0,2.6,29,2122
+Jacopo Sala,Spezia,1,0,1,2.4,2.4,0.0,18,2122
+Danilo D'Ambrosio,Inter,1,1,2,2.4,1.2,1.2,20,2122
+Mehdi Bourabia,Spezia,1,0,1,2.4,2.4,0.0,8,2122
+Janis Antiste,Spezia,1,0,1,2.4,2.4,0.0,18,2122
+David Strelec,Spezia,1,0,1,2.4,2.4,0.0,10,2122
+Suf Podgoreanu,Spezia,0,1,1,2.4,0.0,2.4,5,2122
+Federico Santander,Bologna,1,0,1,2.3,2.3,0.0,7,2122
+Gary Medel,Bologna,0,1,1,2.3,0.0,2.3,33,2122
+Emanuel Vignato,Bologna,0,1,1,2.3,0.0,2.3,24,2122
+Mitchell Dijks,Bologna,0,1,1,2.3,0.0,2.3,16,2122
+Albin Ekdal,Sampdoria,1,0,1,2.2,2.2,0.0,26,2122
+Nicola Murru,Sampdoria,1,0,1,2.2,2.2,0.0,22,2122
+Alex Ferrari,Sampdoria,1,0,1,2.2,2.2,0.0,23,2122
+Ricardo Rodríguez,Torino,0,1,1,2.2,0.0,2.2,34,2122
+Karol Linetty,Torino,0,1,1,2.2,0.0,2.2,16,2122
+Adrien Silva,Sampdoria,0,1,1,2.2,0.0,2.2,17,2122
+David Zima,Torino,0,1,1,2.2,0.0,2.2,20,2122
+Leonardo Mancuso,Empoli,1,0,1,2.0,2.0,0.0,8,2122
+Riccardo Fiamozzi,Empoli,0,1,1,2.0,0.0,2.0,10,2122
+Riccardo Marchizza,Empoli,0,1,1,2.0,0.0,2.0,19,2122
+Fabiano Parisi,Empoli,0,1,1,2.0,0.0,2.0,25,2122
+Alex Sandro,Juventus,0,1,1,1.8,0.0,1.8,28,2122
+Luca Pellegrini,Juventus,0,1,1,1.8,0.0,1.8,18,2122
+Nikola Milenkovic,Fiorentina,1,0,1,1.7,1.7,0.0,34,2122
+Sofyan Amrabat,Fiorentina,1,0,1,1.7,1.7,0.0,23,2122
+Lucas Martínez Quarta,Fiorentina,1,0,1,1.7,1.7,0.0,20,2122
+Edoardo Bove,Roma,1,0,1,1.7,1.7,0.0,11,2122
+Cristian Volpato,Roma,1,0,1,1.7,1.7,0.0,3,2122
+Erick Pulgar,Fiorentina,0,1,1,1.7,0.0,1.7,6,2122
+Aleksa Terzic,Fiorentina,0,1,1,1.7,0.0,1.7,14,2122
+Matias Viña,Roma,0,1,1,1.7,0.0,1.7,26,2122
+Kaan Ayhan,Sassuolo,1,0,1,1.6,1.6,0.0,23,2122
+Gianmarco Ferrari,Sassuolo,1,0,1,1.6,1.6,0.0,36,2122
+Walace,Udinese,1,0,1,1.6,1.6,0.0,36,2122
+Bram Nuytinck,Udinese,1,0,1,1.6,1.6,0.0,27,2122
+Mato Jajalo,Udinese,0,1,1,1.6,0.0,1.6,22,2122
+Stefano Okaka,Udinese,0,1,1,1.6,0.0,1.6,2,2122
+Jens Stryger Larsen,Udinese,0,1,1,1.6,0.0,1.6,11,2122
+Rogerio,Sassuolo,0,1,1,1.6,0.0,1.6,23,2122
+Nehuén Pérez,Udinese,0,1,1,1.6,0.0,1.6,20,2122
+Mert Müldür,Sassuolo,0,1,1,1.6,0.0,1.6,31,2122
+Luigi Samele,Sassuolo,0,1,1,1.6,0.0,1.6,2,2122
+Matheus Henrique,Sassuolo,0,1,1,1.6,0.0,1.6,25,2122
+Federico Ceccherini,Verona,1,0,1,1.5,1.5,0.0,34,2122
+José Luis Palomino,Atalanta,1,0,1,1.5,1.5,0.0,34,2122
+Martin Hongla,Verona,1,0,1,1.5,1.5,0.0,18,2122
+Matteo Cancellieri,Verona,1,0,1,1.5,1.5,0.0,12,2122
+Giorgio Scalvini,Atalanta,1,0,1,1.5,1.5,0.0,18,2122
+Moustapha Cissé,Atalanta,1,0,1,1.5,1.5,0.0,3,2122
+Alessio Romagnoli,AC Milan,1,0,1,1.4,1.4,0.0,19,2122
+Juan Jesus,Napoli,1,0,1,1.4,1.4,0.0,21,2122
+Diego Demme,Napoli,1,0,1,1.4,1.4,0.0,19,2122
+Stanislav Lobotka,Napoli,1,0,1,1.4,1.4,0.0,23,2122
+Daniel Maldini,AC Milan,1,0,1,1.4,1.4,0.0,8,2122
+Kevin Malcuit,Napoli,0,1,1,1.4,0.0,1.4,8,2122
+Mike Maignan,AC Milan,0,1,1,1.4,0.0,1.4,32,2122
+Elseid Hysaj,Lazio,1,0,1,1.3,1.3,0.0,29,2122
+Jovane Cabral,Lazio,1,0,1,1.3,1.3,0.0,3,2122
+Lucas Leiva,Lazio,0,1,1,1.3,0.0,1.3,35,2122
+José Reina,Lazio,0,1,1,1.3,0.0,1.3,15,2122
+Raul Moro,Lazio,0,1,1,1.3,0.0,1.3,11,2122
+Matías Vecino,Inter,1,0,1,1.2,1.2,0.0,17,2122
+Jeremy Toljan,Sassuolo,0,0,0,0.0,0.0,0.0,20,2122
+Matija Nastasic,Fiorentina,0,0,0,0.0,0.0,0.0,5,2122
+Aaron Ramsey,Juventus,0,0,0,0.0,0.0,0.0,3,2122
+David Ospina,Napoli,0,0,0,0.0,0.0,0.0,31,2122
+Sergio Romero,Venezia,0,0,0,0.0,0.0,0.0,16,2122
+Valon Behrami,Genoa,0,0,0,0.0,0.0,0.0,10,2122
+Aleksandar Kolarov,Inter,0,0,0,0.0,0.0,0.0,3,2122
+Fikayo Tomori,AC Milan,0,0,0,0.0,0.0,0.0,31,2122
+Ola Aina,Torino,0,0,0,0.0,0.0,0.0,21,2122
+Axel Tuanzebe,Napoli,0,0,0,0.0,0.0,0.0,1,2122
+Mattia Perin,Juventus,0,0,0,0.0,0.0,0.0,5,2122
+Armando Izzo,Torino,0,0,0,0.0,0.0,0.0,11,2122
+Davide Biraschi,Genoa,0,0,0,0.0,0.0,0.0,14,2122
+Samir,Udinese,0,0,0,0.0,0.0,0.0,17,2122
+Vincenzo Fiorillo,Salernitana,0,0,0,0.0,0.0,0.0,1,2122
+Daniele Padelli,Udinese,0,0,0,0.0,0.0,0.0,3,2122
+Thomas Strakosha,Lazio,0,0,0,0.0,0.0,0.0,23,2122
+Wojciech Szczesny,Juventus,0,0,0,0.0,0.0,0.0,33,2122
+Kostas Manolas,Napoli,0,0,0,0.0,0.0,0.0,4,2122
+Kevin Strootman,Cagliari,0,0,0,0.0,0.0,0.0,10,2122
+Stefano Sturaro,Genoa,0,0,0,0.0,0.0,0.0,25,2122
+Daniele Rugani,Juventus,0,0,0,0.0,0.0,0.0,12,2122
+Emil Audero,Sampdoria,0,0,0,0.0,0.0,0.0,29,2122
+Lukasz Skorupski,Bologna,0,0,0,0.0,0.0,0.0,36,2122
+Frederic Veseli,Salernitana,0,0,0,0.0,0.0,0.0,9,2122
+Leonardo Capezzi,Salernitana,0,0,0,0.0,0.0,0.0,5,2122
+Diego Falcinelli,Bologna,0,0,0,0.0,0.0,0.0,6,2122
+Nikola Maksimovic,Genoa,0,0,0,0.0,0.0,0.0,14,2122
+Amadou Diawara,Roma,0,0,0,0.0,0.0,0.0,4,2122
+Faouzi Ghoulam,Napoli,0,0,0,0.0,0.0,0.0,14,2122
+Luigi Sepe,Salernitana,0,0,0,0.0,0.0,0.0,16,2122
+Lorenzo Tonelli,Empoli,0,0,0,0.0,0.0,0.0,14,2122
+Vlad Chiriches,Sassuolo,0,0,0,0.0,0.0,0.0,29,2122
+Ciprian Tatarusanu,AC Milan,0,0,0,0.0,0.0,0.0,6,2122
+Sebastien De Maio,Udinese,0,0,0,0.0,0.0,0.0,2,2122
+Luca Lezzerini,Venezia,0,0,0,0.0,0.0,0.0,6,2122
+Ibrahima Mbaye,Bologna,0,0,0,0.0,0.0,0.0,6,2122
+Andrea Consigli,Sassuolo,0,0,0,0.0,0.0,0.0,37,2122
+Federico Peluso,Sassuolo,0,0,0,0.0,0.0,0.0,2,2122
+Francesco Magnanelli,Sassuolo,0,0,0,0.0,0.0,0.0,12,2122
+Gianluca Pegolo,Sassuolo,0,0,0,0.0,0.0,0.0,1,2122
+Etrit Berisha,Torino,0,0,0,0.0,0.0,0.0,10,2122
+Andrea Masiello,Genoa,0,0,0,0.0,0.0,0.0,7,2122
+Leonardo Spinazzola,Roma,0,0,0,0.0,0.0,0.0,3,2122
+Marco Sportiello,Atalanta,0,0,0,0.0,0.0,0.0,5,2122
+Samir Handanovic,Inter,0,0,0,0.0,0.0,0.0,37,2122
+Andrea Ranocchia,Inter,0,0,0,0.0,0.0,0.0,6,2122
+Diego Perotti,Salernitana,0,0,0,0.0,0.0,0.0,11,2122
+Stefan de Vrij,Inter,0,0,0,0.0,0.0,0.0,30,2122
+Stefan Radu,Lazio,0,0,0,0.0,0.0,0.0,10,2122
+Bartlomiej Dragowski,Fiorentina,0,0,0,0.0,0.0,0.0,7,2122
+Giorgio Chiellini,Juventus,0,0,0,0.0,0.0,0.0,21,2122
+Norbert Gyömbér,Salernitana,0,0,0,0.0,0.0,0.0,31,2122
+Diego Farias,Cagliari,0,0,0,0.0,0.0,0.0,4,2122
+Simone Zaza,Torino,0,0,0,0.0,0.0,0.0,10,2122
+Ainsley Maitland-Niles,Roma,0,0,0,0.0,0.0,0.0,8,2122
+Ionut Radu,Inter,0,0,0,0.0,0.0,0.0,1,2122
+Giacomo Satalino,Sassuolo,0,0,0,0.0,0.0,0.0,1,2122
+Alex Meret,Napoli,0,0,0,0.0,0.0,0.0,7,2122
+Stefano Sabelli,Genoa,0,0,0,0.0,0.0,0.0,7,2122
+Vid Belec,Salernitana,0,0,0,0.0,0.0,0.0,23,2122
+Boris Radunovic,Cagliari,0,0,0,0.0,0.0,0.0,3,2122
+Francesco Bardi,Bologna,0,0,0,0.0,0.0,0.0,2,2122
+Andrea Favilli,Genoa,0,0,0,0.0,0.0,0.0,1,2122
+Francesco Cassata,Genoa,0,0,0,0.0,0.0,0.0,1,2122
+Jacopo Dezi,Venezia,0,0,0,0.0,0.0,0.0,1,2122
+Borja Mayoral,Roma,0,0,0,0.0,0.0,0.0,5,2122
+Samu Castillejo,AC Milan,0,0,0,0.0,0.0,0.0,5,2122
+Cristiano Ronaldo,Juventus,0,0,0,0.0,0.0,0.0,1,2122
+Gonzalo Escalante,Lazio,0,0,0,0.0,0.0,0.0,1,2122
+Stefan Strandberg,Salernitana,0,0,0,0.0,0.0,0.0,11,2122
+Aleksandr Kokorin,Fiorentina,0,0,0,0.0,0.0,0.0,6,2122
+Jean-Daniel Akpa-Akpro,Lazio,0,0,0,0.0,0.0,0.0,10,2122
+Adam Ounas,Napoli,0,0,0,0.0,0.0,0.0,15,2122
+Salvatore Sirigu,Genoa,0,0,0,0.0,0.0,0.0,37,2122
+Lassana Coulibaly,Salernitana,0,0,0,0.0,0.0,0.0,31,2122
+Adama Soumaoro,Bologna,0,0,0,0.0,0.0,0.0,28,2122
+Tiemoué Bakayoko,AC Milan,0,0,0,0.0,0.0,0.0,14,2122
+Koffi Djidji,Torino,0,0,0,0.0,0.0,0.0,25,2122
+Abdoulaye Touré,Genoa,0,0,0,0.0,0.0,0.0,8,2122
+Alessio Cragno,Cagliari,0,0,0,0.0,0.0,0.0,35,2122
+Kevin Bonifazi,Bologna,0,0,0,0.0,0.0,0.0,22,2122
+Sebastian Giovinco,Sampdoria,0,0,0,0.0,0.0,0.0,2,2122
+Simon Kjaer,AC Milan,0,0,0,0.0,0.0,0.0,11,2122
+Zinho Vanheusden,Genoa,0,0,0,0.0,0.0,0.0,14,2122
+Paolo Faragò,Cagliari,0,0,0,0.0,0.0,0.0,1,2122
+Matteo Gabbia,AC Milan,0,0,0,0.0,0.0,0.0,8,2122
+Francesco Rossi,Atalanta,0,0,0,0.0,0.0,0.0,1,2122
+Hans Hateboer,Atalanta,0,0,0,0.0,0.0,0.0,21,2122
+Filippo Delli Carri,Salernitana,0,0,0,0.0,0.0,0.0,5,2122
+Wladimiro Falcone,Sampdoria,0,0,0,0.0,0.0,0.0,10,2122
+Gianluca Frabotta,Verona,0,0,0,0.0,0.0,0.0,2,2122
+Hernani,Genoa,0,0,0,0.0,0.0,0.0,18,2122
+Fode Toure,AC Milan,0,0,0,0.0,0.0,0.0,10,2122
+Carlo Pinsoglio,Juventus,0,0,0,0.0,0.0,0.0,1,2122
+Marco Silvestri,Udinese,0,0,0,0.0,0.0,0.0,35,2122
+Michaël Cuisance,Venezia,0,0,0,0.0,0.0,0.0,13,2122
+Gianluca Mancini,Roma,0,0,0,0.0,0.0,0.0,33,2122
+Vanja Milinkovic-Savic,Torino,0,0,0,0.0,0.0,0.0,27,2122
+Giovanni Crociata,Empoli,0,0,0,0.0,0.0,0.0,1,2122
+Luiz Felipe,Lazio,0,0,0,0.0,0.0,0.0,31,2122
+Lorenzo Venuti,Fiorentina,0,0,0,0.0,0.0,0.0,23,2122
+Nicolas Viola,Bologna,0,0,0,0.0,0.0,0.0,6,2122
+Eddie Salcedo,Spezia,0,0,0,0.0,0.0,0.0,12,2122
+Mattia Bani,Genoa,0,0,0,0.0,0.0,0.0,17,2122
+Pawel Jaroszynski,Salernitana,0,0,0,0.0,0.0,0.0,13,2122
+Marvin Zeegelaar,Udinese,0,0,0,0.0,0.0,0.0,14,2122
+Panagiotis Retsos,Verona,0,0,0,0.0,0.0,0.0,5,2122
+Marash Kumbulla,Roma,0,0,0,0.0,0.0,0.0,17,2122
+Luca Gagliano,Cagliari,0,0,0,0.0,0.0,0.0,2,2122
+Ben Kone,Torino,0,0,0,0.0,0.0,0.0,1,2122
+Damir Ceter,Cagliari,0,0,0,0.0,0.0,0.0,1,2122
+Kingsley Michael,Bologna,0,0,0,0.0,0.0,0.0,2,2122
+Rui Patrício,Roma,0,0,0,0.0,0.0,0.0,38,2122
+Adrian Semper,Genoa,0,0,0,0.0,0.0,0.0,1,2122
+Davide Marfella,Napoli,0,0,0,0.0,0.0,0.0,1,2122
+Arthur,Juventus,0,0,0,0.0,0.0,0.0,20,2122
+Pietro Terracciano,Fiorentina,0,0,0,0.0,0.0,0.0,32,2122
+Ivan Provedel,Spezia,0,0,0,0.0,0.0,0.0,31,2122
+Samuel Mráz,Spezia,0,0,0,0.0,0.0,0.0,2,2122
+Koray Günter,Verona,0,0,0,0.0,0.0,0.0,30,2122
+Juan Musso,Atalanta,0,0,0,0.0,0.0,0.0,33,2122
+Omar Colley,Sampdoria,0,0,0,0.0,0.0,0.0,32,2122
+Ronaldo Vieira,Sampdoria,0,0,0,0.0,0.0,0.0,14,2122
+Arnór Sigurdsson,Venezia,0,0,0,0.0,0.0,0.0,9,2122
+Luca Gemello,Torino,0,0,0,0.0,0.0,0.0,1,2122
+Dimitris Nikolaou,Spezia,0,0,0,0.0,0.0,0.0,36,2122
+Simone Trimboli,Sampdoria,0,0,0,0.0,0.0,0.0,5,2122
+Christian Oliva,Cagliari,0,0,0,0.0,0.0,0.0,4,2122
+Gianluca Gaetano,Napoli,0,0,0,0.0,0.0,0.0,2,2122
+Pawel Dawidowicz,Verona,0,0,0,0.0,0.0,0.0,17,2122
+Alessandro Berardi,Verona,0,0,0,0.0,0.0,0.0,1,2122
+Takehiro Tomiyasu,Bologna,0,0,0,0.0,0.0,0.0,1,2122
+Julian Chabot,Sampdoria,0,0,0,0.0,0.0,0.0,11,2122
+Denis Vavro,Lazio,0,0,0,0.0,0.0,0.0,1,2122
+André Anderson,Lazio,0,0,0,0.0,0.0,0.0,4,2122
+Igor Julio,Fiorentina,0,0,0,0.0,0.0,0.0,30,2122
+Ernesto Torregrossa,Sampdoria,0,0,0,0.0,0.0,0.0,10,2122
+Yildirim Mert Cetin,Verona,0,0,0,0.0,0.0,0.0,2,2122
+Sebastian Walukiewicz,Cagliari,0,0,0,0.0,0.0,0.0,7,2122
+Samuel Di Carmine,Verona,0,0,0,0.0,0.0,0.0,1,2122
+Marley Aké,Juventus,0,0,0,0.0,0.0,0.0,4,2122
+Ebrima Darboe,Roma,0,0,0,0.0,0.0,0.0,1,2122
+Edoardo Vergani,Salernitana,0,0,0,0.0,0.0,0.0,6,2122
+Ebrima Colley,Spezia,0,0,0,0.0,0.0,0.0,11,2122
+Brian Oddei,Sassuolo,0,0,0,0.0,0.0,0.0,2,2122
+Andrea Carboni,Cagliari,0,0,0,0.0,0.0,0.0,30,2122
+Filip Benkovic,Udinese,0,0,0,0.0,0.0,0.0,2,2122
+Kristoffer Askildsen,Sampdoria,0,0,0,0.0,0.0,0.0,19,2122
+Luka Romero,Lazio,0,0,0,0.0,0.0,0.0,8,2122
+Bosko Sutalo,Verona,0,0,0,0.0,0.0,0.0,24,2122
+Martin Palumbo,Juventus,0,0,0,0.0,0.0,0.0,1,2122
+Filippo Terracciano,Verona,0,0,0,0.0,0.0,0.0,1,2122
+Brandon Soppy,Udinese,0,0,0,0.0,0.0,0.0,28,2122
+Ivor Pandur,Verona,0,0,0,0.0,0.0,0.0,3,2122
+Gabriele Zappa,Cagliari,0,0,0,0.0,0.0,0.0,25,2122
+Guglielmo Vicario,Empoli,0,0,0,0.0,0.0,0.0,38,2122
+Mikkel Damsgaard,Sampdoria,0,0,0,0.0,0.0,0.0,11,2122
+Nicola Ravaglia,Sampdoria,0,0,0,0.0,0.0,0.0,1,2122
+Sam Lammers,Atalanta,0,0,0,0.0,0.0,0.0,2,2122
+Matteo Ruggeri,Salernitana,0,0,0,0.0,0.0,0.0,14,2122
+Lorenzo Montipò,Verona,0,0,0,0.0,0.0,0.0,34,2122
+Jeroen Zoet,Spezia,0,0,0,0.0,0.0,0.0,7,2122
+Luca Vignali,Spezia,0,0,0,0.0,0.0,0.0,2,2122
+Martín Satriano,Inter,0,0,0,0.0,0.0,0.0,4,2122
+Vedat Muriqi,Lazio,0,0,0,0.0,0.0,0.0,11,2122
+Nicola Zalewski,Roma,0,0,0,0.0,0.0,0.0,16,2122
+Ardian Ismajli,Empoli,0,0,0,0.0,0.0,0.0,20,2122
+Mihai Valentin Mihaila,Atalanta,0,0,0,0.0,0.0,0.0,5,2122
+Riccardo Ciervo,Sampdoria,0,0,0,0.0,0.0,0.0,10,2122
+Ebenezer Annan,Bologna,0,0,0,0.0,0.0,0.0,1,2122
+Bryan Reynolds,Roma,0,0,0,0.0,0.0,0.0,1,2122
+Luca Stanga,AC Milan,0,0,0,0.0,0.0,0.0,1,2122
+Wisdom Amey,Bologna,0,0,0,0.0,0.0,0.0,1,2122
+Kacper Urbanski,Bologna,0,0,0,0.0,0.0,0.0,1,2122
+Antonio Raimondo,Bologna,0,0,0,0.0,0.0,0.0,1,2122
+Nicolò Bertola,Spezia,0,0,0,0.0,0.0,0.0,2,2122
+Laurens Serpe,Genoa,0,0,0,0.0,0.0,0.0,1,2122
+Aleksander Buksa,Genoa,0,0,0,0.0,0.0,0.0,4,2122
+Magnus Warming,Torino,0,0,0,0.0,0.0,0.0,4,2122
+Mattia Viti,Empoli,0,0,0,0.0,0.0,0.0,20,2122
+Sydney van Hooijdonk,Bologna,0,0,0,0.0,0.0,0.0,4,2122
+Luka Bogdan,Salernitana,0,0,0,0.0,0.0,0.0,6,2122
+Ramzi Aya,Salernitana,0,0,0,0.0,0.0,0.0,2,2122
+Julian Kristoffersen,Salernitana,0,0,0,0.0,0.0,0.0,1,2122
+Kaio Jorge,Juventus,0,0,0,0.0,0.0,0.0,9,2122
+Alessandro Zanoli,Napoli,0,0,0,0.0,0.0,0.0,12,2122
+Tyronne Ebuehi,Venezia,0,0,0,0.0,0.0,0.0,19,2122
+Luca Fiordilino,Venezia,0,0,0,0.0,0.0,0.0,15,2122
+Francesco Di Mariano,Venezia,0,0,0,0.0,0.0,0.0,1,2122
+Tanner Tessmann,Venezia,0,0,0,0.0,0.0,0.0,20,2122
+Nicolas Galazzi,Venezia,0,0,0,0.0,0.0,0.0,1,2122
+Michael Svoboda,Venezia,0,0,0,0.0,0.0,0.0,18,2122
+David Schnegg,Venezia,0,0,0,0.0,0.0,0.0,4,2122
+Bjarki Steinn Bjarkason,Venezia,0,0,0,0.0,0.0,0.0,1,2122
+Petar Zovko,Spezia,0,0,0,0.0,0.0,0.0,1,2122
+Marco Modolo,Venezia,0,0,0,0.0,0.0,0.0,6,2122
+Luis Binks,Bologna,0,0,0,0.0,0.0,0.0,15,2122
+Francesco Di Tacchio,Salernitana,0,0,0,0.0,0.0,0.0,18,2122
+Tommaso Baldanzi,Empoli,0,0,0,0.0,0.0,0.0,1,2122
+Matìas Soulè Malvano,Juventus,0,0,0,0.0,0.0,0.0,2,2122
+Fabio Miretti,Juventus,0,0,0,0.0,0.0,0.0,6,2122
+Abdou Harroui,Sassuolo,0,0,0,0.0,0.0,0.0,22,2122
+Jakub Kiwior,Spezia,0,0,0,0.0,0.0,0.0,22,2122
+Pablo Galdames,Genoa,0,0,0,0.0,0.0,0.0,19,2122
+Nicola Bagnolini,Bologna,0,0,0,0.0,0.0,0.0,1,2122
+Aimar Sher,Spezia,0,0,0,0.0,0.0,0.0,1,2122
+Gerard Yepes,Sampdoria,0,0,0,0.0,0.0,0.0,4,2122
+Adam Obert,Cagliari,0,0,0,0.0,0.0,0.0,6,2122
+Niklas Pyyhtia,Bologna,0,0,0,0.0,0.0,0.0,1,2122
+Aurélien Nguiamba,Spezia,0,0,0,0.0,0.0,0.0,3,2122
+Filippo Distefano,Fiorentina,0,0,0,0.0,0.0,0.0,1,2122
+Mattia Zanotti,Inter,0,0,0,0.0,0.0,0.0,1,2122
+Diego Coppola,Verona,0,0,0,0.0,0.0,0.0,4,2122
+Ruan,Sassuolo,0,0,0,0.0,0.0,0.0,10,2122
+Silvan Hefti,Genoa,0,0,0,0.0,0.0,0.0,16,2122
+Leo Østigard,Genoa,0,0,0,0.0,0.0,0.0,15,2122
+Giorgio Cittadini,Atalanta,0,0,0,0.0,0.0,0.0,2,2122
+Alessandro Russo,Salernitana,0,0,0,0.0,0.0,0.0,1,2122
+Andrei Motoc,Salernitana,0,0,0,0.0,0.0,0.0,1,2122
+Mario Perrone,Salernitana,0,0,0,0.0,0.0,0.0,1,2122
+Riccardo Stivanello,Bologna,0,0,0,0.0,0.0,0.0,1,2122
+Riccardo Pinzi,Udinese,0,0,0,0.0,0.0,0.0,1,2122
+Dimitrios Keramitsis,Roma,0,0,0,0.0,0.0,0.0,1,2122
+Maximilian Ullmann,Venezia,0,0,0,0.0,0.0,0.0,5,2122
+Issa Bah,Venezia,0,0,0,0.0,0.0,0.0,1,2122
+Alasanne Sidibe,Atalanta,0,0,0,0.0,0.0,0.0,1,2122
+Tommaso De Nipoti,Atalanta,0,0,0,0.0,0.0,0.0,1,2122
+Christos Kourfalidis,Cagliari,0,0,0,0.0,0.0,0.0,2,2122
+Morten Frendrup,Genoa,0,0,0,0.0,0.0,0.0,10,2122
+Michel Aebischer,Bologna,0,0,0,0.0,0.0,0.0,12,2122
+Denso Kasius,Bologna,0,0,0,0.0,0.0,0.0,7,2122
+Liberato Cacace,Empoli,0,0,0,0.0,0.0,0.0,10,2122
+Vladyslav Supryaha,Sampdoria,0,0,0,0.0,0.0,0.0,1,2122
+Emil Ceïde,Sassuolo,0,0,0,0.0,0.0,0.0,6,2122
+Demba Seck,Torino,0,0,0,0.0,0.0,0.0,6,2122
+Mateusz Praszelik,Verona,0,0,0,0.0,0.0,0.0,2,2122
+Mikael,Salernitana,0,0,0,0.0,0.0,0.0,7,2122
+Dimitrije Kamenovic,Lazio,0,0,0,0.0,0.0,0.0,1,2122
+Simone Pafundi,Udinese,0,0,0,0.0,0.0,0.0,1,2122
+Patrick Leal,Venezia,0,0,0,0.0,0.0,0.0,1,2122
+Hilmir Rafn Mikaelsson,Venezia,0,0,0,0.0,0.0,0.0,1,2122
