@@ -36,7 +36,7 @@ jobs:
         id: pipeline
         run: |
           echo "Running full data pipeline at $(date)"
-          python main.py 2>&1 | tee logs/pipeline_run.log
+          python -m src.main 2>&1 | tee logs/pipeline_run.log
           echo "exit_code=$?" >> $GITHUB_OUTPUT
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}

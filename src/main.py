@@ -1,10 +1,10 @@
 import os
 import pandas as pd
 
-from scraper import main as run_scraper
-from analysis import analyze_league, save_league_results, get_latest_standings
-from understat_scraper import calculate_contributions, save_player_results
-from config import (
+from src.scraper import main as run_scraper
+from src.analysis import analyze_league, save_league_results, get_latest_standings
+from src.understat_scraper import calculate_contributions, save_player_results
+from src.config import (
     LEAGUE_KEYS,
     LEAGUES,
     DATA_DIR,
@@ -12,7 +12,7 @@ from config import (
     CURRENT_SEASON,
     SEASONS,
 )
-from database import update_player_stats, update_team_stats
+from src.database import update_player_stats, update_team_stats
 
 def main():
     print("="*60)

@@ -35,7 +35,7 @@ fi
     echo "====================================================="
 
     # Run the main orchestrator
-    "$PYTHON_BIN" main.py
+    "$PYTHON_BIN" -m src.main
 
     if [ $? -eq 0 ]; then
         echo "✓ Pipeline executed successfully"

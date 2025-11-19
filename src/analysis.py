@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import os
-from config import LEAGUES, LEAGUE_KEYS, DATA_DIR
+from src.config import LEAGUES, LEAGUE_KEYS, DATA_DIR
 
 
 def calculate_points_home(df):

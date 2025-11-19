@@ -5,8 +5,7 @@ import unicodedata
 import html
 import os
 import pandas as pd
-
-from config import (
+from src.config import (
     LEAGUES,
     LEAGUE_KEYS,
     UNDERSTAT_BASE_URL,

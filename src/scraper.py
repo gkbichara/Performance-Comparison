@@ -1,6 +1,6 @@
 import requests
 import os
-from config import LEAGUES, LEAGUE_KEYS, SEASONS, FBDATA_BASE_URL, DATA_DIR
+from src.config import LEAGUES, LEAGUE_KEYS, SEASONS, FBDATA_BASE_URL, DATA_DIR
 
 
 def download_league_data(league_key, season):
