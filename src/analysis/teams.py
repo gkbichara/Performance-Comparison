@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import os
-from src.config import LEAGUES, LEAGUE_KEYS, DATA_DIR
+from src.config import LEAGUES, SEASONS, LEAGUE_KEYS, DATA_DIR, CURRENT_SEASON
 
 
 def calculate_points_home(df):
@@ -56,7 +56,7 @@ def compare_seasons(cur_season_df, prev_season_df, team_name):
         team_name: Name of the team to analyze
         
     Returns:
-        DataFrame with comparison results including differentials and cumulative
+        DataFrame with comparison results including differentials and cumulative totals
     """
     # Filter for this team
     cur_team = cur_season_df[(cur_season_df['HomeTeam'] == team_name) | 
@@ -177,7 +177,7 @@ def get_latest_standings(league_comparison_df):
     return latest[['Rank', 'Team', 'Cumulative']]
 
 
-def save_league_results(league_comparison_df, league_folder):
+def save_league_results(league_comparison_df, league_folder, season):
     """
     Save league comparison results to CSV.
     
@@ -185,15 +185,21 @@ def save_league_results(league_comparison_df, league_folder):
         league_comparison_df: DataFrame from analyze_league()
         league_folder: Path to league folder (e.g., 'data/serie_a')
     """
-    output_path = os.path.join(league_folder, 'results.csv')
+    output_path = os.path.join(league_folder, f"results_{season}.csv")
     
     # Select and order columns nicely
-    columns = ['Team', 'Match_Number', 'Date', 'Opponent', 'Venue', 'Result',
+    columns = ['Season', 'Team', 'Match_Number', 'Date', 'Opponent', 'Venue', 'Result',
                'FTHG', 'FTAG', 'Points_cur', 'Points_prev', 'Differential', 'Cumulative']
     
     # Save to CSV
     league_comparison_df[columns].to_csv(output_path, index=False)
     print(f"✓ Saved results to {output_path}")
+
+    # Keep a canonical "current season" file for convenience
+    if season == CURRENT_SEASON:
+        alias_path = os.path.join(league_folder, "results.csv")
+        league_comparison_df[columns].to_csv(alias_path, index=False)
+        print(f"   ↳ Updated {alias_path}")
 
 
 def main():
@@ -201,36 +207,37 @@ def main():
     print("=" * 60)
     print("FOOTBALL PERFORMANCE COMPARISON - SEASON DIFFERENTIALS")
     print("=" * 60)
-    
-    for idx, league_key in enumerate(LEAGUE_KEYS, 1):
-        league_info = LEAGUES[league_key]
-        display_name = league_info['display_name']
-        folder = league_info['folder']
-        league_path = os.path.join(DATA_DIR, folder)
-        
-        print(f"\n[{idx}/{len(LEAGUE_KEYS)}] Analyzing {display_name}...")
-        
-        try:
-            # Load data
-            prev = pd.read_csv(f'{league_path}/2425.csv')
-            cur = pd.read_csv(f'{league_path}/2526.csv')
-            
-            # Analyze and save
+
+    for season_idx in range(1, len(SEASONS)):
+        prev_season = SEASONS[season_idx - 1]
+        cur_season = SEASONS[season_idx]
+        print(f"\n=== Season comparison: {prev_season} → {cur_season} ===")
+
+        for idx, league_key in enumerate(LEAGUE_KEYS, 1):
+            league_info = LEAGUES[league_key]
+            display_name = league_info['display_name']
+            folder = league_info['folder']
+            league_path = os.path.join(DATA_DIR, folder)
+
+            print(f"\n[{idx}/{len(LEAGUE_KEYS)}] {display_name}")
+
+            try:
+                prev = pd.read_csv(os.path.join(league_path, f"{prev_season}.csv"))
+                cur = pd.read_csv(os.path.join(league_path, f"{cur_season}.csv"))
+            except FileNotFoundError:
+                print(f"   ⚠ Skipped: Missing CSV files for {display_name} ({prev_season}/{cur_season})")
+                continue
+
             results = analyze_league(cur, prev)
-            save_league_results(results, league_path)
-            
-            # Show summary
+            results['Season'] = cur_season
+            save_league_results(results, league_path, cur_season)
+
             standings = get_latest_standings(results)
             print(f"   Top: {standings.iloc[0]['Team']} ({standings.iloc[0]['Cumulative']:+.0f})")
             print(f"   Bottom: {standings.iloc[-1]['Team']} ({standings.iloc[-1]['Cumulative']:+.0f})")
-            
-        except FileNotFoundError as e:
-            print(f"   ⚠ Skipped: Data files not found")
-        except Exception as e:
-            print(f"   ✗ Error: {e}")
-    
+
     print("\n" + "=" * 60)
-    print("Analysis complete! Results saved to data/[League]/results.csv")
+    print("Analysis complete! Results saved to data/[League]/results_<season>.csv (plus results.csv for the current season)")
     print("=" * 60)
 
 
