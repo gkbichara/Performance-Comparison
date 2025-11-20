@@ -27,9 +27,7 @@ For each team and gameweek:
 1. **Match equivalence:** Find this season’s fixtures that have an exact equivalent last season (same opponent + same venue).
 2. **Compute points:** Assign 3/1/0 for win/draw/loss for both seasons.
 3. **Per-fixture differential:**  
-   \[
-   \text{Differential} = \text{Points}_{25/26} - \text{Points}_{24/25}
-   \]
+   `differential = points_current_season − points_previous_season`
 4. **Cumulative differential:** Track the running total through each gameweek.
 5. **League-wide view:** Identify biggest over- and underperformers week by week.
 
@@ -57,10 +55,15 @@ gaffers-notebook/
 │   ├── __init__.py
 │   ├── main.py              # Pipeline orchestrator
 │   ├── config.py            # Centralized configuration (leagues, paths, constants)
-│   ├── analysis.py          # YoY team performance analysis
-│   ├── scraper.py           # Data fetching from football-data.co.uk
-│   ├── understat_scraper.py # Player contribution analysis (Understat)
-│   └── database.py          # Supabase upload helpers
+│   ├── database.py          # Supabase upload helpers
+│   ├── scrapers/            # Data Extraction
+│   │   ├── __init__.py
+│   │   ├── matches.py       # Data fetching from football-data.co.uk
+│   │   └── understat.py     # Raw data fetching from Understat
+│   └── analysis/            # Data Transformation & Logic
+│       ├── __init__.py
+│       ├── teams.py         # YoY team performance logic
+│       └── players.py       # Player contribution calculation
 ├── data/
 │   ├── serie_a/
 │   │   ├── 2425.csv           # Historical season data
@@ -107,7 +110,7 @@ This ensures:
 **Player Statistics:** [Understat.com](https://understat.com/)
 
 The pipeline automatically:
-- Fetches latest data via `scraper.py`
+- Fetches latest data via `src.scrapers`
 - Computes points for both home and away sides (W=3, D=1, L=0)
 - Matches equivalent fixtures (same opponent + venue)
 - Excludes promoted/relegated teams to ensure fair comparisons
@@ -117,10 +120,11 @@ The pipeline automatically:
 
 ## 🧮 Outputs
 
-Each league produces a `results.csv` file in `data/[League]/` containing:
+Each league produces per-season `results_<season>.csv` files in `data/[League]/` (and a `results.csv` alias that always points to the current season) containing:
 
 | Column | Description |
 |--------|-------------|
+| `Season` | Season code (e.g., 2526) |
 | `Team` | Team name |
 | `Match_Number` | Sequential match number (1, 2, 3...) |
 | `Date` | Match date |
@@ -213,8 +217,8 @@ Common developer tasks are wrapped in a Makefile:
 ```bash
 make setup    # upgrade pip + install requirements
 make run      # python -m src.main
-make scrape   # python -m src.scraper
-make analyze  # python -m src.analysis
+make scrape   # python -m src.scrapers.matches
+make analyze  # python -m src.analysis.teams
 make lint     # ruff check src
 make format   # black src
 ```
@@ -237,13 +241,13 @@ This runs the complete pipeline:
 
 ```bash
 # Just scrape team data
-python -m src.scraper
+python -m src.scrapers.matches
 
 # Just run YoY team analysis
-python -m src.analysis
+python -m src.analysis.teams
 
 # Just analyze player contributions
-python -m src.understat_scraper
+python -m src.scrapers.understat
 ```
 
 Output:
@@ -328,7 +332,7 @@ For local automation, use the included cron job setup:
 crontab -e
 
 # Add schedule (example: Mon & Thu at 9 AM)
-0 9 * * 1,4 /Users/gkb/Desktop/Performance-Comparison/run_update.sh
+0 9 * * 1,4 /Users/gkb/Desktop/gaffers-notebook/run_update.sh
 ```
 
 **Check Logs:**
@@ -355,7 +359,7 @@ The `run_update.sh` script:
 | League | Best Team | Differential | Worst Team | Differential |
 |--------|-----------|-------------|------------|-------------|
 | 🇮🇹 Serie A | Cagliari | +5 | Fiorentina | -7 |
-| 🏴 Premier League | Bournemouth | +8 | Brighton | -9 |
+| 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League | Bournemouth | +8 | Brighton | -9 |
 | 🇪🇸 La Liga | Espanol | +6 | Celta | -7 |
 | 🇩🇪 Bundesliga | Stuttgart | +8 | Freiburg | -7 |
 | 🇫🇷 Ligue 1 | Lyon | +6 | Nantes | -5 |
