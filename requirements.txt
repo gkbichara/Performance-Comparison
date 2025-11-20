@@ -88,3 +88,4 @@ wsproto==1.2.0
 yarl==1.22.0
 black==24.10.0
 ruff==0.7.0
+pytest==8.3.2
