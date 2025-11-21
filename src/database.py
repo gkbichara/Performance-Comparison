@@ -31,7 +31,19 @@ def update_player_stats(league_key, season, player_data_list):
     
     # Prepare data for Supabase (match columns to SQL table)
     records = []
+    # Use a set to track unique keys for deduplication within the batch
+    seen_keys = set()
+    
     for p in player_data_list:
+        # Create a unique key tuple based on the DB constraint
+        unique_key = (p['player'], p['team'], league_key, season)
+        
+        if unique_key in seen_keys:
+            # Skip duplicates in the same payload
+            continue
+            
+        seen_keys.add(unique_key)
+        
         record = {
             "league": league_key,
             "season": season,
@@ -51,6 +63,8 @@ def update_player_stats(league_key, season, player_data_list):
     # Perform Upsert
     # on_conflict matches the UNIQUE constraint we created in SQL
     try:
+        # Supabase might still choke on a large batch if there are hidden duplicates,
+        # but the python-side dedup should solve 99% of cases.
         response = client.table("player_stats").upsert(records, on_conflict="player_name, team, league, season").execute()
         print(f"   ✓ Uploaded {len(records)} records to Supabase")
         return True

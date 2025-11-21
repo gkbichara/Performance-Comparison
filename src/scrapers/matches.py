@@ -1,6 +1,6 @@
 import requests
 import os
-from src.config import LEAGUES, LEAGUE_KEYS, SEASONS, FBDATA_BASE_URL, DATA_DIR
+from src.config import LEAGUES, LEAGUE_KEYS, SEASONS, FBDATA_BASE_URL, DATA_DIR, CURRENT_SEASON
 
 
 def download_league_data(league_key, season):
@@ -43,19 +43,28 @@ def download_league_data(league_key, season):
         return False
 
 
-def main():
-    """Download all league data for all seasons."""
+def main(seasons_to_scrape=None):
+    """
+    Download league data.
+    
+    Args:
+        seasons_to_scrape (list): Optional list of seasons to download. 
+                                  Defaults to CURRENT_SEASON only.
+    """
+    if seasons_to_scrape is None:
+        seasons_to_scrape = [CURRENT_SEASON]
+
     print("=" * 50)
     print("Football Data Scraper")
     print("=" * 50)
     
-    total_downloads = len(LEAGUE_KEYS) * len(SEASONS)
+    total_downloads = len(LEAGUE_KEYS) * len(seasons_to_scrape)
     successful = 0
     
     for league_key in LEAGUE_KEYS:
         display_name = LEAGUES[league_key]['display_name']
         print(f"\n{display_name}:")
-        for season in SEASONS:
+        for season in seasons_to_scrape:
             if download_league_data(league_key, season):
                 successful += 1
     
@@ -65,6 +74,9 @@ def main():
     
     return successful == total_downloads
 
+def scrape_all_history():
+    """Helper to scrape ALL historical seasons (for setup)."""
+    return main(seasons_to_scrape=SEASONS)
 
 if __name__ == "__main__":
     main()
