@@ -553,6 +553,120 @@ def get_xg_matches(league=None, season=None, team=None):
     return pd.DataFrame(all_data)
 
 
+def upload_upcoming_fixtures(fixtures):
+    """Upload upcoming fixtures to Supabase (replaces existing for same league/season)."""
+    client = get_db()
+    
+    if not fixtures:
+        return True
+    
+    records = []
+    seen_keys = set()
+    
+    for f in fixtures:
+        unique_key = (f['league'], f['season'], f['home_team'], f['away_team'])
+        if unique_key in seen_keys:
+            continue
+        seen_keys.add(unique_key)
+        
+        records.append({
+            'league': f['league'],
+            'season': f['season'],
+            'home_team': f['home_team'],
+            'away_team': f['away_team'],
+            'match_date': f['match_date'],
+        })
+    
+    try:
+        chunk_size = 500
+        for i in range(0, len(records), chunk_size):
+            chunk = records[i:i + chunk_size]
+            client.table("upcoming_fixtures").upsert(
+                chunk,
+                on_conflict="league, season, home_team, away_team"
+            ).execute()
+        
+        print(f"   ✓ Uploaded {len(records)} upcoming fixtures to Supabase")
+        return True
+    except Exception as e:
+        print(f"   ✗ Upcoming Fixtures Upload Failed: {e}")
+        return False
+
+
+def get_upcoming_fixtures(league=None, season=None):
+    """Query upcoming fixtures from Supabase."""
+    client = get_db()
+    
+    query = client.table("upcoming_fixtures").select("*")
+    
+    if league:
+        query = query.eq("league", league)
+    if season:
+        query = query.eq("season", season)
+    
+    query = query.order("match_date")
+    response = query.execute()
+    
+    return pd.DataFrame(response.data)
+
+
+def upload_predictions(predictions):
+    """Upload match predictions to Supabase."""
+    client = get_db()
+    
+    if not predictions:
+        return True
+    
+    records = []
+    for p in predictions:
+        record = {
+            'league': p['league'],
+            'season': p['season'],
+            'home_team': p['home_team'],
+            'away_team': p['away_team'],
+            'match_date': p['match_date'],
+            'predicted_result': p['predicted_result'],
+            'home_win_prob': round(p['home_win_prob'], 4),
+            'draw_prob': round(p['draw_prob'], 4),
+            'away_win_prob': round(p['away_win_prob'], 4),
+            'model_accuracy': round(p.get('model_accuracy', 0), 4),
+            'low_confidence': p.get('low_confidence', False),
+        }
+        records.append(record)
+    
+    try:
+        chunk_size = 500
+        for i in range(0, len(records), chunk_size):
+            chunk = records[i:i + chunk_size]
+            client.table("predictions").upsert(
+                chunk,
+                on_conflict="league, season, match_date, home_team, away_team"
+            ).execute()
+        
+        print(f"   ✓ Uploaded {len(records)} predictions to Supabase")
+        return True
+    except Exception as e:
+        print(f"   ✗ Predictions Upload Failed: {e}")
+        return False
+
+
+def get_predictions(league=None, season=None):
+    """Query predictions from Supabase."""
+    client = get_db()
+    
+    query = client.table("predictions").select("*")
+    
+    if league:
+        query = query.eq("league", league)
+    if season:
+        query = query.eq("season", season)
+    
+    query = query.order("match_date")
+    response = query.execute()
+    
+    return pd.DataFrame(response.data)
+
+
 def get_player_stats(league=None, season=None):
     """Query player stats from Supabase with pagination."""
     client = get_db()

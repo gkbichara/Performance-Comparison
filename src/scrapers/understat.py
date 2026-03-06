@@ -302,6 +302,42 @@ def get_team_match_xg(league_key, season_code):
     return records
 
 
+def get_upcoming_fixtures(league_key, season_code):
+    """
+    Extract upcoming (unplayed) fixtures from Understat's API.
+    
+    Returns:
+        list: List of dicts with {league, season, home_team, away_team, match_date}
+    """
+    api_data = get_league_data_api(league_key, season_code)
+    
+    if not api_data or 'dates' not in api_data:
+        print(f"No data returned for {league_key} {season_code}")
+        return []
+    
+    dates_data = api_data['dates']
+    
+    fixtures = []
+    for match in dates_data:
+        if match.get('isResult'):
+            continue
+        
+        home_team = html.unescape(match['h']['title'])
+        away_team = html.unescape(match['a']['title'])
+        match_datetime = match['datetime']
+        
+        fixtures.append({
+            'league': league_key,
+            'season': season_code,
+            'home_team': home_team,
+            'away_team': away_team,
+            'match_date': match_datetime,
+        })
+    
+    print(f"Found {len(fixtures)} upcoming fixtures for {league_key} {season_code}")
+    return fixtures
+
+
 # Legacy function for backwards compatibility
 def get_matches_data(league_key, season_code):
     """Get match-level data from Understat's datesData (legacy approach)."""
