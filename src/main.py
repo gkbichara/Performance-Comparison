@@ -115,6 +115,16 @@ def main(full_backfill=False):
     except Exception as e:
         print(f"xG scraper failed: {e}")
     
+    # Step 5: Generate match predictions
+    print("\n[5/5] Generating match predictions...")
+    try:
+        from src.analysis.predictions import run_predictions_pipeline
+        run_predictions_pipeline()
+    except Exception as e:
+        print(f"Predictions failed: {e}")
+        import traceback
+        traceback.print_exc()
+    
     print("\n" + "="*60)
     print("Pipeline complete!")
     print("="*60)
